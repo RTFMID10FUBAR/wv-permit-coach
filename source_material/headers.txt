@@ -1,0 +1,55 @@
+HTTP/2 301 
+cache-control: max-age=2764800, public
+content-language: en
+content-type: text/html; charset=utf-8
+etag: "1789148976"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Fri, 11 Sep 2026 17:49:36 GMT
+location: https://dmv.wv.gov/DMVFormSearch/Drivers_Licensing_Handbook_web.pdf
+server: nginx
+strict-transport-security: max-age=31622400; includeSubDomains; preload
+x-content-type-options: nosniff
+x-drupal-cache: HIT
+x-drupal-dynamic-cache: UNCACHEABLE (301)
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 11 (https://www.drupal.org)
+x-pantheon-styx-hostname: styx-us-a-77885d8d78-tm8zp
+x-styx-req-id: 724334a4-ae12-11f1-bac0-02d38d44208a
+age: 256756
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+date: Mon, 14 Sep 2026 18:15:23 GMT
+x-served-by: cache-chi-kigq8000166-CHI, cache-chi-klot8100073-CHI
+x-cache: HIT, MISS
+x-cache-hits: 0, 0
+x-timer: S1789409723.352991,VS0,VE9
+vary: Cookie, Cookie
+content-length: 514
+
+HTTP/2 404 
+cache-control: max-age=2764800, public
+content-language: en
+content-type: text/html; charset=utf-8
+etag: W/"1789075335"
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+last-modified: Thu, 10 Sep 2026 21:22:15 GMT
+server: nginx
+strict-transport-security: max-age=31622400; includeSubDomains; preload
+x-content-type-options: nosniff
+x-drupal-cache: MISS
+x-drupal-dynamic-cache: UNCACHEABLE (404, sub-request: HIT)
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 11 (https://www.drupal.org)
+x-pantheon-styx-hostname: styx-us-a-6cdf548c65-vch9s
+x-styx-req-id: b20ee3a4-ad5d-11f1-ad71-a2f1cc680e8c
+age: 334388
+accept-ranges: bytes
+via: 1.1 varnish, 1.1 varnish
+date: Mon, 14 Sep 2026 18:15:23 GMT
+x-served-by: cache-chi-kigq8000162-CHI, cache-chi-klot8100049-CHI
+x-cache: HIT, MISS
+x-cache-hits: 0, 0
+x-timer: S1789409724.534113,VS0,VE10
+vary: Accept-Encoding, Cookie, Cookie
+content-length: 162058
+

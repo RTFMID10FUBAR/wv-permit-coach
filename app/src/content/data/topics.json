@@ -22,5 +22,29 @@
     "order": 42,
     "blurb": "Prescription and over-the-counter drugs, and why being tired is its own impairment.",
     "examWeight": 1.0
+  },
+  {
+    "id": "vehicle-checks",
+    "title": "Checking Your Vehicle",
+    "chapter": "IX",
+    "order": 90,
+    "blurb": "Brakes, tires, lights — what to check and how, before a problem finds you.",
+    "examWeight": 0.8
+  },
+  {
+    "id": "vehicle-emergencies",
+    "title": "When Something Fails While Driving",
+    "chapter": "IX",
+    "order": 91,
+    "blurb": "Blowouts, brake failure, skids, stuck pedal, fire. The right reaction is often the opposite of instinct.",
+    "examWeight": 1.3
+  },
+  {
+    "id": "crash-duties",
+    "title": "If You Are in a Crash",
+    "chapter": "IX",
+    "order": 92,
+    "blurb": "What you must do, what you must report, and what you must exchange.",
+    "examWeight": 1.2
   }
 ]

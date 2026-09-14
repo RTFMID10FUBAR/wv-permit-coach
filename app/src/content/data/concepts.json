@@ -222,5 +222,309 @@
       "sourceQuote": "After being awake for 18 hours (time",
       "verifiedDate": "2026-09-14"
     }
+  },
+  {
+    "id": "c-brake-check",
+    "topicId": "vehicle-checks",
+    "label": "Checking the brake pedal",
+    "statement": "The brake pedal should not go more than halfway to the floor and should feel like it is hitting something hard; a spongy pedal may mean air in the brake line.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "What to Check Before Driving",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "It should not go more than halfway to the floor.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-tire-penny",
+    "topicId": "vehicle-checks",
+    "label": "The penny tread test",
+    "statement": "Put a penny into the deepest groove with Lincoln's head first — if you can see all of his head, the tires are too worn to drive on.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "What to Check Before Driving",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "Can you see all of his head?  If yes, your tires",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-tire-pressure",
+    "topicId": "vehicle-checks",
+    "label": "Checking tire pressure",
+    "statement": "Check tire pressure monthly with a gauge while the tires are cold, comparing against the PSI figure on the sticker inside the driver's door jamb.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "What to Check Before Driving",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "Check tire pressure with a gauge monthly",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-blowout",
+    "topicId": "vehicle-emergencies",
+    "label": "Surviving a blowout",
+    "statement": "In a blowout, hold the wheel tightly, steer straight ahead and ease off the accelerator — do not brake until the vehicle is under control.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Blowouts",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "hold tightly to the steering wheel, steer straight ahead, and ease up on the accelerator.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-blowout-cause",
+    "topicId": "vehicle-emergencies",
+    "label": "What causes blowouts",
+    "statement": "Under-inflated tires are one of the most common causes of blowouts.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Blowouts",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "Under-inflated tires are one of the most common causes of blowouts",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-brake-failure",
+    "topicId": "vehicle-emergencies",
+    "label": "If the brakes fail",
+    "statement": "Pump the brake pedal quickly, shift to a lower gear, warn others with horn and lights, and use the parking brake while holding the release.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Brake Failure",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Shift to a lower gear and look for a place to slow down and stop off the roadway.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-skid",
+    "topicId": "vehicle-emergencies",
+    "label": "Steering out of a skid",
+    "statement": "In a skid, take your foot off the gas and turn the steering wheel in the direction of the skid; do not brake unless you are in danger of hitting something.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Skids",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Turn your steering wheel in the direction of the skid.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-overheat",
+    "topicId": "vehicle-emergencies",
+    "label": "Overheating engine",
+    "statement": "If the engine overheats, pull off the road and turn it off — do not remove the radiator cap until the engine has cooled.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Overheating Engine",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Do not remove the radiator cap until the engine has cooled off.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-stuck-pedal",
+    "topicId": "vehicle-emergencies",
+    "label": "Stuck gas pedal",
+    "statement": "If the gas pedal sticks, keep steering and watching the road, try to free it with your foot, then push in the clutch or shift to neutral before braking to a safe stop.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Stuck Gas Pedal",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "If this does not work, push in the clutch or shift into neutral.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-off-road",
+    "topicId": "vehicle-emergencies",
+    "label": "Wheels off the pavement",
+    "statement": "If your wheels drop off the road, grip the wheel, stay on the shoulder, ease off the accelerator and slow gradually before turning back onto the pavement.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Wheels Off the Road",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Stay on the shoulder and ease off the accelerator.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-fire",
+    "topicId": "vehicle-emergencies",
+    "label": "Vehicle fire",
+    "statement": "Smother a vehicle fire with dirt or sand, never water, because burning gasoline floats on water and spreads the fire; if it gets out of control move at least 100 feet away.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Fire in Vehicle",
+      "pdfPage": 82,
+      "printedPage": 72,
+      "sourceQuote": "Do not use water because burning gasoline will float on water and spread the fire.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-headlights-fail",
+    "topicId": "vehicle-emergencies",
+    "label": "Headlight failure",
+    "statement": "If your headlights fail on a dark highway, try parking lights, turn signals or emergency flashers and get off the roadway; if all lights fail, stay on the roadway and slow down enough to pull off safely.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Headlights Fail",
+      "pdfPage": 82,
+      "printedPage": 72,
+      "sourceQuote": "If all lights fail, stay on the roadway and slow down enough",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-crash-stop",
+    "topicId": "crash-duties",
+    "label": "Stop and secure the scene",
+    "statement": "If you are involved in a crash, stop immediately, turn off the ignition to prevent fire, and protect the scene to prevent further crashes.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "If You are Involved In A Crash",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "Turn off the ignition to prevent the danger of fire.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-crash-report",
+    "topicId": "crash-duties",
+    "label": "Reporting a crash",
+    "statement": "A crash causing injury or death, or property damage of $1,000 or more, must be reported to the nearest law enforcement agency.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "If You are Involved In A Crash",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "you must notify the nearest law enforcement agency.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-crash-exchange",
+    "topicId": "crash-duties",
+    "label": "Information to exchange",
+    "statement": "Drivers involved in a crash should exchange name, address, license plate number and motor vehicle insurance information.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "If You are Involved In A Crash",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "The following information should be exchanged by persons involved in traffic crashes",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-unattended",
+    "topicId": "crash-duties",
+    "label": "Striking an unattended vehicle",
+    "statement": "If you strike an unattended vehicle, try to find the owner; if you cannot, leave a written notice with your name, address, plate number, insurance information and the circumstances.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Important Crash Rule",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "If you strike an unattended vehicle, try to locate",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-dont-stop",
+    "topicId": "crash-duties",
+    "label": "Do not stop at other crashes",
+    "statement": "Do not stop at a crash scene unless you are involved or can render assistance — unnecessary stopping creates additional hazards.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Important Crash Rule",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "Do not stop at a crash scene unless you are",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-first-aid-order",
+    "topicId": "crash-duties",
+    "label": "First aid priority order",
+    "statement": "Give first aid in this order: control bleeding, restore breathing, treat for shock, protect broken bones — and do not move the victim unless there is danger of further injury.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "First Aid",
+      "pdfPage": 83,
+      "printedPage": 73,
+      "sourceQuote": "Stay calm and do not move the victim unless there is danger of further injury.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-good-samaritan",
+    "topicId": "crash-duties",
+    "label": "Good Samaritan law",
+    "statement": "Anyone who in good faith gives emergency care at a crash scene without pay is not liable for civil damages for any act or omission in giving that care.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Good Samaritan Law",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "care at the scene of a crash, without pay, is liable for any civil damages",
+      "verifiedDate": "2026-09-14"
+    }
   }
 ]

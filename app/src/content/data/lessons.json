@@ -155,5 +155,180 @@
       "c-drowsy"
     ],
     "estimatedMinutes": 4
+  },
+  {
+    "id": "l-vehicle-checks",
+    "topicId": "vehicle-checks",
+    "title": "Checking Your Vehicle Before It Fails",
+    "rules": [
+      {
+        "text": "The brake pedal should not go more than halfway to the floor, and should feel like it is hitting something hard.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "IX",
+          "chapterTitle": "Emergency Situations",
+          "section": "What to Check Before Driving",
+          "pdfPage": 80,
+          "printedPage": 70,
+          "sourceQuote": "It should not go more than halfway to the floor.",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Check tire pressure monthly with a gauge, while the tires are cold, against the PSI on the door jamb sticker.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "IX",
+          "chapterTitle": "Emergency Situations",
+          "section": "What to Check Before Driving",
+          "pdfPage": 80,
+          "printedPage": 70,
+          "sourceQuote": "Check tire pressure with a gauge monthly",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Test tread with a penny, head first into the deepest groove. If you can see all of Lincoln's head, the tires are too worn to drive on.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "IX",
+          "chapterTitle": "Emergency Situations",
+          "section": "What to Check Before Driving",
+          "pdfPage": 80,
+          "printedPage": 70,
+          "sourceQuote": "Can you see all of his head?  If yes, your tires",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "Most roadside emergencies announce themselves beforehand if anyone is checking. A brake pedal that sinks past halfway, or feels soft instead of firm, is telling you there is air or a leak in the system. Tires that are low on air or tread are the ones that blow out. None of these checks need tools beyond a tire gauge and a penny.",
+    "whyItMatters": "The handbook puts vehicle checks at the start of the emergency chapter for a reason: the cheapest way to handle a blowout or brake failure is to find the problem in a driveway instead of at 55 mph. Under-inflated tires are specifically named as one of the most common causes of blowouts.",
+    "example": "Once a month you press the brake pedal before starting off and it feels firm and stops well short of halfway. You check the four tires cold with a gauge against the number on the door jamb sticker, and drop a penny into the tread. Two minutes, and you have ruled out the two failures most likely to put you off the road.",
+    "conceptIds": [
+      "c-brake-check",
+      "c-tire-penny",
+      "c-tire-pressure"
+    ],
+    "estimatedMinutes": 4
+  },
+  {
+    "id": "l-vehicle-emergencies",
+    "topicId": "vehicle-emergencies",
+    "title": "When Something Fails at Speed",
+    "rules": [
+      {
+        "text": "Blowout: hold the wheel tightly, steer straight ahead, ease off the accelerator, and do not brake until the vehicle is under control.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "IX",
+          "chapterTitle": "Emergency Situations",
+          "section": "Blowouts",
+          "pdfPage": 80,
+          "printedPage": 70,
+          "sourceQuote": "Do not brake until the vehicle is under control.",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Skid: take your foot off the gas and turn the wheel in the direction of the skid. Do not brake unless you are in danger of hitting something.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "IX",
+          "chapterTitle": "Emergency Situations",
+          "section": "Skids",
+          "pdfPage": 81,
+          "printedPage": 71,
+          "sourceQuote": "Do not use your brakes unless you are in danger of hitting",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Fire: smother it with dirt or sand, never water, and move at least 100 feet away if it gets out of control.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "IX",
+          "chapterTitle": "Emergency Situations",
+          "section": "Fire in Vehicle",
+          "pdfPage": 82,
+          "printedPage": 72,
+          "sourceQuote": "move at least 100 feet away from the vehicle since the gas tank may explode.",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "In almost every sudden failure, the instinct is to hit the brakes — and in most of them, braking first is the wrong move. A blowout has already made the car unstable; braking makes it worse, so you steer straight and let it slow itself before you brake. In a skid, braking locks you into the slide; you lift off the gas and steer where you want to go. The pattern to remember is: get control first, then slow down.",
+    "whyItMatters": "These are the situations where you get one attempt and no time to think it through. The handbook's instructions are counter-intuitive on purpose, which is exactly why they have to be learned in advance rather than worked out at the time.",
+    "example": "Your right front tire blows on a 55 mph road. The car pulls hard right. You grip the wheel firmly, steer straight rather than yanking left, and lift off the accelerator without touching the brake. As the car slows and steadies, you brake gently and pull all the way off into a safe area.",
+    "conceptIds": [
+      "c-blowout",
+      "c-blowout-cause",
+      "c-brake-failure",
+      "c-skid",
+      "c-overheat",
+      "c-stuck-pedal",
+      "c-off-road",
+      "c-fire",
+      "c-headlights-fail"
+    ],
+    "estimatedMinutes": 8
+  },
+  {
+    "id": "l-crash-duties",
+    "topicId": "crash-duties",
+    "title": "Your Duties at a Crash",
+    "rules": [
+      {
+        "text": "Stop immediately, turn off the ignition to prevent fire, and protect the scene to prevent further crashes.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "IX",
+          "chapterTitle": "Emergency Situations",
+          "section": "If You are Involved In A Crash",
+          "pdfPage": 84,
+          "printedPage": 74,
+          "sourceQuote": "Turn off the ignition to prevent the danger of fire.",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Report a crash involving injury, death, or property damage of $1,000 or more to the nearest law enforcement agency.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "IX",
+          "chapterTitle": "Emergency Situations",
+          "section": "If You are Involved In A Crash",
+          "pdfPage": 84,
+          "printedPage": 74,
+          "sourceQuote": "you must notify the nearest law enforcement agency.",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Do not move an injured person unless absolutely necessary; give first aid in the order bleeding, breathing, shock, broken bones.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "IX",
+          "chapterTitle": "Emergency Situations",
+          "section": "First Aid",
+          "pdfPage": 83,
+          "printedPage": 73,
+          "sourceQuote": "Stay calm and do not move the victim unless there is danger of further injury.",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "Your duties run in order: stop, make the scene safe, help the injured, then deal with paperwork. Turning off the ignition is first because fire is the danger that turns a survivable crash into a fatal one. Moving an injured person is the most common well-meant mistake — unless they are in danger where they lie, leave them and send for help. Then exchange name, address, plate number and insurance details, and report it if anyone was hurt or damage reaches $1,000.",
+    "whyItMatters": "Failing to report a qualifying crash or leaving without exchanging information is not a paperwork slip; it is an offence. And the Good Samaritan law exists so that fear of being sued is not a reason to stand back — someone giving emergency care in good faith, without pay, is not liable for civil damages.",
+    "example": "You rear-end someone at a light. Nobody seems hurt, but both bumpers are wrecked and a repair will clearly run past $1,000. You stop, switch off the ignition, check on the other driver, exchange name, address, plate number and insurance, and call the nearest law enforcement agency because the damage crosses the reporting threshold.",
+    "conceptIds": [
+      "c-crash-stop",
+      "c-crash-report",
+      "c-crash-exchange",
+      "c-unattended",
+      "c-dont-stop",
+      "c-first-aid-order",
+      "c-good-samaritan"
+    ],
+    "estimatedMinutes": 6
   }
 ]

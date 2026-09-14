@@ -754,5 +754,1031 @@
       "sourceQuote": "varies), driving skills are comparable to someone under the influence of drugs or",
       "verifiedDate": "2026-09-14"
     }
+  },
+  {
+    "id": "q-em-001",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Blowouts",
+    "conceptId": "c-blowout",
+    "question": "Your tire blows out at highway speed. What should you do first?",
+    "choices": [
+      "Hold the wheel tightly, steer straight ahead, and ease up on the accelerator",
+      "Brake hard immediately to slow down as fast as possible",
+      "Steer sharply onto the shoulder straight away",
+      "Pull the parking brake to stop the vehicle quickly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A blowout has already upset the car's balance, and braking makes it worse. The handbook says to hold tightly to the steering wheel, steer straight ahead and ease up on the accelerator, and not to brake until the vehicle is under control. Only then pull all the way off the road.",
+    "questionType": "scenario",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Blowouts",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "hold tightly to the steering wheel, steer straight ahead, and ease up on the accelerator.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-002",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Blowouts",
+    "conceptId": "c-blowout",
+    "question": "When may you brake after a blowout?",
+    "choices": [
+      "Not until the vehicle is under control",
+      "Immediately, as hard as possible",
+      "Only once you have already left the roadway",
+      "Only after shifting into neutral"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook is explicit: do not brake until the vehicle is under control. Braking while the car is still unstable from a blown tire can turn a recoverable situation into a loss of control. Get it straight and slowed first, then brake and pull off.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Blowouts",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "Do not brake until the vehicle is under control.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-003",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Blowouts",
+    "conceptId": "c-blowout-cause",
+    "question": "What does the handbook name as one of the most common causes of blowouts?",
+    "choices": [
+      "Under-inflated tires",
+      "Driving with the windows down at speed",
+      "Braking too gently",
+      "Overfilled engine oil"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Under-inflated tires are specifically named as one of the most common causes of blowouts, which is why the handbook tells you to check tire pressure with a gauge monthly. It is the clearest link between a routine check and a dangerous failure.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Blowouts",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "Under-inflated tires are one of the most common causes of blowouts",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-004",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Blowouts",
+    "conceptId": "c-blowout-cause",
+    "question": "A driver checks tire pressure monthly. Which emergency is that habit most directly guarding against?",
+    "choices": [
+      "A blowout",
+      "Brake failure",
+      "An overheating engine",
+      "Headlight failure"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook links these directly: under-inflated tires are one of the most common causes of blowouts, so checking pressure with a gauge monthly is the routine that prevents them. The other failures listed have their own separate checks.",
+    "questionType": "reversed",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Blowouts",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "so be sure to check your tires for air often.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-005",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Skids",
+    "conceptId": "c-skid",
+    "question": "The rear of your vehicle begins skidding to the right. Which way do you turn the steering wheel?",
+    "choices": [
+      "To the right — turn in the direction of the skid",
+      "To the left — turn against the skid",
+      "Hold the wheel perfectly straight",
+      "Turn left and brake firmly at the same time"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says to turn the steering wheel in the direction of the skid: if the rear is skidding right, turn right. The vehicle may then begin to skid the other way, and you again turn the wheels in the direction you want to go before straightening up.",
+    "questionType": "scenario",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Skids",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "If the rear of your vehicle is skidding to the right, turn to the",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-006",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Skids",
+    "conceptId": "c-skid",
+    "question": "Which action should you avoid while your vehicle is skidding?",
+    "choices": [
+      "Using the brakes, unless you are in danger of hitting something",
+      "Taking your foot off the gas pedal",
+      "Turning the wheel in the direction of the skid",
+      "Staying calm and concentrating on steering"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says not to use your brakes unless you are in danger of hitting something, and to concentrate on steering out of trouble instead. The other three are exactly what it tells you to do: stay calm, lift off the gas, and steer in the direction of the skid.",
+    "questionType": "negative",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Skids",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Do not use your brakes unless you are in danger of hitting",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-007",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Brake failure",
+    "conceptId": "c-brake-failure",
+    "question": "Your brakes fail while driving. What does the handbook tell you to do?",
+    "choices": [
+      "Pump the brake pedal quickly, shift to a lower gear, and use the parking brake while holding the release",
+      "Switch off the ignition immediately to stop the engine",
+      "Steer into a ditch at the first opportunity",
+      "Shift into a higher gear and coast until the vehicle stops"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook lists pumping the pedal quickly, shifting to a lower gear while looking for a place to stop off the roadway, warning others with horn and lights, and using the parking brake while holding the release so you can ease off if the rear wheels lock and cause a skid.",
+    "questionType": "scenario",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Brake Failure",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Pump the brake pedal quickly.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-008",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Brake failure",
+    "conceptId": "c-brake-failure",
+    "question": "Why does the handbook say to hold the brake release while applying the parking brake during brake failure?",
+    "choices": [
+      "So you can ease up if the rear wheels lock and cause a skid",
+      "So the parking brake applies more force",
+      "So the brake lights stay illuminated",
+      "So the transmission shifts down automatically"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Holding the release lets you back off instantly. The handbook gives the reason directly: if the rear wheels lock they will cause a skid, and being able to ease up prevents trading a braking problem for a loss of control.",
+    "questionType": "application",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Brake Failure",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Use the parking brake, but hold the brake release so you can ease up on the brake if the rear wheels lock and",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-009",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Fire",
+    "conceptId": "c-fire",
+    "question": "Why should you not use water on a burning vehicle?",
+    "choices": [
+      "Burning gasoline floats on water, which spreads the fire",
+      "Water damages the engine block permanently",
+      "Water conducts electricity from the battery",
+      "Water causes the tires to explode"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook gives this exact reason: do not use water because burning gasoline will float on water and spread the fire. If no chemical fire extinguisher is available, smother the fire with dirt or sand instead.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Fire in Vehicle",
+      "pdfPage": 82,
+      "printedPage": 72,
+      "sourceQuote": "Do not use water because burning gasoline will float on water and spread the fire.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-010",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Fire",
+    "conceptId": "c-fire",
+    "question": "A vehicle fire is getting out of control. How far away should you move?",
+    "choices": [
+      "At least 100 feet, because the gas tank may explode",
+      "About 20 feet, far enough to avoid the smoke",
+      "Just outside the vehicle is sufficient",
+      "At least half a mile"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says to move at least 100 feet away from the vehicle since the gas tank may explode. Standing just clear of the car is not enough once a fire is beyond control.",
+    "questionType": "scenario",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Fire in Vehicle",
+      "pdfPage": 82,
+      "printedPage": 72,
+      "sourceQuote": "move at least 100 feet away from the vehicle since the gas tank may explode.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-011",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Overheating",
+    "conceptId": "c-overheat",
+    "question": "Your temperature warning light comes on. What should you do?",
+    "choices": [
+      "Pull off the road, turn the engine off, and leave the radiator cap alone until it cools",
+      "Keep driving to the nearest service station regardless of distance",
+      "Remove the radiator cap at once to release pressure",
+      "Turn the heater off and continue at highway speed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says to pull off the road and turn the engine off, and not to remove the radiator cap until the engine has cooled off. Removing the cap from a hot system releases scalding coolant under pressure.",
+    "questionType": "scenario",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Overheating Engine",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Do not remove the radiator cap until the engine has cooled off.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-012",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Overheating",
+    "conceptId": "c-overheat",
+    "question": "How does the handbook suggest preventing overheating in slow-moving traffic?",
+    "choices": [
+      "Shift into neutral and race the engine briefly during stops to speed up the fan and water pump",
+      "Switch the engine off at every stop",
+      "Drive in the highest gear available",
+      "Open the hood while stopped in traffic"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook describes shifting into neutral and racing the engine briefly during stops, which speeds up the fan and water pump and moves more air and coolant through the system while the vehicle is not moving fast enough to do it naturally.",
+    "questionType": "direct",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Overheating Engine",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "You can prevent overheating in slow-moving traffic by shifting into neutral and racing your engine",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-013",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Stuck gas pedal",
+    "conceptId": "c-stuck-pedal",
+    "question": "Your gas pedal sticks down. After trying to free it with your foot, what does the handbook say to do next?",
+    "choices": [
+      "Push in the clutch or shift into neutral",
+      "Turn off the ignition immediately while still at speed",
+      "Apply the parking brake at full force",
+      "Steer onto the shoulder without slowing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The order matters. Concentrate on steering and keep your eyes on the road, try to free the pedal with your foot, and if that does not work push in the clutch or shift into neutral. Only then use the brakes, stop at the nearest safe place, and turn off the ignition.",
+    "questionType": "scenario",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Stuck Gas Pedal",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "If this does not work, push in the clutch or shift into neutral.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-014",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Stuck gas pedal",
+    "conceptId": "c-stuck-pedal",
+    "question": "When should the ignition be turned off if the gas pedal sticks?",
+    "choices": [
+      "After braking and stopping at the nearest safe place",
+      "Immediately, before doing anything else",
+      "As soon as the clutch is pushed in",
+      "Never — the ignition should be left running"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook puts turning off the ignition last: use your brakes, stop at the nearest safe place, and turn off the ignition. Killing the engine while still moving can cost you power steering and power brakes at the worst moment.",
+    "questionType": "application",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Stuck Gas Pedal",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Use your brakes, stop at the nearest safe place, and turn off the ignition.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-015",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Off the road",
+    "conceptId": "c-off-road",
+    "question": "Your right wheels drop off the pavement onto the shoulder. What should you do?",
+    "choices": [
+      "Grip the wheel, stay on the shoulder, ease off the accelerator and slow gradually before returning",
+      "Steer back onto the pavement immediately at the same speed",
+      "Brake hard while turning sharply back onto the road",
+      "Accelerate to regain stability before steering back"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says to grip the steering wheel tightly, stay on the shoulder, ease off the accelerator, brake gently and slow gradually. Only after the speed is reduced, and after checking traffic behind and ahead, do you turn the wheels sharply back onto the pavement.",
+    "questionType": "scenario",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Wheels Off the Road",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "Stay on the shoulder and ease off the accelerator.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-016",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Off the road",
+    "conceptId": "c-off-road",
+    "question": "Once back on the pavement after running off the road, why does the handbook say to turn the wheels the other way immediately?",
+    "choices": [
+      "To keep the vehicle from heading across the highway",
+      "To straighten the tires and reduce wear",
+      "To signal other drivers that you have recovered",
+      "To engage the anti-lock braking system"
+    ],
+    "correctAnswer": 0,
+    "explanation": "You turn sharply to climb the pavement edge, which means the wheels are pointed across the road. The handbook says that as soon as the wheels hit the edge of the pavement you turn them the other way to keep the vehicle from heading across the highway into oncoming traffic.",
+    "questionType": "application",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Wheels Off the Road",
+      "pdfPage": 81,
+      "printedPage": 71,
+      "sourceQuote": "turn them the other way to keep your vehicle from heading",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-017",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Headlights",
+    "conceptId": "c-headlights-fail",
+    "question": "Your headlights fail completely on a dark highway and no other lights work. What does the handbook advise?",
+    "choices": [
+      "Stay on the roadway and slow down enough to pull off the roadway safely",
+      "Stop immediately in the travel lane",
+      "Speed up to reach the next lit area quickly",
+      "Steer off the road instantly without slowing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "If all lights fail, the handbook says to stay on the roadway and slow down enough to pull off safely. Before that, you would try parking lights, direction signals or emergency flashers — anything that makes you visible while you get clear.",
+    "questionType": "scenario",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Headlights Fail",
+      "pdfPage": 82,
+      "printedPage": 72,
+      "sourceQuote": "If all lights fail, stay on the roadway and slow down enough",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-em-018",
+    "topicId": "vehicle-emergencies",
+    "subtopic": "Headlights",
+    "conceptId": "c-headlights-fail",
+    "question": "Which lights does the handbook suggest trying if your headlights fail on a dark highway?",
+    "choices": [
+      "Parking lights, direction signals, or emergency flashers",
+      "Interior dome lights only",
+      "High beams only",
+      "The brake lights held on with the pedal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook names parking lights, direction signals and emergency flashers as the fallbacks to try while getting off the roadway. The goal is to remain visible to other traffic, which dome lights and held brake lights do not reliably achieve.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Headlights Fail",
+      "pdfPage": 82,
+      "printedPage": 72,
+      "sourceQuote": "try your parking lights, your direction signals, or your",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-chk-001",
+    "topicId": "vehicle-checks",
+    "subtopic": "Brakes",
+    "conceptId": "c-brake-check",
+    "question": "How far should the brake pedal travel when you press it during a check?",
+    "choices": [
+      "Not more than halfway to the floor",
+      "All the way to the floor",
+      "About three-quarters of the way down",
+      "It should not move at all"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says the pedal should not go more than halfway to the floor and should feel like it is hitting something hard. A spongy feel suggests air bubbles in the brake line, and a pedal that keeps sinking suggests a leak in the braking system.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "What to Check Before Driving",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "It should not go more than halfway to the floor.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-chk-002",
+    "topicId": "vehicle-checks",
+    "subtopic": "Brakes",
+    "conceptId": "c-brake-check",
+    "question": "Your brake pedal feels spongy rather than firm. What does the handbook say this may indicate?",
+    "choices": [
+      "Air bubbles in the brake line",
+      "Tires that are over-inflated",
+      "A parking brake that needs adjustment",
+      "Low windshield washer fluid"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A spongy pedal suggests air bubbles in the brake line. The related test is to push down and count to ten — if the pedal keeps going down, there may be a leak in the braking system. Both are reasons to have the brakes looked at before driving.",
+    "questionType": "scenario",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "What to Check Before Driving",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "If it feels spongy, air bubbles may be in the brake line.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-chk-003",
+    "topicId": "vehicle-checks",
+    "subtopic": "Tires",
+    "conceptId": "c-tire-penny",
+    "question": "You put a penny head-first into your tire's deepest groove and can see all of Lincoln's head. What does that mean?",
+    "choices": [
+      "The tires are too worn — do not drive on them and get them replaced",
+      "The tread depth is ideal",
+      "The tire is over-inflated",
+      "The tire needs rotating but is safe to use"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Seeing all of Lincoln's head means there is not enough tread left. The handbook's instruction is direct: your tires are too worn, do not drive on them, and make sure to get them replaced. Tread depth is what lets a tire clear water and grip.",
+    "questionType": "scenario",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "What to Check Before Driving",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "Can you see all of his head?  If yes, your tires",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-chk-004",
+    "topicId": "vehicle-checks",
+    "subtopic": "Tires",
+    "conceptId": "c-tire-pressure",
+    "question": "When should tire pressure be measured for an accurate reading?",
+    "choices": [
+      "When the tires are cold",
+      "Immediately after a long drive",
+      "Only when the tires look visibly low",
+      "After driving at least 20 miles to warm them"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says to make sure you check when they are cold, and to compare the gauge reading against the PSI number on the sticker inside the door jamb. Driving heats the air inside a tire and raises the reading, which hides a tire that is actually low.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "What to Check Before Driving",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "make sure you check when they are cold",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-chk-005",
+    "topicId": "vehicle-checks",
+    "subtopic": "Tires",
+    "conceptId": "c-tire-pressure",
+    "question": "Where does the handbook say to find the correct tire pressure for your vehicle?",
+    "choices": [
+      "On a sticker on the inside of the driver's door jamb",
+      "Moulded into the sidewall of each tire",
+      "On the underside of the fuel filler cap",
+      "Stamped on the wheel rim"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says to open your car door and look on the inside jamb for a sticker showing the PSI, then compare your gauge reading against that number — letting air out if too high, adding air if too low.",
+    "questionType": "reversed",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "What to Check Before Driving",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "Open your car door, on the inside jamb, you should see a sticker.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-001",
+    "topicId": "crash-duties",
+    "subtopic": "At the scene",
+    "conceptId": "c-crash-stop",
+    "question": "You are involved in a crash. Why does the handbook say to turn off the ignition?",
+    "choices": [
+      "To prevent the danger of fire",
+      "To preserve the battery for emergency calls",
+      "To stop the odometer recording further miles",
+      "Because the law requires the engine to be off before exchanging details"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook gives the reason directly: turn off the ignition to prevent the danger of fire. It comes under step one, stop immediately, alongside protecting the scene with flares, a flagman or other means to prevent further crashes.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "If You are Involved In A Crash",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "Turn off the ignition to prevent the danger of fire.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-002",
+    "topicId": "crash-duties",
+    "subtopic": "Reporting",
+    "conceptId": "c-crash-report",
+    "question": "Which crash must be reported to the nearest law enforcement agency?",
+    "choices": [
+      "One causing injury or death, or property damage of $1,000 or more",
+      "Only one where someone is taken to hospital",
+      "Only one involving three or more vehicles",
+      "Any crash of any kind, without exception"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook sets the threshold at a crash resulting in injury or death of any person, or property damage of $1,000 or more. Below that threshold and with no injuries there is no duty to notify, though you still exchange information with the other driver.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "If You are Involved In A Crash",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "you must notify the nearest law enforcement agency.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-003",
+    "topicId": "crash-duties",
+    "subtopic": "Reporting",
+    "conceptId": "c-crash-exchange",
+    "question": "Which information should drivers exchange after a traffic crash?",
+    "choices": [
+      "Name, address, license plate number and motor vehicle insurance information",
+      "Name and phone number only",
+      "Driver's license number and date of birth only",
+      "Employer details and vehicle purchase price"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook lists exactly four items to exchange: name, address, license plate number, and motor vehicle insurance information. The same four, plus the circumstances of the crash, go on a written notice if you strike an unattended vehicle and cannot find the owner.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "If You are Involved In A Crash",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "The following information should be exchanged by persons involved in traffic crashes",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-004",
+    "topicId": "crash-duties",
+    "subtopic": "Unattended vehicles",
+    "conceptId": "c-unattended",
+    "question": "You back into a parked car in a lot and cannot find the owner. What must you do?",
+    "choices": [
+      "Leave a written notice with your name, address, plate number, insurance information and the circumstances",
+      "Leave the scene, since no one was present to be harmed",
+      "Report it only if the damage exceeds $5,000",
+      "Leave a note with your phone number only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says to try to locate the owner, and if that is not possible to leave a written notice containing your name, address, license plate number, motor vehicle insurance information and the circumstances of the crash. Driving away without doing so is leaving the scene.",
+    "questionType": "scenario",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Important Crash Rule",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "If you strike an unattended vehicle, try to locate",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-005",
+    "topicId": "crash-duties",
+    "subtopic": "Passing a crash",
+    "conceptId": "c-dont-stop",
+    "question": "You drive past a crash that is already being attended to and you cannot offer any help. What does the handbook say?",
+    "choices": [
+      "Do not stop — unnecessary stopping creates additional hazards at the scene",
+      "Always stop, as every driver has a duty to remain",
+      "Stop only if you have a camera to document it",
+      "Stop and direct traffic yourself"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook's crash rule says not to stop at a crash scene unless you are involved or can render assistance, because unnecessary stopping creates additional hazards. Spectator traffic blocks emergency vehicles and causes secondary collisions.",
+    "questionType": "scenario",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Important Crash Rule",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "Do not stop at a crash scene unless you are",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-006",
+    "topicId": "crash-duties",
+    "subtopic": "First aid",
+    "conceptId": "c-first-aid-order",
+    "question": "In what order does the handbook say to give first aid at a crash?",
+    "choices": [
+      "Control bleeding, restore breathing, treat for shock, protect broken bones",
+      "Protect broken bones, treat for shock, control bleeding, restore breathing",
+      "Restore breathing, protect broken bones, control bleeding, treat for shock",
+      "Treat for shock, control bleeding, protect broken bones, restore breathing"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook numbers them: control bleeding, restore breathing, treat for shock, protect broken bones. It also says to stay calm, keep the victim lying down and comfortable, and not to move them unless there is danger of further injury.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "First Aid",
+      "pdfPage": 83,
+      "printedPage": 73,
+      "sourceQuote": "Give first aid in the following order",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-007",
+    "topicId": "crash-duties",
+    "subtopic": "First aid",
+    "conceptId": "c-first-aid-order",
+    "question": "When should you move an injured person at a crash scene?",
+    "choices": [
+      "Only when there is danger of further injury if they stay where they are",
+      "Always, to get them clear of the vehicle",
+      "Whenever they ask to be moved",
+      "Only after law enforcement arrives"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says to stay calm and not move the victim unless there is danger of further injury, and elsewhere that the injured should not be moved unless absolutely necessary. Moving someone with a spinal injury can cause permanent harm, so the default is to leave them and send for aid.",
+    "questionType": "negative",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "First Aid",
+      "pdfPage": 83,
+      "printedPage": 73,
+      "sourceQuote": "Stay calm and do not move the victim unless there is danger of further injury.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-008",
+    "topicId": "crash-duties",
+    "subtopic": "Good Samaritan",
+    "conceptId": "c-good-samaritan",
+    "question": "Under West Virginia's Good Samaritan law, who is protected from civil liability for giving emergency care at a crash?",
+    "choices": [
+      "Anyone who gives emergency care in good faith without pay, including doctors and dentists",
+      "Only licensed physicians",
+      "Only certified emergency medical personnel",
+      "Nobody — anyone who intervenes accepts full liability"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook states that no one, including those licensed to practice medicine or dentistry, who in good faith gives emergency care at the scene of a crash without pay is liable for civil damages as a result of any act or omission in giving that care. The protection is broad and deliberate, so fear of liability does not stop people helping.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Good Samaritan Law",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "No one, including those licensed to practice medicine or dentistry, who in good faith gives emergency",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-009",
+    "topicId": "crash-duties",
+    "subtopic": "At the scene",
+    "conceptId": "c-crash-stop",
+    "question": "Which of these is NOT one of the handbook's steps when you are involved in a crash?",
+    "choices": [
+      "Move all vehicles off the road before anything else so traffic can pass",
+      "Stop immediately",
+      "Protect the scene to prevent further crashes",
+      "Render aid to the injured"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook's steps are to stop immediately and turn off the ignition, protect the scene using flares, a flagman or other means, and render aid to the injured while sending for an ambulance or law enforcement. Clearing the road for traffic is not among them, and moving the injured is specifically discouraged.",
+    "questionType": "negative",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "If You are Involved In A Crash",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "Protect the scene by using flares, flagman, or other means to prevent further crashes.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-010",
+    "topicId": "crash-duties",
+    "subtopic": "Reporting",
+    "conceptId": "c-crash-report",
+    "question": "Two cars collide with no injuries and about $300 of damage. Is notifying law enforcement required?",
+    "choices": [
+      "No — the threshold is injury, death, or property damage of $1,000 or more",
+      "Yes — every crash must be reported regardless of damage",
+      "Yes — any crash involving two or more vehicles must be reported",
+      "No — crashes never need to be reported if nobody is injured"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The reporting duty is triggered by injury or death of any person, or property damage of $1,000 or more. At $300 with no injuries none of those apply, though the drivers should still exchange name, address, plate number and insurance information.",
+    "questionType": "application",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "If You are Involved In A Crash",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "If you are involved in a crash resulting in injury or death of any person or property damage",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-chk-003b",
+    "topicId": "vehicle-checks",
+    "subtopic": "Tires",
+    "conceptId": "c-tire-penny",
+    "question": "Which coin test does the handbook describe for checking tire tread?",
+    "choices": [
+      "A penny, placed head-first into the deepest groove",
+      "A quarter, placed edge-first across the tread",
+      "A dime, laid flat across the tread blocks",
+      "A nickel, inserted into the shallowest groove"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook describes holding a penny with Lincoln's body between thumb and forefinger and placing his head first into the deepest-looking groove. If all of his head is visible the tread is too worn and the tires need replacing.",
+    "questionType": "reversed",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "What to Check Before Driving",
+      "pdfPage": 80,
+      "printedPage": 70,
+      "sourceQuote": "Place Lincoln's head first into the deepest-looking groove.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-003b",
+    "topicId": "crash-duties",
+    "subtopic": "Reporting",
+    "conceptId": "c-crash-exchange",
+    "question": "After a minor crash the other driver offers only their phone number and wants to leave. What is missing?",
+    "choices": [
+      "Name, address, license plate number and insurance information",
+      "Nothing — a phone number is sufficient",
+      "Their date of birth and employer",
+      "A signed written statement admitting fault"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook lists four items that should be exchanged: name, address, license plate number and motor vehicle insurance information. A phone number alone leaves you unable to trace the vehicle or make an insurance claim.",
+    "questionType": "scenario",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "If You are Involved In A Crash",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "Motor vehicle insurance information",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-004b",
+    "topicId": "crash-duties",
+    "subtopic": "Unattended vehicles",
+    "conceptId": "c-unattended",
+    "question": "What is the FIRST thing to do after striking an unattended vehicle?",
+    "choices": [
+      "Try to locate the owner",
+      "Leave a written notice immediately without looking for anyone",
+      "Drive to the nearest police station",
+      "Wait 24 hours before taking any action"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook says to try to locate the owner first. Leaving a written notice with your name, address, plate number, insurance information and the circumstances is the fallback for when the owner cannot be found, not the first resort.",
+    "questionType": "application",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Important Crash Rule",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "If you strike an unattended vehicle, try to locate",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-005b",
+    "topicId": "crash-duties",
+    "subtopic": "Passing a crash",
+    "conceptId": "c-dont-stop",
+    "question": "Why does the handbook discourage stopping at a crash you are not involved in?",
+    "choices": [
+      "Unnecessary stopping creates additional hazards at the scene",
+      "It is illegal to stop on any road shoulder",
+      "Insurance companies treat it as an admission of involvement",
+      "It delays the drivers behind you, which is a moving violation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook's stated reason is that unnecessary stopping creates additional hazards at the scene. Extra stopped vehicles block emergency access and raise the risk of secondary crashes. Stopping is appropriate only if you are involved or can render assistance.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Important Crash Rule",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "Unnecessary stopping creates additional hazards at the scene.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-cr-008b",
+    "topicId": "crash-duties",
+    "subtopic": "Good Samaritan",
+    "conceptId": "c-good-samaritan",
+    "question": "A bystander gives first aid at a crash and is later sued for making the injury worse. Under the Good Samaritan law, what applies?",
+    "choices": [
+      "They are not liable for civil damages if they acted in good faith and without pay",
+      "They are fully liable because they are not medically trained",
+      "They are liable unless a doctor supervised them",
+      "The law protects only paid emergency responders"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The handbook states that no one who in good faith gives emergency care at the scene of a crash, without pay, is liable for civil damages as the result of any act or omission in giving that care. The protection covers ordinary bystanders as well as medical professionals.",
+    "questionType": "scenario",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IX",
+      "chapterTitle": "Emergency Situations",
+      "section": "Good Samaritan Law",
+      "pdfPage": 84,
+      "printedPage": 74,
+      "sourceQuote": "is liable for any civil damages as the result of any act or omission",
+      "verifiedDate": "2026-09-14"
+    }
   }
 ]

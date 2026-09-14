@@ -83,7 +83,11 @@ export function Practice({ topicId }: { topicId: string }) {
       ) : current ? (
         <QuestionCard
           question={current}
-          seed={`${sessionId}:practice:${topicId}:${answered}`}
+          // The seed must NOT include a counter that changes when an answer is given:
+          // that re-seeds the shuffle at reveal time and the choices visibly jump under
+          // the learner while the feedback is on screen. QuestionCard already keys its
+          // memo by question id, so every question still gets its own order.
+          seed={`${sessionId}:practice:${topicId}`}
           mode="immediate"
           onAnswered={(correct) => handleAnswered(current, correct)}
           onNext={next}

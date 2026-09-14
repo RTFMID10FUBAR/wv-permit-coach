@@ -134,7 +134,9 @@ export function LessonScreen({ lessonId }: { lessonId: string }) {
         ) : current ? (
           <QuestionCard
             question={current}
-            seed={`${sessionId}:lesson:${lesson.id}:${asked}`}
+            // No answer-dependent counter here — see the note in Practice.tsx: it would
+            // re-shuffle the choices at the moment feedback appears.
+            seed={`${sessionId}:lesson:${lesson.id}`}
             mode="immediate"
             onAnswered={(correct) => handleAnswered(current, correct)}
             onNext={next}

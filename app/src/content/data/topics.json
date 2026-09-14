@@ -1,0 +1,26 @@
+[
+  {
+    "id": "alcohol-effects",
+    "title": "Alcohol and Your Driving",
+    "chapter": "III",
+    "order": 40,
+    "blurb": "What alcohol actually does to a driver, and what does not sober anyone up.",
+    "examWeight": 1.2
+  },
+  {
+    "id": "wv-alcohol-law",
+    "title": "WV Alcohol Laws and DUI",
+    "chapter": "III",
+    "order": 41,
+    "blurb": "Zero tolerance under 21, BAC levels, implied consent, and what a DUI costs you.",
+    "examWeight": 1.4
+  },
+  {
+    "id": "drugs-and-drowsy",
+    "title": "Drugs and Drowsy Driving",
+    "chapter": "III",
+    "order": 42,
+    "blurb": "Prescription and over-the-counter drugs, and why being tired is its own impairment.",
+    "examWeight": 1.0
+  }
+]

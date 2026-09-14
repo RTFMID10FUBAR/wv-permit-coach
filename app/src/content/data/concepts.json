@@ -1,0 +1,226 @@
+[
+  {
+    "id": "c-alc-effects",
+    "topicId": "alcohol-effects",
+    "label": "What alcohol does to a driver",
+    "statement": "Alcohol reduces alertness, interferes with judgment, and impairs vision.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Driving Impaired or Under the Influence",
+      "pdfPage": 31,
+      "printedPage": 21,
+      "sourceQuote": "Alcohol reduces alertness, interferes with judgment, and impairs",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-alc-varies",
+    "topicId": "alcohol-effects",
+    "label": "Alcohol affects people differently",
+    "statement": "Alcohol affects a person differently at different times, depending on physical and emotional condition, other drugs, and even how much food is in the stomach.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Driving Impaired or Under the Influence",
+      "pdfPage": 31,
+      "printedPage": 21,
+      "sourceQuote": "Alcohol affects a person differently at different times.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-alc-time",
+    "topicId": "alcohol-effects",
+    "label": "Only time sobers you up",
+    "statement": "Coffee, fresh air, cold showers and exercise do not sober anyone up — time is the only sobering influence.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Driving Impaired or Under the Influence",
+      "pdfPage": 31,
+      "printedPage": 21,
+      "sourceQuote": "do not effectively help someone sober up.  Time is",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-alc-equivalence",
+    "topicId": "alcohol-effects",
+    "label": "One drink equals one drink",
+    "statement": "A one-ounce shot of 100-proof whiskey, a six-ounce glass of wine and a 12-ounce can of beer all contain the same amount of alcohol.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Driving Impaired or Under the Influence",
+      "pdfPage": 31,
+      "printedPage": 21,
+      "sourceQuote": "The amount of alcohol in a one-ounce shot of 100-proof whiskey,",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-alc-bac-rises",
+    "topicId": "alcohol-effects",
+    "label": "BAC keeps rising after the last drink",
+    "statement": "When a person has more than one drink per hour, BAC builds up and keeps rising for hours after the last drink.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Knowing Your Limits",
+      "pdfPage": 31,
+      "printedPage": 21,
+      "sourceQuote": "When a person has more than one (1) drink per hour, the BAC level builds up in his or her body.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-drinking-age",
+    "topicId": "wv-alcohol-law",
+    "label": "Legal drinking age",
+    "statement": "The legal drinking age in West Virginia is 21.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Under Age Drinking and Driving",
+      "pdfPage": 31,
+      "printedPage": 21,
+      "sourceQuote": "The legal drinking age in West Virginia is 21 years old.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-zero-tolerance",
+    "topicId": "wv-alcohol-law",
+    "label": "Zero tolerance under 21",
+    "statement": "If you are under 21 and any measurable amount of alcohol is found in your system, you will lose your driver's license.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Under Age Drinking and Driving",
+      "pdfPage": 31,
+      "printedPage": 21,
+      "sourceQuote": "This means that if you are under the age of 21 and any amount of alcohol is found in your system, you",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-bac-08",
+    "topicId": "wv-alcohol-law",
+    "label": "BAC 0.08 presumption",
+    "statement": "A BAC of 0.08 percent or more means the driver is presumed to be driving under the influence.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Knowing Your Limits",
+      "pdfPage": 31,
+      "printedPage": 21,
+      "sourceQuote": "If a driver's BAC is 0.08 percent",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-bac-05",
+    "topicId": "wv-alcohol-law",
+    "label": "BAC between 0.05 and 0.08",
+    "statement": "A BAC above 0.05 but below 0.08 percent is relevant evidence to presume the driver's ability to drive is impaired, and a licence can be revoked below 0.08.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Knowing Your Limits",
+      "pdfPage": 31,
+      "printedPage": 21,
+      "sourceQuote": "In West Virginia, a BAC of more than 0.05 percent and less than 0.08 percent is relevant evidence to",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-implied-consent",
+    "topicId": "wv-alcohol-law",
+    "label": "Implied consent",
+    "statement": "By driving, you are deemed to have consented to a Breathalyzer if arrested for DUI; refusing revokes your driving privilege for one year up to life.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Implied Consent and the Chemical Test",
+      "pdfPage": 32,
+      "printedPage": 22,
+      "sourceQuote": "If you refuse to take the Breathalyzer, your privilege to operate a motor vehicle will be revoked",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-safety-treatment",
+    "topicId": "wv-alcohol-law",
+    "label": "Safety and Treatment Program",
+    "statement": "Any time a licence is revoked or suspended for DUI, you must complete a prescribed Safety and Treatment program before you can be reinstated.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Penalties for Driving Under the Influence",
+      "pdfPage": 32,
+      "printedPage": 22,
+      "sourceQuote": "Any time your driver's license is revoked or suspended for a DUI, you must complete a prescribed Safety",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-interlock",
+    "topicId": "wv-alcohol-law",
+    "label": "Ignition interlock",
+    "statement": "The Interlock device attaches to the ignition and prevents an intoxicated person from starting the car; participation is mandatory for two or more DUI revocations within ten years.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "How Does a DUI Affect Your Driving Privileges?",
+      "pdfPage": 33,
+      "printedPage": 23,
+      "sourceQuote": "If the driver has been revoked for two (2) or more DUI's or related offenses",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-other-drugs",
+    "topicId": "drugs-and-drowsy",
+    "label": "Prescription and OTC drugs",
+    "statement": "Drugs can cause drowsiness, loss of coordination, hallucinations or total body malfunction even when prescribed by a physician or bought over the counter.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Other Drugs",
+      "pdfPage": 32,
+      "printedPage": 22,
+      "sourceQuote": "even if prescribed by a physician or bought over the counter, can cause drowsiness, loss of coordination,",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-drowsy",
+    "topicId": "drugs-and-drowsy",
+    "label": "Drowsy driving is impaired driving",
+    "statement": "After being awake for about 18 hours, driving skills are comparable to someone under the influence of drugs or alcohol.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "III",
+      "chapterTitle": "Driving Impaired or Under the Influence",
+      "section": "Drowsy Driving Is Impaired Driving",
+      "pdfPage": 33,
+      "printedPage": 23,
+      "sourceQuote": "After being awake for 18 hours (time",
+      "verifiedDate": "2026-09-14"
+    }
+  }
+]

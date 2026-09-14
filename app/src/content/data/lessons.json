@@ -1,0 +1,159 @@
+[
+  {
+    "id": "l-alcohol-effects",
+    "topicId": "alcohol-effects",
+    "title": "What Alcohol Actually Does to a Driver",
+    "rules": [
+      {
+        "text": "Alcohol reduces alertness, interferes with judgment, and impairs vision.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "III",
+          "chapterTitle": "Driving Impaired or Under the Influence",
+          "section": "Driving Impaired or Under the Influence",
+          "pdfPage": 31,
+          "printedPage": 21,
+          "sourceQuote": "Alcohol reduces alertness, interferes with judgment, and impairs",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Time is the only thing that sobers a person up. Coffee, fresh air, cold showers and exercise do not work.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "III",
+          "chapterTitle": "Driving Impaired or Under the Influence",
+          "section": "Driving Impaired or Under the Influence",
+          "pdfPage": 31,
+          "printedPage": 21,
+          "sourceQuote": "do not effectively help someone sober up.  Time is",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "A one-ounce shot of 100-proof whiskey, a six-ounce glass of wine and a 12-ounce can of beer contain the same amount of alcohol.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "III",
+          "chapterTitle": "Driving Impaired or Under the Influence",
+          "section": "Driving Impaired or Under the Influence",
+          "pdfPage": 31,
+          "printedPage": 21,
+          "sourceQuote": "The amount of alcohol in a one-ounce shot of 100-proof whiskey,",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "Alcohol takes away the three things driving depends on: staying alert, judging situations correctly, and seeing clearly. It does not hit everyone the same way, or even hit the same person the same way twice — your mood, tiredness, other medication and how much you have eaten all change the effect. And there is no trick that speeds up sobering up. Coffee and a cold shower make a drunk person a wide-awake drunk person, nothing more. Only time lowers blood alcohol.",
+    "whyItMatters": "People get caught out by two beliefs: that they can tell how drunk they are, and that they can sober up quickly if they need to. Both are wrong, and the handbook says so directly. Judgment is one of the first things alcohol damages — which means the part of you deciding whether you are fine to drive is the part already affected.",
+    "example": "You have three beers over two hours at a friend's house, then drink a large coffee and stand outside in the cold for twenty minutes because you want to drive home. Your blood alcohol has not dropped at all. Worse, because BAC keeps climbing after the last drink, you may be more impaired pulling out of the driveway than you were in the kitchen.",
+    "conceptIds": [
+      "c-alc-effects",
+      "c-alc-varies",
+      "c-alc-time",
+      "c-alc-equivalence",
+      "c-alc-bac-rises"
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "l-wv-alcohol-law",
+    "topicId": "wv-alcohol-law",
+    "title": "West Virginia Alcohol Law: Zero Tolerance, BAC and Implied Consent",
+    "rules": [
+      {
+        "text": "Under 21 with any measurable alcohol in your system means you lose your driver's licence.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "III",
+          "chapterTitle": "Driving Impaired or Under the Influence",
+          "section": "Under Age Drinking and Driving",
+          "pdfPage": 31,
+          "printedPage": 21,
+          "sourceQuote": "This means that if you are under the age of 21 and any amount of alcohol is found in your system, you",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "BAC over 0.05 and under 0.08 is relevant evidence of impairment; 0.08 or more is presumed driving under the influence.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "III",
+          "chapterTitle": "Driving Impaired or Under the Influence",
+          "section": "Knowing Your Limits",
+          "pdfPage": 31,
+          "printedPage": 21,
+          "sourceQuote": "In West Virginia, a BAC of more than 0.05 percent and less than 0.08 percent is relevant evidence to",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Refusing the Breathalyzer revokes your privilege to drive for one year, up to life.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "III",
+          "chapterTitle": "Driving Impaired or Under the Influence",
+          "section": "Implied Consent and the Chemical Test",
+          "pdfPage": 32,
+          "printedPage": 22,
+          "sourceQuote": "If you refuse to take the Breathalyzer, your privilege to operate a motor vehicle will be revoked",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "West Virginia treats drivers under 21 completely differently from adults. For an adult, the question is whether BAC reached 0.08. For someone under 21, there is no threshold to argue about — any measurable alcohol costs you your licence. Separately, simply by driving on West Virginia roads you have already agreed to take a breath test if you are arrested for DUI. Refusing is not a way out: it carries its own revocation of one year up to life, on top of whatever the DUI charge does.",
+    "whyItMatters": "Two traps live here. The first is thinking 0.08 is a safe line to drive up to — a licence can be revoked below 0.08, and between 0.05 and 0.08 the state can use that reading as evidence of impairment. The second is thinking refusing the test protects you. It does the opposite, and the handbook explains why the law exists: the test protects the driver who has not been drinking by giving a medically accepted measurement.",
+    "example": "A 19-year-old has one beer at a party and drives home an hour later. An adult with that same BAC might be under every threshold. The 19-year-old is not — any measurable alcohol under 21 means losing the licence, regardless of how fine they feel or how well they drove.",
+    "conceptIds": [
+      "c-drinking-age",
+      "c-zero-tolerance",
+      "c-bac-08",
+      "c-bac-05",
+      "c-implied-consent",
+      "c-safety-treatment",
+      "c-interlock"
+    ],
+    "estimatedMinutes": 7
+  },
+  {
+    "id": "l-drugs-drowsy",
+    "topicId": "drugs-and-drowsy",
+    "title": "Drugs and Drowsiness Are Impairment Too",
+    "rules": [
+      {
+        "text": "Drugs, including prescribed and over-the-counter ones, can cause drowsiness, loss of coordination, hallucinations or total body malfunctions.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "III",
+          "chapterTitle": "Driving Impaired or Under the Influence",
+          "section": "Other Drugs",
+          "pdfPage": 32,
+          "printedPage": 22,
+          "sourceQuote": "even if prescribed by a physician or bought over the counter, can cause drowsiness, loss of coordination,",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "After roughly 18 hours awake, driving skills are comparable to someone under the influence of drugs or alcohol.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "III",
+          "chapterTitle": "Driving Impaired or Under the Influence",
+          "section": "Drowsy Driving Is Impaired Driving",
+          "pdfPage": 33,
+          "printedPage": 23,
+          "sourceQuote": "After being awake for 18 hours (time",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "A prescription from a doctor is not permission to drive impaired. Plenty of ordinary medicines — allergy tablets, cold medicine, painkillers, sleep aids — cause exactly the drowsiness and loss of coordination that make driving dangerous, and mixing them with alcohol is worse than either alone. Being badly short of sleep does the same thing without any substance involved at all.",
+    "whyItMatters": "People who would never drive after drinking will happily drive after a double dose of cold medicine or a 20-hour day. The handbook puts these in the same chapter as alcohol on purpose: the effect on your reaction time and judgment is comparable, and so is the crash risk.",
+    "example": "You take an over-the-counter antihistamine for a bad cold before an evening drive. It is legal, it was recommended on the box, and you feel only slightly foggy. That fogginess is slowed reaction time — the same thing you would be criticised for if it came from a beer.",
+    "conceptIds": [
+      "c-other-drugs",
+      "c-drowsy"
+    ],
+    "estimatedMinutes": 4
+  }
+]

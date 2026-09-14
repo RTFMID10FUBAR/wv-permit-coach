@@ -3240,6 +3240,114 @@
     }
   },
   {
+    "id": "q-hand-001",
+    "topicId": "vi-signals-and-turns",
+    "subtopic": "Hand signals",
+    "conceptId": "c-hand-signals",
+    "question": "A driver extends their left arm straight out of the window. What are they signalling?",
+    "choices": [
+      "A left turn",
+      "A right turn",
+      "That they are slowing or stopping",
+      "That it is safe to pass them"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arm straight out means a left turn. The handbook shows three arm signals side by side: arm pointing down for slow or stop, arm pointing up for a right turn, and arm straight out for a left turn. These matter when turn signals fail, and for cyclists.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Driving Signals",
+      "pdfPage": 53,
+      "printedPage": 43,
+      "sourceQuote": "SLOW or STOP RIGHT TURN LEFT TURN",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-hand-002",
+    "topicId": "vi-signals-and-turns",
+    "subtopic": "Hand signals",
+    "conceptId": "c-hand-signals",
+    "question": "Which arm signal means the driver is about to make a right turn?",
+    "choices": [
+      "Arm pointing up",
+      "Arm pointing down",
+      "Arm straight out",
+      "Arm waved back and forth"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arm pointing up signals a right turn. It is easy to confuse with arm straight out, which is a left turn — the bent, upward arm is the one that means right.",
+    "questionType": "reversed",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Driving Signals",
+      "pdfPage": 53,
+      "printedPage": 43,
+      "sourceQuote": "ARM POINTING DOWN ARM POINTING UP ARM STRAIGHT OUT",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-hand-003",
+    "topicId": "vi-signals-and-turns",
+    "subtopic": "Hand signals",
+    "conceptId": "c-hand-signals",
+    "question": "You are following a car whose driver puts an arm out of the window pointing down toward the road. What should you expect?",
+    "choices": [
+      "The car is about to slow down or stop",
+      "The car is about to turn left",
+      "The car is about to turn right",
+      "The driver is signalling for you to overtake"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arm pointing down means slow or stop. Treat it exactly as you would brake lights — increase your following distance and prepare to stop, since the driver may be signalling by arm precisely because their lights are not working.",
+    "questionType": "scenario",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Driving Signals",
+      "pdfPage": 53,
+      "printedPage": 43,
+      "sourceQuote": "SLOW or STOP RIGHT TURN LEFT TURN",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "q-hand-004",
+    "topicId": "vi-signals-and-turns",
+    "subtopic": "Hand signals",
+    "conceptId": "c-hand-signals",
+    "question": "Which pairing of arm signal to meaning is NOT correct?",
+    "choices": [
+      "Arm straight out means slow or stop",
+      "Arm pointing down means slow or stop",
+      "Arm pointing up means right turn",
+      "Arm straight out means left turn"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Arm straight out means a left turn, not slow or stop. Slow or stop is signalled with the arm pointing down. The other three pairings are exactly as the handbook shows them.",
+    "questionType": "negative",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Driving Signals",
+      "pdfPage": 53,
+      "printedPage": 43,
+      "sourceQuote": "ARM POINTING DOWN ARM POINTING UP ARM STRAIGHT OUT",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
     "id": "q-octagon-stop-1",
     "topicId": "v-sign-shapes",
     "subtopic": "Single Message Shaped Signs - Octagon",

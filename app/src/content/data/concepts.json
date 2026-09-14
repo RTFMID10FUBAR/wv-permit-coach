@@ -960,6 +960,22 @@
     }
   },
   {
+    "id": "c-hand-signals",
+    "topicId": "vi-signals-and-turns",
+    "label": "Arm signals for turning and stopping",
+    "statement": "Arm pointing down means slow or stop, arm pointing up means right turn, and arm straight out means left turn.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Driving Signals",
+      "pdfPage": 53,
+      "printedPage": 43,
+      "sourceQuote": "ARM POINTING DOWN ARM POINTING UP ARM STRAIGHT OUT",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
     "id": "c-octagon-stop",
     "topicId": "v-sign-shapes",
     "label": "Octagon means stop",

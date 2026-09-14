@@ -1,0 +1,11 @@
+{
+  "appId": "org.wvpermitcoach.app",
+  "appName": "WV Permit Coach",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

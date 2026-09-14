@@ -9,3 +9,6 @@ test-results/
 android/app/build/
 android/build/
 android/.gradle/
+android/local.properties
+android/.idea/
+android/app/src/main/assets/public/

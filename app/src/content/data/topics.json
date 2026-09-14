@@ -24,6 +24,182 @@
     "examWeight": 1.0
   },
   {
+    "id": "v-sign-shapes",
+    "title": "Sign Shapes and What They Mean",
+    "chapter": "V",
+    "order": 50,
+    "blurb": "Octagon, triangle, pennant, circle, pentagon — the shape alone tells you the rule.",
+    "examWeight": 3.0
+  },
+  {
+    "id": "v-regulatory-signs",
+    "title": "Regulatory Signs: Squares and Rectangles",
+    "chapter": "V",
+    "order": 51,
+    "blurb": "White-on-black rules, red-on-white orders, and the red slash that always means NO.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "v-warning-signs",
+    "title": "Yellow Diamond Warning Signs",
+    "chapter": "V",
+    "order": 52,
+    "blurb": "Diamonds warn of danger ahead, usually with a picture instead of words.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "v-work-zones",
+    "title": "Construction and Work Zones",
+    "chapter": "V",
+    "order": 53,
+    "blurb": "Orange devices, channelling barricades and flaggers in highway work areas.",
+    "examWeight": 1.0
+  },
+  {
+    "id": "v-guide-signs",
+    "title": "Guide Signs and Route Markers",
+    "chapter": "V",
+    "order": 54,
+    "blurb": "Green, blue and brown signs that tell you where you are and where to go.",
+    "examWeight": 1.0
+  },
+  {
+    "id": "v-railroad-crossings",
+    "title": "Railroad Crossings",
+    "chapter": "V",
+    "order": 55,
+    "blurb": "Crossbucks, flashing signals, gates, and the rule that you must clear the tracks.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "v-traffic-signals",
+    "title": "Traffic Lights",
+    "chapter": "V",
+    "order": 56,
+    "blurb": "Green, yellow, red, arrows, and exactly when a turn on red is allowed.",
+    "examWeight": 3.0
+  },
+  {
+    "id": "v-flashers-and-ped-signals",
+    "title": "Flashers, Lane and Crosswalk Signals",
+    "chapter": "V",
+    "order": 57,
+    "blurb": "Flashing red and yellow, out-of-order signals, WALK signals and blind pedestrians.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "v-pavement-markings",
+    "title": "Pavement Markings",
+    "chapter": "V",
+    "order": 58,
+    "blurb": "What white and yellow, solid and broken lines allow and forbid.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "vi-speed-limits",
+    "title": "Speed Limits and the Basic Speed Law",
+    "chapter": "VI",
+    "order": 60,
+    "blurb": "Designated limits, school zones, and the duty to drive reasonably for conditions.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "vi-signals-and-turns",
+    "title": "Signalling and Turning",
+    "chapter": "VI",
+    "order": 61,
+    "blurb": "Signal 100 feet ahead, slow before the turn, and finish in the proper lane.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "vi-backing-and-turning-around",
+    "title": "Turning Around and Backing Up",
+    "chapter": "VI",
+    "order": 62,
+    "blurb": "Where a turnaround is illegal and how to back safely.",
+    "examWeight": 1.0
+  },
+  {
+    "id": "vi-parking",
+    "title": "Parking Rules",
+    "chapter": "VI",
+    "order": 63,
+    "blurb": "Direction of travel, prohibited distances, hills, and parallel parking.",
+    "examWeight": 1.5
+  },
+  {
+    "id": "vi-following-distance",
+    "title": "Following Distance",
+    "chapter": "VI",
+    "order": 64,
+    "blurb": "The three-to-four second rule and how much more you need in bad conditions.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "vi-lane-changes-and-passing",
+    "title": "Changing Lanes and Passing",
+    "chapter": "VI",
+    "order": 65,
+    "blurb": "Head checks, when a pass is finished, and the places passing is forbidden.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "vi-right-of-way",
+    "title": "Right-of-Way",
+    "chapter": "VI",
+    "order": 66,
+    "blurb": "Who yields to whom at intersections, on left turns, and for emergency vehicles.",
+    "examWeight": 3.0
+  },
+  {
+    "id": "vi-pedestrians",
+    "title": "Sharing the Road with Pedestrians",
+    "chapter": "VI",
+    "order": 67,
+    "blurb": "When a pedestrian has the right of way, and what pedestrians themselves must do.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "vi-school-buses",
+    "title": "School Bus Rules",
+    "chapter": "VI",
+    "order": 68,
+    "blurb": "When both directions must stop, the one exception, and the penalty for passing.",
+    "examWeight": 2.5
+  },
+  {
+    "id": "vi-headlights-and-tailgating",
+    "title": "Headlights and Tailgating",
+    "chapter": "VI",
+    "order": 69,
+    "blurb": "Dimming distances, when lights must be on, and how to shake a tailgater.",
+    "examWeight": 1.5
+  },
+  {
+    "id": "vi-motorcycles-and-slow-vehicles",
+    "title": "Motorcycles and Slow Vehicles",
+    "chapter": "VI",
+    "order": 70,
+    "blurb": "Why a motorcycle gets the whole lane and how to pass farm equipment safely.",
+    "examWeight": 1.5
+  },
+  {
+    "id": "vi-heavy-trucks",
+    "title": "Sharing the Road with Heavy Trucks",
+    "chapter": "VI",
+    "order": 71,
+    "blurb": "Stopping distance, the No-Zone blind spots, and merging back safely.",
+    "examWeight": 1.5
+  },
+  {
+    "id": "vi-other-road-users",
+    "title": "Bicycles, Animals and Other Road Users",
+    "chapter": "VI",
+    "order": 72,
+    "blurb": "Bicyclists' duties and equipment, horses, public buses and children at play.",
+    "examWeight": 1.5
+  },
+  {
     "id": "driving-habits",
     "title": "Good and Bad Driving Habits",
     "chapter": "VIII",

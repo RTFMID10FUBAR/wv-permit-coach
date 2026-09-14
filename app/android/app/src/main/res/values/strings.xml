@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">WV Permit Coach</string>
+    <string name="title_activity_main">WV Permit Coach</string>
+    <string name="package_name">org.wvpermitcoach.app</string>
+    <string name="custom_url_scheme">org.wvpermitcoach.app</string>
+</resources>

@@ -958,5 +958,1173 @@
       "sourceQuote": "have a responsibility to the driver following you to signal whenever you make a change in your driving",
       "verifiedDate": "2026-09-14"
     }
+  },
+  {
+    "id": "c-octagon-stop",
+    "topicId": "v-sign-shapes",
+    "label": "Octagon means stop",
+    "statement": "An eight-sided sign is always a stop sign: you must stop completely and give the right-of-way to pedestrians and all cross traffic before moving again.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Octagon",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "These eight-sided signs are reserved for stop signs.  These signs mean you must stop completely. Give the right-of-way to pedestrians and to all cross traffi  c before moving again.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-stop-position",
+    "topicId": "v-sign-shapes",
+    "label": "Where to stop at a stop sign",
+    "statement": "Stop behind the marked or unmarked crosswalk, or before entering the intersection if there are no markings, at a place where you can see traffic from all directions.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Octagon",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "At a stop sign, you must stop behind any marked or unmarked crosswalk (joining sidewalks on opposite sides of the street).  If there are no pavement markings or cross walks, you must stop before entering an intersection.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-yield-triangle",
+    "topicId": "v-sign-shapes",
+    "label": "Upside-down triangle means yield",
+    "statement": "A downward-pointing triangle is a yield sign, which requires you to yield the right-of-way to cross traffic or to merging traffic.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Triangle (upside down)",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "This shape requires that you yield the right-of-way to cross traffi  c or to merging traffi  c.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-pennant-nopass",
+    "topicId": "v-sign-shapes",
+    "label": "Pennant marks a no-passing zone",
+    "statement": "A pennant-shaped sign marks the beginning of a no-passing zone.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Pennant",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "This sign marks the beginning of a no-passing zone.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-pentagon-school",
+    "topicId": "v-sign-shapes",
+    "label": "Pentagon means school zone",
+    "statement": "A five-sided sign warns of a school zone ahead or marks a school crossing, where the maximum speed limit is 15 m.p.h. when children are present or when specified.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Pentagon",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "The maximum speed limit in a school zone is 15 m.p.h. when children are present or when specifi ed.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-smv-emblem",
+    "topicId": "v-sign-shapes",
+    "label": "Upright triangle marks a slow-moving vehicle",
+    "statement": "A right-side-up triangle with a reflective red border and fluorescent orange centre identifies a slow moving vehicle or a vehicle that has made an emergency stop.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Triangle (right side up)",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "A right side up triangular sign with a refl ective red border and fl uorescent orange center identifi es a slow moving vehicle or a vehicle which has made an emergency stop.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-reg-sign-colors",
+    "topicId": "v-regulatory-signs",
+    "label": "Regulatory sign colours",
+    "statement": "Most regulatory signs are white with black letters, and the sign is red with white letters when the message is very important.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Square & Rectangular Signs",
+      "pdfPage": 45,
+      "printedPage": 35,
+      "sourceQuote": "Most signs are white with black letters. When the message is very important, the sign is red with white letters.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-red-slash-no",
+    "topicId": "v-regulatory-signs",
+    "label": "A red slash always means NO",
+    "statement": "A red outline with a diagonal bar through it always means NO — whatever is pictured inside is prohibited.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Square & Rectangular Signs",
+      "pdfPage": 45,
+      "printedPage": 35,
+      "sourceQuote": "A red outline with a diagonal bar through it always means “NO.”",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-speed-limit-sign",
+    "topicId": "v-regulatory-signs",
+    "label": "Speed limit and advisory speed signs",
+    "statement": "A speed limit sign shows the fastest speed allowed under optimal weather and road conditions, while black-on-yellow advisory signs show a recommended safe speed.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Square & Rectangular Signs - Speed Limit",
+      "pdfPage": 45,
+      "printedPage": 35,
+      "sourceQuote": "These signs show the fastest speed you may drive under",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-warning-diamond",
+    "topicId": "v-warning-signs",
+    "label": "Yellow diamond warns of danger ahead",
+    "statement": "Diamond-shaped warning signs are yellow with black letters, usually appear without explanatory words, and warn of possible danger ahead.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Diamond & Warning Signs",
+      "pdfPage": 46,
+      "printedPage": 36,
+      "sourceQuote": "These  diamond-shaped signs will usually appear without  explanatory words beneath them.  These signs are yellow with black letters.  They warn of possible danger ahead and may have symbols or written warnings.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-warning-yellowgreen",
+    "topicId": "v-warning-signs",
+    "label": "Yellow-green pedestrian and school warnings",
+    "statement": "Pedestrian and school warning signs may be yellow-green with black letters rather than yellow.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Diamond & Warning Signs",
+      "pdfPage": 46,
+      "printedPage": 36,
+      "sourceQuote": "Pedestrian and school warning signs may be yellow-green with black letters.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-workzone-orange",
+    "topicId": "v-work-zones",
+    "label": "Orange is the work-zone colour",
+    "statement": "Orange is the basic colour for work-zone traffic control devices, which warn of unusual or potentially dangerous conditions in or near work areas.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Construction and Maintenance Signs and Devices",
+      "pdfPage": 47,
+      "printedPage": 37,
+      "sourceQuote": "The most commonly used traffi  c control devices are signs, barricades, drums, cones, tubes, fl ashing arrow panels, and fl aggers.  Orange is the basic color for these devices.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-guide-colors",
+    "topicId": "v-guide-signs",
+    "label": "Guide sign colours",
+    "statement": "Most guide signs are white on green, motorist services signs are white on blue, and park and recreation signs are white on brown.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Guide Signs",
+      "pdfPage": 48,
+      "printedPage": 38,
+      "sourceQuote": "Most guide signs are white on green. Motorist services signs are white on blue.   Signs for parks and public recreation areas are white on brown.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-rr-crossbuck",
+    "topicId": "v-railroad-crossings",
+    "label": "Railroad crossing signs",
+    "statement": "Railroad crossing signs may be round or diamond-shaped yellow signs with black symbols, or black letters on white bars in the shape of an X called a crossbuck.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Railroad Crossing Signs and Signals",
+      "pdfPage": 49,
+      "printedPage": 39,
+      "sourceQuote": "Railroad crossing signs can be round or diamond shaped, yellow with black symbols, or  black letters on white bars in the shape of an X called a crossbuck.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-rr-yield-trains",
+    "topicId": "v-railroad-crossings",
+    "label": "You must yield to all trains",
+    "statement": "You must yield to all trains, and failing to stop when the lights are flashing or a barrier is down will result in a citation.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Railroad Crossing Signs and Signals",
+      "pdfPage": 49,
+      "printedPage": 39,
+      "sourceQuote": "You must yield to all trains.  Failure to stop when lights are fl ashing, or a barrier is down, will result in a citation.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-rr-clear-tracks",
+    "topicId": "v-railroad-crossings",
+    "label": "Never enter a crossing you cannot clear",
+    "statement": "Do not enter a railroad crossing until the vehicle ahead has moved far enough that you can clear the tracks, or you may be trapped on them.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Railroad Crossing Signs and Signals",
+      "pdfPage": 49,
+      "printedPage": 39,
+      "sourceQuote": "you should not enter a railroad crossing until the vehicle ahead has moved far enough ahead that you can clear the tracks.  Otherwise, you may be trapped on the tracks and hit by another vehicle or by a train.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-green-signal",
+    "topicId": "v-traffic-signals",
+    "label": "Circular green",
+    "statement": "On a circular green you may enter the intersection and go straight, right or left unless signs or markings prohibit the movement, and a left turn must yield to oncoming vehicles.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Traffic Lights - Circular Green",
+      "pdfPage": 49,
+      "printedPage": 39,
+      "sourceQuote": "Drivers facing this signal may enter the intersection and go straight through, turn right, or left, unless, other traffi  c control devices (signs or pavement markings) prohibit certain movements.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-green-arrow",
+    "topicId": "v-traffic-signals",
+    "label": "Green arrow",
+    "statement": "A green arrow allows you to make the movement the arrow shows, and in a left-turn signal it usually means opposing traffic is stopped.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Traffic Lights - Green Arrow",
+      "pdfPage": 49,
+      "printedPage": 39,
+      "sourceQuote": "A green arrow may be shown alone or with other indications.  Drivers facing the signal may enter the intersection to make the movement shown by the arrow.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-yellow-signal",
+    "topicId": "v-traffic-signals",
+    "label": "Steady yellow",
+    "statement": "A steady yellow means the green is ending and will change to red, and you should only drive through it if your vehicle is already within the intersection.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Traffic Lights - Steady Circular Yellow",
+      "pdfPage": 49,
+      "printedPage": 39,
+      "sourceQuote": "This means that the green light is ending and will change to red.  You should only drive through a yellow light if the vehicle clearance is within the intersection.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-red-signal",
+    "topicId": "v-traffic-signals",
+    "label": "Steady red",
+    "statement": "Traffic facing a steady circular red must stop and remain stopped until another indication allows it to proceed, unless a green arrow permits the movement.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Traffic Lights - Steady Circular Red",
+      "pdfPage": 49,
+      "printedPage": 39,
+      "sourceQuote": "Traffi  c facing a steady circular red signal must stop unless making a movement permitted by a green arrow.  The driver must remain stopped until allowed to proceed by another indication.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-turn-on-red",
+    "topicId": "v-traffic-signals",
+    "label": "Turning on red",
+    "statement": "After a complete stop and yielding to all other traffic and pedestrians, you may turn right on red at two-way streets, or left on red from a one-way street onto another one-way street, unless signs prohibit it.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Traffic Lights - Steady Circular Red",
+      "pdfPage": 49,
+      "printedPage": 39,
+      "sourceQuote": "A driver may turn right on red at the intersection of two-way streets, or may turn left on red from a one-way street to another one-way street.  These turns may be made after yielding to all other traffi  c and pedestrians, and if no signs are posted to prohibit them.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-flashing-signals",
+    "topicId": "v-flashers-and-ped-signals",
+    "label": "Flashing red and flashing yellow",
+    "statement": "A circular flashing red is the same as a stop sign, while a circular flashing yellow lets you proceed through the intersection with caution.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Intersection Flashers",
+      "pdfPage": 50,
+      "printedPage": 40,
+      "sourceQuote": "A circular fl ashing red is the same as a stop sign; that is, drivers must come to",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-walk-signals",
+    "topicId": "v-flashers-and-ped-signals",
+    "label": "WALK and DON'T WALK signals",
+    "statement": "Crosswalk signals are traffic signals for pedestrians and must be obeyed: the hand or DON'T WALK means do not cross, and the walking man or WALK means it is safe to cross inside the lines.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Crosswalk Signals",
+      "pdfPage": 50,
+      "printedPage": 40,
+      "sourceQuote": "Crosswalk signals are traffi  c signals for pedestrians.  If these signals are in place, pedestrians are to obey them.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-blind-pedestrian",
+    "topicId": "v-flashers-and-ped-signals",
+    "label": "Blind pedestrians always have the right-of-way",
+    "statement": "A blind person on foot using a guide dog or service animal, or carrying a white cane or walking stick, has the right-of-way whether or not they are in a crosswalk.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Crosswalk Signals",
+      "pdfPage": 50,
+      "printedPage": 40,
+      "sourceQuote": "A blind person who is on foot and using a guide dog or other service animal, or is carrying a white cane or walking stick, has the right-of-way on a highway, street, or road regardless of whether they are in a crosswalk or not.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-line-colors",
+    "topicId": "v-pavement-markings",
+    "label": "White lines versus yellow lines",
+    "statement": "White lines separate lanes of traffic moving in the same direction, and yellow lines separate traffic moving in opposite directions.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pavement Markings",
+      "pdfPage": 51,
+      "printedPage": 41,
+      "sourceQuote": "WHITE lines separate traffic lanes moving in the SAME direction.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-broken-yellow",
+    "topicId": "v-pavement-markings",
+    "label": "Broken yellow line",
+    "statement": "A broken yellow line on your side of the road means you may pass when it is safe to do so.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pavement Markings - Broken Yellow",
+      "pdfPage": 51,
+      "printedPage": 41,
+      "sourceQuote": "Broken yellow lines separate traffic moving in opposite directions.  If this marking is on your side of the road, you may pass when it is safe.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-solid-yellow",
+    "topicId": "v-pavement-markings",
+    "label": "Solid yellow line",
+    "statement": "If a solid yellow line is on your side of the road, you must not pass.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pavement Markings - Solid Yellow",
+      "pdfPage": 51,
+      "printedPage": 41,
+      "sourceQuote": "If a solid yellow line is on your side of the road, you MUST NOT PASS.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-white-line-rules",
+    "topicId": "v-pavement-markings",
+    "label": "Broken and solid white lines",
+    "statement": "Broken white lines separate same-direction lanes and must not be straddled except when changing lanes, while solid white lines mark the pavement edge and forbid lane changes where they separate same-direction lanes.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pavement Markings - Broken White",
+      "pdfPage": 51,
+      "printedPage": 41,
+      "sourceQuote": "On roadways which have more than one (1) lane moving in one direction, traffic lanes are separated by broken white lines.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-diamond-lane",
+    "topicId": "v-pavement-markings",
+    "label": "Diamond lanes",
+    "statement": "White diamond shapes painted in a lane mean it is designated for car pools, bicycles or buses.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pavement Markings - Special Purpose Lanes",
+      "pdfPage": 51,
+      "printedPage": 41,
+      "sourceQuote": "White diamond shapes painted in the roadway to inform drivers the lane is designated for car pools, bicycles, or buses.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-center-left-turn-lane",
+    "topicId": "v-pavement-markings",
+    "label": "Centre left-turn lane",
+    "statement": "A centre left-turn lane is reserved for left turns from either direction and must never be used as a through or passing lane.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pavement Markings - Center Left-Turn Lanes",
+      "pdfPage": 51,
+      "printedPage": 41,
+      "sourceQuote": "Center Left-Turn Lanes - These lanes are reserved for left turns from either direction and are not to be used as through or passing lanes.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-stop-lines",
+    "topicId": "v-pavement-markings",
+    "label": "Stop lines and crosswalk lines",
+    "statement": "A wide white stop line marks where you must stop, and where there is no stop line or crosswalk you must stop before entering the intersection.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pavement Markings - Stop Lines",
+      "pdfPage": 51,
+      "printedPage": 41,
+      "sourceQuote": "Stop Lines - Wide white lines, painted across traffic lanes, mark where you must stop your vehicle at intersections.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-basic-speed-law",
+    "topicId": "vi-speed-limits",
+    "label": "Reasonable and prudent for conditions",
+    "statement": "West Virginia law prohibits driving at a speed greater than is reasonable and prudent for existing conditions, even when the posted limit is higher.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Speed Limits",
+      "pdfPage": 52,
+      "printedPage": 42,
+      "sourceQuote": "West Virginia law prohibits driving at a speed that is greater than reasonable and prudent for existing conditions.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-designated-speeds",
+    "topicId": "vi-speed-limits",
+    "label": "Designated speed limits",
+    "statement": "Unless otherwise posted, the designated limits are 70 mph on interstates, 55 mph on open county highways, 25 mph in business or residential areas, and 15 mph in a school zone while children are present.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Speed Limits",
+      "pdfPage": 52,
+      "printedPage": 42,
+      "sourceQuote": "Interstate - Maximum Speed 70mph unless otherwise posted",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-school-zone-def",
+    "topicId": "vi-speed-limits",
+    "label": "What counts as a school zone",
+    "statement": "A school zone is all school property plus any abutting street or highway, extending 125 feet along that street or highway from the school grounds.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Speed Limits",
+      "pdfPage": 52,
+      "printedPage": 42,
+      "sourceQuote": "A school zone is all school property, including school grounds, and/or any street or highway abutting the school grounds and extending 125 feet along the street or highway from the school grounds.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-signal-100-feet",
+    "topicId": "vi-signals-and-turns",
+    "label": "Signal at least 100 feet ahead",
+    "statement": "Signal at least 100 feet before you turn, and signal every time you change lanes, turn, enter or leave an interstate, or pull away from or over to the curb.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Driving Signals",
+      "pdfPage": 53,
+      "printedPage": 43,
+      "sourceQuote": "Get into the habit of signaling every time you make a change.  Signal at least 100 feet before you plan to turn.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-turn-mechanics",
+    "topicId": "vi-signals-and-turns",
+    "label": "Slow before the turn, finish in the proper lane",
+    "statement": "Slow down before making a turn rather than braking while turning, and always finish the turn in the proper lane.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Turning Maneuvers - Rules for turns",
+      "pdfPage": 54,
+      "printedPage": 44,
+      "sourceQuote": "Slow down before making turns.  Do not brake while turning.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-turn-wheels-straight",
+    "topicId": "vi-signals-and-turns",
+    "label": "Keep the wheels straight waiting to turn left",
+    "statement": "While waiting to turn left, do not turn your wheels to the left, because a bump from behind could push your vehicle into oncoming traffic.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Turning Maneuvers - Rules for turns",
+      "pdfPage": 54,
+      "printedPage": 44,
+      "sourceQuote": "When waiting to turn left, do not turn the wheels to the left.  Otherwise, a bump from behind could push your vehicle into oncoming traffi  c.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-uturn-500",
+    "topicId": "vi-backing-and-turning-around",
+    "label": "Where turning around is illegal",
+    "statement": "It is against the law to turn your vehicle around near a curve or near the crest of a hill where you cannot be seen by a vehicle approaching within 500 feet in either direction, or where signs prohibit turning.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Changing Direction",
+      "pdfPage": 55,
+      "printedPage": 45,
+      "sourceQuote": "it is against the law to turn your vehicle around near a curve, near the crest of a hill where you cannot be seen by another vehicle approaching within 500 feet in either direction, or where signs  prohibit turning.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-backing-safely",
+    "topicId": "vi-backing-and-turning-around",
+    "label": "Backing up safely",
+    "statement": "Before backing, check completely around the vehicle, keep looking to the rear while backing instead of depending on the mirror, and never back across traffic lanes or through an intersection.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Backing Up",
+      "pdfPage": 55,
+      "printedPage": 45,
+      "sourceQuote": "Before backing, check completely around your vehicle for people and/or other obstacles.  You should look to the front, sides and rear and continue to look to the rear while backing. Do not depend on your mirror.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-park-basics",
+    "topicId": "vi-parking",
+    "label": "Direction of parking and securing the vehicle",
+    "statement": "Park facing the same direction as traffic moves on that side of the street, and whenever you leave the vehicle turn off the engine and set the parking brake.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Parking Maneuvers",
+      "pdfPage": 55,
+      "printedPage": 45,
+      "sourceQuote": "Vehicles must always be parked in the same direction as the movement of traffi  c on that side of the street.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-park-distances",
+    "topicId": "vi-parking",
+    "label": "Prohibited parking distances",
+    "statement": "Parking is prohibited within 15 feet of a fire hydrant, 20 feet of a crosswalk at an intersection, 30 feet of a stop sign or traffic signal, and 50 feet of the nearest rail of a railroad crossing.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Prohibited Parking (§17C-13-3, W. Va. State Code)",
+      "pdfPage": 55,
+      "printedPage": 45,
+      "sourceQuote": "Within 15 feet of a fi re hydrant",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-park-hills",
+    "topicId": "vi-parking",
+    "label": "Parking on a grade",
+    "statement": "When you park or stop on a grade, turn the front wheels to the curb side of the highway so the vehicle will not roll, and set the emergency or parking brake.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Parking on Hills",
+      "pdfPage": 56,
+      "printedPage": 46,
+      "sourceQuote": "If you park or stop on a grade, turn the front wheels to the curb side of the highway so the vehicle will not roll.  Be sure to set the emergency or parking brake.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-parallel-18-inches",
+    "topicId": "vi-parking",
+    "label": "Parallel parking distance",
+    "statement": "A parallel parked vehicle must have its wheels within 18 inches of the curb and must face the direction of traffic.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Parallel Parking (§17C-13-4, W. Va. State Code)",
+      "pdfPage": 57,
+      "printedPage": 47,
+      "sourceQuote": "When parallel parking on the left side of the road, wheels should be within 18 inches of the left curb.  Park in the direction of the traffic.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-three-four-second",
+    "topicId": "vi-following-distance",
+    "label": "The three-to-four second rule",
+    "statement": "Pick a fixed object ahead, and if you reach it before finishing the count of one thousand three after the vehicle ahead passes it, you are following too closely.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Following Distance",
+      "pdfPage": 57,
+      "printedPage": 47,
+      "sourceQuote": "To use the three-to-four second rule, choose a fixed object on the road ahead (such as a signpost, tree, overpass, or bridge abutment).  When the vehicle ahead passes that object, begin to count “one thousand one, one thousand two, one thousand three.”",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-adverse-following",
+    "topicId": "vi-following-distance",
+    "label": "More seconds in bad conditions",
+    "statement": "Following distance should be at least four seconds when it is dark or raining, and at least six seconds on ice or snow.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Following Distance",
+      "pdfPage": 57,
+      "printedPage": 47,
+      "sourceQuote": "If it is dark or raining, the distance should be at least four seconds.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-lane-change-steps",
+    "topicId": "vi-lane-changes-and-passing",
+    "label": "How to change lanes",
+    "statement": "Check the mirrors, make a head check over your shoulder for the blind spot, watch for other drivers moving into the same lane, then signal and change lanes.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Changing Lanes",
+      "pdfPage": 58,
+      "printedPage": 48,
+      "sourceQuote": "Check over your left or right shoulder (head check) to make sure no one is in your blind spot.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-pass-return-right",
+    "topicId": "vi-lane-changes-and-passing",
+    "label": "Finishing a pass",
+    "statement": "Signal and return to the proper lane once you can see the front of the passed vehicle — both headlights — in your rear view mirror, and do not pass on the right unless a lane is designated for passing.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Passing",
+      "pdfPage": 58,
+      "printedPage": 48,
+      "sourceQuote": "Signal and return to the proper lane when you see the front of the vehicle (both headlights) you have passed in your rear view mirror. Passing on the right is not permissible unless there is a lane designated for passing.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-pass-prohibited",
+    "topicId": "vi-lane-changes-and-passing",
+    "label": "Where passing is prohibited",
+    "statement": "Passing is prohibited on a curve or hill where you cannot see oncoming traffic, within 100 feet of an intersection, bridge, viaduct, tunnel, underpass or railroad crossing, and when a solid yellow line is in your lane.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Passing is PROHIBITED in the following places",
+      "pdfPage": 58,
+      "printedPage": 48,
+      "sourceQuote": "On a curve or hill or at any place where you cannot see oncoming traffic.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-row-given",
+    "topicId": "vi-right-of-way",
+    "label": "Right-of-way is given, not taken",
+    "statement": "Right-of-way is something to be given rather than taken, so yield even when the rules are on your side if another driver does not follow them.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "Remember, in every situation, right-of-way is something to be given, not taken.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-row-entering",
+    "topicId": "vi-right-of-way",
+    "label": "Entering a road from a driveway or alley",
+    "statement": "When entering a public street or highway from an alley, private road or driveway, you must yield to traffic already on the roadway.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way or Yielding Situations",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "When entering a public street or highway from an alley, private road, or driveway, you must yield to traffic already on the roadway.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-row-right",
+    "topicId": "vi-right-of-way",
+    "label": "Arriving at the same time",
+    "statement": "At uncontrolled intersections and four-way stops, if you reach the intersection at the same time as another vehicle you yield to the driver on the right.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way or Yielding Situations",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "Uncontrolled intersections and four-way stop intersections - If you reach the intersection at the same time as another vehicle, yield to the driver on the right.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-row-left-turn",
+    "topicId": "vi-right-of-way",
+    "label": "Left turns yield to oncoming traffic",
+    "statement": "When making a left turn you must yield the right-of-way to oncoming traffic.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way or Yielding Situations",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "When making a left turn, you must yield the right-of-way to oncoming traffic.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-row-emergency",
+    "topicId": "vi-right-of-way",
+    "label": "Emergency vehicles",
+    "statement": "Yield to any emergency vehicle sounding a siren and flashing warning lights by pulling over to the right edge of the road, clear of the intersection, and stopping until it has passed.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way or Yielding Situations",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "You must yield to any emergency vehicle (ambulance, fire, or police vehicle) that is sounding a siren and flashing warning lights. Pull over to the right edge of the road, clear of the intersection, and stop until the emergency vehicle has passed.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-row-police-funeral",
+    "topicId": "vi-right-of-way",
+    "label": "Police officers and funeral processions",
+    "statement": "A police officer's directions overrule any sign, signal or road marking, and yielding to a funeral procession is a courtesy rather than a legal requirement.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way or Yielding Situations",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "Directions of a police officer overrule the message of any sign, signal, or road marking.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ped-row",
+    "topicId": "vi-pedestrians",
+    "label": "When pedestrians have the right of way",
+    "statement": "Pedestrians have the right of way in a crosswalk, when crossing a sidewalk that crosses an alley entrance or driveway, and when blind and using a cane or guide dog.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Sharing the Road with Pedestrians",
+      "pdfPage": 60,
+      "printedPage": 50,
+      "sourceQuote": "They are crossing a sidewalk that crosses an alley entrance or driveway.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ped-duties",
+    "topicId": "vi-pedestrians",
+    "label": "What pedestrians must do",
+    "statement": "Pedestrians must use crosswalks at intersections, walk on the left side facing oncoming traffic where there is no sidewalk, and must not walk on interstate highways.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Sharing the Road with Pedestrians - Pedestrians must",
+      "pdfPage": 60,
+      "printedPage": 50,
+      "sourceQuote": "When walking along a road where there is no sidewalk, walk on the left side facing oncoming traffic. Walk on the shoulder of the road, if possible.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-bus-stop-both",
+    "topicId": "vi-school-buses",
+    "label": "Both directions must stop",
+    "statement": "On all highways, streets, parking lots, private roads and driveways, traffic in both directions must stop before reaching a school bus with its red lights flashing that is receiving or discharging students.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "School Bus Rules",
+      "pdfPage": 60,
+      "printedPage": 50,
+      "sourceQuote": "On all highways, streets, parking lots, private roads or driveways, traffic in both directions must stop before reaching a school bus that has its red",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-bus-when-proceed",
+    "topicId": "vi-school-buses",
+    "label": "When you may move again",
+    "statement": "You may not proceed until the bus resumes motion, the school bus driver signals you to proceed, or the visual signals are no longer operating.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "School Bus Rules",
+      "pdfPage": 60,
+      "printedPage": 50,
+      "sourceQuote": "proceed until the bus resumes motion, or signaled by the school bus driver to proceed or the visual signals are no longer actuated.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-bus-interstate",
+    "topicId": "vi-school-buses",
+    "label": "The interstate exception",
+    "statement": "Only on interstate highways does traffic coming toward a school bus stopped on the other side of the median not have to stop.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "School Bus Rules",
+      "pdfPage": 60,
+      "printedPage": 50,
+      "sourceQuote": "Only ?on ?Interstate ?Highways ?does ?traffic coming ?toward ?a ?school ?bus stopped on the other side of the median not have to stop.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-bus-penalty",
+    "topicId": "vi-school-buses",
+    "label": "Penalty for passing a stopped school bus",
+    "statement": "A first offence of passing a stopped school bus carries a minimum 60-day driver's license suspension and a minimum $500 fine or confinement in jail for not more than six months.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "School Bus Rules",
+      "pdfPage": 60,
+      "printedPage": 50,
+      "sourceQuote": "The penalty for passing a stopped school bus is a minimum of 60 days driver’s license suspension and a minimum fine of $500 or confinement in jail for not more than six (6) months for the first offense.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-dim-headlights",
+    "topicId": "vi-headlights-and-tailgating",
+    "label": "Dimming distances",
+    "statement": "Dim your headlights within 500 feet of an approaching vehicle and within 200 feet of the vehicle in front of you.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Headlights and Their Use",
+      "pdfPage": 61,
+      "printedPage": 51,
+      "sourceQuote": "Dim your headlights within 500 feet of an approaching vehicle.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-headlights-when",
+    "topicId": "vi-headlights-and-tailgating",
+    "label": "When headlights must be on",
+    "statement": "Turn on your headlights from sunset to sunrise, during fog, smoke or rain, and any other time people and vehicles cannot be seen clearly at 500 feet.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Headlights and Their Use",
+      "pdfPage": 61,
+      "printedPage": 51,
+      "sourceQuote": "Turn on your headlights from sunset to sunrise, during fog, smoke, rain, or at any other time when persons and vehicles cannot be seen clearly at a distance of 500 feet.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-tailgating-response",
+    "topicId": "vi-headlights-and-tailgating",
+    "label": "Dealing with a tailgater",
+    "statement": "If a vehicle follows too closely, tap your brakes gently to flash the brake lights, slow down to encourage it to pass, and if that fails pull over and let it by.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Tailgating",
+      "pdfPage": 61,
+      "printedPage": 51,
+      "sourceQuote": "Tap your brakes gently to flash the brake lights and warn the tailgater.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-moto-full-lane",
+    "topicId": "vi-motorcycles-and-slow-vehicles",
+    "label": "A motorcycle is entitled to the whole lane",
+    "statement": "Motorcyclists are entitled to and need the entire lane, so expect them to move around in it and keep a minimum three-to-four second following distance.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Sharing the Road with Motorcycles",
+      "pdfPage": 61,
+      "printedPage": 51,
+      "sourceQuote": "Motorcyclists are entitled to and will need the entire lane to maneuver around possible hazards and traffic situations.  It is wise to keep a safe minimum three -to-four second following distance.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-moto-passing",
+    "topicId": "vi-motorcycles-and-slow-vehicles",
+    "label": "Following and passing a motorcycle",
+    "statement": "Stay farther back than you would behind a car because a motorcycle can stop much faster, and when passing go all the way into the other lane and wait until well down the road before returning.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Following and Passing Motorcycles",
+      "pdfPage": 62,
+      "printedPage": 52,
+      "sourceQuote": "Stay farther back than if you were behind a vehicle.  The motorcycle can usually slow or stop much faster than you can.  When passing, go all the way into the other lane.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-truck-stopping",
+    "topicId": "vi-heavy-trucks",
+    "label": "Trucks need far more room to stop",
+    "statement": "A fully loaded tractor-trailer travelling 55 mph needs three times the distance a car needs to stop.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Sharing the Road with Heavy Trucks",
+      "pdfPage": 62,
+      "printedPage": 52,
+      "sourceQuote": "A fully loaded tractor-trailer, traveling 55 mph, needs three (3) times the distance a vehicle needs to stop.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-truck-nozone",
+    "topicId": "vi-heavy-trucks",
+    "label": "The No-Zone",
+    "statement": "A truck's blind spots, called the No-Zone, are dangerous because the driver cannot see you there, and if you cannot see the driver's reflection in the side mirror you are in one.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "The “No-Zone”",
+      "pdfPage": 62,
+      "printedPage": 52,
+      "sourceQuote": "The easiest way to avoid lingering in the “No-Zone” is to look for the truck driver’s reflection in the side mirror. If you cannot see the driver’s reflection, you are in the truck driver’s blind spot.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-truck-merge",
+    "topicId": "vi-heavy-trucks",
+    "label": "Merging back in front of a truck",
+    "statement": "After passing a truck, allow two seconds before merging back in dry conditions, and four to six seconds of space in wet conditions.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Truck Safety",
+      "pdfPage": 63,
+      "printedPage": 53,
+      "sourceQuote": "In dry conditions use the two-second rule. After passing give two (2) seconds before merging to the right.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-bike-passing",
+    "topicId": "vi-other-road-users",
+    "label": "Passing a bicyclist",
+    "statement": "When passing a bicyclist, slow down, make sure they are aware of you and leave plenty of room, and if there is no room while traffic is approaching, wait.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Sharing the Road with Bicycles",
+      "pdfPage": 63,
+      "printedPage": 53,
+      "sourceQuote": "When passing a bicyclist, slow down, make sure they are aware of you, and leave plenty of room between him or her and your vehicle.  If there is no room to pass and traffic is approaching, wait until traffic has gone by before passing.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-bike-duties",
+    "topicId": "vi-other-road-users",
+    "label": "Bicyclists follow the same rules",
+    "statement": "Bicyclists must obey the same rules of the road as other drivers, ride in the same direction as traffic, and yield the right-of-way to pedestrians.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Bicyclists must",
+      "pdfPage": 64,
+      "printedPage": 54,
+      "sourceQuote": "Obey the same rules of the road as drivers of other vehicles.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-bike-equipment",
+    "topicId": "vi-other-road-users",
+    "label": "Required bicycle equipment",
+    "statement": "A bicycle needs a red rear reflector, brakes able to stop one wheel on dry level pavement, a bell audible at 100 feet, and after dark a white headlight visible at 500 feet.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Required bicycle equipment",
+      "pdfPage": 64,
+      "printedPage": 54,
+      "sourceQuote": "Bell or other device capable of giving a signal audible for a distance of at least 100 feet",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-animal-riders",
+    "topicId": "vi-other-road-users",
+    "label": "Horses and animal riders",
+    "statement": "Animal riders may use most public highways but not interstates, have the same rights and duties as drivers, and you must never sound your horn near a horse.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Sharing the Road with Animal Riders",
+      "pdfPage": 63,
+      "printedPage": 53,
+      "sourceQuote": "Animal riders may use most public highways, but they may not use interstate highways.  Persons riding animals have the same rights as  motor vehicle users and are subject to the same rules.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-public-bus-children",
+    "topicId": "vi-other-road-users",
+    "label": "Public buses and children at play",
+    "statement": "Traffic does not have to stop for a public bus but must watch for passengers crossing, and drivers must be extra careful wherever children are likely to be.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Sharing the Road with Public Buses",
+      "pdfPage": 64,
+      "printedPage": 54,
+      "sourceQuote": "While traffic does not have to stop for a public bus, please watch for passengers crossing the street as they are getting on and off the bus.",
+      "verifiedDate": "2026-09-14"
+    }
   }
 ]

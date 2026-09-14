@@ -1,1 +1,275 @@
-[]
+[
+  {
+    "key": "stop",
+    "name": "Stop sign",
+    "category": "regulatory",
+    "shape": "octagon",
+    "bg": "#B4121B",
+    "fg": "#FFFFFF",
+    "legend": "STOP",
+    "meaning": "An eight-sided sign reserved for stop signs.",
+    "action": "Stop completely, then give the right-of-way to pedestrians and all cross traffic before moving again.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Octagon",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "These eight-sided signs are reserved for stop signs.  These signs mean you must stop completely. Give the right-of-way to pedestrians and to all cross traffi  c before moving again.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "yield",
+    "name": "Yield sign",
+    "category": "regulatory",
+    "shape": "triangle-down",
+    "bg": "#FFFFFF",
+    "fg": "#B4121B",
+    "legend": "YIELD",
+    "meaning": "A downward-pointing triangle telling you that other traffic has the right-of-way.",
+    "action": "Slow down and yield the right-of-way to cross traffic or to merging traffic before you proceed.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Triangle (upside down)",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "This shape requires that you yield the right-of-way to cross traffi  c or to merging traffi  c.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "no-passing-pennant",
+    "name": "No-passing zone pennant",
+    "category": "warning",
+    "shape": "pennant",
+    "bg": "#FFCC00",
+    "fg": "#1A1A1A",
+    "legend": "NO PASSING ZONE",
+    "meaning": "A pennant-shaped sign on the left side of the road marking the start of a no-passing zone.",
+    "action": "Do not begin to pass from this point until the no-passing zone ends.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Pennant",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "This sign marks the beginning of a no-passing zone.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "railroad-advance",
+    "name": "Railroad advance warning",
+    "category": "railroad",
+    "shape": "circle",
+    "bg": "#FFCC00",
+    "fg": "#1A1A1A",
+    "legend": "RR",
+    "meaning": "A round yellow-and-black sign giving advance warning of a railroad crossing ahead.",
+    "action": "Slow down, look and listen for a train, and be ready to stop before the tracks.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Circle",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "This yellow-and-black sign gives advance warning of a railroad crossing ahead.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "school-zone",
+    "name": "School zone / school crossing",
+    "category": "school",
+    "shape": "pentagon",
+    "bg": "#C6DB00",
+    "fg": "#1A1A1A",
+    "legend": "SCHOOL",
+    "meaning": "A five-sided sign warning of a school zone ahead or marking a school crossing.",
+    "action": "Slow to the 15 m.p.h. school zone limit when children are present or when specified, and watch for children.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Single Message Shaped Signs - Pentagon",
+      "pdfPage": 44,
+      "printedPage": 34,
+      "sourceQuote": "The maximum speed limit in a school zone is 15 m.p.h. when children are present or when specifi ed.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "speed-limit",
+    "name": "Speed limit sign",
+    "category": "regulatory",
+    "shape": "rectangle-v",
+    "bg": "#FFFFFF",
+    "fg": "#1A1A1A",
+    "legend": "SPEED LIMIT",
+    "meaning": "A white rectangular regulatory sign showing the fastest speed allowed under optimal weather and road conditions.",
+    "action": "Do not exceed the posted number, and drive slower whenever conditions are less than ideal.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Square & Rectangular Signs - Speed Limit",
+      "pdfPage": 45,
+      "printedPage": 35,
+      "sourceQuote": "These signs show the fastest speed you may drive under",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "warning-diamond",
+    "name": "General warning sign",
+    "category": "warning",
+    "shape": "diamond",
+    "bg": "#FFCC00",
+    "fg": "#1A1A1A",
+    "legend": "",
+    "meaning": "A yellow diamond with black symbols or letters warning of possible danger ahead.",
+    "action": "Slow down, read the symbol and be ready for the hazard it shows.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Diamond & Warning Signs",
+      "pdfPage": 46,
+      "printedPage": 36,
+      "sourceQuote": "These  diamond-shaped signs will usually appear without  explanatory words beneath them.  These signs are yellow with black letters.  They warn of possible danger ahead and may have symbols or written warnings.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "pedestrian-warning",
+    "name": "Pedestrian crossing warning",
+    "category": "warning",
+    "shape": "diamond",
+    "bg": "#C6DB00",
+    "fg": "#1A1A1A",
+    "legend": "",
+    "meaning": "A pedestrian or school warning sign, which may be yellow-green with black letters.",
+    "action": "Slow down and watch for, and yield to, people walking across the road.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Diamond & Warning Signs",
+      "pdfPage": 46,
+      "printedPage": 36,
+      "sourceQuote": "Pedestrian and school warning signs may be yellow-green with black letters.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "construction-warning",
+    "name": "Construction and maintenance sign",
+    "category": "construction",
+    "shape": "diamond",
+    "bg": "#FF6A00",
+    "fg": "#1A1A1A",
+    "legend": "",
+    "meaning": "An orange diamond notifying drivers of unusual or potentially dangerous conditions in or near a work area.",
+    "action": "Slow down, expect workers, equipment and lane shifts, and follow the channelling devices.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Construction and Maintenance Signs",
+      "pdfPage": 47,
+      "printedPage": 37,
+      "sourceQuote": "Construction and maintenance signs are used to notify drivers of unusual or potentially dangerous conditions in or near work areas.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "railroad-crossbuck",
+    "name": "Railroad crossbuck",
+    "category": "railroad",
+    "shape": "crossbuck",
+    "bg": "#FFFFFF",
+    "fg": "#1A1A1A",
+    "legend": "RAILROAD CROSSING",
+    "meaning": "Black letters on white bars in the shape of an X, marking the railroad crossing itself.",
+    "action": "Yield to all trains, and never enter the crossing unless you can clear the tracks completely.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Railroad Crossing Signs and Signals",
+      "pdfPage": 49,
+      "printedPage": 39,
+      "sourceQuote": "Railroad crossing signs can be round or diamond shaped, yellow with black symbols, or  black letters on white bars in the shape of an X called a crossbuck.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "guide-green",
+    "name": "Guide sign",
+    "category": "guide",
+    "shape": "rectangle-h",
+    "bg": "#046A38",
+    "fg": "#FFFFFF",
+    "legend": "EXIT 1 MILE",
+    "meaning": "A white-on-green sign telling you where you are, what road you are on and how to get where you are going.",
+    "action": "Read it early and change lanes in good time for your exit or turn.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Guide Signs",
+      "pdfPage": 48,
+      "printedPage": 38,
+      "sourceQuote": "Most guide signs are white on green. Motorist services signs are white on blue.   Signs for parks and public recreation areas are white on brown.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "services-blue",
+    "name": "Motorist services sign",
+    "category": "services",
+    "shape": "rectangle-h",
+    "bg": "#00558C",
+    "fg": "#FFFFFF",
+    "legend": "SERVICES",
+    "meaning": "A white-on-blue sign showing what amenities are available off the exit.",
+    "action": "Use it to plan fuel, food and rest stops rather than making a late decision at the ramp.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Guide Signs",
+      "pdfPage": 48,
+      "printedPage": 38,
+      "sourceQuote": "Most guide signs are white on green. Motorist services signs are white on blue.   Signs for parks and public recreation areas are white on brown.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "recreation-brown",
+    "name": "Park and recreation sign",
+    "category": "guide",
+    "shape": "rectangle-h",
+    "bg": "#5B3A1E",
+    "fg": "#FFFFFF",
+    "legend": "STATE PARK",
+    "meaning": "A white-on-brown sign for parks and public recreation areas.",
+    "action": "Follow it for the park or recreation area; it is a guide sign, not a warning.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Guide Signs",
+      "pdfPage": 48,
+      "printedPage": 38,
+      "sourceQuote": "Most guide signs are white on green. Motorist services signs are white on blue.   Signs for parks and public recreation areas are white on brown.",
+      "verifiedDate": "2026-09-14"
+    }
+  }
+]

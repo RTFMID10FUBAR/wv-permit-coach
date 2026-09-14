@@ -1,0 +1,92 @@
+[
+  {
+    "chapter": "I",
+    "title": "Driver's License Information",
+    "pdf_start": 11,
+    "pdf_end": 25,
+    "printed_start": 1,
+    "printed_end": 15,
+    "file": "chapters/CH_I_Driver_s_License_Information.txt",
+    "chars": 44346
+  },
+  {
+    "chapter": "II",
+    "title": "Driver Responsibilities",
+    "pdf_start": 26,
+    "pdf_end": 30,
+    "printed_start": 16,
+    "printed_end": 20,
+    "file": "chapters/CH_II_Driver_Responsibilities.txt",
+    "chars": 14504
+  },
+  {
+    "chapter": "III",
+    "title": "Driving Impaired or Under the Influence",
+    "pdf_start": 31,
+    "pdf_end": 33,
+    "printed_start": 21,
+    "printed_end": 23,
+    "file": "chapters/CH_III_Driving_Impaired_or_Under_the_Influence.txt",
+    "chars": 9183
+  },
+  {
+    "chapter": "IV",
+    "title": "Examination Procedures and Requirements",
+    "pdf_start": 34,
+    "pdf_end": 43,
+    "printed_start": 24,
+    "printed_end": 33,
+    "file": "chapters/CH_IV_Examination_Procedures_and_Requirements.txt",
+    "chars": 24265
+  },
+  {
+    "chapter": "V",
+    "title": "Traffic Control Devices",
+    "pdf_start": 44,
+    "pdf_end": 51,
+    "printed_start": 34,
+    "printed_end": 41,
+    "file": "chapters/CH_V_Traffic_Control_Devices.txt",
+    "chars": 16413
+  },
+  {
+    "chapter": "VI",
+    "title": "Traffic Laws and Rules of the Road",
+    "pdf_start": 52,
+    "pdf_end": 66,
+    "printed_start": 42,
+    "printed_end": 56,
+    "file": "chapters/CH_VI_Traffic_Laws_and_Rules_of_the_Road.txt",
+    "chars": 32881
+  },
+  {
+    "chapter": "VII",
+    "title": "Driving on Interstates",
+    "pdf_start": 67,
+    "pdf_end": 70,
+    "printed_start": 57,
+    "printed_end": 60,
+    "file": "chapters/CH_VII_Driving_on_Interstates.txt",
+    "chars": 7998
+  },
+  {
+    "chapter": "VIII",
+    "title": "Defensive Driving",
+    "pdf_start": 71,
+    "pdf_end": 79,
+    "printed_start": 61,
+    "printed_end": 69,
+    "file": "chapters/CH_VIII_Defensive_Driving.txt",
+    "chars": 23200
+  },
+  {
+    "chapter": "IX",
+    "title": "Emergency Situations",
+    "pdf_start": 80,
+    "pdf_end": 87,
+    "printed_start": 70,
+    "printed_end": 77,
+    "file": "chapters/CH_IX_Emergency_Situations.txt",
+    "chars": 13765
+  }
+]

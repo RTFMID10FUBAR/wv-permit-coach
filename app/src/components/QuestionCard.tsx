@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useMemo, useState } from 'react';
 import { signByKey } from '../content';
 import type { Question } from '../content/types';
 import { createRng, presentChoices } from '../lib/random';
@@ -33,16 +33,14 @@ export function QuestionCard({
   position,
 }: Props) {
   const { settings } = useAppState();
-  const [revealed, setRevealed] = useState<number | null>(null);
+  // Keyed by question id so moving to the next question resets the reveal without an effect.
+  const [reveal, setReveal] = useState<{ questionId: string; index: number } | null>(null);
+  const revealed = reveal && reveal.questionId === question.id ? reveal.index : null;
 
   const presentation = useMemo(
     () => presentChoices(question.choices, question.correctAnswer, createRng(`${seed}:${question.id}`)),
     [question, seed],
   );
-
-  useEffect(() => {
-    setRevealed(null);
-  }, [question.id]);
 
   const sign = question.signKey ? signByKey.get(question.signKey) : undefined;
   const canSpeak = settings.speechEnabled && speechAvailable();
@@ -55,7 +53,7 @@ export function QuestionCard({
       return;
     }
     if (answered) return;
-    setRevealed(originalIndex);
+    setReveal({ questionId: question.id, index: originalIndex });
     onAnswered?.(originalIndex === question.correctAnswer);
   };
 

@@ -330,5 +330,292 @@
       "c-good-samaritan"
     ],
     "estimatedMinutes": 6
+  },
+  {
+    "id": "l-driving-habits",
+    "topicId": "driving-habits",
+    "title": "The Habits That Cause Crashes",
+    "rules": [
+      {
+        "text": "Bad driving habits result from laziness, impatience, inattention, arrogance and aggressiveness.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Bad Driving Habits",
+          "pdfPage": 71,
+          "printedPage": 61,
+          "sourceQuote": "Bad driving habits result from laziness, impatience, inattention,",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Always turn your head and look behind you before changing lanes, pulling out, or getting out on the traffic side.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Laziness",
+          "pdfPage": 71,
+          "printedPage": 61,
+          "sourceQuote": "Always turn your head and look behind you",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Come to a complete stop at a stop sign or red light regardless of traffic, even when turning right.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Impatience",
+          "pdfPage": 71,
+          "printedPage": 61,
+          "sourceQuote": "a complete stop at a stop sign or red light,",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "The handbook names five specific habits: laziness, impatience, inattention, arrogance and aggressiveness. Laziness is checking only the mirror instead of turning your head, and not bothering to signal. Impatience is rolling a stop sign because nothing is coming and someone is behind you. Inattention is letting your grip and your focus loosen until the car wanders with your mind. Arrogance is treating the car as an extension of your ego.",
+    "whyItMatters": "None of these are dramatic. They are all small, comfortable shortcuts that feel harmless every time you take them, which is exactly why they turn into habits. The handbook's point is that you have to notice them in yourself and correct them deliberately.",
+    "example": "You approach a red light intending to turn right. Nothing is coming and the car behind is close. Slowing to 5 mph and rolling through feels safe and considerate. It is still a failure to stop, and it is the habit that will eventually meet a pedestrian stepping off the kerb you did not check for.",
+    "conceptIds": [
+      "c-bad-habits",
+      "c-turn-head",
+      "c-signal-always",
+      "c-complete-stop",
+      "c-concentration"
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "l-light-night",
+    "topicId": "light-and-night",
+    "title": "Seeing and Being Seen",
+    "rules": [
+      {
+        "text": "Dim your headlight beams within 500 feet of an oncoming vehicle, and within 200 feet of a vehicle you are following.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Light Conditions",
+          "pdfPage": 72,
+          "printedPage": 62,
+          "sourceQuote": "dim your headlight beams within 500",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Turn on headlights, not just parking lights, when it begins to get dark or whenever visibility may be impaired.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Light Conditions",
+          "pdfPage": 72,
+          "printedPage": 62,
+          "sourceQuote": "It is the law and a good idea to turn on your headlights, not just your parking",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Overdriving your headlights means driving too fast to stop within the distance they light.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Light Conditions",
+          "pdfPage": 72,
+          "printedPage": 62,
+          "sourceQuote": "means driving too fast to stop safely within the distance clearly lit by your",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "Two numbers matter here and they are easy to mix up: 500 feet when you are meeting someone head-on, 200 feet when you are behind them. The bigger distance goes with the bigger risk — blinding an oncoming driver puts two cars in danger. Overdriving your headlights is the subtler idea: if your lights show 200 feet of road but you need 250 feet to stop, you are driving into a space you cannot see.",
+    "whyItMatters": "At night your stopping distance does not shrink, but your seeing distance does. Most drivers never adjust speed for that. And if oncoming headlights do catch you, the handbook's instruction is specific: slow down, keep right, and look at the right edge of the road rather than into the lights.",
+    "example": "On an unlit road at 55 mph you meet a car. You dim at about a football field and a half away, and as it passes you fix your eyes on the white line at the right edge rather than the glare, so you keep your lane and your night vision.",
+    "conceptIds": [
+      "c-dim-meeting",
+      "c-dim-following",
+      "c-overdrive",
+      "c-glare",
+      "c-headlights-law"
+    ],
+    "estimatedMinutes": 6
+  },
+  {
+    "id": "l-bad-weather",
+    "topicId": "bad-weather",
+    "title": "Rain, Ice, Fog and Standing Water",
+    "rules": [
+      {
+        "text": "Partial hydroplaning begins at about 35 mph; at 55 mph tires can ride entirely on top of the water with no friction to brake, accelerate or corner.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Hydroplaning",
+          "pdfPage": 73,
+          "printedPage": 63,
+          "sourceQuote": "partial hydroplaning occurs on the road at about 35 mph.",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Never attempt to drive across a flooded roadway. Six inches of water can float a small vehicle; two feet will carry most away.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Flooding",
+          "pdfPage": 73,
+          "printedPage": 63,
+          "sourceQuote": "As little as six (6) inches of water can float some smaller vehicles, while two",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "In fog or dense smoke, reduce speed and use low-beam headlights.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Fog and Smoke",
+          "pdfPage": 74,
+          "printedPage": 64,
+          "sourceQuote": "Use your low-beam headlights.",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "Rain is most dangerous when it starts, because oil and dirt lift off the surface into a slippery film before the rain washes it away. As speed rises, the tires stop cutting through water and start riding on it — around 35 mph partially, and by 55 mph potentially not touching the road at all. When that happens you have no braking, no acceleration and no steering. In fog, low beams are correct: high beams reflect off the fog straight back at you.",
+    "whyItMatters": "Flooded roads deserve their own warning. Nearly half of all flash flood deaths in the United States are motorists trapped in vehicles, and in many cases the road itself has already washed away under the water. Six inches is less than the depth of a kerb.",
+    "example": "A back road has water running across it after a storm. It looks shallow. You cannot see the surface underneath, you do not know whether the road is still there, and six inches is enough to float the car. You turn around.",
+    "conceptIds": [
+      "c-wet-start",
+      "c-hydroplane",
+      "c-hydroplane-prevent",
+      "c-flood-never",
+      "c-flood-depth",
+      "c-ice-brake",
+      "c-abs",
+      "c-fog"
+    ],
+    "estimatedMinutes": 8
+  },
+  {
+    "id": "l-vehicle-driver",
+    "topicId": "vehicle-driver-condition",
+    "title": "Is the Car Fit, and Are You?",
+    "rules": [
+      {
+        "text": "West Virginia requires an inspection of all vehicles every two years, and it is against the law to remove the inspection sticker.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Vehicle Conditions (State Inspection Law)",
+          "pdfPage": 74,
+          "printedPage": 64,
+          "sourceQuote": "West Virginia requires an",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "On a long trip take a 10-minute rest break at least every two hours, spent outside the vehicle.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Fatigue",
+          "pdfPage": 75,
+          "printedPage": 65,
+          "sourceQuote": "take a 10-minute rest break at least every two (2) hours.",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Gain self control over anger, worry or fear before driving.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Emotional States",
+          "pdfPage": 75,
+          "printedPage": 65,
+          "sourceQuote": "control these emotions and gain self control before driving.",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "The handbook's line is blunt: you cannot safely drive 10 feet or 10 miles in an unsafe vehicle. West Virginia backs that with a two-yearly inspection and a windscreen sticker you are not allowed to remove. On the driver's side, the four conditions named are fatigue, alcohol, emotional state, and defective eyesight or hearing — and fatigue gets a specific remedy: stop every two hours for ten minutes, out of the car.",
+    "whyItMatters": "Emotional state is the one people dismiss. Driving straight after a row, in tears or in a rage, is treated by the handbook as a condition affecting safe operation in the same list as alcohol and fatigue.",
+    "example": "Three hours into a drive you notice you have stopped checking mirrors and cannot remember the last few miles. That is the point the handbook's two-hour rule was meant to catch. You pull in, get out, walk around for ten minutes.",
+    "conceptIds": [
+      "c-inspection",
+      "c-defects",
+      "c-fatigue-break",
+      "c-fatigue-effect",
+      "c-emotions"
+    ],
+    "estimatedMinutes": 5
+  },
+  {
+    "id": "l-traffic-situations",
+    "topicId": "traffic-situations",
+    "title": "Six Ways Another Vehicle Can Put You in a Crash",
+    "rules": [
+      {
+        "text": "Assume the vehicle ahead may stop suddenly and without warning; keep a safe following distance.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Traffic Situations",
+          "pdfPage": 76,
+          "printedPage": 66,
+          "sourceQuote": "the vehicle ahead of you may stop suddenly and without",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Do not treat being passed as a challenge. Slow down and keep as far right as practical.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Traffic Situations",
+          "pdfPage": 76,
+          "printedPage": 66,
+          "sourceQuote": "slow down, and keep as close to the right side of the road as possible, making",
+          "verifiedDate": "2026-09-14"
+        }
+      },
+      {
+        "text": "Exceeding the speed limit when passing is illegal.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VIII",
+          "chapterTitle": "Defensive Driving",
+          "section": "Traffic Situations",
+          "pdfPage": 76,
+          "printedPage": 66,
+          "sourceQuote": "Exceeding the speed limit when passing is",
+          "verifiedDate": "2026-09-14"
+        }
+      }
+    ],
+    "plainEnglish": "The handbook lists six positions another vehicle can be in before a crash: ahead of you, tailgating you, oncoming, at an angle, passing you, and being passed by you. Each has its own defence. The one people get wrong most often is being passed — treating it as a challenge instead of easing off and letting it happen causes sideswipes and run-off-road crashes.",
+    "whyItMatters": "Note the handbook's test for passing: if you have to speed to pass, you probably do not need to pass. Exceeding the limit to overtake is illegal, so a pass that only works above the limit is not a legal pass.",
+    "example": "Someone comes up fast behind you on a two-lane road and pulls out to pass. Rather than holding your speed, you ease off slightly and move right within your lane, which shortens the time they spend on the wrong side of the road.",
+    "conceptIds": [
+      "c-following-ahead",
+      "c-being-passed",
+      "c-passing-speed",
+      "c-tailgater"
+    ],
+    "estimatedMinutes": 5
   }
 ]

@@ -25,14 +25,24 @@ function formatClock(seconds: number): string {
 }
 
 export function MockExam() {
-  const { rng, sessionId, answerQuestion, saveMock } = useAppState();
+  const { sessionId, answerQuestion, saveMock } = useAppState();
   const [attempt, setAttempt] = useState(0);
-  const startedAt = useRef<number>(Date.now());
+  const startedAt = useRef<number>(0);
 
-  const plan = useMemo(() => {
+  const plan = useMemo(
+    () =>
+      buildMockExam(
+        content.questions,
+        content.topics,
+        createRng(`${sessionId}:exam:${attempt}`),
+        MOCK_SIZE,
+      ),
+    [sessionId, attempt],
+  );
+
+  useEffect(() => {
     startedAt.current = Date.now();
-    return buildMockExam(content.questions, content.topics, createRng(`${sessionId}:exam:${attempt}`), MOCK_SIZE);
-  }, [sessionId, attempt]);
+  }, [plan]);
 
   const exam = plan.questions;
   const [index, setIndex] = useState(0);
@@ -43,10 +53,11 @@ export function MockExam() {
   const submit = useCallback(
     (reason: 'submitted' | 'time') => {
       if (result || exam.length === 0) return;
+      const now = Date.now();
       const finished = scoreMock(exam, chosen, {
-        id: `mock-${Date.now()}`,
-        startedAt: startedAt.current,
-        finishedAt: Date.now(),
+        id: `mock-${now}`,
+        startedAt: startedAt.current || now,
+        finishedAt: now,
       });
       for (const question of exam) {
         answerQuestion(question, chosen[question.id] === question.correctAnswer);

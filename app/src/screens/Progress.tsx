@@ -9,7 +9,7 @@ import { Link } from '../router';
 import { useAppState } from '../state/useAppState';
 
 export function ProgressScreen() {
-  const { records, mocks, lessons, storageKind } = useAppState();
+  const { records, mocks, lessons, storageKind, answeredQuestionIds } = useAppState();
   const [summary, setSummary] = useState<string | null>(null);
 
   const ranked = useMemo(
@@ -24,8 +24,9 @@ export function ProgressScreen() {
         records,
         mocks,
         lessons,
+        seenQuestionIds: [...answeredQuestionIds],
       }),
-    [records, mocks, lessons],
+    [records, mocks, lessons, answeredQuestionIds],
   );
 
   const answered = exportData.questionCounts.answered;
@@ -40,6 +41,10 @@ export function ProgressScreen() {
         <div className="stat">
           <span className="stat-value">{exportData.questionCounts.correct}</span>
           <span className="stat-label">correct</span>
+        </div>
+        <div className="stat">
+          <span className="stat-value">{exportData.questionCounts.distinctQuestions}</span>
+          <span className="stat-label">distinct questions seen</span>
         </div>
         <div className="stat">
           <span className="stat-value">{mocks.length}</span>

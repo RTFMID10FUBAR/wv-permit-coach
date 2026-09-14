@@ -526,5 +526,437 @@
       "sourceQuote": "care at the scene of a crash, without pay, is liable for any civil damages",
       "verifiedDate": "2026-09-14"
     }
+  },
+  {
+    "id": "c-bad-habits",
+    "topicId": "driving-habits",
+    "label": "The five bad driving habits",
+    "statement": "Bad driving habits result from laziness, impatience, inattention, arrogance and aggressiveness.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Bad Driving Habits",
+      "pdfPage": 71,
+      "printedPage": 61,
+      "sourceQuote": "Bad driving habits result from laziness, impatience, inattention,",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-turn-head",
+    "topicId": "driving-habits",
+    "label": "Turn your head, don't just use mirrors",
+    "statement": "Always turn your head and look behind you for traffic before changing lanes, pulling from the curb or opening your door.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Laziness",
+      "pdfPage": 71,
+      "printedPage": 61,
+      "sourceQuote": "Always turn your head and look behind you",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-signal-always",
+    "topicId": "driving-habits",
+    "label": "Always signal your intention",
+    "statement": "Always signal before turning, changing lanes, or driving away from the curb.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Laziness",
+      "pdfPage": 71,
+      "printedPage": 61,
+      "sourceQuote": "Always signal your intention before turning, changing",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-complete-stop",
+    "topicId": "driving-habits",
+    "label": "A complete stop is required",
+    "statement": "You must come to a complete stop at a stop sign or red light regardless of traffic, even when making a right turn.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Impatience",
+      "pdfPage": 71,
+      "printedPage": 61,
+      "sourceQuote": "a complete stop at a stop sign or red light,",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-concentration",
+    "topicId": "driving-habits",
+    "label": "Driving is a full-time job",
+    "statement": "The driver's seat is no place for daydreaming, window shopping or distracting conversation.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Concentration",
+      "pdfPage": 72,
+      "printedPage": 62,
+      "sourceQuote": "of concentration can result in a driver's failure to be observant enough to avoid a crash.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-dim-meeting",
+    "topicId": "light-and-night",
+    "label": "Dim within 500 feet when meeting",
+    "statement": "Dim your headlight beams within 500 feet of an oncoming vehicle.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Light Conditions",
+      "pdfPage": 72,
+      "printedPage": 62,
+      "sourceQuote": "dim your headlight beams within 500",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-dim-following",
+    "topicId": "light-and-night",
+    "label": "Dim within 200 feet when following",
+    "statement": "Dim your headlights within 200 feet of a vehicle you are following.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Light Conditions",
+      "pdfPage": 72,
+      "printedPage": 62,
+      "sourceQuote": "dim your headlights within 200 feet of the",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-overdrive",
+    "topicId": "light-and-night",
+    "label": "Overdriving your headlights",
+    "statement": "Overdriving your headlights means driving too fast to stop safely within the distance clearly lit by them.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Light Conditions",
+      "pdfPage": 72,
+      "printedPage": 62,
+      "sourceQuote": "means driving too fast to stop safely within the distance clearly lit by your",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-glare",
+    "topicId": "light-and-night",
+    "label": "Oncoming headlight glare",
+    "statement": "Looking directly into oncoming headlights causes momentary blindness; slow down, keep right and look at the right edge of the road.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Light Conditions",
+      "pdfPage": 72,
+      "printedPage": 62,
+      "sourceQuote": "Looking directly into oncoming headlights causes momentary blindness.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-headlights-law",
+    "topicId": "light-and-night",
+    "label": "Headlights, not parking lights",
+    "statement": "Turn on headlights rather than parking lights when it begins to get dark or whenever visibility may be impaired.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Light Conditions",
+      "pdfPage": 72,
+      "printedPage": 62,
+      "sourceQuote": "It is the law and a good idea to turn on your headlights, not just your parking",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-wet-start",
+    "topicId": "bad-weather",
+    "label": "The start of a light rain is worst",
+    "statement": "At the start of a light rain, oil, dirt and water form a slippery film that increases stopping distance.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Rain",
+      "pdfPage": 73,
+      "printedPage": 63,
+      "sourceQuote": "a mixture of oil, dirt, and water form a slippery film on the road.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-hydroplane",
+    "topicId": "bad-weather",
+    "label": "Hydroplaning speeds",
+    "statement": "Partial hydroplaning begins around 35 mph, and at 55 mph tires can ride entirely on top of the water.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Hydroplaning",
+      "pdfPage": 73,
+      "printedPage": 63,
+      "sourceQuote": "partial hydroplaning occurs on the road at about 35 mph.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-hydroplane-prevent",
+    "topicId": "bad-weather",
+    "label": "Preventing hydroplaning",
+    "statement": "Slow down in rain, keep tires properly inflated, and replace tires when tread wear indicators are visible.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Hydroplaning",
+      "pdfPage": 73,
+      "printedPage": 63,
+      "sourceQuote": "Keep tires properly inflated.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-flood-never",
+    "topicId": "bad-weather",
+    "label": "Never drive into flood water",
+    "statement": "Never attempt to drive across a flooded roadway.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Flooding",
+      "pdfPage": 73,
+      "printedPage": 63,
+      "sourceQuote": "Never attempt to drive across a flooded roadway.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-flood-depth",
+    "topicId": "bad-weather",
+    "label": "How little water it takes",
+    "statement": "As little as six inches of water can float some smaller vehicles, and two feet will carry most away.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Flooding",
+      "pdfPage": 73,
+      "printedPage": 63,
+      "sourceQuote": "As little as six (6) inches of water can float some smaller vehicles, while two",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ice-brake",
+    "topicId": "bad-weather",
+    "label": "Braking on ice and snow",
+    "statement": "On ice or packed snow apply the brakes gently and smoothly, releasing at the first hint the wheels are slipping.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Snow and Ice",
+      "pdfPage": 74,
+      "printedPage": 64,
+      "sourceQuote": "always apply the brakes gently and smoothly.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-abs",
+    "topicId": "bad-weather",
+    "label": "Anti-lock brakes and steering",
+    "statement": "With anti-lock brakes you keep the ability to steer while braking; without them you cannot steer unless you pump the brakes.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Snow and Ice",
+      "pdfPage": 74,
+      "printedPage": 64,
+      "sourceQuote": "In a vehicle equipped with anti-lock brakes, you maintain the ability to steer while braking.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-fog",
+    "topicId": "bad-weather",
+    "label": "Driving in fog or smoke",
+    "statement": "In fog or dense smoke, reduce speed, be prepared for an emergency stop, and use low-beam headlights.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Fog and Smoke",
+      "pdfPage": 74,
+      "printedPage": 64,
+      "sourceQuote": "Use your low-beam headlights.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-inspection",
+    "topicId": "vehicle-driver-condition",
+    "label": "WV inspection every two years",
+    "statement": "West Virginia requires an inspection of all vehicles every two years, and removing the inspection sticker is against the law.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Vehicle Conditions (State Inspection Law)",
+      "pdfPage": 74,
+      "printedPage": 64,
+      "sourceQuote": "West Virginia requires an",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-defects",
+    "topicId": "vehicle-driver-condition",
+    "label": "Common defects that cause crashes",
+    "statement": "Common vehicle defects that cause crashes include faulty tires, brakes, lights, wipers, defrosters, exhaust, horn, mirrors and unusable seat belts.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Vehicle Conditions (State Inspection Law)",
+      "pdfPage": 75,
+      "printedPage": 65,
+      "sourceQuote": "Common vehicle defects that cause crashes are faulty tires, brakes, lights, windshield wipers, defrosters",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-fatigue-break",
+    "topicId": "vehicle-driver-condition",
+    "label": "Rest breaks on long trips",
+    "statement": "On a long trip take a 10-minute rest break at least every two hours, spent outside the vehicle.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Fatigue",
+      "pdfPage": 75,
+      "printedPage": 65,
+      "sourceQuote": "take a 10-minute rest break at least every two (2) hours.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-fatigue-effect",
+    "topicId": "vehicle-driver-condition",
+    "label": "What fatigue does",
+    "statement": "Being tired dulls your mind and slows your reaction time.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Fatigue",
+      "pdfPage": 75,
+      "printedPage": 65,
+      "sourceQuote": "Being tired dulls your mind and slows your reaction time.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-emotions",
+    "topicId": "vehicle-driver-condition",
+    "label": "Emotional state before driving",
+    "statement": "Gain self control over anger, worry or fear before driving.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Emotional States",
+      "pdfPage": 75,
+      "printedPage": 65,
+      "sourceQuote": "control these emotions and gain self control before driving.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-following-ahead",
+    "topicId": "traffic-situations",
+    "label": "The vehicle ahead may stop suddenly",
+    "statement": "Always assume the vehicle ahead may stop suddenly and without warning, and keep a safe following distance.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Traffic Situations",
+      "pdfPage": 76,
+      "printedPage": 66,
+      "sourceQuote": "the vehicle ahead of you may stop suddenly and without",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-being-passed",
+    "topicId": "traffic-situations",
+    "label": "When another vehicle passes you",
+    "statement": "Do not treat being passed as a challenge: slow down, keep as close to the right as possible and make it easier for them to pass.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Traffic Situations",
+      "pdfPage": 76,
+      "printedPage": 66,
+      "sourceQuote": "slow down, and keep as close to the right side of the road as possible, making",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-passing-speed",
+    "topicId": "traffic-situations",
+    "label": "Speeding to pass is illegal",
+    "statement": "Exceeding the speed limit when passing is illegal; if you have to speed to pass, you probably do not need to pass.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Traffic Situations",
+      "pdfPage": 76,
+      "printedPage": 66,
+      "sourceQuote": "Exceeding the speed limit when passing is",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-tailgater",
+    "topicId": "traffic-situations",
+    "label": "Your duty to the driver behind",
+    "statement": "You have a responsibility to the driver following you to signal whenever you change your driving pattern.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Traffic Situations",
+      "pdfPage": 76,
+      "printedPage": 66,
+      "sourceQuote": "have a responsibility to the driver following you to signal whenever you make a change in your driving",
+      "verifiedDate": "2026-09-14"
+    }
   }
 ]

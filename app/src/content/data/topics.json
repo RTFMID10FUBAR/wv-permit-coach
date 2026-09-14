@@ -24,6 +24,46 @@
     "examWeight": 1.0
   },
   {
+    "id": "driving-habits",
+    "title": "Good and Bad Driving Habits",
+    "chapter": "VIII",
+    "order": 80,
+    "blurb": "The five habits the handbook names as causes of crashes — and what to do instead.",
+    "examWeight": 1.0
+  },
+  {
+    "id": "light-and-night",
+    "title": "Light Conditions and Night Driving",
+    "chapter": "VIII",
+    "order": 81,
+    "blurb": "Headlight law, dimming distances, glare, and overdriving your headlights.",
+    "examWeight": 1.3
+  },
+  {
+    "id": "bad-weather",
+    "title": "Rain, Snow, Fog and Flooding",
+    "chapter": "VIII",
+    "order": 82,
+    "blurb": "Hydroplaning, wet pavement, ice, fog, and why you never drive into water.",
+    "examWeight": 1.4
+  },
+  {
+    "id": "vehicle-driver-condition",
+    "title": "Vehicle and Driver Condition",
+    "chapter": "VIII",
+    "order": 83,
+    "blurb": "WV inspection law, common defects, fatigue and emotional state.",
+    "examWeight": 1.0
+  },
+  {
+    "id": "traffic-situations",
+    "title": "Traffic Situations and Passing",
+    "chapter": "VIII",
+    "order": 84,
+    "blurb": "The six positions another vehicle can take before a crash, and passing safely.",
+    "examWeight": 1.2
+  },
+  {
     "id": "vehicle-checks",
     "title": "Checking Your Vehicle",
     "chapter": "IX",

@@ -8,6 +8,8 @@ export interface ExportInput {
   records: Record<string, ConceptMastery>;
   mocks: readonly MockResult[];
   lessons: readonly LessonCompletion[];
+  /** Distinct questions this learner has ever answered. */
+  seenQuestionIds?: readonly string[];
   now?: number;
 }
 
@@ -41,9 +43,7 @@ export function buildProgressExport(input: ExportInput): ProgressExport {
       answered,
       correct,
       incorrect: answered - correct,
-      distinctQuestions: new Set(
-        Object.values(input.records).flatMap((r) => r.missedQuestionIds),
-      ).size,
+      distinctQuestions: new Set(input.seenQuestionIds ?? []).size,
     },
     mockScores: input.mocks.map((m) => ({
       date: new Date(m.finishedAt).toISOString(),

@@ -1,11 +1,12 @@
-import { createContext, useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { ReactNode } from 'react';
 import type { Question } from '../content/types';
 import { getRecord, recordAttempt } from '../lib/mastery';
 import { createRng, hashSeed } from '../lib/random';
-import type { Rng } from '../lib/random';
 import { openProgressStore } from '../lib/storage';
 import type { ProgressStore } from '../lib/storage';
+import { AppStateContext } from './context';
+import type { AppStateValue } from './context';
 import type {
   ConceptMastery,
   LessonCompletion,
@@ -15,26 +16,6 @@ import type {
 } from '../lib/types';
 import { DEFAULT_SETTINGS } from '../lib/types';
 
-export interface AppStateValue {
-  loading: boolean;
-  storageKind: string;
-  sessionId: string;
-  rng: Rng;
-  records: Record<string, ConceptMastery>;
-  mocks: MockResult[];
-  lessons: LessonCompletion[];
-  signStats: Record<string, SignStat>;
-  settings: Settings;
-  answeredQuestionIds: Set<string>;
-  answerQuestion(question: Question, correct: boolean): void;
-  recordSign(key: string, correct: boolean): void;
-  saveMock(result: MockResult): void;
-  completeLesson(lessonId: string, markedMastered: boolean): void;
-  updateSettings(patch: Partial<Settings>): void;
-  resetProgress(): void;
-}
-
-export const AppStateContext = createContext<AppStateValue | null>(null);
 
 function newSessionId(): string {
   const random = Math.floor(Math.random() * 0xffffff).toString(16);
@@ -50,10 +31,10 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
   const [lessons, setLessons] = useState<LessonCompletion[]>([]);
   const [signStats, setSignStats] = useState<Record<string, SignStat>>({});
   const [settings, setSettings] = useState<Settings>(DEFAULT_SETTINGS);
-  const [seenCount, setSeenCount] = useState(0);
+  const [seenQuestions, setSeenQuestions] = useState<string[]>([]);
   const seenQuestionsRef = useRef<Set<string>>(new Set());
 
-  const sessionId = useMemo(newSessionId, []);
+  const sessionId = useMemo(() => newSessionId(), []);
   const rng = useMemo(() => createRng(hashSeed(sessionId)), [sessionId]);
 
   useEffect(() => {
@@ -73,7 +54,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
         ]);
       if (cancelled) return;
       seenQuestionsRef.current = new Set(loadedSeen);
-      setSeenCount(loadedSeen.length);
+      setSeenQuestions(loadedSeen);
       setRecords(loadedRecords);
       setMocks(loadedMocks);
       setLessons(loadedLessons);
@@ -87,18 +68,16 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
     };
   }, []);
 
-  const answeredQuestionIds = useMemo(() => {
-    void seenCount;
-    return new Set(seenQuestionsRef.current);
-  }, [seenCount]);
+  const answeredQuestionIds = useMemo(() => new Set(seenQuestions), [seenQuestions]);
 
   const answerQuestion = useCallback(
     (question: Question, correct: boolean) => {
       const firstAttempt = !seenQuestionsRef.current.has(question.id);
       if (firstAttempt) {
         seenQuestionsRef.current.add(question.id);
-        setSeenCount(seenQuestionsRef.current.size);
-        void storeRef.current?.setSeenQuestions([...seenQuestionsRef.current]);
+        const ids = [...seenQuestionsRef.current];
+        setSeenQuestions(ids);
+        void storeRef.current?.setSeenQuestions(ids);
       }
       setRecords((prev) => {
         const existing = getRecord(prev, question.conceptId);
@@ -157,7 +136,7 @@ export function AppStateProvider({ children }: { children: ReactNode }) {
     setLessons([]);
     setSignStats({});
     seenQuestionsRef.current = new Set();
-    setSeenCount(0);
+    setSeenQuestions([]);
     void storeRef.current?.clearProgress();
   }, []);
 

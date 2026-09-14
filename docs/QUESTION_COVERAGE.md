@@ -2,30 +2,48 @@
 
 Generated 2026-09-14 by `tools/gen_coverage.py` — do not edit by hand.
 
-**316 questions** · 134 concepts · 33 lessons · 33 topics · 13 signs
+**584 questions** · 267 concepts · 56 lessons · 56 topics · 13 signs
 
 
 ## By handbook chapter
 
 | Chapter | Title | Printed pages | Questions | Pages cited | Status |
 |---|---|---|---|---|---|
-| I | Driver's License Information | 1–15 | 0 | — | **NOT COVERED** |
-| II | Driver Responsibilities | 16–20 | 0 | — | **NOT COVERED** |
+| I | Driver's License Information | 1–15 | 92 | 11 of 15 | covered |
+| II | Driver Responsibilities | 16–20 | 56 | 4 of 5 | covered |
 | III | Driving Impaired or Under the Influence | 21–23 | 28 | 3 of 3 | covered |
-| IV | Examination Procedures and Requirements | 24–33 | 0 | — | **NOT COVERED** |
+| IV | Examination Procedures and Requirements | 24–33 | 56 | 7 of 10 | covered |
 | V | Traffic Control Devices | 34–41 | 80 | 8 of 8 | covered |
 | VI | Traffic Laws and Rules of the Road | 42–56 | 116 | 13 of 15 | covered |
-| VII | Driving on Interstates | 57–60 | 0 | — | **NOT COVERED** |
-| VIII | Defensive Driving | 61–69 | 54 | 6 of 9 | covered |
+| VII | Driving on Interstates | 57–60 | 50 | 4 of 4 | covered |
+| VIII | Defensive Driving | 61–69 | 68 | 7 of 9 | covered |
 | IX | Emergency Situations | 70–77 | 38 | 5 of 8 | covered |
 
 ## By topic
 
 | Topic | Chapter | Concepts | Lessons | Questions | Exam weight |
 |---|---|---|---|---|---|
+| Who Must Be Licensed | I | 4 | 1 | 8 | 1.0 |
+| Card Types and Proof Documents | I | 6 | 1 | 12 | 1.0 |
+| Instruction Permit — Ages 18 and Over | I | 4 | 1 | 8 | 1.3 |
+| Level 1 GDL Instruction Permit | I | 9 | 1 | 19 | 2.0 |
+| Level 2 GDL Intermediate License | I | 9 | 1 | 19 | 2.0 |
+| GDL Convictions and Level 3 | I | 6 | 1 | 12 | 1.7 |
+| Your Card: Colour, Restrictions and Renewal | I | 4 | 1 | 8 | 0.8 |
+| New Residents and Expired Licences | I | 3 | 1 | 6 | 0.8 |
+| Driver Responsibilities and Crash Reporting | II | 5 | 1 | 10 | 1.3 |
+| Compulsory Insurance | II | 5 | 1 | 10 | 1.3 |
+| Phones and Electronic Devices | II | 6 | 1 | 12 | 1.2 |
+| The Point System | II | 6 | 1 | 12 | 1.7 |
+| Suspension and Revocation | II | 6 | 1 | 12 | 1.3 |
 | Alcohol and Your Driving | III | 5 | 1 | 10 | 1.2 |
 | WV Alcohol Laws and DUI | III | 7 | 1 | 14 | 1.4 |
 | Drugs and Drowsy Driving | III | 2 | 1 | 4 | 1.0 |
+| Vision Screening | IV | 5 | 1 | 10 | 1.2 |
+| The Knowledge Examination | IV | 5 | 1 | 10 | 1.8 |
+| The Vehicle You Test In | IV | 5 | 1 | 10 | 1.2 |
+| The Road Skills Test | IV | 6 | 1 | 12 | 1.4 |
+| Automatic Failures and Retesting | IV | 7 | 1 | 14 | 1.6 |
 | Sign Shapes and What They Mean | V | 6 | 1 | 15 | 3.0 |
 | Regulatory Signs: Squares and Rectangles | V | 3 | 1 | 7 | 2.0 |
 | Yellow Diamond Warning Signs | V | 2 | 1 | 4 | 2.0 |
@@ -48,11 +66,16 @@ Generated 2026-09-14 by `tools/gen_coverage.py` — do not edit by hand.
 | Motorcycles and Slow Vehicles | VI | 2 | 1 | 6 | 1.5 |
 | Sharing the Road with Heavy Trucks | VI | 3 | 1 | 8 | 1.5 |
 | Bicycles, Animals and Other Road Users | VI | 5 | 1 | 13 | 1.5 |
+| Interstates: Lanes, Numbers and Planning | VII | 6 | 1 | 12 | 1.2 |
+| Entering and Merging | VII | 7 | 1 | 14 | 1.8 |
+| Exiting and Stopping | VII | 5 | 1 | 10 | 1.4 |
+| Speed, Weather and Breakdowns | VII | 7 | 1 | 14 | 1.4 |
 | Good and Bad Driving Habits | VIII | 5 | 1 | 12 | 1.0 |
 | Light Conditions and Night Driving | VIII | 5 | 1 | 10 | 1.3 |
 | Rain, Snow, Fog and Flooding | VIII | 8 | 1 | 16 | 1.4 |
 | Vehicle and Driver Condition | VIII | 5 | 1 | 10 | 1.0 |
 | Traffic Situations and Passing | VIII | 4 | 1 | 6 | 1.2 |
+| Safety Belts and Child Seats | VIII | 7 | 1 | 14 | 2.0 |
 | Checking Your Vehicle | IX | 3 | 1 | 6 | 0.8 |
 | When Something Fails While Driving | IX | 9 | 1 | 18 | 1.3 |
 | If You Are in a Crash | IX | 7 | 1 | 14 | 1.2 |
@@ -63,25 +86,22 @@ A concept tested only one way can be answered from memory of that one question. 
 
 | Question type | Count |
 |---|---|
-| direct | 122 |
-| scenario | 77 |
-| application | 44 |
-| negative | 36 |
-| reversed | 28 |
+| direct | 249 |
+| scenario | 123 |
+| application | 93 |
+| negative | 63 |
+| reversed | 47 |
 | sign | 9 |
 
 | Difficulty | Count |
 |---|---|
-| moderate | 165 |
-| core | 116 |
-| tricky | 35 |
+| moderate | 313 |
+| core | 208 |
+| tricky | 63 |
 
 ## Gaps and thin coverage
 
-- **Chapter I (Driver's License Information) has no questions.**
-- **Chapter II (Driver Responsibilities) has no questions.**
-- **Chapter IV (Examination Procedures and Requirements) has no questions.**
-- **Chapter VII (Driving on Interstates) has no questions.**
+None. Every chapter has coverage and every concept has at least two questions of differing type.
 
 ## How to verify
 

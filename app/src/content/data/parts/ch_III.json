@@ -25,7 +25,6 @@
       "examWeight": 1.0
     }
   ],
-
   "concepts": [
     {
       "id": "c-alc-effects",
@@ -252,7 +251,6 @@
       }
     }
   ],
-
   "lessons": [
     {
       "id": "l-alcohol-effects",
@@ -302,7 +300,13 @@
       "plainEnglish": "Alcohol takes away the three things driving depends on: staying alert, judging situations correctly, and seeing clearly. It does not hit everyone the same way, or even hit the same person the same way twice — your mood, tiredness, other medication and how much you have eaten all change the effect. And there is no trick that speeds up sobering up. Coffee and a cold shower make a drunk person a wide-awake drunk person, nothing more. Only time lowers blood alcohol.",
       "whyItMatters": "People get caught out by two beliefs: that they can tell how drunk they are, and that they can sober up quickly if they need to. Both are wrong, and the handbook says so directly. Judgment is one of the first things alcohol damages — which means the part of you deciding whether you are fine to drive is the part already affected.",
       "example": "You have three beers over two hours at a friend's house, then drink a large coffee and stand outside in the cold for twenty minutes because you want to drive home. Your blood alcohol has not dropped at all. Worse, because BAC keeps climbing after the last drink, you may be more impaired pulling out of the driveway than you were in the kitchen.",
-      "conceptIds": ["c-alc-effects", "c-alc-varies", "c-alc-time", "c-alc-equivalence", "c-alc-bac-rises"],
+      "conceptIds": [
+        "c-alc-effects",
+        "c-alc-varies",
+        "c-alc-time",
+        "c-alc-equivalence",
+        "c-alc-bac-rises"
+      ],
       "estimatedMinutes": 5
     },
     {
@@ -353,7 +357,15 @@
       "plainEnglish": "West Virginia treats drivers under 21 completely differently from adults. For an adult, the question is whether BAC reached 0.08. For someone under 21, there is no threshold to argue about — any measurable alcohol costs you your licence. Separately, simply by driving on West Virginia roads you have already agreed to take a breath test if you are arrested for DUI. Refusing is not a way out: it carries its own revocation of one year up to life, on top of whatever the DUI charge does.",
       "whyItMatters": "Two traps live here. The first is thinking 0.08 is a safe line to drive up to — a licence can be revoked below 0.08, and between 0.05 and 0.08 the state can use that reading as evidence of impairment. The second is thinking refusing the test protects you. It does the opposite, and the handbook explains why the law exists: the test protects the driver who has not been drinking by giving a medically accepted measurement.",
       "example": "A 19-year-old has one beer at a party and drives home an hour later. An adult with that same BAC might be under every threshold. The 19-year-old is not — any measurable alcohol under 21 means losing the licence, regardless of how fine they feel or how well they drove.",
-      "conceptIds": ["c-drinking-age", "c-zero-tolerance", "c-bac-08", "c-bac-05", "c-implied-consent", "c-safety-treatment", "c-interlock"],
+      "conceptIds": [
+        "c-drinking-age",
+        "c-zero-tolerance",
+        "c-bac-08",
+        "c-bac-05",
+        "c-implied-consent",
+        "c-safety-treatment",
+        "c-interlock"
+      ],
       "estimatedMinutes": 7
     },
     {
@@ -391,11 +403,13 @@
       "plainEnglish": "A prescription from a doctor is not permission to drive impaired. Plenty of ordinary medicines — allergy tablets, cold medicine, painkillers, sleep aids — cause exactly the drowsiness and loss of coordination that make driving dangerous, and mixing them with alcohol is worse than either alone. Being badly short of sleep does the same thing without any substance involved at all.",
       "whyItMatters": "People who would never drive after drinking will happily drive after a double dose of cold medicine or a 20-hour day. The handbook puts these in the same chapter as alcohol on purpose: the effect on your reaction time and judgment is comparable, and so is the crash risk.",
       "example": "You take an over-the-counter antihistamine for a bad cold before an evening drive. It is legal, it was recommended on the box, and you feel only slightly foggy. That fogginess is slowed reaction time — the same thing you would be criticised for if it came from a beer.",
-      "conceptIds": ["c-other-drugs", "c-drowsy"],
+      "conceptIds": [
+        "c-other-drugs",
+        "c-drowsy"
+      ],
       "estimatedMinutes": 4
     }
   ],
-
   "questions": [
     {
       "id": "q-alc-001",
@@ -997,7 +1011,12 @@
       "subtopic": "Drinking age",
       "conceptId": "c-drinking-age",
       "question": "What is the legal drinking age in West Virginia?",
-      "choices": ["21", "18", "19", "20"],
+      "choices": [
+        "21",
+        "18",
+        "19",
+        "20"
+      ],
       "correctAnswer": 0,
       "explanation": "The handbook states the legal drinking age in West Virginia is 21 years old. This is the age that also defines who falls under the zero tolerance law for driving with any measurable alcohol.",
       "questionType": "direct",
@@ -1149,6 +1168,5 @@
       }
     }
   ],
-
   "signs": []
 }

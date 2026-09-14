@@ -2,7 +2,9 @@ import tsParser from '@typescript-eslint/parser';
 import tsPlugin from '@typescript-eslint/eslint-plugin';
 
 export default [
-  { ignores: ['dist/**', 'dev-dist/**', 'node_modules/**', 'src/content/data/**'] },
+  // android/** is Capacitor's generated native project and its Gradle build output --
+  // linting vendored bridge JS reports errors we neither wrote nor can fix.
+  { ignores: ['dist/**', 'dev-dist/**', 'node_modules/**', 'src/content/data/**', 'android/**'] },
   {
     files: ['**/*.{ts,tsx}'],
     languageOptions: {

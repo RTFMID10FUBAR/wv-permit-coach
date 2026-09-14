@@ -528,6 +528,2022 @@
     }
   },
   {
+    "id": "c-i-must-be-licensed",
+    "topicId": "i-who-must-be-licensed",
+    "label": "A licence is required to drive on public roads",
+    "statement": "If you live in West Virginia and want to drive on public roads you must hold a West Virginia driver's license unless you are expressly exempt.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Who Must Be Licensed to Drive?",
+      "pdfPage": 11,
+      "printedPage": 1,
+      "sourceQuote": "If you live in West Virginia and want to drive a motor vehicle on public roads, you must have a West Virginia driver's license, unless you are expressly exempt.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-carry-license",
+    "topicId": "i-who-must-be-licensed",
+    "label": "Carry your licence and produce it on demand",
+    "statement": "You must carry your licence or permit when you drive and produce it on demand to any law enforcement officer, magistrate or DMV official; failing to do so is a misdemeanor.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Carry Your Driver's License",
+      "pdfPage": 23,
+      "printedPage": 13,
+      "sourceQuote": "You are required to provide your driver's license or instruction permit upon demand to any law enforcement officer, magistrate, or official of the DMV. Violation of this requirement is a misdemeanor.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-exempt-nonresident",
+    "topicId": "i-who-must-be-licensed",
+    "label": "Nonresident exemption is limited to 90 days",
+    "statement": "A nonresident at least 16 years old with a valid licence from another state or country is exempt, but only for 90 days in a calendar year.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Who is Exempt?",
+      "pdfPage": 11,
+      "printedPage": 1,
+      "sourceQuote": "A nonresident who is at least 16 years old and has a valid license from another state or country (limited to 90 days in a calendar year)",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-denied-school",
+    "topicId": "i-who-must-be-licensed",
+    "label": "Under 18 and not in school can be denied",
+    "statement": "Anyone under 18 who is not enrolled in, or graduated from, an approved educational institution can be denied a driver's license.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Who Can Be Denied a Driver's License?",
+      "pdfPage": 11,
+      "printedPage": 1,
+      "sourceQuote": "Any person who is under the age of 18  and  not enrolled  in, or graduated from, an approved educational institution",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-two-card-types",
+    "topicId": "i-license-types-and-documents",
+    "label": "Two card types: Not For Federal Use, or REAL ID",
+    "statement": "You choose between a Not For Federal Use card and a REAL ID/For Federal Use card, which carries a gold star and meets federal requirements for airports and federal facilities.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "There Are TWO types Driver's Licenses & ID Cards",
+      "pdfPage": 12,
+      "printedPage": 2,
+      "sourceQuote": "You have the choice between a Not For Federal Use driver's license or ID card, or a REAL ID/For Federal Use card that contains a gold star, indicating that the card meets full federal requirements for future use at airports and other designated federal facilities and uses nationwide.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-realid-fee",
+    "topicId": "i-license-types-and-documents",
+    "label": "REAL ID costs an extra $10.00",
+    "statement": "The For Federal Use (REAL ID) card costs an additional $10.00 and arrives by USPS in 15-20 business days.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "There Are TWO types Driver's Licenses & ID Cards",
+      "pdfPage": 12,
+      "printedPage": 2,
+      "sourceQuote": "This card costs an additional $10.00 and is sent to the applicant's address via USPS in 15-20 business days.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-first-time-documents",
+    "topicId": "i-license-types-and-documents",
+    "label": "What a first-time applicant must bring",
+    "statement": "A first-time applicant for a permit, licence or ID card must provide a Social Security number, one proof of identity, two proofs of WV residency and the DMV-DS-23P form.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "First-Time Applicant",
+      "pdfPage": 16,
+      "printedPage": 6,
+      "sourceQuote": "Any first-time applicant for an instruction permit, driver's license, or identification card must provide their Social Security number, one (1) proof of identity document, two (2) proofs of WV residency documents, and the DMV-DS-23P provided by DMV.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-birth-cert-rules",
+    "topicId": "i-license-types-and-documents",
+    "label": "Hospital birth certificates are not accepted",
+    "statement": "U.S. Department of State and U.S. Military birth certificates are acceptable proof of identity, but hospital birth certificates and Bureau of Census records are not.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Proof Documents Required to Obtain a Driver's License",
+      "pdfPage": 13,
+      "printedPage": 3,
+      "sourceQuote": "U.S. Department of State and U.S. Military birth certificates ARE acceptable, hospital birth certificates and Bureau of Census records are NOT acceptable",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-two-residency",
+    "topicId": "i-license-types-and-documents",
+    "label": "Two proofs of West Virginia residency",
+    "statement": "You must provide two separate documents proving West Virginia residency.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Proof Documents Required to Obtain a Driver's License",
+      "pdfPage": 14,
+      "printedPage": 4,
+      "sourceQuote": "You must have TWO (2) proofs of West Virginia residency.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-residency-po-box",
+    "topicId": "i-license-types-and-documents",
+    "label": "No PO Box, and nothing over 90 days old",
+    "statement": "A residency document showing a PO Box is not accepted, and a recurring document such as a utility bill cannot be more than 90 days old.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Proof Documents Required to Obtain a Driver's License",
+      "pdfPage": 14,
+      "printedPage": 4,
+      "sourceQuote": "Documents with a PO Box are not acceptable.  Any recurring document cannot be more than 90 days old (i.e. utility bill).",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-permit-adult-tests",
+    "topicId": "i-instruction-permit-adult",
+    "label": "Vision and knowledge tests earn the Class E permit",
+    "statement": "Once your application and documents are accepted you take the vision and knowledge tests, and passing both gets you a regular Class E instruction permit.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Regular Instruction Permit - Ages 18 and Over",
+      "pdfPage": 19,
+      "printedPage": 9,
+      "sourceQuote": "When you have completed the application and presented the appropriate documents, you will be allowed to take the vision and knowledge tests.  When you pass the vision and knowledge tests, you will be issued a regular Class E instruction permit.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-permit-validity-retest",
+    "topicId": "i-instruction-permit-adult",
+    "label": "The permit lasts six months; if it expires you retest",
+    "statement": "A regular instruction permit is valid for six months, and if it expires you must retake both the vision and knowledge tests to get another one.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Regular Instruction Permit - Ages 18 and Over",
+      "pdfPage": 19,
+      "printedPage": 9,
+      "sourceQuote": "permit will be valid for a period of six (6) months.  If expired, YOU MUST RETEST, taking both the vision and knowledge tests to obtain another instruction permit.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-permit-30-days",
+    "topicId": "i-instruction-permit-adult",
+    "label": "Hold the permit 30 days before the road test",
+    "statement": "If you have never held a Level 2 graduated licence or comparable, you must hold the instruction permit at least 30 days before you are eligible to take the road skills test.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Regular Instruction Permit - Ages 18 and Over",
+      "pdfPage": 19,
+      "printedPage": 9,
+      "sourceQuote": "If you have never been licensed as Level 2 graduated driver's license or comparable, you must maintain the instruction permit for at least 30 days before you are eligible to take the road skills test.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-exam-room-rules",
+    "topicId": "i-instruction-permit-adult",
+    "label": "No electronic devices, and no one else, in the exam room",
+    "statement": "Cell phones, PDAs, Bluetooth and other electronic devices are not permitted in the exam room, and only the applicant taking the test may be in it.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Regular Instruction Permit - Ages 18 and Over",
+      "pdfPage": 19,
+      "printedPage": 9,
+      "sourceQuote": "No cell phones, PDA, Bluetooth devices, electronic devices, etc. will be permitted in the exam room.  Only the applicant taking the test is allowed in the exam room.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-age-15",
+    "topicId": "i-gdl-level-1",
+    "label": "Level 1 minimum age is 15",
+    "statement": "You must be at least 15 years of age to hold a Level 1 GDL instruction permit.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 1 GDL Instruction Permit Requirements",
+      "pdfPage": 19,
+      "printedPage": 9,
+      "sourceQuote": "You must be at least 15 years of age.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-parental-consent",
+    "topicId": "i-gdl-level-1",
+    "label": "Written parental consent on form DMV-DS-23P",
+    "statement": "A Level 1 GDL instruction permit requires written consent from a parent or legal guardian on form DMV-DS-23P.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 1 GDL Instruction Permit Requirements",
+      "pdfPage": 19,
+      "printedPage": 9,
+      "sourceQuote": "You must have written consent from a Parent or Legal Guardian on form DMV-DS-23P.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-supervision",
+    "topicId": "i-gdl-level-1",
+    "label": "A licensed driver 21+ in the right front seat",
+    "statement": "On a Level 1 GDL instruction permit you may only drive with a licensed driver at least 21 years old in the right front passenger seat.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 1 GDL Instruction Permit Requirements",
+      "pdfPage": 19,
+      "printedPage": 9,
+      "sourceQuote": "You may only drive with a licensed driver who is at least 21 years old in the right front passenger seat.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-hours",
+    "topicId": "i-gdl-level-1",
+    "label": "Level 1 driving hours: 5:00 am to 10:00 pm",
+    "statement": "A Level 1 GDL instruction permit holder may only drive between 5:00 am and 10:00 pm.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 1 GDL Instruction Permit Requirements",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "You may only drive between the hours of 5:00 am and 10:00 pm.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-passengers",
+    "topicId": "i-gdl-level-1",
+    "label": "Two non-family passengers on top of the supervisor",
+    "statement": "On a Level 1 permit you may carry only two additional non-family passengers in addition to the supervising licensed adult driver.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 1 GDL Instruction Permit Requirements",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "You may only have two (2) additional non family passengers in addition to the supervising, licensed adult driver.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-zero-tolerance",
+    "topicId": "i-gdl-level-1",
+    "label": "Zero tolerance: no measurable alcohol",
+    "statement": "Under zero tolerance you may not have any measurable amount of alcohol in your system while operating a motor vehicle.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 1 GDL Instruction Permit Requirements",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "ZERO Tolerance: You may not have any measurable amount of alcohol in your system while operating a motor vehicle.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-seat-belts",
+    "topicId": "i-gdl-level-1",
+    "label": "You must require all occupants to belt up",
+    "statement": "A Level 1 permit holder must require all occupants of the vehicle to adhere to the safety belt law.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 1 GDL Instruction Permit Requirements",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "You must require all occupants to adhere to the safety belt law.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-wireless",
+    "topicId": "i-gdl-level-1",
+    "label": "No wireless device except to call 9-1-1",
+    "statement": "A Level 1 permit holder may not use a wireless communication device while driving unless the use is for contacting a 9-1-1 system.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 1 GDL Instruction Permit Requirements",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "You may not use a wireless communication device while operating a motor vehicle, unless the use of the wireless communication device is for contacting a 9-1-1 system",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-expires-18",
+    "topicId": "i-gdl-level-1",
+    "label": "Level 1 expires on the 18th birthday",
+    "statement": "A Level 1 GDL instruction permit is issued up to the applicant's 18th birthday and expires on that birthday, with a 30-day grace period to complete the road skills examination.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 1 GDL Instruction Permit",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "A Level 1 GDL instruction permit will be issued up to the applicant's 18th birthday, and will expire on the 18th birthday.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-eligibility",
+    "topicId": "i-gdl-level-2",
+    "label": "Level 2 is for ages 16 to 18 who finished Level 1",
+    "statement": "If you are between 16 and 18 and have completed all the Level 1 GDL requirements, you are eligible for a Level 2 GDL intermediate driver's license.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 2 GDL Intermediate Driver's License",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "If you are between the ages of 16 and 18 and have completed all the requirements of the Level 1 GDL instruction permit, you will be eligible for a Level 2 GDL intermediate driver's license.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-180-days",
+    "topicId": "i-gdl-level-2",
+    "label": "180 consecutive conviction-free days at Level 1",
+    "statement": "Level 2 requires a minimum of 180 consecutive days of conviction-free driving at Level 1 immediately before the Level 2 application.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 2 GDL Intermediate Driver's License",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "Have a minimum of 180 consecutive days of conviction-free driving at Level 1 GDL immediately preceding the date of your Level 2 application",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-50-hours",
+    "topicId": "i-gdl-level-2",
+    "label": "50 hours behind the wheel, 10 of them at night",
+    "statement": "Level 2 requires a parent or guardian certified log sheet of at least 50 hours behind the wheel including at least 10 hours at night, or completion of an approved driver's education course.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 2 GDL Intermediate Driver's License",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "Have a parent or legal guardian certification (log sheet) of  a minimum  of 50 hours behind the wheel, including the  minimum of 10 hours at night or complete a driver's education course approved by the West Virginia Department of Education",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-night-supervision",
+    "topicId": "i-gdl-level-2",
+    "label": "10:00 pm to 5:00 am needs a supervising adult",
+    "statement": "A Level 2 holder must drive with a supervising licensed adult driver aged 21 or older between 10:00 pm and 5:00 am.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 2 GDL Intermediate Driver's License",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "Level 2 GDL intermediate driver's license must drive with a supervising, licensed adult driver who is age 21 or older between the hours of 10:00 pm and 5:00 am.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-night-exceptions",
+    "topicId": "i-gdl-level-2",
+    "label": "Four exceptions to the night-driving rule",
+    "statement": "The night supervision rule does not apply when the licensee is going to, taking part in, or returning from lawful employment, a school-sanctioned activity, a religious activity, or an emergency to prevent injury or death.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 2 GDL Intermediate Driver's License",
+      "pdfPage": 20,
+      "printedPage": 10,
+      "sourceQuote": "The exceptions to this rule are when the licensee is participating in, going to, or returning from: (1) lawful employment; (2) a school-sanctioned activity; (3) a religious activity; or (4) an emergency situation that requires the licensee to prevent bodily injury or the death of another.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-passengers-first-6",
+    "topicId": "i-gdl-level-2",
+    "label": "First six months: no non-family passengers under 20",
+    "statement": "For the first six months at Level 2 you may not carry any non-family member under the age of 20 as a passenger.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 2 GDL Intermediate Driver's License",
+      "pdfPage": 21,
+      "printedPage": 11,
+      "sourceQuote": "A Level 2 GDL intermediate driver's license holder may not operate a motor vehicle during their first six months with any non-family members under the age of 20 as a passenger",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-passengers-second-6",
+    "topicId": "i-gdl-level-2",
+    "label": "Second six months: only one passenger under 20",
+    "statement": "During the second six months at Level 2 you may carry no more than one non-family member under the age of 20 as a passenger.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 2 GDL Intermediate Driver's License",
+      "pdfPage": 21,
+      "printedPage": 11,
+      "sourceQuote": "may not operate a motor vehicle with more than one (1) non-family member under the age of 20 as a passenger during the second six (6) months.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-alcohol-seatbelt",
+    "topicId": "i-gdl-level-2",
+    "label": "Level 2 keeps zero alcohol and the belt duty",
+    "statement": "A Level 2 holder may not drive with any measurable alcohol in their system and must require all occupants to follow the seat belt law.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 2 GDL Intermediate Driver's License",
+      "pdfPage": 21,
+      "printedPage": 11,
+      "sourceQuote": "Level 2 GDL intermediate driver's license may not operate a motor vehicle with any measurable alcohol in their system and must require all occupants to follow the seat belt law.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-surrender",
+    "topicId": "i-gdl-level-2",
+    "label": "Surrendering Level 2 under 18 sends you back to Level 1",
+    "statement": "If you surrender a Level 2 intermediate licence for any reason while under 18, you must start over with a Level 1 GDL instruction permit.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 2 GDL Intermediate Driver's License",
+      "pdfPage": 21,
+      "printedPage": 11,
+      "sourceQuote": "If you surrender your Level 2 GDL intermediate driver's license for any reason and are under the age of 18, you must start over with a Level 1 GDL instruction permit.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-conviction-free-6",
+    "topicId": "i-gdl-violations-level-3",
+    "label": "Level 1: six conviction-free months, restarted by each conviction",
+    "statement": "You must be conviction-free for six months to move up to Level 2, and each conviction restarts the six-month window from the conviction date.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Levels 1 and 2 GDL Violations and Convictions",
+      "pdfPage": 21,
+      "printedPage": 11,
+      "sourceQuote": "You must be conviction-free for 6 months in order to graduate to a Level 2 Intermediate driver's license.  With each conviction the 6-month window starts over from the date of the conviction.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl1-two-convictions",
+    "topicId": "i-gdl-violations-level-3",
+    "label": "Two convictions at Level 1 revokes the permit for 90 days",
+    "statement": "Two convictions on a Level 1 GDL instruction permit revoke it for 90 days, after which you must re-apply and retest for the Level 1 permit.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Levels 1 and 2 GDL Violations and Convictions",
+      "pdfPage": 21,
+      "printedPage": 11,
+      "sourceQuote": "Under a Level 1 GDL instruction permit, two (2) convictions will result in the revocation of your GDL for 90 days. When 90 days are up you will be required to re-apply and retest for your Level 1 GDL instruction permit.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-conviction-free-12",
+    "topicId": "i-gdl-violations-level-3",
+    "label": "Level 2: twelve conviction-free months before Level 3",
+    "statement": "You must be conviction-free for 12 months before graduating to Level 3, and a conviction restarts the 12-month period from that point.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Levels 1 and 2 GDL Violations and Convictions",
+      "pdfPage": 21,
+      "printedPage": 11,
+      "sourceQuote": "You are required to be conviction-free for 12 months prior to graduating to a  Level 3 GDL.  If you receive a conviction, the 12-month conviction-free period will start over again at the point of  that conviction.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl2-second-conviction",
+    "topicId": "i-gdl-violations-level-3",
+    "label": "A second moving violation at Level 2 costs the licence until 18",
+    "statement": "A second conviction for a moving violation at Level 2 revokes your driving privilege until you are 18, and you must then retest as a first-time applicant.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Levels 1 and 2 GDL Violations and Convictions",
+      "pdfPage": 21,
+      "printedPage": 11,
+      "sourceQuote": "The second conviction for a moving violation requires the revocation of your driving privilege until you are 18 and you will be required to retest as a first-time applicant.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-gdl-cell-restart",
+    "topicId": "i-gdl-violations-level-3",
+    "label": "A phone citation restarts the conviction-free clock",
+    "statement": "A citation for using a cell phone or wireless device on a Level 1 or Level 2 GDL makes you begin the conviction-free time period over again.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Levels 1 and 2 GDL Violations and Convictions",
+      "pdfPage": 21,
+      "printedPage": 11,
+      "sourceQuote": "If a citation is issued for the use of a cell phone or wireless communication device on a Level 1 GDL instruction permit or Level 2 GDL intermediate driver's license, you must begin the conviction-free time period over",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-level3-requirements",
+    "topicId": "i-gdl-violations-level-3",
+    "label": "Level 3 needs 12 conviction-free months and age 17",
+    "statement": "To be eligible for a Level 3 GDL you must have completed 12 months of conviction-free driving at Level 2, be at least 17 years old, and have completed all requirements.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Level 3 License GDL",
+      "pdfPage": 22,
+      "printedPage": 12,
+      "sourceQuote": "To be eligible for a Level 3 GDL, you must have completed 12 months of conviction-free driving under a Level 2 GDL, be at least 17 years old, and have successfully completed all requirements.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-color-under-21",
+    "topicId": "i-license-admin",
+    "label": "Vertical cards: red under 18, blue 18 to 20",
+    "statement": "Applicants 15 to 17 get a vertical card colour-coded red, and applicants 18 to 20 get a vertical card colour-coded blue.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Driver's License Color-Coding",
+      "pdfPage": 17,
+      "printedPage": 7,
+      "sourceQuote": "Applicants 15 to 17 years old are issued a driver's license or instruction permit that is vertical and color-coded red.  Applicants 18 to 20 years old, are issued a vertical driver's license or instruction permit that is color-coded blue.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-restrictions-code",
+    "topicId": "i-license-admin",
+    "label": "Restriction codes on the front, explained on the back",
+    "statement": "A restriction appears as a number or letter code in the restrictions field on the front of the licence, and is explained on the back of the card.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Driver's License Restrictions",
+      "pdfPage": 22,
+      "printedPage": 12,
+      "sourceQuote": "The restriction will be indicated on the front of the driver's license by a number or letter code in the “restrictions” field.  The explanation of the restriction will appear on the back of the driver's license.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-drive-for-five",
+    "topicId": "i-license-admin",
+    "label": "Drive for Five expiration",
+    "statement": "Under Drive for Five, licences expire in a year in which your age is divisible by five, and the licence is valid for five years once you are in the cycle.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Drive for Five",
+      "pdfPage": 22,
+      "printedPage": 12,
+      "sourceQuote": "Under the “Drive for Five” program, all driver's  licenses will expire in a year in which your age is divisible by five (for example, age 25, 30, 35, 40, 45, etc.).",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-address-change-20-days",
+    "topicId": "i-license-admin",
+    "label": "Report an address change within 20 days, in writing",
+    "statement": "You must notify the DMV in writing within 20 days of an address change, and failing to do so subjects you to a possible fine or imprisonment.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "In-State Change of Address",
+      "pdfPage": 16,
+      "printedPage": 6,
+      "sourceQuote": "If you change your address you are required to notify, in writing, the DMV within 20 days of the change. Failure to do this subjects you to a possible fine or imprisonment.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-new-resident-30-days",
+    "topicId": "i-new-residents-transfers",
+    "label": "New residents have 30 days to apply",
+    "statement": "After establishing West Virginia residency, a new resident who wants to drive must apply for a WV driver's license within 30 days.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "New Resident",
+      "pdfPage": 16,
+      "printedPage": 6,
+      "sourceQuote": "After establishing WV residency, new residents who want to drive in WV must apply for a WV driver's license within 30 days.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-transfer-requirements",
+    "topicId": "i-new-residents-transfers",
+    "label": "Transferring a valid out-of-state licence",
+    "statement": "To transfer a valid out-of-state licence you must pass a vision screening, complete a brief alcohol awareness course, and surrender the out-of-state licence.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "New Resident",
+      "pdfPage": 16,
+      "printedPage": 6,
+      "sourceQuote": "You are required to pass a vision screening, complete a brief alcohol awareness course, and surrender your out-of-state driver's license before a WV driver's license will be issued.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-i-expired-3-years-retest",
+    "topicId": "i-new-residents-transfers",
+    "label": "Expired three years or more means retesting",
+    "statement": "Anyone renewing a WV licence, including a CDL, that has been expired for three years or more is required to retest.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "I",
+      "chapterTitle": "Driver's License Information",
+      "section": "Expired Driver's License",
+      "pdfPage": 17,
+      "printedPage": 7,
+      "sourceQuote": "Any person renewing a WV driver's license, including a CDL, that has been expired for three (3) years or more is required to retest.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-personal-responsibility",
+    "topicId": "ii-responsibilities-and-crashes",
+    "label": "Driving is a privilege carrying responsibilities",
+    "statement": "The privilege to drive carries many responsibilities, and you alone are responsible for your actions behind the wheel.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Driver Responsibilities",
+      "pdfPage": 26,
+      "printedPage": 16,
+      "sourceQuote": "The privilege to drive carries with it many responsibilities.  You, and only you, are responsible for your actions.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-school-attendance",
+    "topicId": "ii-responsibilities-and-crashes",
+    "label": "School non-attendance restricts a minor's licence",
+    "statement": "If your school notifies the DMV that you are not attending or have excessive unexcused absences, your licence is further restricted until age 18 or until you present a school reinstatement authorization and pay the fee.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "School Attendance for Minors",
+      "pdfPage": 26,
+      "printedPage": 16,
+      "sourceQuote": "If your school notifies the DMV that you are not attending or have excessive unexcused absences",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-reexamination",
+    "topicId": "ii-responsibilities-and-crashes",
+    "label": "The Commissioner can order a re-examination",
+    "statement": "You may be required to take a medical, written or driving examination if the Commissioner of Motor Vehicles has good cause to believe you are incompetent or otherwise not qualified to be licensed.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Re-examination of Drivers",
+      "pdfPage": 26,
+      "printedPage": 16,
+      "sourceQuote": "You may be required to take a medical, written, or driving examination if the Commissioner of Motor Vehicles has good cause to believe you are incompetent or otherwise not qualified to be licensed.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-crash-reporting",
+    "topicId": "ii-responsibilities-and-crashes",
+    "label": "Crash reporting: over $1,000 or any injury, within five days",
+    "statement": "A crash causing injury or death, or property damage over $1,000, must be reported by the quickest means possible within five days to the local police if it happened in a municipality, otherwise to the county sheriff or nearest WV State Police office.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Crashes",
+      "pdfPage": 26,
+      "printedPage": 16,
+      "sourceQuote": "Crashes resulting in injury to, or death of, any person or property damage in excess of $1,000 must be reported by the quickest means possible (oral or written) within five (5) days to the local police department if it occurs within a municipality",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-crash-no-insurance",
+    "topicId": "ii-responsibilities-and-crashes",
+    "label": "No insurance at the time of a crash costs you plate and licence",
+    "statement": "If your vehicle was not covered by the required WV liability insurance on the date of a crash, your registration and driving privilege will be suspended.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Crashes",
+      "pdfPage": 26,
+      "printedPage": 16,
+      "sourceQuote": "If your vehicle was not covered by the required West Virginia liability insurance on the date of the crash, your motor vehicle registration and driving privilege will be suspended.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-insurance-mandatory",
+    "topicId": "ii-insurance",
+    "label": "Liability insurance is mandatory",
+    "statement": "West Virginia law requires every motorist driving on public roads to carry West Virginia motor vehicle liability insurance.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Compulsory Insurance",
+      "pdfPage": 26,
+      "printedPage": 16,
+      "sourceQuote": "West Virginia law mandates that all motorists driving on the state's public roads must carry West Virginia motor vehicle liability insurance.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-minimum-coverage",
+    "topicId": "ii-insurance",
+    "label": "Minimum coverage amounts",
+    "statement": "The minimum coverage provided by law is $25,000 for one death or injury, $50,000 for two deaths or injuries, and $25,000 for property damage.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Compulsory Insurance",
+      "pdfPage": 26,
+      "printedPage": 16,
+      "sourceQuote": "$25,000 for one (1) death or injury | $50,000 for two (2) deaths or injuries | $25,000 for property damage",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-proof-in-vehicle",
+    "topicId": "ii-insurance",
+    "label": "Carry proof of insurance and the registration card",
+    "statement": "A certificate of insurance or other proof of WV liability insurance must be carried in the vehicle at all times along with a valid vehicle registration card.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Compulsory Insurance",
+      "pdfPage": 27,
+      "printedPage": 17,
+      "sourceQuote": "a certificate of insurance or other proof of West Virginia liability insurance, which can be obtained from your insurance company, must be carried in your vehicle at all times, along with a valid vehicle registration card",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-no-insurance-suspension",
+    "topicId": "ii-insurance",
+    "label": "No proof of insurance suspends licence and registration",
+    "statement": "Failing to provide proof of WV liability insurance suspends both your driver's license and your vehicle registration, with reinstatement and penalty fees.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Compulsory Insurance",
+      "pdfPage": 27,
+      "printedPage": 17,
+      "sourceQuote": "Failure to provide proof of West Virginia liability insurance will result in the suspension of your driver's license as well as your vehicle registration along with reinstatement and/or penalty fees.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-false-insurance",
+    "topicId": "ii-insurance",
+    "label": "False insurance information: 90 days, $1,000, up to a year",
+    "statement": "Filing false or fraudulent insurance information brings an additional 90-day licence suspension, revocation of the vehicle registration, and possible prosecution carrying a fine of up to $1,000 and up to one year in jail.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Compulsory Insurance",
+      "pdfPage": 27,
+      "printedPage": 17,
+      "sourceQuote": "Filing of false or fraudulent insurance information will result in an additional 90-day suspension of your driver's license, revocation of your vehicle registration, and possible prosecution that carries a fine of not more than $1,000 and jail time not to exceed one (1) year.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-handsfree",
+    "topicId": "ii-wireless-devices",
+    "label": "Electronic devices only if hands-free",
+    "statement": "Using any electronic communications device while driving on a public street or highway is prohibited unless the use is accomplished by hands-free equipment.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "The Use of Communication Devices While Operating a Motor Vehicle",
+      "pdfPage": 27,
+      "printedPage": 17,
+      "sourceQuote": "The use of any electronic communications device while driving a motor vehicle on a public street or highway is prohibited unless the use is accomplished by hands-free equipment.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-handsfree-definition",
+    "topicId": "ii-wireless-devices",
+    "label": "What hands-free actually means",
+    "statement": "A hands-free device has a feature or function that lets the user engage it without using either or both hands.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "The Use of Communication Devices While Operating a Motor Vehicle",
+      "pdfPage": 27,
+      "printedPage": 17,
+      "sourceQuote": "A hands-free electronic communication device has a feature or function that allows the user to engage it without the use of either or both hands.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-phone-violation-scope",
+    "topicId": "ii-wireless-devices",
+    "label": "What counts as a device violation",
+    "statement": "The violation covers using a non-hands-free device to make a call, view or transmit images or data, play games, or compose, send, read, access or retrieve email, texts or other electronic data.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "The Use of Communication Devices While Operating a Motor Vehicle",
+      "pdfPage": 27,
+      "printedPage": 17,
+      "sourceQuote": "Violation of this law includes using an electronic communications device that is not enabled as hands-free to engage in a call, view or transmit images or data, play games, or compose, send, read, view, access, browse, transmit, save, or retrieve an e-mail, text message, or other electronic data.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-phone-first-offense",
+    "topicId": "ii-wireless-devices",
+    "label": "First offense: $100 and no points",
+    "statement": "A first hands-free violation carries a $100 fine and zero points.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "The Use of Communication Devices While Operating a Motor Vehicle",
+      "pdfPage": 27,
+      "printedPage": 17,
+      "sourceQuote": "First offense = $100 fine and zero (0) points",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-phone-third-offense",
+    "topicId": "ii-wireless-devices",
+    "label": "Third offense: $300 and three points",
+    "statement": "A third or subsequent hands-free violation carries a $300 fine and three points.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "The Use of Communication Devices While Operating a Motor Vehicle",
+      "pdfPage": 27,
+      "printedPage": 17,
+      "sourceQuote": "Third and subsequent offenses = $300 and three (3) points",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-phone-exception",
+    "topicId": "ii-wireless-devices",
+    "label": "Reporting an emergency is not a violation",
+    "statement": "Using a device to report a fire, traffic crash, serious road hazard or emergency to the appropriate authorities is not a violation of the hands-free law.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "The Use of Communication Devices While Operating a Motor Vehicle",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "Use of an electronic communications device to report a fire, traffic crash, serious road hazard, or emergency to the appropriate authorities",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-points-2-years",
+    "topicId": "ii-point-system",
+    "label": "Points stay on your record for two years",
+    "statement": "Points remain on your driving record for two years from the conviction date.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Point System",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "Points remain on your driving record for two (2) years from the conviction date.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-points-6-letter",
+    "topicId": "ii-point-system",
+    "label": "Six points brings a letter of caution",
+    "statement": "At six points or more the DMV sends a letter of caution urging you to drive carefully and obey traffic laws.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Point System",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "When you have six (6) points or more on your record, the DMV will send you a letter of caution, urging you to be careful while driving and obedient of traffic laws.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-points-12-suspension",
+    "topicId": "ii-point-system",
+    "label": "Twelve points makes the licence subject to suspension",
+    "statement": "When you accumulate 12 points on your record your driver's license is subject to suspension.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Point System",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "When you accumulate 12 points on your record, your driver's license is subject to suspension.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-defensive-driving",
+    "topicId": "ii-point-system",
+    "label": "An eight-hour class removes three points, once a year",
+    "statement": "Completing an approved eight-hour defensive driving class deducts three points, and you are only eligible for that reduction once every 12 months.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Point System",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "You may have three (3) points deducted from your record by completing an approved eight (8) hour defensive driving class.  Motorists are only eligible for this point reduction once every 12 months.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-defensive-driving-approval",
+    "topicId": "ii-point-system",
+    "label": "The class must be approved, and taken after the points appear",
+    "statement": "Taking a class without DMV approval, or before the points appear on your record, makes you ineligible for the point deduction.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Point System",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "If you take a class without approval from the DMV or take the class prior to the points appearing on your record, you will not be eligible for the point deduction.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-points-seriousness",
+    "topicId": "ii-point-system",
+    "label": "Point values track the seriousness of the violation",
+    "statement": "Points are assigned to in-state and out-of-state moving violations according to how serious the violation is.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Point System",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "Points have been assigned to various in-state and out-of-state moving traffic violations depending on the seriousness of the violation.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-gdl-two-moving-violations",
+    "topicId": "ii-suspension-revocation",
+    "label": "Two moving violations as a graduated driver means revocation",
+    "statement": "Two or more moving violation convictions as a graduated driver is on the list of convictions for which the DMV must revoke a driver's license.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Mandatory Driver's License Revocation",
+      "pdfPage": 29,
+      "printedPage": 19,
+      "sourceQuote": "Two (2) or more moving violation convictions as a graduated driver",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-revocation-leaving-scene",
+    "topicId": "ii-suspension-revocation",
+    "label": "Leaving the scene of an injury crash means revocation",
+    "statement": "Leaving the scene of a crash that results in death or personal injury requires immediate revocation of the driver's license.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Mandatory Driver's License Revocation",
+      "pdfPage": 29,
+      "printedPage": 19,
+      "sourceQuote": "Leaving the scene of a crash that results in death or personal injury",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-driving-suspended",
+    "topicId": "ii-suspension-revocation",
+    "label": "Driving while suspended can cost another 90 days",
+    "statement": "Driving while your licence is suspended or revoked for a non-DUI reason is a serious matter and may cause a 90-day suspension.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Driving While a Driver's License Is Revoked or Suspended",
+      "pdfPage": 29,
+      "printedPage": 19,
+      "sourceQuote": "Driving while your driver's license is suspended or revoked (non-DUI related) is a serious matter and may cause a 90-day suspension.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-fraudulent-license",
+    "topicId": "ii-suspension-revocation",
+    "label": "Misusing a licence: 90-day suspension",
+    "statement": "Using someone else's licence as your own, letting someone use yours, lending your identity documents, or displaying a fictitious licence all carry a 90-day suspension.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Fraudulent Use of Driver's Licenses",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "It is also illegal to use someone else's license as your own, to permit someone else to use your driver's license, to permit someone to use your identity documents to obtain a license, or to use or display a fictitious license.  The penalty for these offenses is a 90-day suspension.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-failure-to-comply",
+    "topicId": "ii-suspension-revocation",
+    "label": "Ignoring a citation or court order suspends your licence",
+    "statement": "The DMV will suspend your licence until you present proof of compliance with the court action and pay all penalty fees.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Failure to Comply with In-State Citations",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "The DMV will suspend your driver's license until you present proof of compliance with the court action and all penalty fees are paid.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-ii-license-compact",
+    "topicId": "ii-suspension-revocation",
+    "label": "Out-of-state violations follow you home",
+    "statement": "Under the Driver License Compact, traffic violations received in other states become part of your West Virginia driving record and points may be assessed.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "II",
+      "chapterTitle": "Driver Responsibilities",
+      "section": "Driving in Other States",
+      "pdfPage": 28,
+      "printedPage": 18,
+      "sourceQuote": "West Virginia is a member of the Driver License Compact.  Traffic violations you receive in other states will become part of your West Virginia driving record and, if warranted, points will be assessed.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-vision-all-applicants",
+    "topicId": "iv-vision-screening",
+    "label": "Everyone takes the vision screening",
+    "statement": "All persons, whether new applicants or renewals, must pass the vision screening.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Vision Screening",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "All persons, whether new applicants or renewals, will have to pass the vision screening.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-vision-standard",
+    "topicId": "iv-vision-screening",
+    "label": "The 20/40 standard using both eyes",
+    "statement": "You pass the vision screening with 20/40 or better using both eyes, with or without conventional corrective lenses, and no serious visual defect.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Vision Screening",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "If your vision is 20/40 or better using both eyes, either with or without conventional corrective lenses, and you show no serious visual defect, you will pass the vision screening.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-corrective-lenses",
+    "topicId": "iv-vision-screening",
+    "label": "Needing glasses puts a restriction on the licence",
+    "statement": "If you need glasses or contact lenses to reach 20/40, your licence will carry a restriction code for corrective lenses.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Vision Screening",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "If you require glasses or contact lenses to have a vision level of 20/40 or better, your driver's license will show a restriction code for “corrective lenses.”",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-vision-one-eye",
+    "topicId": "iv-vision-screening",
+    "label": "One eye can still pass at 20/40",
+    "statement": "An applicant with only one eye may be passed if the vision level in that eye is 20/40 or better.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Vision Screening",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "If you have only one (1) eye, you may be passed if the vision level with that eye is 20/40 or better.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-vision-fail",
+    "topicId": "iv-vision-screening",
+    "label": "Failing the screening sends you to a specialist",
+    "statement": "Vision worse than 20/40 or a serious visual defect fails the screening, and you are advised to consult a vision specialist to see whether your vision can be brought to the 20/40 level.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Vision Screening",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "If your vision is less than 20/40 or you have a serious visual defect, you will not pass the screening and will be advised to consult a vision specialist to determine if your vision can be brought to the 20/40 level.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-knowledge-25",
+    "topicId": "iv-knowledge-exam",
+    "label": "At least 25 questions, drawn from the handbook",
+    "statement": "The knowledge examination has at least 25 questions based on the basic knowledge, traffic rules, regulations, signs and markings found in the handbook.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Knowledge Examination",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "The knowledge examination has at least 25 questions based on the basic knowledge, traffic rules, regulations, signs, and markings found in the  handbook.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-knowledge-19",
+    "topicId": "iv-knowledge-exam",
+    "label": "19 out of 25 to pass",
+    "statement": "You must answer 19 out of the 25 questions correctly to pass the knowledge test.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Knowledge Examination",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "You must answer 19 out of the 25 questions correctly to pass the test.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-knowledge-time",
+    "topicId": "iv-knowledge-exam",
+    "label": "The test is timed, and blanks count as wrong",
+    "statement": "There is a time limit on the test, and any question not answered in the prescribed time is considered incorrect.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Knowledge Examination",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "There is a time limit on the test and any questions not answered in the prescribed time will be considered incorrect.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-audio-version",
+    "topicId": "iv-knowledge-exam",
+    "label": "An audio version exists for the reading impaired",
+    "statement": "Audio versions of the knowledge examination are available for the reading impaired and are administered with headphones.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Knowledge Examination",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "Audio versions of the knowledge examination are available for the reading impaired.  The test is administered with headphones.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-audio-no-help",
+    "topicId": "iv-knowledge-exam",
+    "label": "DMV staff cannot read or explain the test",
+    "statement": "DMV employees are not to read the test to you, re-word information, or give extra help explaining questions that a printed-exam applicant would not receive.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Knowledge Examination",
+      "pdfPage": 34,
+      "printedPage": 24,
+      "sourceQuote": "Employees of the DMV are not to read the test to you, re-word the information, or provide additional help explaining questions that would not be supplied to applicants taking the printed knowledge exam.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-vehicle-check",
+    "topicId": "iv-test-vehicle",
+    "label": "Valid inspection sticker and proof of insurance",
+    "statement": "The testing vehicle is checked for compliance with registration, inspection and equipment laws, and a valid inspection sticker and proof of insurance are required before it can be used for the road skills test.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Vehicle Check",
+      "pdfPage": 35,
+      "printedPage": 25,
+      "sourceQuote": "The testing vehicle must first be checked to make sure it complies with registration, vehicle inspection and equipment laws.  A valid inspection sticker and proof of insurance on the vehicle is required before the vehicle can be used for the road skills test.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-no-second-vehicle",
+    "topicId": "iv-test-vehicle",
+    "label": "No switching vehicles on the same test date",
+    "statement": "A minor defect may be corrected so the examination can continue, but you may not continue the examination in another vehicle on the same test date.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Vehicle Check",
+      "pdfPage": 35,
+      "printedPage": 25,
+      "sourceQuote": "you will not be permitted to continue the examination in another vehicle on the same test date",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-safety-equipment",
+    "topicId": "iv-test-vehicle",
+    "label": "You must locate and demonstrate the safety equipment",
+    "statement": "You must know the location and function of all safety equipment including the parking/emergency brake, and being unable to both locate and demonstrate any of it is an automatic failure on the road skills test.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Vehicle Check",
+      "pdfPage": 35,
+      "printedPage": 25,
+      "sourceQuote": "The applicant must know the location and function of all safety equipment, including the parking/emergency brake.  If the applicant is unable to both locate and demonstrate the use of any of the vehicle safety equipment, this will result in an automatic failure on the road skills test.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-illegal-tint",
+    "topicId": "iv-test-vehicle",
+    "label": "Window tint below 35 percent is illegal equipment",
+    "statement": "Windows tinted to less than 35 percent light transmission are listed as illegal equipment.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Illegal Equipment",
+      "pdfPage": 35,
+      "printedPage": 25,
+      "sourceQuote": "Windows tinted to less than 35 percent light transmission",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-illegal-lights",
+    "topicId": "iv-test-vehicle",
+    "label": "Red or blue flashing lights are for emergency vehicles only",
+    "statement": "Red and/or blue flashing lights are illegal equipment because only authorized emergency vehicles may carry those warning lights.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Illegal Equipment",
+      "pdfPage": 35,
+      "printedPage": 25,
+      "sourceQuote": "Red and/or blue flashing lights (Only authorized emergency vehicles may have these warning lights)",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-road-after-knowledge",
+    "topicId": "iv-road-skills-test",
+    "label": "The road test comes after the knowledge examination",
+    "statement": "The road test is not given until you have passed all other parts of the knowledge examination.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Your Driving Examination",
+      "pdfPage": 36,
+      "printedPage": 26,
+      "sourceQuote": "The road test, or driving examination, will not be given until you have passed all other parts of the knowledge examination.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-adjust-and-hands",
+    "topicId": "iv-road-skills-test",
+    "label": "Adjust seat and mirror first, then both hands on the wheel",
+    "statement": "Adjust the seat and rear view mirror before driving, keep both hands on the steering wheel, and do not rest your elbow in the window.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Your Driving Examination",
+      "pdfPage": 36,
+      "printedPage": 26,
+      "sourceQuote": "Adjust the vehicle seat and rear view mirror before driving.  Proper seat  adjustment assures better control of the vehicle.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-basic-control-skills",
+    "topicId": "iv-road-skills-test",
+    "label": "Basic control skills exercises",
+    "statement": "You may be tested on a subset of the basic control skills exercises: left and right side parallel parking, forward and reverse two-point turnabouts, and the three-point turnabout.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "How To Prepare For Your Driver's Test",
+      "pdfPage": 37,
+      "printedPage": 27,
+      "sourceQuote": "During the test, you may be tested on a subset of the following Basic Control Skills exercises:",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-turn-signal-errors",
+    "topicId": "iv-road-skills-test",
+    "label": "Every missed or misused signal is an error",
+    "statement": "Each time you fail to use or improperly use your turn signal during an exercise it counts as an error, and a signal that cancels automatically must be reactivated when needed.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "How To Prepare For Your Driver's Test",
+      "pdfPage": 37,
+      "printedPage": 27,
+      "sourceQuote": "Each time you fail to use or improperly use your turn signal it will count as an error.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-stop-see-rear-tires",
+    "topicId": "iv-road-skills-test",
+    "label": "Stop where you can see the rear tires ahead",
+    "statement": "A safe gap when stopping behind another vehicle is to stop where you can see the rear tires of the vehicle ahead of you.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "How You Will Be Tested",
+      "pdfPage": 39,
+      "printedPage": 29,
+      "sourceQuote": "A safe gap when stopping behind another vehicle is to stop where you can see the rear tires of the vehicle ahead of you.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-signs-on-road-test",
+    "topicId": "iv-road-skills-test",
+    "label": "You will be asked to identify traffic signs",
+    "statement": "During the road test you will be asked to identify a number of traffic signs, which can be located anywhere on the route.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "General Driving",
+      "pdfPage": 40,
+      "printedPage": 30,
+      "sourceQuote": "During the road test you will be asked to identify a number of traffic signs.  They can be located anywhere on the road test.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-autofail-cones",
+    "topicId": "iv-exam-automatic-failures",
+    "label": "Touching a cone or jumping a curb ends the test",
+    "statement": "Hitting, tapping or moving a cone, barrel or flag is an automatic failure, as is jumping a curb during any part of the driving test.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Automatic Failures",
+      "pdfPage": 39,
+      "printedPage": 29,
+      "sourceQuote": "Hitting, tapping, or moving a cone, barrel, or flag",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-autofail-seatbelt",
+    "topicId": "iv-exam-automatic-failures",
+    "label": "Not wearing your safety belt disqualifies you",
+    "statement": "Failing to use your safety belt during the road test disqualifies you.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Road Skills Test Automatic Failures",
+      "pdfPage": 41,
+      "printedPage": 31,
+      "sourceQuote": "If you do not use your safety belt",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-autofail-phone",
+    "topicId": "iv-exam-automatic-failures",
+    "label": "Any use of a wireless device disqualifies you",
+    "statement": "Using your wireless communications device at any time during the road test disqualifies you.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Road Skills Test Automatic Failures",
+      "pdfPage": 41,
+      "printedPage": 31,
+      "sourceQuote": "If at anytime you use your wireless communications device",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-autofail-examiner",
+    "topicId": "iv-exam-automatic-failures",
+    "label": "The examiner taking control ends the test",
+    "statement": "If the examiner has to take control of the vehicle you are disqualified.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Road Skills Test Automatic Failures",
+      "pdfPage": 41,
+      "printedPage": 31,
+      "sourceQuote": "If the examiner has to take control of the vehicle",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-autofail-glasses",
+    "topicId": "iv-exam-automatic-failures",
+    "label": "Forgetting required glasses disqualifies you",
+    "statement": "Failing to wear your glasses when they are required disqualifies you from the road test.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Road Skills Test Automatic Failures",
+      "pdfPage": 41,
+      "printedPage": 31,
+      "sourceQuote": "If you fail to wear your glasses if required",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-retest-one-week",
+    "topicId": "iv-exam-automatic-failures",
+    "label": "No retest twice within one week",
+    "statement": "Applicants who fail either the knowledge or road skills test may not be tested twice within a period of one week.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "Retest Information",
+      "pdfPage": 36,
+      "printedPage": 26,
+      "sourceQuote": "Applicants who fail either the knowledge or road skills test may not be tested twice within a period of one (1) week, in accordance with §17B-2-6, West Virginia State Code.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-iv-dui-awareness",
+    "topicId": "iv-exam-automatic-failures",
+    "label": "A short DUI awareness course follows the road test",
+    "statement": "All first-time applicants must complete a short DUI awareness course, given upon passing the road skills test.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "IV",
+      "chapterTitle": "Examination Procedures and Requirements",
+      "section": "DUI Awareness Cards",
+      "pdfPage": 35,
+      "printedPage": 25,
+      "sourceQuote": "The DMV requires that all first-time applicants for a driver's license or motorcycle-only West Virginia driver's license complete a short DUI awareness course given upon passing the road skills test.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-slower-right-lane",
+    "topicId": "vii-interstate-basics",
+    "label": "Slower traffic keeps right",
+    "statement": "Slower traffic should drive in the right-hand lane except when passing.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Driving on Interstates",
+      "pdfPage": 67,
+      "printedPage": 57,
+      "sourceQuote": "Slower traffic should drive in the right-hand lane, except when passing.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-trucks-buses",
+    "topicId": "vii-interstate-basics",
+    "label": "Give trucks and buses room to adjust",
+    "statement": "Trucks and buses entering an interstate may need extra time to adjust to traffic patterns, so give them extra time and space.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Driving on Interstates",
+      "pdfPage": 67,
+      "printedPage": 57,
+      "sourceQuote": "Remember that trucks and buses entering the interstate may need extra time to adjust to traffic patterns.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-numbering-even-odd",
+    "topicId": "vii-interstate-basics",
+    "label": "Even runs east-west, odd runs north-south",
+    "statement": "Even-numbered interstates run east to west and odd-numbered interstates run north to south.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Route Numbering and Navigation",
+      "pdfPage": 67,
+      "printedPage": 57,
+      "sourceQuote": "Even-numbered interstates run east to west.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-numbering-three-digit",
+    "topicId": "vii-interstate-basics",
+    "label": "Three-digit numbers: beltways and spurs",
+    "statement": "A three-digit interstate number beginning with an even digit is a beltway or bypass around a city, and one beginning with an odd digit is a spur route.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Route Numbering and Navigation",
+      "pdfPage": 67,
+      "printedPage": 57,
+      "sourceQuote": "Three-digit numbers with an even first number identify beltways or bypasses around cities.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-plan-ahead",
+    "topicId": "vii-interstate-basics",
+    "label": "Plan the route and check the vehicle first",
+    "statement": "Because interstate entrances and exits are sometimes far apart, plan your route in advance and make sure your vehicle is in good working condition.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Planning Ahead",
+      "pdfPage": 67,
+      "printedPage": 57,
+      "sourceQuote": "Since interstate entrances and exits are sometimes far apart, it is important to plan your route in advance.  Make sure your vehicle is in good working condition.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-guide-sign-advance",
+    "topicId": "vii-interstate-basics",
+    "label": "The first guide sign comes well in advance",
+    "statement": "The first guide sign for an interchange is placed well in advance of the turn-off so there is ample time to change lanes and exit smoothly.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Planning Ahead",
+      "pdfPage": 67,
+      "printedPage": 57,
+      "sourceQuote": "On interstates, the first guide sign for an interchange is placed well in advance of the point where you must turn off.  This permits ample time to change lanes and exit smoothly.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-wrong-way-signs",
+    "topicId": "vii-entering-interstate",
+    "label": "An exit ramp may sit next to the entrance ramp",
+    "statement": "An exit ramp is often next to the entrance ramp and is marked with Do Not Enter and Wrong Way signs, so pay careful attention to the signs as you enter.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Entering an Interstate",
+      "pdfPage": 68,
+      "printedPage": 58,
+      "sourceQuote": "Often, an exit ramp will be next to the entrance ramp, marked with “Do Not Enter” and “Wrong Way” signs.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-ramp-advisory-speed",
+    "topicId": "vii-entering-interstate",
+    "label": "Advisory speed signs warn of a sharp ramp curve",
+    "statement": "Look for advisory speed limit signs on the ramp; they are used where the ramp curves sharply.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Entering an Interstate",
+      "pdfPage": 68,
+      "printedPage": 58,
+      "sourceQuote": "Look for any advisory speed limit signs on the ramp.  These are used if the ramp curves sharply.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-halfway-steps",
+    "topicId": "vii-entering-interstate",
+    "label": "Start the merge sequence halfway along the ramp",
+    "statement": "About halfway along the entrance ramp you begin the merging steps: check interstate traffic, signal, find a gap and match your speed to it.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Entering an Interstate",
+      "pdfPage": 68,
+      "printedPage": 58,
+      "sourceQuote": "About halfway on the entrance ramp, start taking these steps:",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-shoulder-check",
+    "topicId": "vii-entering-interstate",
+    "label": "Check with quick glances over your shoulder",
+    "statement": "Check interstate traffic with quick glances over your shoulder and to the side while watching the vehicles ahead of you entering the acceleration lane.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Entering an Interstate",
+      "pdfPage": 68,
+      "printedPage": 58,
+      "sourceQuote": "Take quick glances over your shoulder and to the side.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-no-stop-ramp",
+    "topicId": "vii-entering-interstate",
+    "label": "Never stop on the ramp or acceleration lane",
+    "statement": "Do not stop on the entrance ramp or the acceleration lane, and be ready to adjust if a vehicle ahead of you slows or stops without warning.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Entering an Interstate",
+      "pdfPage": 68,
+      "printedPage": 58,
+      "sourceQuote": "Do not stop on the ramp or acceleration lane.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-last-resort-shoulder",
+    "topicId": "vii-entering-interstate",
+    "label": "Stopping past the acceleration lane is a last resort",
+    "statement": "If no gap is available it may be necessary to drive onto the shoulder beyond the end of the acceleration lane and stop, but because entering from a stop is hazardous this is a last resort.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Entering an Interstate",
+      "pdfPage": 68,
+      "printedPage": 58,
+      "sourceQuote": "it may be necessary to drive onto the shoulder beyond the end of the acceleration lane and stop",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-cannot-count-on-others",
+    "topicId": "vii-entering-interstate",
+    "label": "Interstate traffic has the right-of-way",
+    "statement": "Traffic already on the interstate has the right-of-way, and you cannot count on other drivers seeing you or moving over to give you room to enter.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Entering an Interstate",
+      "pdfPage": 68,
+      "printedPage": 58,
+      "sourceQuote": "You cannot always count on other drivers seeing you or moving over to give you room to enter.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-exit-signal-early",
+    "topicId": "vii-exiting-and-stopping",
+    "label": "Signal and move over well before the exit",
+    "statement": "Signal and move into the exit lane well before you have to exit, because changing lanes at the last moment risks missing the exit or causing a crash.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Exiting an Interstate",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "Signal and move into the lane well before you have to exit.  Changing lanes at the last moment risks missing your exit or causing a crash.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-deceleration-lane",
+    "topicId": "vii-exiting-and-stopping",
+    "label": "Slow down in the deceleration lane, not on the interstate",
+    "statement": "Most exits have a lane for slowing down before the ramp; never slow down on the interstate itself, but wait until you are in the deceleration lane and then brake gently to the posted ramp speed.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Exit Lanes",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "Most interstate exits have a special lane for you to slow down in before you reach the exit ramp.  Never slow down on the interstate.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-shoulders-disabled",
+    "topicId": "vii-exiting-and-stopping",
+    "label": "Shoulders are for disabled vehicles only",
+    "statement": "Interstate shoulders are to be used only for disabled vehicles, not for changing drivers, reading a map or other non-emergency purposes.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Stopping on an Interstate",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "Shoulders on interstates are to be used only for disabled vehicles.  Do not use the shoulders for changing drivers, reading a map, or other non emergency purposes.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-gore",
+    "topicId": "vii-exiting-and-stopping",
+    "label": "Never stop in the exit gore",
+    "statement": "Do not stop in the exit gore, the triangular area between the through lane and the exit ramp, because a driver who has missed the exit may cross it and strike your vehicle.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Stopping on an Interstate",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "Do not stop in an exit gore (the triangular area between the through lane and the exit ramp).",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-no-uturn",
+    "topicId": "vii-exiting-and-stopping",
+    "label": "Never make a U-turn on an interstate",
+    "statement": "Never make a U-turn on an interstate; go to the next exit to turn around, and leave the median crossovers to police and emergency vehicles.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "U-Turns",
+      "pdfPage": 70,
+      "printedPage": 60,
+      "sourceQuote": "You should never make a U-turn on an interstate.  Go to the next exit to turn around before re-entering the interstate.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-min-speed-55",
+    "topicId": "vii-interstate-speed-and-conditions",
+    "label": "Do not drive slower than 55 mph",
+    "statement": "Never drive faster than the legal speed limit, and do not drive slower than 55 mph on an interstate unless weather or road conditions are bad or a lower speed has been posted.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Speeds on Interstates",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "Do not drive slower than 55 mph on an interstate unless the weather or road conditions are bad or a lower speed has been posted.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-slow-driver-hazard",
+    "topicId": "vii-interstate-speed-and-conditions",
+    "label": "Driving much slower than traffic creates a hazard",
+    "statement": "Driving much slower than other drivers on an interstate creates a hazard, because other drivers may be forced to change lanes abruptly.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Speeds on Interstates",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "When you drive on interstates at a speed much slower than other  drivers, you create a hazard.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-headlights-adverse",
+    "topicId": "vii-interstate-speed-and-conditions",
+    "label": "Headlights on in adverse conditions",
+    "statement": "Headlights must be turned on during adverse conditions, in accordance with §17C-15-2 of the West Virginia State Code.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Adverse Conditions",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "In accordance with §17C-15-2 of the West Virginia State Code, headlights must be turned on during adverse conditions.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-disabled-vehicle",
+    "topicId": "vii-interstate-speed-and-conditions",
+    "label": "What to do if your vehicle becomes disabled",
+    "statement": "If your vehicle becomes disabled, move as far off the road as possible, turn on your four-way flashers, and get everyone out of the vehicle and well away from the road.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Adverse Conditions",
+      "pdfPage": 70,
+      "printedPage": 60,
+      "sourceQuote": "If your vehicle  becomes disabled, move as far off the road as possible, turn on your four-way flashers to indicate your vehicle is stopped, and get everyone out of the vehicle and well away from the road.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-flares",
+    "topicId": "vii-interstate-speed-and-conditions",
+    "label": "Flare placement: one vehicle length and 300 feet",
+    "statement": "Put a flare about one vehicle length behind your vehicle and another about 300 feet back, each on the shoulder near the edge of the through lane.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Adverse Conditions",
+      "pdfPage": 70,
+      "printedPage": 60,
+      "sourceQuote": "Put a flare about one (1) vehicle length behind your vehicle and another about 300 feet back.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-fog",
+    "topicId": "vii-interstate-speed-and-conditions",
+    "label": "Very dense fog: leave the interstate",
+    "statement": "If fog is very dense it may be better to leave the interstate and use slower roads to reach your destination.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Adverse Conditions",
+      "pdfPage": 70,
+      "printedPage": 60,
+      "sourceQuote": "If the fog is very dense, it may be better to leave the interstate and use the slower roads to reach your destination.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-vii-construction-move-over",
+    "topicId": "vii-interstate-speed-and-conditions",
+    "label": "Move over early for a closed lane",
+    "statement": "When a lane is closed, signs are posted well in advance; move over to the open lane as soon as possible instead of waiting until the last minute.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Construction Zones",
+      "pdfPage": 70,
+      "printedPage": 60,
+      "sourceQuote": "If a lane is closed, signs will be posted well in advance.  You should move over to the open lane as soon as possible.  Avoid waiting until the last minute to change lanes.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
     "id": "c-bad-habits",
     "topicId": "driving-habits",
     "label": "The five bad driving habits",
@@ -956,6 +2972,118 @@
       "pdfPage": 76,
       "printedPage": 66,
       "sourceQuote": "have a responsibility to the driver following you to signal whenever you make a change in your driving",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-belt-everyone",
+    "topicId": "viii-safety-equipment",
+    "label": "Everyone must be belted",
+    "statement": "Everyone in a passenger vehicle must wear a federally approved safety belt.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Safety Belts - It is the Law",
+      "pdfPage": 77,
+      "printedPage": 67,
+      "sourceQuote": "Everyone in a passenger vehicle must wear a federally approved",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-belt-driver-responsible",
+    "topicId": "viii-safety-equipment",
+    "label": "The driver is responsible",
+    "statement": "It is the driver's responsibility to ensure that all passengers are buckled into their safety belts.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Safety Belts - It is the Law",
+      "pdfPage": 77,
+      "printedPage": 67,
+      "sourceQuote": "It is the responsibility of the driver to ensure that all passengers are buckled into their",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-belt-exception",
+    "topicId": "viii-safety-equipment",
+    "label": "The one legal exception",
+    "statement": "The only legal exception is for persons 18 years or older riding in the back seat; a medical exception may also be issued with proof.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Safety Belts - It is the Law",
+      "pdfPage": 77,
+      "printedPage": 67,
+      "sourceQuote": "The only legal exception is for persons 18 years or older who are riding in the back",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-belt-effectiveness",
+    "topicId": "viii-safety-equipment",
+    "label": "How much belts reduce harm",
+    "statement": "Wearing safety belts reduces the chances of injury or death from collisions by 45 to 50 percent.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Safety Belts - It is the Law",
+      "pdfPage": 77,
+      "printedPage": 67,
+      "sourceQuote": "collisions by 45 to 50 percent.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-belt-fit",
+    "topicId": "viii-safety-equipment",
+    "label": "How to wear a belt correctly",
+    "statement": "The lap belt should fit snugly over the lower part of the hips, and the shoulder belt should be worn with it.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Safety Belts - It is the Law",
+      "pdfPage": 77,
+      "printedPage": 67,
+      "sourceQuote": "and comfortably over the lower part of the hips.",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-child-seat-age",
+    "topicId": "viii-safety-equipment",
+    "label": "Child safety seats under 8",
+    "statement": "A driver transporting a child under the age of 8 must secure the child in a child passenger safety device meeting federal safety standards.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Child Safety Seats",
+      "pdfPage": 77,
+      "printedPage": 67,
+      "sourceQuote": "safety device system meeting applicable federal motor vehicle safety standards",
+      "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "id": "c-child-seat-height",
+    "topicId": "viii-safety-equipment",
+    "label": "The height exception",
+    "statement": "A child under 8 who is at least 4 feet 9 inches tall may use a safety belt instead of a child safety seat.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VIII",
+      "chapterTitle": "Defensive Driving",
+      "section": "Child Safety Seats",
+      "pdfPage": 77,
+      "printedPage": 67,
+      "sourceQuote": "a safety belt shall be sufficient to meet the",
       "verifiedDate": "2026-09-14"
     }
   },
@@ -1915,7 +4043,7 @@
       "section": "School Bus Rules",
       "pdfPage": 60,
       "printedPage": 50,
-      "sourceQuote": "Only ?on ?Interstate ?Highways ?does ?traffic coming ?toward ?a ?school ?bus stopped on the other side of the median not have to stop.",
+      "sourceQuote": "Only on Interstate Highways does traffic coming toward a school bus stopped on the other side of the median not have to stop.",
       "verifiedDate": "2026-09-14"
     }
   },

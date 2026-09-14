@@ -1,6 +1,5 @@
 {
   "topics": [],
-
   "concepts": [
     {
       "id": "c-hand-signals",
@@ -19,9 +18,7 @@
       }
     }
   ],
-
   "lessons": [],
-
   "questions": [
     {
       "id": "q-hand-001",
@@ -29,7 +26,12 @@
       "subtopic": "Hand signals",
       "conceptId": "c-hand-signals",
       "question": "A driver extends their left arm straight out of the window. What are they signalling?",
-      "choices": ["A left turn", "A right turn", "That they are slowing or stopping", "That it is safe to pass them"],
+      "choices": [
+        "A left turn",
+        "A right turn",
+        "That they are slowing or stopping",
+        "That it is safe to pass them"
+      ],
       "correctAnswer": 0,
       "explanation": "Arm straight out means a left turn. The handbook shows three arm signals side by side: arm pointing down for slow or stop, arm pointing up for a right turn, and arm straight out for a left turn. These matter when turn signals fail, and for cyclists.",
       "questionType": "direct",
@@ -51,7 +53,12 @@
       "subtopic": "Hand signals",
       "conceptId": "c-hand-signals",
       "question": "Which arm signal means the driver is about to make a right turn?",
-      "choices": ["Arm pointing up", "Arm pointing down", "Arm straight out", "Arm waved back and forth"],
+      "choices": [
+        "Arm pointing up",
+        "Arm pointing down",
+        "Arm straight out",
+        "Arm waved back and forth"
+      ],
       "correctAnswer": 0,
       "explanation": "Arm pointing up signals a right turn. It is easy to confuse with arm straight out, which is a left turn — the bent, upward arm is the one that means right.",
       "questionType": "reversed",
@@ -122,6 +129,5 @@
       }
     }
   ],
-
   "signs": []
 }

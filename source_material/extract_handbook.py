@@ -33,16 +33,33 @@ WORDS |= {"a", "i", "dmv", "wv", "id", "mph", "bac", "cdl", "usa", "us"}
 
 
 def decode(s: str) -> str:
-    """Glyph id -> character.
+    """Glyph id -> character, for spans set in the unmapped Identity-H fonts.
 
-    0x20 is excluded deliberately. Real spaces inside these unmapped spans encode as
-    0x01 and decode correctly; a literal 0x20 is a different space glyph, and shifting
-    it produced '?' in 411 places (e.g. "Only ?on ?Interstate ?Highways"). Leaving it
-    alone keeps those passages readable, which matters because sourceQuote is shown
-    to learners in the app.
+    0x20 is genuinely ambiguous in this file and must be decided from context, which
+    was settled by rendering the two disagreeing pages and reading them:
+
+      PDF p.80  "IFBE\x20\x01"        renders as  "head? "   -> 0x20 is a QUESTION MARK
+      PDF p.60  "0OMZ\x01\x20PO"      renders as  "Only on"  -> 0x20 is justification padding
+
+    The discriminator is what precedes it. An encoded space is 0x01; justified lines pad
+    with a bare 0x20 straight after that 0x01. A 0x20 that does NOT follow 0x01 is the
+    glyph for '?' (0x20 + 31 = 0x3F).
+
+    Getting this wrong is not cosmetic: sourceQuote is shown to learners in the app, and
+    the first attempt at this turned "all of his head?" into "all of his head".
     """
-    return "".join(chr(ord(c) + SHIFT) if 0x01 <= ord(c) <= 0x7E - SHIFT and ord(c) != 0x20
-                   else c for c in s)
+    out = []
+    prev = ""
+    for c in s:
+        o = ord(c)
+        if o == 0x20:
+            out.append(" " if prev == "\x01" else "?")
+        elif 0x01 <= o <= 0x7E - SHIFT:
+            out.append(chr(o + SHIFT))
+        else:
+            out.append(c)
+        prev = c
+    return "".join(out)
 
 
 def english_score(s: str) -> int:

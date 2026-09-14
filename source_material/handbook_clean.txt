@@ -440,12 +440,12 @@ t Any person who is under the age of 18  and  not enrolled  in, or graduated fro
 institution
 Licensing Requirements
 In 2011, West Virginia adopted the federal licensing standards under the REAL ID Act of 2005.  This
-secure ?driver's ?license ?and ?identification ?(ID) ?card ?program ?meets ?the ?standards ?of ?the ?nationwide
+secure  driver's  license  and  identification  (ID)  card  program  meets  the  standards  of  the  nationwide
 effort to improve the integrity and security of all driver's licenses and ID cards. All first-time driver's
-license ?applicants ?will ?need ?to ?bring ?in ?documentation ?to ?satisfy ?proof ?of ?identity, ?Social ?Security
+license  applicants  will  need  to  bring  in  documentation  to  satisfy  proof  of  identity,  Social  Security
 number, proof of legal name change documents (if your name has ever changed), and proof of WV
-residency ?to ?meet ?the ?federal ?licensing ?standards. ? ?All ?of ?the ?acceptable ?required ?documents ?are
-outlined ?in ?detail ?on ?the ?following ?pages. ? ?All ?proof ?documents ?provided ?to ?DMV ?will ?be ?securely
+residency  to  meet  the  federal  licensing  standards.    All  of  the  acceptable  required  documents  are
+outlined  in  detail  on  the  following  pages.    All  proof  documents  provided  to  DMV  will  be  securely
 scanned and returned to you.
 In addition to WV's enhancing the security on all of it's driver's licenses and ID cards, you have the
 option to choose a license or ID card that is certified as REAL ID compliant for ifederal identification
@@ -540,8 +540,8 @@ applicant is not eligible for a social security number, then the applicant must 
 from the SSA. The DMV checks every social security number with the SSA. If you have a problem
 with the SSA, such as name or date of birth does not match with records of the DMV, and SSA then
 you must have the problem corrected before you can be issued an instruction permit, license, or
-identification card.  Your ?documents ?will ?be ?scanned ?and ?returned ?to ?you, ?which ?will ?provide
-DMV ?with ?a ?historical record, and provide you with additional protection, per the Federal Real ID
+identification card.  Your  documents  will  be  scanned  and  returned  to  you,  which  will  provide
+DMV  with  a  historical record, and provide you with additional protection, per the Federal Real ID
 Act of 2005. Please visit the SSA website for information about obtaining a Social Security number.
 If an applicant is not eligible for a Social Security card, the applicant must provide a letter
 from the Social Security Administration stating they are not eligible.
@@ -597,12 +597,12 @@ Nonresidents who previously resided in WV and were licensed or issued an identif
 WV may not renew their WV driver's licenses or identification cards until they again establish residency
 in this state.
 The chart on page four (4) lists all acceptable documents to use as proof of WV residency.  If you
-are ?a ?new ?resident ?in ?the ?state ?you ?will ?be ?required ?to ?provide ?two ?(2) ?forms ?of ?WV ?residency.
-After ?all ?required ?documents ?have been scanned and made part of your record, on your next renewal
+are  a  new  resident  in  the  state  you  will  be  required  to  provide  two  (2)  forms  of  WV  residency.
+After  all  required  documents  have been scanned and made part of your record, on your next renewal
 or transaction, you will be required to provide two (2) documents from the proof of WV residency list
 if your physical address has changed.
 National Driver Registry: Problem Driver Point System (PDPS)
-All ?driver's ?license ?applicants ?are ?subject ?to ?a ?review ?of ?their ?driving ?records ?through ?the
+All  driver's  license  applicants  are  subject  to  a  review  of  their  driving  records  through  the
 Problem Driver Point System (PDPS), which is a national driver registry designed to track violations and
 suspensions from state to state. All drivers who renew their driver's license will be reviewed
 through PDPS as well.  If you have previously held a driver's license in another state or jurisdiction and
@@ -611,13 +611,13 @@ pending before applying for or renewing a WV driver's license.  The DMV is prohi
 any driver whose driving history reflects an unsettled problem in another state or jurisdiction.
 If you have received citations in another state or jurisdiction which you failed to pay, they may
 have suspended your privilege to drive, even if your WV driver's license is valid.  West Virginia DMV will
-suspend ?your ?driver's ?license ?if ?we ?receive ?notice ?from ?another ?state ?that ?you ?have ?failed ?to ?pay ?a
+suspend  your  driver's  license  if  we  receive  notice  from  another  state  that  you  have  failed  to  pay  a
 citation issued in another state or jurisdiction. When other states or jurisdictions notify West
 Virginia DMV of unpaid citations, the DMV will notify you by certified mail at the current address in
-its ?system and give you a certain amount of time to address the matter before a suspension action is
+its  system and give you a certain amount of time to address the matter before a suspension action is
 taken against you.  Any unpaid citations are your responsibility.  Do not expect the court to notify the
 DMV when you resolve an unpaid citation.  If the DMV has notified you of an unpaid citation, or if you
-suspect that the court ?has ?notified ?the ?DMV, ?you ?must ?provide ?the ?DMV ?with ?proof ?that ?you ?have
+suspect that the court  has  notified  the  DMV,  you  must  provide  the  DMV  with  proof  that  you  have
 paid the citation, or have satisfied the court's order to avoid suspension, before the DMV can reinstate
 your driver's license.
 5
@@ -743,7 +743,7 @@ Regular Instruction Permit - Ages 18 and Over
 When you have completed the application and presented the appropriate documents, you will
 be allowed to take the vision and knowledge tests.  When you pass the vision and knowledge tests, you
 will be issued a regular Class E instruction permit.  The instruction permit allows you to operate a motor
-vehicle ?when ?a ?licensed ?driver ?who ?is ?21 ?or ?older ?occupies ?the ?front ?seat ?with ?you. ?The ?instruction
+vehicle  when  a  licensed  driver  who  is  21  or  older  occupies  the  front  seat  with  you.  The  instruction
 permit will be valid for a period of six (6) months.  If expired, YOU MUST RETEST, taking both the vision
 and knowledge tests to obtain another instruction permit.  If you have never been licensed as Level 2
 graduated driver's license or comparable, you must maintain the instruction permit for at least 30 days
@@ -754,16 +754,16 @@ Graduated Driver's License (GDL) - Ages 15 -17
 Level 1 GDL Instruction Permit
 The Level 1 GDL instruction permit allows you to learn how to operate a motor vehicle with a
 licensed adult driver over the age of 21.  To obtain a Level 1 GDL instruction permit, you must be at
-least ?15 ?years ?old, ?pass ?a ?vision ?screening, ?pass ?a ?knowledge ?test, ?and ?the ?consent ?(on ?form ?DMV-
+least  15  years  old,  pass  a  vision  screening,  pass  a  knowledge  test,  and  the  consent  (on  form  DMV-
 DS-23P) of your parent or legal guardian indicating permission for issuance of the Level 1 GDL
-instruction ?permit. ?Parental ?consent ?is ?not ?required ?for ?married
-applicants ?under ?the ?age ?of ?18; however, you must present a certified
+instruction  permit.  Parental  consent  is  not  required  for  married
+applicants  under  the  age  of  18; however, you must present a certified
 copy of your marriage certificate.
 Each time you apply and test for the Level 1 GDL
-Instruction ?permit, you ?must show a certified birth certificate issued
-by ?a ?state ?or governmental agency of the U.S. that is responsible for
+Instruction  permit, you  must show a certified birth certificate issued
+by  a  state  or governmental agency of the U.S. that is responsible for
 the collection of vital records. You must also provide
-a Social Security Administration issued Social ?Security Number.
+a Social Security Administration issued Social  Security Number.
 No cell phones, smart glasses, PDA, Bluetooth devices, electronic devices, etc. will be permitted in
 the exam room. Only the applicant taking the test is allowed in the exam room.
 The vision and knowledge tests are administered by driver examiners at DMV designated locations.
@@ -838,7 +838,7 @@ GDL intermediate driver’s license
 for any reason and are under the age of 18, you must start over with a Level 1 GDL instruction permit.
 Each time you apply and test for the Level 2 intermediate driver’s license, you must show a certified birth
 certificate issued by a state or governmental agency of the U.S. that is responsible for the collection of vital
-records. You must also provide ?a  Social Security number, the 50 hour driving log, as well as all
+records. You must also provide  a  Social Security number, the 50 hour driving log, as well as all
 documentation required for licensing.
 No cell phones, smart glasses, PDA, Bluetooth devices, electronic devices, etc., will be permitted in
 the exam room.  Only the applicant taking the test is allowed in the exam room.
@@ -1601,7 +1601,7 @@ evenly and maintain lane position.
 t When stopping at an intersection - If necessary, come to a complete stop behind any stop signs,
 signals, sidewalks, or stop lines.  If stopping behind another vehicle, always maintain a safe gap.  You
 should be able to see the rear tires of the vehicle ahead of you.
-t When ?driving ?through ?an ?intersection ?- ?Check traffic thoroughly in all directions.  Keep both
+t When  driving  through  an  intersection  - ?Check traffic thoroughly in all directions.  Keep both
 hands on the wheel and slow down and yield to any pedestrians or traffic in the intersection.  Do not
 change lanes while proceeding through the intersection.
 t Once through the intersection - Continue checking mirrors and traffic behind you. Accelerate
@@ -1657,21 +1657,21 @@ intersection.  When stopping behind another vehicle make sure you can see it's r
 is no stop line or crosswalk, stop before your vehicle enters the intersection.
 Road Skills Test Automatic Failures
 If any of the following errors occur during the road test you will be disqualified:
-t ?If you score excessive points during the public road test
-t ?If you do not use your safety belt
-t ?If at anytime you use your wireless communications device
-t ?If you receive a traffic citation for a moving violation, disobey signs or signals, speed, roll through stops, or
+t  If you score excessive points during the public road test
+t  If you do not use your safety belt
+t  If at anytime you use your wireless communications device
+t  If you receive a traffic citation for a moving violation, disobey signs or signals, speed, roll through stops, or
 ignore traffic laws
-t ?If you do not yield to pedestrians or other roadway users
-t ?If you are involved in an avoidable crash or if your vehicle has physical contact with other vehicles, objects
+t  If you do not yield to pedestrians or other roadway users
+t  If you are involved in an avoidable crash or if your vehicle has physical contact with other vehicles, objects
 or pedestrians
-t ?If you commit any unsafe act or if another driver is forced to take evasive actions in order to prevent a crash
-t ?If you put the vehicle over or on top of sidewalks or curbs unnecessarily
-t ?If the examiner has to take control of the vehicle
-t ?If you fail to wear your glasses if required
-t ?If you refuse to perform any maneuver which is part of the road test
-t ?If, after proceeding a short distance on the driving course, it becomes apparent you are dangerously inexperienced
-t ?If you fail to follow any traffic control device or lawful direction by driver examiner
+t  If you commit any unsafe act or if another driver is forced to take evasive actions in order to prevent a crash
+t  If you put the vehicle over or on top of sidewalks or curbs unnecessarily
+t  If the examiner has to take control of the vehicle
+t  If you fail to wear your glasses if required
+t  If you refuse to perform any maneuver which is part of the road test
+t  If, after proceeding a short distance on the driving course, it becomes apparent you are dangerously inexperienced
+t  If you fail to follow any traffic control device or lawful direction by driver examiner
 31
 <<<PAGE 42>>>
 DMV-DT-1
@@ -1792,7 +1792,7 @@ Circle
 This yellow-and-black sign gives advance warning of a railroad crossing ahead.
 Pentagon
 This sign warns of a school zone (school grounds and any street/highway abutting the
-school ?grounds ?and ?extending ?125 ?feet ?along ?the ?street ?or ?highway ?from ?the ?school
+school  grounds  and  extending  125  feet  along  the  street  or  highway  from  the  school
 grounds) ahead or marks a school zone crossing.  The maximum speed limit in a school
 zone is 15 m.p.h. when children are present or when specifi ed.
  CHAPTER V
@@ -1815,13 +1815,13 @@ and exit ramps which show the maximum recommended safe speed for dividers where 
 driving on the ramp.  These advisory signs are black on yellow. highway.  They are to remind you which
 side of the divider you belong on.
 No Right Turn?& No Left Turn - This No U-Turn Sign - Wrong Way or Do Not Enter - These signs
-sign indicates which direction you cannot This sign means do warn ?you ?that ?traffic ?in ?that ?direction ?is
-turn at an intersection.  These signs are not ?turn ?around ?in prohibited.  If you choose a traffi  c lane marked
+sign indicates which direction you cannot This sign means do warn  you  that  traffic  in  that  direction  is
+turn at an intersection.  These signs are not  turn  around  in prohibited.  If you choose a traffi  c lane marked
 used when meeting a one way street or the middle of a street with either of these signs you will likely run
 in situations where it is unsafe to turn. or an intersection. into another vehicle.
-Dual ?Turn Lane - This ?sign ?is One ?Way ?Street - ?This ?sign ?is
+Dual  Turn Lane - This  sign  is One  Way  Street -  This  sign  is
 posted over a highway lane that used to tell you when a cross
-is used only for making left turns street ?has ?traffi  c ?running ?in ?one
+is used only for making left turns street  has  traffi  c  running  in  one
 from either direction.  Traffi  c from direction only. Usually every
 either direction will be using this consecutive block runs in the
 lane. Never use a turning lane to opposite direction when there are
@@ -1838,16 +1838,16 @@ sharp to take at the regular highway speed.  An advisory speed
 Watch for other vehicles entering or
 sign may be attached.
 leaving the highway.
-Traffi  c ?may ?be ?moving ?into Used ?to ?indicate ?that ?you ?are
+Traffi  c  may  be  moving  into Used  to  indicate  that  you  are
 your lane. Be ready to change on a two-way road.
-your ?speed ?or ?your ?lane ?to
+your  speed  or  your  lane  to
 avoid a crash.
-To ?warn ?you ?that ?a ?lane ?will
+To  warn  you  that  a  lane  will
 The road ahead has two-way
-be ?ending; in this case, the
+be  ending; in this case, the
 traffi  c.
 right lane.  The symbol would
-be ?reversed ?if ?the ?left ?lane ?is
+be  reversed  if  the  left  lane  is
 ending.
 Warns you of hills where special
 This sign is to advise you of an
@@ -1858,9 +1858,9 @@ Ahead a bridge or underpass This section of highway is more
 has low clearance. The  height slippery than other roads when
 is shown on the sign. wet. Reduce your speed.
 This sign warns you that there This sign warns you that there
-is ?a ?crosswalk ?or ?pedestrian is a Traffi  c signal ahead.
+is  a  crosswalk  or  pedestrian is a Traffi  c signal ahead.
 path crossing the road. Watch
-out ?for, ?and ?yield ?to ?people
+out  for,  and  yield  to  people
 walking across the road.
 36
 <<<PAGE 47>>>
@@ -2196,7 +2196,7 @@ t In front of a wheelchair ramp or curb cut
 t Within 50 feet of the nearest rail of a railroad crossing
 45
 <<<PAGE 56>>>
-t ?Beside or opposite any street excavation or obstruction where stopping, standing or parking would obstruct traffic
+t  Beside or opposite any street excavation or obstruction where stopping, standing or parking would obstruct traffic
 t On the traffic side of any vehicle stopped or parked at the edge or curb of the street (double parking)
 t Upon any bridge or other elevated structure or in a highway tunnel
 t Within 20 feet of any mailbox served by a carrier using a motor vehicle for daily deliveries
@@ -2205,7 +2205,7 @@ t Any place on any highway where the safety and convenience of the traveling pub
 t Any place where official signs prohibit parking.  A curb in a no-parking zone may be painted in yellow
 Angle Parking (§17C-13-4, W. Va. State Code)
 When entering a parking space on your right, signal your intention to park and slow down.
-t Remain ?parallel ?to ?the ?curb, ?at ?least ?five ?(5) ?feet ?out ?from ?the
+t Remain  parallel  to  the  curb,  at  least  five  (5)  feet  out  from  the
 parked vehicles.
 t Steer sharply to the right when your vehicle's front end is even with
 the rear of the parking space.  Slowly pull into the space midway
@@ -2271,62 +2271,62 @@ usage and the term “over driving your headlights.”
 <<<PAGE 58>>>
 Changing Lanes
 Proper lane changing rules are:
-t ?Check in your rear view and side mirrors.
-t ?Check over your left or right shoulder (head check) to make sure no one is in your blind spot.
-t ?Check for other drivers who may also be moving into the same lane.
-t ?Signal and change lanes.
-t ?DO NOT change lanes in an intersection or at a railroad crossing.
-t ?Stay within the speed limit.
+t  Check in your rear view and side mirrors.
+t  Check over your left or right shoulder (head check) to make sure no one is in your blind spot.
+t  Check for other drivers who may also be moving into the same lane.
+t  Signal and change lanes.
+t  DO NOT change lanes in an intersection or at a railroad crossing.
+t  Stay within the speed limit.
 Passing
 Steps to follow for passing on a two-lane highway:
-t ?Make sure you are in a passing zone and observing the three-to-four second rule for following distance.
-t ?Decide if passing is necessary. If you have to speed to pass, you probably do not need to pass.
-t ?Check ahead, to the rear, and to the side before you start to pass. Check for other dangers in the passing
+t  Make sure you are in a passing zone and observing the three-to-four second rule for following distance.
+t  Decide if passing is necessary. If you have to speed to pass, you probably do not need to pass.
+t  Check ahead, to the rear, and to the side before you start to pass. Check for other dangers in the passing
 area, such as a narrow bridge, side road, or curve.
-t ?Signal properly to show you intend to change lanes. Signal early enough to allow other drivers to know
+t  Signal properly to show you intend to change lanes. Signal early enough to allow other drivers to know
 your intentions.
-t ?Move left when clear and sound your horn to alert the driver ahead that you are passing. At night you can
+t  Move left when clear and sound your horn to alert the driver ahead that you are passing. At night you can
 also blink your headlights to signal that you are about to pass.
-t ?Signal and return to the proper lane when you see the front of the vehicle (both headlights) you have passed
+t  Signal and return to the proper lane when you see the front of the vehicle (both headlights) you have passed
 in your rear view mirror. Passing on the right is not permissible unless there is a lane designated for passing.
 You cannot pass safely unless:
-t ?You can see far enough ahead.
-t ?You can return to your lane before meeting oncoming traffic.
-t ?Your vehicle is capable of the speed necessary to pass.
+t  You can see far enough ahead.
+t  You can return to your lane before meeting oncoming traffic.
+t  Your vehicle is capable of the speed necessary to pass.
 Passing is PROHIBITED in the following places:
-t ?On a curve or hill or at any place where you cannot see oncoming traffic.
-t ?Within 100 feet of an intersection.
+t  On a curve or hill or at any place where you cannot see oncoming traffic.
+t  Within 100 feet of an intersection.
 48
 <<<PAGE 59>>>
-t ?Within 100 feet of a bridge, viaduct, tunnel, or underpass.
-t ?Within 100 feet of any railroad crossing.
-t ?When an approaching vehicle is within your passing area.
-t ?When a sign or highway marking tells you to drive on the right or not to overtake vehicles.
-t ?When a vehicle in front of you has stopped at an intersection to allow a pedestrian to cross.
-t ?When the solid yellow line is in your lane.
+t  Within 100 feet of a bridge, viaduct, tunnel, or underpass.
+t  Within 100 feet of any railroad crossing.
+t  When an approaching vehicle is within your passing area.
+t  When a sign or highway marking tells you to drive on the right or not to overtake vehicles.
+t  When a vehicle in front of you has stopped at an intersection to allow a pedestrian to cross.
+t  When the solid yellow line is in your lane.
 Right-of-Way
 Courtesy is a key to safe driving and safety comes before right- of-way.  At times you must yield the
 right-of-way to others.  There are certain rules to help determine the right-of-way, but if the other driver
 does not follow these rules, give the right-of-way.  Remember, in every situation, right-of-way is something
 to be given, not taken.
 Right-of-Way or Yielding Situations:
-t ?Entering traffic - When entering a public street or highway from an alley, private road, or driveway, you
+t  Entering traffic - When entering a public street or highway from an alley, private road, or driveway, you
 must yield to traffic already on the roadway.
-t ?Uncontrolled intersections and four-way stop intersections - If you reach the intersection at the
+t  Uncontrolled intersections and four-way stop intersections - If you reach the intersection at the
 same time as another vehicle, yield to the driver on the right.
-t ?Intersections with yield signs - Slow down before reaching the intersection, then yield the right-of-
+t  Intersections with yield signs - Slow down before reaching the intersection, then yield the right-of-
 way to any vehicle in the intersection, and to approaching traffic.
-t ?Left turns - When making a left turn, you must yield the right-of-way to oncoming traffic.
-t ?Emergency vehicles - You must yield to any emergency vehicle (ambulance, fire, or police vehicle)
+t  Left turns - When making a left turn, you must yield the right-of-way to oncoming traffic.
+t  Emergency vehicles - You must yield to any emergency vehicle (ambulance, fire, or police vehicle)
 that is sounding a siren and flashing warning lights. Pull over to the right edge of the road, clear of
 the intersection, and stop until the emergency vehicle has passed. Keep your foot on the brake so the
 emergency driver knows you are stopped. Watch for other emergency vehicles before proceeding.
-t ?Funeral Procession - Although not required by law, it is a courtesy to yield to vehicles in a funeral
+t  Funeral Procession - Although not required by law, it is a courtesy to yield to vehicles in a funeral
 procession. Once the lead vehicle has cleared an intersection, the rest of the procession has the right-
 of-way. Allow the procession to pass and do not cut in or out of the procession. You may pass a procession
 on an expressway.
-t ?Police Officer - Directions of a police officer overrule the message of any sign, signal, or road marking.
-t ?Parallel Parking -Provide ample space to the driver in front of you who is parallel parking.
+t  Police Officer - Directions of a police officer overrule the message of any sign, signal, or road marking.
+t  Parallel Parking -Provide ample space to the driver in front of you who is parallel parking.
 SIMPLE SAFETY RULE:
 DON’T RUSH. Stop and give time to those who
 have the right-of-way.
@@ -2348,19 +2348,19 @@ t When walking along a road where there is no sidewalk, walk on
 the left side facing oncoming traffic. Walk on the shoulder of the
 road, if possible.
 t Observe and obey iWalkw and iDon't Walkw signals.
-t ?At night, always wear white or light-colored clothing or carry a light.
+t  At night, always wear white or light-colored clothing or carry a light.
 Pedestrians must not walk on interstate highways or other areas where signs to that effect are posted.
 School Bus Rules
 School buses are responsible for safely transporting children to and from school.  When approaching
 a bus, please observe the following rules:
 t On all highways, streets, parking lots, private roads or driveways, traffic
 in both directions must stop before reaching a school bus that has its red
-lights ?flashing ?which ?is ?receiving ?or ?discharging ?students. ? ?You ?may ?not
+lights  flashing  which  is  receiving  or  discharging  students.    You  may  not
 proceed until the bus resumes motion, or signaled by the school bus driver
 to proceed or the visual signals are no longer actuated.
-Only ?on ?Interstate ?Highways ?does ?traffic coming ?toward ?a ?school ?bus
+Only  on  Interstate  Highways  does  traffic coming  toward  a  school  bus
 stopped on the other side of the median not have to stop.
-t You ?must ?also ?stop ?for ?a ?stopped ?school ?bus ?which ?is ?receiving ?or
+t You  must  also  stop  for  a  stopped  school  bus  which  is  receiving  or
 discharging  students on school property or private property.
 The penalty for passing a stopped school bus is a minimum of 60 days driver’s license suspension
 and a minimum fine of $500 or confinement in jail for not more than six (6) months for the first offense.
@@ -2378,16 +2378,16 @@ t If all else fails, pull over, stop and let the vehicle pass.
 Headlights and Their Use
 Despite the fact that there are fewer miles driven at night, the fatal crash rate for night driving is
 three (3) times greater than that for day driving.  When  driving at night, obey the following rules:
-t ?Dim your headlights within 500 feet of an approaching vehicle.
-t ?Dim your headlights within 200 feet of the vehicle in front of you.
-t ?Dim your headlights when driving on well-lit streets.
-t ?Use low beam lights when driving in fog. High beams cause the
+t  Dim your headlights within 500 feet of an approaching vehicle.
+t  Dim your headlights within 200 feet of the vehicle in front of you.
+t  Dim your headlights when driving on well-lit streets.
+t  Use low beam lights when driving in fog. High beams cause the
 light to be reflected back into your eyes.
-t ?Avoid looking directly into the lights of oncoming vehicles by
+t  Avoid looking directly into the lights of oncoming vehicles by
 looking toward the right edge of the road.
 t Slow down when facing the glare from headlights of
 approaching vehicles.
-t ?Make sure you can stop within the area lighted by your headlights.
+t  Make sure you can stop within the area lighted by your headlights.
 t Use your parking lights only when you are parked.
 t Turn on your headlights from sunset to sunrise, during fog, smoke, rain, or at any other time when
 persons and vehicles cannot be seen clearly at a distance of 500 feet.  The best rule is to remember to turn
@@ -2410,7 +2410,7 @@ Intersections - When you are waiting at a corner, it can be very hard to see a m
 be hidden by many things such as parked vehicles and trees. In addition, you are normally looking for vehicles
 and trucks, not something small like a motorcycle.  For these reasons, check carefully as you leave the corner and keep
 looking all the way across the intersection.
-Following and Passing Motorcycles - Since ?motorcycles ?do ?not ?operate ?and ?perform ?the ?same ?way ?as
+Following and Passing Motorcycles - Since  motorcycles  do  not  operate  and  perform  the  same  way  as
 vehicles, you should be careful when following or passing a motorcycle.  Stay farther back than if you were behind
 a vehicle.  The motorcycle can usually slow or stop much faster than you can.  When passing, go all the way into
 the other lane.  Besides having the legal right to an entire lane, the motorcyclist may need to swerve to avoid
@@ -2561,7 +2561,7 @@ The West Virginia Division of Motor Vehicles will not place a surcharge on a par
 individual with a disability or any group of individuals with disabilities to cover the cost
 55
 <<<PAGE 66>>>
-of ?providing auxiliary aids/services or reasonable modifications of policy, such as retrieving
+of  providing auxiliary aids/services or reasonable modifications of policy, such as retrieving
 items from locations that are open to the public but are not accessible to persons who use
 wheelchairs.  If you have any questions or concerns, contact the WV DMV ADA coordinator at:
 WV DMV ADA Coordinator
@@ -2941,11 +2941,11 @@ protection of the child by properly placing, maintaining and securing the child 
 safety device system meeting applicable federal motor vehicle safety standards: Provided, That if
 a child is under the age of 8 years and at least 4'-9w tall, a safety belt shall be sufficient to meet the
 requirements of this section.w
-For ?more ?information ?about ?child ?safety ?seats ?and ?safety ?belts, ?please ?call ?the ?Governor's
+For  more  information  about  child  safety  seats  and  safety  belts,  please  call  the  Governor's
 Highway Safety Program at (304) 926-2509.
 67
 <<<PAGE 78>>>
-Head ?Restraints ?- ?Head ?restraints ?are ?designed ?to ?reduce ?the ?chance ?of ?whiplash ?injury ?in
+Head  Restraints  - ?Head  restraints  are  designed  to  reduce  the  chance  of  whiplash  injury  in
 rear-end collisions.  If adjustable, they should be positioned to fit against the back of your head,
 not your neck.
 Anti-Lock Brake System (ABS) - The anti-lock brake system (ABS) is one of the more popular
@@ -2961,7 +2961,7 @@ One misconception concerning the effectiveness of the ABS is that it will stop a
 shorter distance than regular brakes.  This is only partially true.  In fact, in the event of a sudden
 stop, the ABS will improve performance by only about 10 percent at best.
 Motorists should understand the ABS and all other safety equipment features of the vehicle
-they ?are ?operating.  Remember, the ABS is an effective feature to help reduce the risk of wheel
+they  are  operating.  Remember, the ABS is an effective feature to help reduce the risk of wheel
 lockup and loss of control in the event of a sudden stop.  However, it does not provide iSuper Brakesw
 allowing a vehicle to stop on a dime under all circumstances, and motorists should not take risks
 they otherwise would not.
@@ -3019,7 +3019,7 @@ and count to 10.  If the pedal keeps going down, you may have a leak in the brak
 the parking brake by setting it firmly.  If the vehicle moves easily in drive or first gear, the parking brake
 needs adjustment.
 Leaks - Check under the vehicle frequently for signs of oil, coolant, brake fluid, or transmission leaks.
-Under ?the ?Hood ?- ?Check the battery, engine oil, radiator (only when cool), power steering, brake
+Under  the  Hood  - ?Check the battery, engine oil, radiator (only when cool), power steering, brake
 master cylinder, belts, and hoses.  When checking under the hood, do not smoke or use any flames.
 Tires - Crashes due to tire maintenance are preventable, and simple steps can save lives.  Driving an
 underinflated or overinflated tires or tires with low tread can lead to safety issues on the road.

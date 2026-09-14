@@ -1,5 +1,109 @@
 [
   {
+    "id": "i-who-must-be-licensed",
+    "title": "Who Must Be Licensed",
+    "chapter": "I",
+    "order": 10,
+    "blurb": "Who needs a WV license, who is exempt, and who can be refused one.",
+    "examWeight": 1.0
+  },
+  {
+    "id": "i-license-types-and-documents",
+    "title": "Card Types and Proof Documents",
+    "chapter": "I",
+    "order": 11,
+    "blurb": "REAL ID vs Not For Federal Use, and the documents you must bring to DMV.",
+    "examWeight": 1.0
+  },
+  {
+    "id": "i-instruction-permit-adult",
+    "title": "Instruction Permit — Ages 18 and Over",
+    "chapter": "I",
+    "order": 12,
+    "blurb": "The regular Class E instruction permit: tests, validity, and the 30-day wait.",
+    "examWeight": 1.3
+  },
+  {
+    "id": "i-gdl-level-1",
+    "title": "Level 1 GDL Instruction Permit",
+    "chapter": "I",
+    "order": 13,
+    "blurb": "The permit itself — age, consent, supervision, hours, passengers and alcohol.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "i-gdl-level-2",
+    "title": "Level 2 GDL Intermediate License",
+    "chapter": "I",
+    "order": 14,
+    "blurb": "What changes at Level 2, and the night-driving and passenger limits that stay.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "i-gdl-violations-level-3",
+    "title": "GDL Convictions and Level 3",
+    "chapter": "I",
+    "order": 15,
+    "blurb": "Conviction-free clocks, what a ticket costs a young driver, and reaching Level 3.",
+    "examWeight": 1.7
+  },
+  {
+    "id": "i-license-admin",
+    "title": "Your Card: Colour, Restrictions and Renewal",
+    "chapter": "I",
+    "order": 16,
+    "blurb": "Vertical red and blue cards, restriction codes, Drive for Five and address changes.",
+    "examWeight": 0.8
+  },
+  {
+    "id": "i-new-residents-transfers",
+    "title": "New Residents and Expired Licences",
+    "chapter": "I",
+    "order": 17,
+    "blurb": "Moving to WV, transferring an out-of-state licence, and retesting after three years.",
+    "examWeight": 0.8
+  },
+  {
+    "id": "ii-responsibilities-and-crashes",
+    "title": "Driver Responsibilities and Crash Reporting",
+    "chapter": "II",
+    "order": 20,
+    "blurb": "What the privilege to drive obliges you to do, and how a crash must be reported.",
+    "examWeight": 1.3
+  },
+  {
+    "id": "ii-insurance",
+    "title": "Compulsory Insurance",
+    "chapter": "II",
+    "order": 21,
+    "blurb": "Mandatory liability coverage, the proof you carry, and what happens without it.",
+    "examWeight": 1.3
+  },
+  {
+    "id": "ii-wireless-devices",
+    "title": "Phones and Electronic Devices",
+    "chapter": "II",
+    "order": 22,
+    "blurb": "The hands-free law, what counts as a violation, and the escalating penalties.",
+    "examWeight": 1.2
+  },
+  {
+    "id": "ii-point-system",
+    "title": "The Point System",
+    "chapter": "II",
+    "order": 23,
+    "blurb": "How points accumulate, what six and twelve points trigger, and how to remove three.",
+    "examWeight": 1.7
+  },
+  {
+    "id": "ii-suspension-revocation",
+    "title": "Suspension and Revocation",
+    "chapter": "II",
+    "order": 24,
+    "blurb": "Convictions that cost you the licence outright, and what follows a suspension.",
+    "examWeight": 1.3
+  },
+  {
     "id": "alcohol-effects",
     "title": "Alcohol and Your Driving",
     "chapter": "III",
@@ -22,6 +126,46 @@
     "order": 42,
     "blurb": "Prescription and over-the-counter drugs, and why being tired is its own impairment.",
     "examWeight": 1.0
+  },
+  {
+    "id": "iv-vision-screening",
+    "title": "Vision Screening",
+    "chapter": "IV",
+    "order": 43,
+    "blurb": "The 20/40 standard, corrective lens restrictions, and what happens if you fail.",
+    "examWeight": 1.2
+  },
+  {
+    "id": "iv-knowledge-exam",
+    "title": "The Knowledge Examination",
+    "chapter": "IV",
+    "order": 44,
+    "blurb": "How many questions, how many you must get right, the time limit and the audio version.",
+    "examWeight": 1.8
+  },
+  {
+    "id": "iv-test-vehicle",
+    "title": "The Vehicle You Test In",
+    "chapter": "IV",
+    "order": 45,
+    "blurb": "Inspection sticker, insurance, safety equipment you must find, and illegal equipment.",
+    "examWeight": 1.2
+  },
+  {
+    "id": "iv-road-skills-test",
+    "title": "The Road Skills Test",
+    "chapter": "IV",
+    "order": 46,
+    "blurb": "What the examiner scores: signals, head checks, stopping gaps and sign recognition.",
+    "examWeight": 1.4
+  },
+  {
+    "id": "iv-exam-automatic-failures",
+    "title": "Automatic Failures and Retesting",
+    "chapter": "IV",
+    "order": 47,
+    "blurb": "The errors that end the test on the spot, and the one-week rule after a failure.",
+    "examWeight": 1.6
   },
   {
     "id": "v-sign-shapes",
@@ -200,6 +344,38 @@
     "examWeight": 1.5
   },
   {
+    "id": "vii-interstate-basics",
+    "title": "Interstates: Lanes, Numbers and Planning",
+    "chapter": "VII",
+    "order": 73,
+    "blurb": "Why interstates are different, which lane to use, and how route numbers work.",
+    "examWeight": 1.2
+  },
+  {
+    "id": "vii-entering-interstate",
+    "title": "Entering and Merging",
+    "chapter": "VII",
+    "order": 74,
+    "blurb": "The entrance ramp, the acceleration lane, and who has the right-of-way.",
+    "examWeight": 1.8
+  },
+  {
+    "id": "vii-exiting-and-stopping",
+    "title": "Exiting and Stopping",
+    "chapter": "VII",
+    "order": 75,
+    "blurb": "Deceleration lanes, the exit gore, shoulders, and why U-turns are never an option.",
+    "examWeight": 1.4
+  },
+  {
+    "id": "vii-interstate-speed-and-conditions",
+    "title": "Speed, Weather and Breakdowns",
+    "chapter": "VII",
+    "order": 76,
+    "blurb": "Minimum speed, headlights in adverse conditions, disabled vehicles and work zones.",
+    "examWeight": 1.4
+  },
+  {
     "id": "driving-habits",
     "title": "Good and Bad Driving Habits",
     "chapter": "VIII",
@@ -238,6 +414,14 @@
     "order": 84,
     "blurb": "The six positions another vehicle can take before a crash, and passing safely.",
     "examWeight": 1.2
+  },
+  {
+    "id": "viii-safety-equipment",
+    "title": "Safety Belts and Child Seats",
+    "chapter": "VIII",
+    "order": 85,
+    "blurb": "Who must be buckled, who is responsible, and the child seat law.",
+    "examWeight": 2.0
   },
   {
     "id": "vehicle-checks",

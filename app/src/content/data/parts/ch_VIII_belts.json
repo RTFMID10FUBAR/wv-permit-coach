@@ -1,0 +1,568 @@
+{
+  "topics": [
+    {
+      "id": "viii-safety-equipment",
+      "title": "Safety Belts and Child Seats",
+      "chapter": "VIII",
+      "order": 85,
+      "blurb": "Who must be buckled, who is responsible, and the child seat law.",
+      "examWeight": 2.0
+    }
+  ],
+  "concepts": [
+    {
+      "id": "c-belt-everyone",
+      "topicId": "viii-safety-equipment",
+      "label": "Everyone must be belted",
+      "statement": "Everyone in a passenger vehicle must wear a federally approved safety belt.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "Everyone in a passenger vehicle must wear a federally approved",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "c-belt-driver-responsible",
+      "topicId": "viii-safety-equipment",
+      "label": "The driver is responsible",
+      "statement": "It is the driver's responsibility to ensure that all passengers are buckled into their safety belts.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "It is the responsibility of the driver to ensure that all passengers are buckled into their",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "c-belt-exception",
+      "topicId": "viii-safety-equipment",
+      "label": "The one legal exception",
+      "statement": "The only legal exception is for persons 18 years or older riding in the back seat; a medical exception may also be issued with proof.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "The only legal exception is for persons 18 years or older who are riding in the back",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "c-belt-effectiveness",
+      "topicId": "viii-safety-equipment",
+      "label": "How much belts reduce harm",
+      "statement": "Wearing safety belts reduces the chances of injury or death from collisions by 45 to 50 percent.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "collisions by 45 to 50 percent.",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "c-belt-fit",
+      "topicId": "viii-safety-equipment",
+      "label": "How to wear a belt correctly",
+      "statement": "The lap belt should fit snugly over the lower part of the hips, and the shoulder belt should be worn with it.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "and comfortably over the lower part of the hips.",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "c-child-seat-age",
+      "topicId": "viii-safety-equipment",
+      "label": "Child safety seats under 8",
+      "statement": "A driver transporting a child under the age of 8 must secure the child in a child passenger safety device meeting federal safety standards.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Child Safety Seats",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "safety device system meeting applicable federal motor vehicle safety standards",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "c-child-seat-height",
+      "topicId": "viii-safety-equipment",
+      "label": "The height exception",
+      "statement": "A child under 8 who is at least 4 feet 9 inches tall may use a safety belt instead of a child safety seat.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Child Safety Seats",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "a safety belt shall be sufficient to meet the",
+        "verifiedDate": "2026-09-14"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "l-safety-equipment",
+      "topicId": "viii-safety-equipment",
+      "title": "Safety Belts and Child Seats",
+      "rules": [
+        {
+          "text": "Everyone in a passenger vehicle must wear a federally approved safety belt, and it is the driver's responsibility to see that they do.",
+          "source": {
+            "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+            "chapter": "VIII",
+            "chapterTitle": "Defensive Driving",
+            "section": "Safety Belts - It is the Law",
+            "pdfPage": 77,
+            "printedPage": 67,
+            "sourceQuote": "It is the responsibility of the driver to ensure that all passengers are buckled into their",
+            "verifiedDate": "2026-09-14"
+          }
+        },
+        {
+          "text": "The only legal exception is a person 18 years or older riding in the back seat.",
+          "source": {
+            "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+            "chapter": "VIII",
+            "chapterTitle": "Defensive Driving",
+            "section": "Safety Belts - It is the Law",
+            "pdfPage": 77,
+            "printedPage": 67,
+            "sourceQuote": "The only legal exception is for persons 18 years or older who are riding in the back",
+            "verifiedDate": "2026-09-14"
+          }
+        },
+        {
+          "text": "A child under 8 must be in a federally approved child safety device, unless the child is at least 4 feet 9 inches tall, in which case a safety belt is sufficient.",
+          "source": {
+            "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+            "chapter": "VIII",
+            "chapterTitle": "Defensive Driving",
+            "section": "Child Safety Seats",
+            "pdfPage": 77,
+            "printedPage": 67,
+            "sourceQuote": "safety device system meeting applicable federal motor vehicle safety standards",
+            "verifiedDate": "2026-09-14"
+          }
+        }
+      ],
+      "plainEnglish": "In West Virginia everybody in a passenger vehicle wears a belt, and the driver — not each passenger — is the one held responsible for it. There is exactly one exception: an adult of 18 or over sitting in the back. Everyone else, front or back, adult or child, must be buckled. Children under 8 need a proper child safety seat rather than just a belt, unless they have already reached 4 feet 9 inches, at which point a normal belt fits them correctly and is enough.",
+      "whyItMatters": "The handbook puts a number on it: belts cut the chance of injury or death in a collision by 45 to 50 percent. They work by spreading crash forces across the strongest parts of the body and keeping you from being thrown forward or out of the vehicle. A belt worn wrongly — lap belt up on the soft stomach instead of low across the hips — gives away much of that protection.",
+      "example": "You are driving two friends. One is 19 and sits in the back; the other is 17 and sits in front. Legally the 19-year-old in the back is the single permitted exception, but the 17-year-old must be belted — and if they are not, it is you the driver who is responsible.",
+      "conceptIds": [
+        "c-belt-everyone",
+        "c-belt-driver-responsible",
+        "c-belt-exception",
+        "c-belt-effectiveness",
+        "c-belt-fit",
+        "c-child-seat-age",
+        "c-child-seat-height"
+      ],
+      "estimatedMinutes": 5
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-belt-001",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Safety belts",
+      "conceptId": "c-belt-everyone",
+      "question": "Who must wear a safety belt in a passenger vehicle in West Virginia?",
+      "choices": [
+        "Everyone in the vehicle, apart from one narrow exception",
+        "Only the driver",
+        "Only the driver and front-seat passenger",
+        "Only occupants under 18"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook states that everyone in a passenger vehicle must wear a federally approved safety belt. The single legal exception is a person 18 or older riding in the back seat; a medical exception may also be issued with proof.",
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "Everyone in a passenger vehicle must wear a federally approved",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-002",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Safety belts",
+      "conceptId": "c-belt-everyone",
+      "question": "Your front-seat passenger refuses to buckle up, saying it is their own choice. What does West Virginia law require?",
+      "choices": [
+        "They must wear a belt — everyone in a passenger vehicle must be belted",
+        "It is their decision as an adult",
+        "Only passengers under 18 are required to buckle",
+        "Belts are required only on interstate highways"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Everyone in a passenger vehicle must wear a federally approved safety belt. A front-seat passenger is not covered by the back-seat exception, and the driver is responsible for ensuring passengers are buckled.",
+      "questionType": "scenario",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "safety belt.  It is the responsibility of the driver",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-003",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Safety belts",
+      "conceptId": "c-belt-driver-responsible",
+      "question": "Who is responsible for making sure passengers are buckled in?",
+      "choices": [
+        "The driver",
+        "Each passenger individually",
+        "The vehicle's registered owner",
+        "The front-seat passenger"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook places this on the driver: it is the responsibility of the driver to ensure that all passengers are buckled into their safety belts. It is not divided among the passengers.",
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "It is the responsibility of the driver to ensure that all passengers are buckled into their",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-004",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Safety belts",
+      "conceptId": "c-belt-driver-responsible",
+      "question": "Which statement about safety belt responsibility is NOT correct?",
+      "choices": [
+        "Each passenger is individually responsible for their own belt",
+        "The driver must ensure all passengers are buckled",
+        "Everyone in a passenger vehicle must wear a federally approved belt",
+        "A medical exception may require proof from the driver"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Responsibility is not left to each passenger — the handbook assigns it to the driver. The other three statements are exactly as the handbook puts them, including that proof of a medical condition may be required of the driver.",
+      "questionType": "negative",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "proof of such a condition may be required of the driver.",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-005",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Safety belts",
+      "conceptId": "c-belt-exception",
+      "question": "What is the only legal exception to West Virginia's safety belt requirement?",
+      "choices": [
+        "A person 18 years or older riding in the back seat",
+        "Any passenger riding in the back seat",
+        "Any adult who objects to wearing one",
+        "Drivers travelling under 25 mph"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook describes exactly one legal exception: persons 18 years or older who are riding in the back seat. Age and seating position both have to be satisfied — a 16-year-old in the back is still required to buckle.",
+      "questionType": "direct",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "The only legal exception is for persons 18 years or older who are riding in the back",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-006",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Safety belts",
+      "conceptId": "c-belt-exception",
+      "question": "A 16-year-old sits in the back seat of your car unbuckled. Is that allowed?",
+      "choices": [
+        "No — the back-seat exception applies only to persons 18 or older",
+        "Yes — the exception covers anyone in the back seat",
+        "Yes — belts are required only in the front",
+        "Only if the trip is under a mile"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The exception is limited to persons 18 years or older riding in the back seat, so a 16-year-old must be belted wherever they sit. As driver, you are the one responsible for ensuring it.",
+      "questionType": "application",
+      "difficulty": "tricky",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "seat of a vehicle.  In some cases, an exception to this rule may be issued for medical reasons",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-007",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Effectiveness",
+      "conceptId": "c-belt-effectiveness",
+      "question": "By how much does the handbook say safety belts reduce the chance of injury or death in a collision?",
+      "choices": [
+        "45 to 50 percent",
+        "About 10 percent",
+        "About 90 percent",
+        "25 to 30 percent"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook cites 45 to 50 percent. It explains the mechanism too: a belt spreads crash forces over the strongest parts of the body and helps occupants ride down a crash rather than being thrown forward or out of the vehicle.",
+      "questionType": "direct",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "collisions by 45 to 50 percent.",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-008",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Effectiveness",
+      "conceptId": "c-belt-effectiveness",
+      "question": "How does a safety belt protect an occupant, according to the handbook?",
+      "choices": [
+        "It spreads crash forces over the strongest parts of the body",
+        "It absorbs the entire force of the impact",
+        "It works only in collisions below 30 mph",
+        "It protects the upper body but not the hips"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook says a safety belt spreads crash forces over the strongest parts of the body and helps occupants ride down a crash. Used properly it also keeps you from being thrown forward or out of the vehicle, and keeps you in position on rough roads.",
+      "questionType": "reversed",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "A safety belt spreads crash forces over the strongest parts of the",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-009",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Wearing it correctly",
+      "conceptId": "c-belt-fit",
+      "question": "Where should the lap belt sit?",
+      "choices": [
+        "Snugly over the lower part of the hips",
+        "Across the soft part of the stomach",
+        "Loosely across the thighs",
+        "Above the waist, under the ribs"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook says the lap belt should fit snugly and comfortably over the lower part of the hips, which still allows normal bending of the body. The hips are bone; the stomach is not, which is why a belt worn high can cause injury.",
+      "questionType": "direct",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "and comfortably over the lower part of the hips.",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-010",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Wearing it correctly",
+      "conceptId": "c-belt-fit",
+      "question": "A passenger tucks the shoulder belt behind their back and wears only the lap belt. Why is that a problem?",
+      "choices": [
+        "Shoulder belts should be worn with lap belts for restraint and protection of the upper body",
+        "It is fine as long as the lap belt is snug",
+        "It only matters at speeds above 55 mph",
+        "Shoulder belts are optional for rear passengers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook says shoulder belts, which fit across the shoulder, should be worn with the lap belts for additional restraint and protection of the upper body. Tucking it away leaves the head and chest unrestrained.",
+      "questionType": "scenario",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Safety Belts - It is the Law",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "Shoulder belts, which fit across the shoulder, should be worn with the lap belts for additional",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-011",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Child seats",
+      "conceptId": "c-child-seat-age",
+      "question": "Under what age must a child be secured in a child passenger safety device in West Virginia?",
+      "choices": [
+        "Under 8 years old",
+        "Under 4 years old",
+        "Under 12 years old",
+        "Under 6 years old"
+      ],
+      "correctAnswer": 0,
+      "explanation": "West Virginia law requires a driver transporting a child under the age of 8 in a passenger automobile, van or pickup truck to secure the child in a child passenger safety device meeting applicable federal motor vehicle safety standards.",
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Child Safety Seats",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "safety device system meeting applicable federal motor vehicle safety standards",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-012",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Child seats",
+      "conceptId": "c-child-seat-height",
+      "question": "A 7-year-old is 4 feet 10 inches tall. What does West Virginia law allow?",
+      "choices": [
+        "A safety belt is sufficient, because the child is at least 4 feet 9 inches tall",
+        "A child safety seat is still required until age 8 regardless of height",
+        "The child may ride unrestrained in the back seat",
+        "A booster seat is required until age 12"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The law provides that if a child is under 8 but at least 4 feet 9 inches tall, a safety belt is sufficient. Height is the trigger because a belt only fits correctly, across the hips and shoulder, once the child is tall enough.",
+      "questionType": "application",
+      "difficulty": "tricky",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Child Safety Seats",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "a safety belt shall be sufficient to meet the",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-013",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Child seats",
+      "conceptId": "c-child-seat-height",
+      "question": "Which factor lets a child under 8 use an ordinary safety belt instead of a child safety device?",
+      "choices": [
+        "Being at least 4 feet 9 inches tall",
+        "Being at least 6 years old",
+        "Riding in the back seat",
+        "Travelling less than 5 miles"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Height, not age or seating position, is the deciding factor: the law states that if a child under 8 is at least 4 feet 9 inches tall, a safety belt is sufficient to meet the requirement.",
+      "questionType": "reversed",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Child Safety Seats",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "tall, a safety belt shall be sufficient to meet the",
+        "verifiedDate": "2026-09-14"
+      }
+    },
+    {
+      "id": "q-belt-014",
+      "topicId": "viii-safety-equipment",
+      "subtopic": "Child seats",
+      "conceptId": "c-child-seat-age",
+      "question": "Which vehicles does West Virginia's child restraint law apply to?",
+      "choices": [
+        "A passenger automobile, van or pickup truck not operated for hire",
+        "Passenger cars only",
+        "Any vehicle including taxis and buses",
+        "Only vehicles registered in West Virginia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The law as quoted in the handbook covers a passenger automobile, van or pickup truck other than one operated for hire, while the vehicle is in motion on a street or highway of this state.",
+      "questionType": "application",
+      "difficulty": "tricky",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VIII",
+        "chapterTitle": "Defensive Driving",
+        "section": "Child Safety Seats",
+        "pdfPage": 77,
+        "printedPage": 67,
+        "sourceQuote": "8 years in a passenger automobile, van or pickup truck other than one operated for hire shall, while",
+        "verifiedDate": "2026-09-14"
+      }
+    }
+  ],
+  "signs": []
+}

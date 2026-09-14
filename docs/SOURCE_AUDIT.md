@@ -134,10 +134,63 @@ Related facts recorded while verifying the above:
 instructional choice to leave margin for test-day error, not a claim about the official
 standard. The app states the official 19/25 requirement plainly.
 
+## 4a. Extraction limits that cost real content
+
+Two further extraction defects were found while authoring, and both are recorded because
+they caused content to be **omitted rather than guessed**:
+
+**Two-column interleaving.** Spans are grouped by baseline across the full page width. On
+pages laid out in two columns (PDF 45, 46, 50) a left-column line and a right-column line
+share a baseline and are joined into one line, so no contiguous verbatim quote exists for
+the material there. As a result the following are **not** taught as discrete concepts:
+No Right Turn / No Left Turn, No U-Turn, Wrong Way / Do Not Enter, Dual Turn Lane,
+One Way Street, most individual yellow-diamond warning-sign meanings, and the Green Arrow
+/ Yellow X / Red X lane-use signal meanings. The general rules that *are* quotable cover
+the same ground in principle (red with white means an important message, a red slash
+means NO, lane-use signals control which lanes may be used), but the specific signs are a
+**known content gap**. Fixing it needs column-aware extraction.
+
+**Hand signals were recovered, not skipped.** The turn-signal diagram on PDF page 53 has
+its two label rows separated by unrelated body text, which initially looked unsourceable.
+Each row does extract correctly on its own (`SLOW or STOP RIGHT TURN LEFT TURN` and
+`ARM POINTING DOWN ARM POINTING UP ARM STRAIGHT OUT`); only the left-to-right pairing is
+ambiguous in text. That pairing was confirmed by **rendering page 53 to an image and
+reading it** — arm down = slow/stop, arm up = right turn, arm straight out = left turn —
+and the content cites both rows.
+
+**A space glyph decoding as `?`.** In unmapped spans a literal 0x20 was being shifted to
+`?` (0x3F), so some passages read `Only ?on ?Interstate ?Highways`. 411 occurrences across
+95 lines. Real spaces in those spans encode as 0x01 and decode correctly; only literal
+0x20 was affected. Corrected in `extract_handbook.py` by leaving 0x20 unshifted, and the
+affected quotes were re-sourced.
+
 ## 5. Flagged: statements not silently changed
 
 Per the project rule, anything that looked outdated or ambiguous is recorded here rather
-than corrected in the content:
+than corrected in the content.
+
+**Internal conflict in the handbook — parking on hills (PDF 56 / printed 46).** The table
+row reads "Up hill - (With Curb) → Turn wheels from curb", while the prose immediately
+below reads "If you park or stop on a grade, turn the front wheels to the curb side of the
+highway". These disagree for the uphill-with-curb case. **Only the prose sentence is
+taught**, and the uphill-with-curb case is deliberately not tested. This needs a human
+decision before it is taught either way.
+
+**Wrong internal cross-reference (PDF 57 / printed 47).** The text twice refers to
+"Chapter VI – Defensive Driving". Defensive Driving is Chapter VIII; Chapter VI is the
+chapter doing the referring. Left as printed, not quoted.
+
+**Wording variance, not a conflict — school zone speed.** Given as "15 m.p.h. when
+children are present or when specified" (PDF 44) and as "15mph while children are present
+along the roadway" (PDF 52). Both are cited; they agree on the number.
+
+**Statutory citations are handbook-accurate but not statute-verified.** §17B-2-6
+(retest interval), §17C-13-3 and §17C-13-4 (parking distances, school bus penalties) are
+reproduced as the handbook prints them. They were **not** checked against current West
+Virginia Code. Anything turning on the precise current statute should be verified
+independently.
+
+Other items:
 
 - **PDF p. 42 carries "REV 7/2014"** on an embedded form (vehicle safety inspection /
   basic control skills). That form appears older than the handbook revision. No study

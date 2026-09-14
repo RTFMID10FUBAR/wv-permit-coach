@@ -33,8 +33,16 @@ WORDS |= {"a", "i", "dmv", "wv", "id", "mph", "bac", "cdl", "usa", "us"}
 
 
 def decode(s: str) -> str:
-    return "".join(chr(ord(c) + SHIFT) if 0x01 <= ord(c) <= 0x7E - SHIFT else c
-                   for c in s)
+    """Glyph id -> character.
+
+    0x20 is excluded deliberately. Real spaces inside these unmapped spans encode as
+    0x01 and decode correctly; a literal 0x20 is a different space glyph, and shifting
+    it produced '?' in 411 places (e.g. "Only ?on ?Interstate ?Highways"). Leaving it
+    alone keeps those passages readable, which matters because sourceQuote is shown
+    to learners in the app.
+    """
+    return "".join(chr(ord(c) + SHIFT) if 0x01 <= ord(c) <= 0x7E - SHIFT and ord(c) != 0x20
+                   else c for c in s)
 
 
 def english_score(s: str) -> int:

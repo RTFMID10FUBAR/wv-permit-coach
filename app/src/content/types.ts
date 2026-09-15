@@ -90,9 +90,18 @@ export interface Lesson {
   estimatedMinutes: number;
 }
 
+/**
+ * Which licence a topic belongs to. One app serves both: the engine, mastery model,
+ * exam format and UI are identical, only the content set differs. Topics without a
+ * course are treated as 'car', so existing content needed no edit.
+ */
+export type CourseId = 'car' | 'motorcycle';
+
 export interface Topic {
   id: string;
   title: string;
+  /** Defaults to 'car' when absent. */
+  course?: CourseId;
   chapter: ChapterId;
   /** Display order on the study path. */
   order: number;

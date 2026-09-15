@@ -5,6 +5,7 @@ import type {
   Question,
   SignSpec,
   Topic,
+  CourseId,
 } from './types';
 
 /**
@@ -96,6 +97,43 @@ export function conceptsForTopic(topicId: string): Concept[] {
 export function lessonForConcept(conceptId: string): Lesson | null {
   return lessons.find((l) => l.conceptIds.includes(conceptId)) ?? null;
 }
+
+/* ---- course scoping -----------------------------------------------------------
+ * A topic belongs to a course; everything else inherits the course of its topic.
+ * Content authored before courses existed has no `course` field and is treated as
+ * 'car', so nothing needed editing when the motorcycle set was added.
+ */
+
+function topicCourse(t: Topic): CourseId {
+  return t.course ?? 'car';
+}
+
+const topicToCourse = new Map(topics.map((t) => [t.id, topicCourse(t)]));
+
+export function topicsForCourse(course: CourseId): Topic[] {
+  return topics.filter((t) => topicCourse(t) === course);
+}
+
+export function questionsForCourse(course: CourseId): Question[] {
+  return questions.filter((q) => topicToCourse.get(q.topicId) === course);
+}
+
+export function conceptsForCourse(course: CourseId): Concept[] {
+  return concepts.filter((c) => topicToCourse.get(c.topicId) === course);
+}
+
+export function lessonsForCourse(course: CourseId): Lesson[] {
+  return lessons.filter((l) => topicToCourse.get(l.topicId) === course);
+}
+
+export function courseOfTopic(topicId: string): CourseId {
+  return topicToCourse.get(topicId) ?? 'car';
+}
+
+/** Courses that actually have content in this build, in display order. */
+export const availableCourses: CourseId[] = (['car', 'motorcycle'] as CourseId[]).filter(
+  (c) => topics.some((t) => topicCourse(t) === c),
+);
 
 export const contentIsEmpty =
   topics.length === 0 && questions.length === 0 && lessons.length === 0 && signs.length === 0;

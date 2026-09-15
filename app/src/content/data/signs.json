@@ -10,7 +10,7 @@
     "meaning": "An eight-sided sign reserved for stop signs.",
     "action": "Stop completely, then give the right-of-way to pedestrians and all cross traffic before moving again.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Single Message Shaped Signs - Octagon",
@@ -31,7 +31,7 @@
     "meaning": "A downward-pointing triangle telling you that other traffic has the right-of-way.",
     "action": "Slow down and yield the right-of-way to cross traffic or to merging traffic before you proceed.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Single Message Shaped Signs - Triangle (upside down)",
@@ -52,7 +52,7 @@
     "meaning": "A pennant-shaped sign on the left side of the road marking the start of a no-passing zone.",
     "action": "Do not begin to pass from this point until the no-passing zone ends.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Single Message Shaped Signs - Pennant",
@@ -73,7 +73,7 @@
     "meaning": "A round yellow-and-black sign giving advance warning of a railroad crossing ahead.",
     "action": "Slow down, look and listen for a train, and be ready to stop before the tracks.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Single Message Shaped Signs - Circle",
@@ -94,7 +94,7 @@
     "meaning": "A five-sided sign warning of a school zone ahead or marking a school crossing.",
     "action": "Slow to the 15 m.p.h. school zone limit when children are present or when specified, and watch for children.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Single Message Shaped Signs - Pentagon",
@@ -115,7 +115,7 @@
     "meaning": "A white rectangular regulatory sign showing the fastest speed allowed under optimal weather and road conditions.",
     "action": "Do not exceed the posted number, and drive slower whenever conditions are less than ideal.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Square & Rectangular Signs - Speed Limit",
@@ -136,7 +136,7 @@
     "meaning": "A yellow diamond with black symbols or letters warning of possible danger ahead.",
     "action": "Slow down, read the symbol and be ready for the hazard it shows.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Diamond & Warning Signs",
@@ -157,7 +157,7 @@
     "meaning": "A pedestrian or school warning sign, which may be yellow-green with black letters.",
     "action": "Slow down and watch for, and yield to, people walking across the road.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Diamond & Warning Signs",
@@ -178,7 +178,7 @@
     "meaning": "An orange diamond notifying drivers of unusual or potentially dangerous conditions in or near a work area.",
     "action": "Slow down, expect workers, equipment and lane shifts, and follow the channelling devices.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Construction and Maintenance Signs",
@@ -199,7 +199,7 @@
     "meaning": "Black letters on white bars in the shape of an X, marking the railroad crossing itself.",
     "action": "Yield to all trains, and never enter the crossing unless you can clear the tracks completely.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Railroad Crossing Signs and Signals",
@@ -220,7 +220,7 @@
     "meaning": "A white-on-green sign telling you where you are, what road you are on and how to get where you are going.",
     "action": "Read it early and change lanes in good time for your exit or turn.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Guide Signs",
@@ -241,7 +241,7 @@
     "meaning": "A white-on-blue sign showing what amenities are available off the exit.",
     "action": "Use it to plan fuel, food and rest stops rather than making a late decision at the ramp.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Guide Signs",
@@ -262,7 +262,7 @@
     "meaning": "A white-on-brown sign for parks and public recreation areas.",
     "action": "Follow it for the park or recreation area; it is a guide sign, not a warning.",
     "source": {
-      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 2022, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
       "chapter": "V",
       "chapterTitle": "Traffic Control Devices",
       "section": "Guide Signs",
@@ -270,6 +270,48 @@
       "printedPage": 38,
       "sourceQuote": "Most guide signs are white on green. Motorist services signs are white on blue.   Signs for parks and public recreation areas are white on brown.",
       "verifiedDate": "2026-09-14"
+    }
+  },
+  {
+    "key": "u-wrong-way",
+    "name": "Wrong Way sign",
+    "category": "regulatory",
+    "shape": "rectangle-h",
+    "bg": "#B4121B",
+    "fg": "#FFFFFF",
+    "legend": "WRONG WAY",
+    "meaning": "A red horizontal sign warning that traffic in that direction is prohibited.",
+    "action": "Do not continue in that direction; if this sign faces you, you are travelling against the flow and will likely meet another vehicle head-on.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Square & Rectangular Signs",
+      "pdfPage": 45,
+      "printedPage": 35,
+      "sourceQuote": "Wrong Way or Do Not Enter - These signs\nwarn  you  that  traffic  in  that  direction  is\nprohibited.",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "key": "u-one-way",
+    "name": "One Way Street sign",
+    "category": "regulatory",
+    "shape": "rectangle-h",
+    "bg": "#1A1A1A",
+    "fg": "#FFFFFF",
+    "legend": "ONE WAY",
+    "meaning": "A horizontal sign telling you when a cross street carries traffic running in one direction only.",
+    "action": "Turn into the street only in the direction the sign allows; where there are one-way streets, the next consecutive block usually runs the opposite way.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Square & Rectangular Signs",
+      "pdfPage": 45,
+      "printedPage": 35,
+      "sourceQuote": "One  Way  Street -  This  sign  is\nused to tell you when a cross\nstreet",
+      "verifiedDate": "2026-09-15"
     }
   }
 ]

@@ -19,7 +19,22 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 HANDBOOK = ROOT / "source_material" / "handbook_clean.txt"
+MOTORCYCLE = ROOT / "source_material" / "motorcycle_clean.txt"
 CONTENT = ROOT / "app" / "src" / "content" / "data"
+
+# Two source documents, two page conventions.
+#   car handbook — the printed page number is the PDF page minus 10 (front matter).
+#   motorcycle manual — printed and PDF page numbers are the same.
+# A quote is checked against the document its sourceDocument names, so a motorcycle
+# quote is never looked for in the car handbook and vice versa.
+SOURCES = {
+    "car": {"path": HANDBOOK, "offset": 10},
+    "motorcycle": {"path": MOTORCYCLE, "offset": 0},
+}
+
+
+def source_kind(src: dict) -> str:
+    return "motorcycle" if "motorcycle" in str(src.get("sourceDocument", "")).lower() else "car"
 
 VALID_CHAPTERS = {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX"}
 VALID_QTYPES = {"direct", "scenario", "reversed", "negative", "sign", "application"}
@@ -51,16 +66,22 @@ def norm(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip().lower()
 
 
-def load_pages() -> dict[int, str]:
-    if not HANDBOOK.exists():
-        err(f"handbook text missing: {HANDBOOK} — run source_material/extract_handbook.py")
-        return {}
-    raw = HANDBOOK.read_text(encoding="utf-8")
-    parts = re.split(r"<<<PAGE (\d+)>>>\n", raw)
-    return {int(parts[i]): norm(parts[i + 1]) for i in range(1, len(parts), 2)}
+def load_pages() -> dict[str, dict[int, str]]:
+    """Page text for every source document, keyed by kind."""
+    out: dict[str, dict[int, str]] = {}
+    for kind, cfg in SOURCES.items():
+        path = cfg["path"]
+        if not path.exists():
+            # Only an error if content actually cites that document; checked later.
+            out[kind] = {}
+            continue
+        raw = path.read_text(encoding="utf-8")
+        parts = re.split(r"<<<PAGE (\d+)>>>\n", raw)
+        out[kind] = {int(parts[i]): norm(parts[i + 1]) for i in range(1, len(parts), 2)}
+    return out
 
 
-def check_source(pages: dict[int, str], where: str, src: dict) -> None:
+def check_source(all_pages: dict[str, dict[int, str]], where: str, src: dict) -> None:
     for field in ("sourceDocument", "chapter", "section", "pdfPage",
                   "printedPage", "sourceQuote", "verifiedDate"):
         if not src.get(field) and src.get(field) != 0:
@@ -68,13 +89,20 @@ def check_source(pages: dict[int, str], where: str, src: dict) -> None:
             return
     if src["chapter"] not in VALID_CHAPTERS:
         err(f"{where}: bad chapter {src['chapter']!r}")
+    kind = source_kind(src)
+    pages = all_pages.get(kind, {})
+    if not pages:
+        err(f"{where}: cites the {kind} source, but its extracted text is missing — "
+            f"run source_material/extract_{'motorcycle' if kind == 'motorcycle' else 'handbook'}.py")
+        return
+    offset = SOURCES[kind]["offset"]
     pdf, printed = src["pdfPage"], src["printedPage"]
-    if pdf - printed != PAGE_OFFSET:
-        err(f"{where}: pdfPage {pdf} and printedPage {printed} disagree "
-            f"(expected difference of {PAGE_OFFSET})")
+    if pdf - printed != offset:
+        err(f"{where}: pdfPage {pdf} and printedPage {printed} disagree for the {kind} "
+            f"source (expected difference of {offset})")
     page = pages.get(pdf)
     if page is None:
-        err(f"{where}: cites pdfPage {pdf}, which is not in the handbook")
+        err(f"{where}: cites pdfPage {pdf}, which is not in the {kind} source")
         return
     q = norm(src["sourceQuote"])
     if len(q) < 25:

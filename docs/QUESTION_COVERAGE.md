@@ -1,8 +1,8 @@
 # Question Coverage
 
-Generated 2026-09-14 by `tools/gen_coverage.py` — do not edit by hand.
+Generated 2026-09-15 by `tools/gen_coverage.py` — do not edit by hand.
 
-**584 questions** · 267 concepts · 56 lessons · 56 topics · 13 signs
+**668 questions** · 306 concepts · 61 lessons · 57 topics · 15 signs
 
 
 ## By handbook chapter
@@ -10,12 +10,12 @@ Generated 2026-09-14 by `tools/gen_coverage.py` — do not edit by hand.
 | Chapter | Title | Printed pages | Questions | Pages cited | Status |
 |---|---|---|---|---|---|
 | I | Driver's License Information | 1–15 | 92 | 11 of 15 | covered |
-| II | Driver Responsibilities | 16–20 | 56 | 4 of 5 | covered |
+| II | Driver Responsibilities | 16–20 | 75 | 5 of 5 | covered |
 | III | Driving Impaired or Under the Influence | 21–23 | 28 | 3 of 3 | covered |
 | IV | Examination Procedures and Requirements | 24–33 | 56 | 7 of 10 | covered |
-| V | Traffic Control Devices | 34–41 | 80 | 8 of 8 | covered |
-| VI | Traffic Laws and Rules of the Road | 42–56 | 116 | 13 of 15 | covered |
-| VII | Driving on Interstates | 57–60 | 50 | 4 of 4 | covered |
+| V | Traffic Control Devices | 34–41 | 131 | 9 of 8 | covered |
+| VI | Traffic Laws and Rules of the Road | 42–56 | 127 | 13 of 15 | covered |
+| VII | Driving on Interstates | 57–60 | 53 | 4 of 4 | covered |
 | VIII | Defensive Driving | 61–69 | 68 | 7 of 9 | covered |
 | IX | Emergency Situations | 70–77 | 38 | 5 of 8 | covered |
 
@@ -23,6 +23,7 @@ Generated 2026-09-14 by `tools/gen_coverage.py` — do not edit by hand.
 
 | Topic | Chapter | Concepts | Lessons | Questions | Exam weight |
 |---|---|---|---|---|---|
+| Read the Conditions (Trap Questions) | VI | 8 | 1 | 18 | 2.5 |
 | Who Must Be Licensed | I | 4 | 1 | 8 | 1.0 |
 | Card Types and Proof Documents | I | 6 | 1 | 12 | 1.0 |
 | Instruction Permit — Ages 18 and Over | I | 4 | 1 | 8 | 1.3 |
@@ -34,7 +35,7 @@ Generated 2026-09-14 by `tools/gen_coverage.py` — do not edit by hand.
 | Driver Responsibilities and Crash Reporting | II | 5 | 1 | 10 | 1.3 |
 | Compulsory Insurance | II | 5 | 1 | 10 | 1.3 |
 | Phones and Electronic Devices | II | 6 | 1 | 12 | 1.2 |
-| The Point System | II | 6 | 1 | 12 | 1.7 |
+| The Point System | II | 14 | 2 | 31 | 1.7 |
 | Suspension and Revocation | II | 6 | 1 | 12 | 1.3 |
 | Alcohol and Your Driving | III | 5 | 1 | 10 | 1.2 |
 | WV Alcohol Laws and DUI | III | 7 | 1 | 14 | 1.4 |
@@ -45,13 +46,13 @@ Generated 2026-09-14 by `tools/gen_coverage.py` — do not edit by hand.
 | The Road Skills Test | IV | 6 | 1 | 12 | 1.4 |
 | Automatic Failures and Retesting | IV | 7 | 1 | 14 | 1.6 |
 | Sign Shapes and What They Mean | V | 6 | 1 | 15 | 3.0 |
-| Regulatory Signs: Squares and Rectangles | V | 3 | 1 | 7 | 2.0 |
-| Yellow Diamond Warning Signs | V | 2 | 1 | 4 | 2.0 |
+| Regulatory Signs: Squares and Rectangles | V | 11 | 2 | 24 | 2.0 |
+| Yellow Diamond Warning Signs | V | 12 | 2 | 24 | 2.0 |
 | Construction and Work Zones | V | 1 | 1 | 3 | 1.0 |
 | Guide Signs and Route Markers | V | 1 | 1 | 3 | 1.0 |
 | Railroad Crossings | V | 3 | 1 | 8 | 2.0 |
 | Traffic Lights | V | 5 | 1 | 15 | 3.0 |
-| Flashers, Lane and Crosswalk Signals | V | 3 | 1 | 7 | 2.0 |
+| Flashers, Lane and Crosswalk Signals | V | 8 | 2 | 17 | 2.0 |
 | Pavement Markings | V | 7 | 1 | 18 | 2.0 |
 | Speed Limits and the Basic Speed Law | VI | 3 | 1 | 9 | 2.0 |
 | Signalling and Turning | VI | 4 | 1 | 12 | 2.0 |
@@ -86,18 +87,18 @@ A concept tested only one way can be answered from memory of that one question. 
 
 | Question type | Count |
 |---|---|
-| direct | 249 |
-| scenario | 123 |
-| application | 93 |
-| negative | 63 |
-| reversed | 47 |
-| sign | 9 |
+| direct | 276 |
+| scenario | 136 |
+| application | 107 |
+| negative | 68 |
+| reversed | 60 |
+| sign | 21 |
 
 | Difficulty | Count |
 |---|---|
-| moderate | 313 |
-| core | 208 |
-| tricky | 63 |
+| moderate | 356 |
+| core | 239 |
+| tricky | 73 |
 
 ## Gaps and thin coverage
 

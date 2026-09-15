@@ -73,3 +73,56 @@ describe('QuestionCard choice stability', () => {
     expect(order(container)).toContain('alpha');
   });
 });
+
+/**
+ * The miss panel is the highest-value screen in the app, so its two design decisions are
+ * pinned here: the CORRECT answer leads (retention), and the learner must re-select it
+ * before moving on (retrieval).
+ */
+describe('MissPanel retention behaviour', () => {
+  function renderMiss() {
+    return render(
+      <AppStateProvider>
+        <QuestionCard question={question} seed="miss-seed" mode="immediate" />
+      </AppStateProvider>,
+    );
+  }
+
+  it('shows the correct answer prominently, before the learner error', () => {
+    const { container } = renderMiss();
+    fireEvent.click(within(container).getByText('alpha')); // wrong on purpose
+    const text = container.textContent ?? '';
+    const answerAt = text.indexOf('The correct answer is');
+    const errorAt = text.indexOf('You picked');
+    expect(answerAt).toBeGreaterThan(-1);
+    expect(errorAt).toBeGreaterThan(-1);
+    expect(answerAt).toBeLessThan(errorAt);
+  });
+
+  it('names the specific choice the learner made', () => {
+    const { container } = renderMiss();
+    fireEvent.click(within(container).getByText('bravo'));
+    expect(container.textContent).toContain('You picked “bravo”');
+  });
+
+  it('requires re-selecting the correct answer to lock it in', () => {
+    const { container } = renderMiss();
+    fireEvent.click(within(container).getByText('alpha'));
+    expect(container.textContent).toContain('Lock it in');
+
+    const lock = () =>
+      Array.from(container.querySelectorAll('.lock-choice')) as HTMLButtonElement[];
+    expect(lock()).toHaveLength(4);
+
+    // Picking a wrong one in the lock-in step does not satisfy it.
+    const wrong = lock().find((b) => b.textContent === 'delta')!;
+    fireEvent.click(wrong);
+    expect(container.textContent).toContain('Not that one');
+    expect(container.textContent).not.toContain('Locked in.');
+
+    // Picking the correct one does.
+    const right = lock().find((b) => b.textContent === 'charlie')!;
+    fireEvent.click(right);
+    expect(container.textContent).toContain('Locked in.');
+  });
+});

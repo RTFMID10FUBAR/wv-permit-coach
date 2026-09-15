@@ -130,6 +130,27 @@ export function courseOfTopic(topicId: string): CourseId {
   return topicToCourse.get(topicId) ?? 'car';
 }
 
+/* ---- the handbook, made interactive -------------------------------------------
+ * Every question already cites the page it came from, so the reader can quiz a
+ * learner on the page in front of her the moment she has read it. This is an index
+ * over existing content — it adds nothing and cannot disagree with the source.
+ */
+const byPage = new Map<number, Question[]>();
+for (const q of questions) {
+  const page = q.source?.pdfPage;
+  if (typeof page !== 'number') continue;
+  const list = byPage.get(page);
+  if (list) list.push(q);
+  else byPage.set(page, [q]);
+}
+
+export function questionsForPage(pdfPage: number, course: CourseId = 'car'): Question[] {
+  return (byPage.get(pdfPage) ?? []).filter((q) => topicToCourse.get(q.topicId) === course);
+}
+
+/** Pages that can be quizzed, so the reader can show a marker in the chapter list. */
+export const pagesWithQuestions = new Set(byPage.keys());
+
 /** Courses that actually have content in this build, in display order. */
 export const availableCourses: CourseId[] = (['car', 'motorcycle'] as CourseId[]).filter(
   (c) => topics.some((t) => topicCourse(t) === c),

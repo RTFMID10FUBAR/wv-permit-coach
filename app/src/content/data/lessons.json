@@ -6500,5 +6500,1881 @@
       "x-emergency-lights-who"
     ],
     "estimatedMinutes": 6
+  },
+  {
+    "id": "m-l-license",
+    "topicId": "m-license",
+    "title": "Permit, Exam and Endorsement: the West Virginia Route",
+    "rules": [
+      {
+        "text": "The motorcycle instruction permit allows you to ride on public roads during daylight hours, without passengers.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "I",
+          "chapterTitle": "Motorcycle Licensing in West Virginia",
+          "section": "Motorcycle Permits, Licenses, and Endorsements",
+          "pdfPage": 24,
+          "printedPage": 14,
+          "sourceQuote": "The motorcycle instruction permit allows you to ride a motorcycle on public roads during daylight hours without passengers.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Any person 16 or older may apply for an instruction permit.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "I",
+          "chapterTitle": "Motorcycle Licensing in West Virginia",
+          "section": "Motorcycle Permits, Licenses, and Endorsements",
+          "pdfPage": 24,
+          "printedPage": 14,
+          "sourceQuote": "Any person 16 or older may apply for an instruction permit.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Anyone under 18 must first have completed the requirements for a Level 2 Intermediate Driver's License or a Class E driver's license.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "I",
+          "chapterTitle": "Motorcycle Licensing in West Virginia",
+          "section": "Motorcycle Permits, Licenses, and Endorsements",
+          "pdfPage": 24,
+          "printedPage": 14,
+          "sourceQuote": "Any person under the age of 18  must have first completed the requirements for a Level 2 Intermediate Driver's License or a class E drivers license before being eligible for a motorcycle instruction permit.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "The motorcycle knowledge examination is 25 questions and you must score 80% or better.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "I",
+          "chapterTitle": "Motorcycle Licensing in West Virginia",
+          "section": "Motorcycle Permits, Licenses, and Endorsements",
+          "pdfPage": 24,
+          "printedPage": 14,
+          "sourceQuote": "Pass a 25-question motorcycle knowledge examination with a grade of 80% or better.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "You must hold the instruction permit a minimum of seven days before you are eligible to add the F endorsement.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "I",
+          "chapterTitle": "Motorcycle Licensing in West Virginia",
+          "section": "Motorcycle Permits, Licenses, and Endorsements",
+          "pdfPage": 24,
+          "printedPage": 14,
+          "sourceQuote": "You must hold your instruction permit for a minimum of seven (7) days before you are eligible to add motorcycle endorsement (F).",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "The F endorsement comes either from a DMV road skills test or from the DOT-approved Basic Rider Course.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "I",
+          "chapterTitle": "Motorcycle Licensing in West Virginia",
+          "section": "Motorcycle Permits, Licenses, and Endorsements",
+          "pdfPage": 24,
+          "printedPage": 14,
+          "sourceQuote": "pass a motorcycle road skills test given by a DMV driver  examiner or complete the DOT approved Basic Rider Course provided by the Motorcycle Safety Foundation",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "West Virginia puts three gates between you and a motorcycle endorsement, in a fixed order. First the permit: you must be at least 16, and if you are under 18 you must already have finished the requirements for a Level 2 Intermediate Driver's License or a Class E licence. Then the knowledge exam: 25 questions, 80% or better to pass. That is 20 correct out of 25 — a stricter bar than the car test, which passes at 19.\n\nThe permit itself is limited on purpose. It lets you ride on public roads in daylight hours, and it does not let you carry a passenger. Those two limits are the whole point of a learner permit: they remove night riding and remove responsibility for someone else's life while you are still learning.\n\nThe third gate is time plus skill. You must hold the permit for at least seven days. After that you have two ways to finish: pass a motorcycle road skills test given by a DMV driver examiner, or complete the DOT-approved Basic Rider Course provided by the Motorcycle Safety Foundation. Either one earns you the F endorsement on your existing licence. A Class F licence is a different thing — it is motorcycle-only, and its bearer cannot drive any other type of motor vehicle.",
+    "whyItMatters": "The numbers in this section are the ones most easily confused with the car test, and mixing them up costs marks. The exam is 25 questions at 80%, not the car test's 19 out of 25. The wait is seven days, not thirty. The age floor is 16, but with an extra condition attached for anyone under 18.\n\nThe permit's limits also matter beyond the exam. Riding at night on a permit, or carrying a passenger on one, is riding outside what the permit authorises. Knowing exactly what your permit allows keeps a legal ride legal.",
+    "example": "You turn 17 and want to ride. Because you are under 18, you first need to have completed the requirements for a Level 2 Intermediate Driver's License or a Class E licence — that comes before the motorcycle permit, not after. You then pass the 25-question knowledge exam with at least 20 correct and receive your instruction permit. You ride to work in daylight, alone, for the next week. On day eight you are eligible to take the DMV road skills test — or you can book the MSF Basic Rider Course instead and finish that way.",
+    "conceptIds": [
+      "m-c-permit-privileges",
+      "m-c-permit-eligibility",
+      "m-c-knowledge-exam",
+      "m-c-permit-hold",
+      "m-c-f-endorsement",
+      "m-c-class-f"
+    ],
+    "estimatedMinutes": 8
+  },
+  {
+    "id": "m-l-gear",
+    "topicId": "m-gear",
+    "title": "Gear That Actually Protects You",
+    "rules": [
+      {
+        "text": "In any crash, you have a far better chance of avoiding serious injury if you wear a DOT-compliant helmet, face or eye protection and protective clothing.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Wear the Right Gear",
+          "pdfPage": 5,
+          "printedPage": 4,
+          "sourceQuote": "In any crash, you have a far better chance of avoiding serious injury if you wear:",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "One out of every five motorcycle crashes results in head or neck injuries.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Wear the Right Gear",
+          "pdfPage": 5,
+          "printedPage": 4,
+          "sourceQuote": "And one out of every five motorcycle crashes results in head or neck injuries.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Helmeted riders are three times more likely to survive head injuries than those not wearing helmets.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Wear the Right Gear",
+          "pdfPage": 5,
+          "printedPage": 4,
+          "sourceQuote": "helmeted riders are three times more likely to survive head injuries than those not wearing helmets at the time of the crash",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "A windshield attached to the motorcycle is not a substitute for a faceshield or goggles.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Eye and Face Protection",
+          "pdfPage": 6,
+          "printedPage": 5,
+          "sourceQuote": "A windshield attached to the motorcycle is not a substitute for a faceshield or goggles.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Tinted eye protection should not be worn when little outside light is available.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Eye and Face Protection",
+          "pdfPage": 6,
+          "printedPage": 5,
+          "sourceQuote": "Tinted eye protection should not be worn when little outside light is available.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Boots or shoes should be high and sturdy enough to cover your ankles and give them support.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Clothing",
+          "pdfPage": 6,
+          "printedPage": 5,
+          "sourceQuote": "Boots or shoes should be high and sturdy enough to cover your ankles and give them support.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "Gear is 'right' when it protects you, and the manual names three things: a DOT-compliant helmet, face or eye protection, and protective clothing. The helmet case is made with numbers, not opinion. One crash in five produces head or neck injuries. Helmeted riders are three times more likely to survive a head injury. And the common excuses do not survive contact with the research: a DOT-compliant helmet still lets you see as far to the sides as necessary, and most crashes happen on short trips under five miles, a few minutes after starting out — exactly the ride people skip the helmet for.\n\nEye protection is a separate requirement, not part of the helmet question. A plastic impact-resistant faceshield protects your whole face. Goggles protect your eyes but not the rest of your face. A windshield on the motorcycle is not a substitute for either, and neither are eyeglasses or sunglasses, which can blow off when you turn your head. Tinted protection has its own limit: do not wear it when little outside light is available.\n\nClothing is the layer people treat as optional and shouldn't. Jacket and pants should cover arms and legs completely and fit snugly enough not to flap. Leather offers the most protection; sturdy synthetics offer a lot. Boots should cover and support the ankles with hard, slip-resistant soles and short heels. Gloves should be leather or similar durable material. Hearing protection reduces noise while still letting you hear car horns or sirens.",
+    "whyItMatters": "Every other topic in this manual is about avoiding the crash. This one is about what happens if you do not. It is the only topic where the right answer costs you nothing at the moment of the crash because the decision was already made in the driveway.\n\nThe exam tests the specific comparisons: faceshield versus goggles versus windshield, and when tinted protection is wrong. Those are one-sentence rules with a clear ranking, and they are easy marks once you have the ranking straight.",
+    "example": "You are riding to a shop two miles away on a warm evening and think about leaving the helmet behind. The manual's own numbers argue against it: most crashes happen on short trips of less than five miles, just a few minutes after starting out, and one crash in five produces head or neck injuries. You put the helmet on and fasten it, because an unfastened helmet can come off before it gets a chance to protect you. As the light drops you also swap the tinted shield for a clear one, because tinted eye protection should not be worn when little outside light is available.",
+    "conceptIds": [
+      "m-c-gear-three",
+      "m-c-helmet-facts",
+      "m-c-helmet-selection",
+      "m-c-eye-face",
+      "m-c-clothing"
+    ],
+    "estimatedMinutes": 7
+  },
+  {
+    "id": "m-l-motorcycle",
+    "topicId": "m-motorcycle",
+    "title": "Know the Machine Before You Ride It",
+    "rules": [
+      {
+        "text": "Your feet should reach the ground while you are seated on the motorcycle, and the controls should be easy to operate.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Know Your Motorcycle",
+          "pdfPage": 7,
+          "printedPage": 6,
+          "sourceQuote": "Your feet should reach the ground while you are seated on the motorcycle, and the controls should be easy to operate.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Smaller motorcycles are usually easier for beginners to operate.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Know Your Motorcycle",
+          "pdfPage": 7,
+          "printedPage": 6,
+          "sourceQuote": "Smaller motorcycles are usually easier for beginners to operate.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "More than half of all crashes involve riders with less than five months of experience on their motorcycle.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Borrowing and Lending",
+          "pdfPage": 8,
+          "printedPage": 7,
+          "sourceQuote": "More than half of all crashes involve riders with less than five months of experience on their motorcycle.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "A pre-ride inspection only takes a few minutes and should be done before every ride to prevent problems.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Check Your Motorcycle",
+          "pdfPage": 9,
+          "printedPage": 8,
+          "sourceQuote": "A pre-ride inspection only takes a few minutes and should be done before every ride to prevent problems.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "The throttle should snap back to fully closed when released.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Check Your Motorcycle",
+          "pdfPage": 9,
+          "printedPage": 8,
+          "sourceQuote": "The throttle should snap back to fully closed when released.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Adjust each mirror so you can see the lane behind and the lane next to you.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Check Your Motorcycle",
+          "pdfPage": 9,
+          "printedPage": 8,
+          "sourceQuote": "Adjust each mirror so you can see the lane behind and the lane next to you.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "A motorcycle that does not fit you is harder to control at exactly the moments control matters. The manual's fit test is simple: your feet should reach the ground while you are seated, and the controls should be easy to operate. Smaller motorcycles are usually easier for beginners. At a minimum, a street-legal motorcycle needs a headlight, taillight and brake light, front and rear brakes, turn signals, a horn, and two mirrors.\n\nUnfamiliarity is its own hazard. More than half of all crashes involve riders with less than five months of experience on that motorcycle. If you borrow a bike, get familiar with it away from traffic first — find the turn signals, horn, headlight switch, fuel valve and engine cut-off switch and operate them without looking. If you lend yours, make sure the borrower is licensed and knows how to ride.\n\nA motorcycle needs more frequent attention than a car, because the same minor failure that inconveniences a driver can put a rider down. The pre-ride inspection takes a few minutes and belongs before every ride. T-CLOCS is the memory aid: Tires and wheels, Controls, Lights and electrics, Oil and other fluids, Chassis, Stands. Among the specifics worth remembering: each brake alone should hold the motorcycle, the throttle should snap back to fully closed when released, mirrors are adjusted before starting so you can see the lane behind and the lane next to you, and the side stand's spring should hold it tightly up.",
+    "whyItMatters": "Mechanical problems on a motorcycle turn into control problems immediately. A throttle that does not snap closed, a soft brake, a stand that drops — each is a minute's check before the ride and a crash during it.\n\nThe borrowing statistic is also a question the exam likes, because riders assume crashes are about speed or skill level in general. They are strongly about familiarity with this particular machine.",
+    "example": "A friend lends you their bike for the weekend. Before touching a public road you sit on it and check that your feet reach the ground and the controls fall to hand. You run T-CLOCS: tire pressure and tread, each brake alone holding the bike, the throttle snapping shut when you let go, both headlight beams and all four turn signals, oil and brake fluid levels, the chain's adjustment, and the side stand springing firmly up. You adjust the mirrors while stopped so each shows the lane behind and the lane beside you, then ride the first few miles away from traffic.",
+    "conceptIds": [
+      "m-c-right-bike",
+      "m-c-borrowing",
+      "m-c-preride",
+      "m-c-tclocs"
+    ],
+    "estimatedMinutes": 7
+  },
+  {
+    "id": "m-l-responsibilities",
+    "topicId": "m-responsibilities",
+    "title": "The Crash Is Yours to Avoid",
+    "rules": [
+      {
+        "text": "As a rider you can't be sure that other operators will see you or yield the right of way.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Know Your Responsibilities",
+          "pdfPage": 10,
+          "printedPage": 9,
+          "sourceQuote": "As a rider you can't be sure that other operators will see you or yield the right of way.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Be visible - wear proper clothing, use your headlight, ride in the best lane position to see and be seen.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Know Your Responsibilities",
+          "pdfPage": 10,
+          "printedPage": 9,
+          "sourceQuote": "Be visible - wear proper clothing, use your headlight, ride in the best lane position to see and be seen.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Communicate your intentions - use the proper signals, brake light and lane position.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Know Your Responsibilities",
+          "pdfPage": 10,
+          "printedPage": 9,
+          "sourceQuote": "Communicate your intentions - use the proper signals, brake light and lane position.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Search your path of travel 12 seconds ahead.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Know Your Responsibilities",
+          "pdfPage": 10,
+          "printedPage": 9,
+          "sourceQuote": "Search your path of travel 12 seconds ahead.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Blame doesn't matter when someone is injured in a crash.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "II",
+          "chapterTitle": "Preparing to Ride",
+          "section": "Know Your Responsibilities",
+          "pdfPage": 10,
+          "printedPage": 9,
+          "sourceQuote": "Blame doesn't matter when someone is injured in a crash.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "The manual rejects the word 'accident' for what happens in traffic. An accident is an unforeseen event that occurs without fault or negligence; most people involved in a crash should probably claim some responsibility for what took place. Its example is deliberately even-handed: a driver runs a yellow turning red, and you pull into the intersection on green without checking. It was the driver's responsibility to stop. It was equally your responsibility to look before moving out.\n\nFrom that follows the operating assumption for every other topic: as a rider you cannot be sure that other operators will see you or yield the right of way. So the manual lists what actually lessens your chances of a crash — be visible with proper clothing, headlight and lane position; communicate your intentions with signals, brake light and lane position; maintain an adequate space cushion when following, being followed, lane sharing, passing and being passed; search your path of travel 12 seconds ahead; identify and separate hazards; and be prepared to act with skills like firm braking or swerving.\n\nThe closing line is the point of the whole section: blame does not matter when someone is injured in a crash.",
+    "whyItMatters": "Being in the right is not protection. A rider who is legally blameless and physically injured has still lost. Every strategy later in the manual — lane position, SEE, covering the controls, conspicuity — is an application of this one idea.\n\nThe 12-second search distance is also a specific, testable number, and it pairs with the 2-second and 4-second figures in the SEE topic. Learn all three together.",
+    "example": "Your light turns green at a busy intersection. Someone on the cross street is still moving as their light goes red. If you treat green as permission and roll, the crash is available to both of you. Instead you search the intersection before moving, keep your headlight on and your lane position where oncoming drivers can see you, and cover the clutch and brakes. You were entitled to go; you looked first anyway, because blame is no use to an injured rider.",
+    "conceptIds": [
+      "m-c-rider-responsibility",
+      "m-c-search-12",
+      "m-c-reduce-chances"
+    ],
+    "estimatedMinutes": 6
+  },
+  {
+    "id": "m-l-control",
+    "topicId": "m-control",
+    "title": "Control: Posture, Gears, Brakes and Turns",
+    "rules": [
+      {
+        "text": "Keep your knees against the gas tank to help you keep your balance as the motorcycle turns.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "III",
+          "chapterTitle": "Ride Within Your Abilities - Basic Vehicle Control",
+          "section": "Body Position",
+          "pdfPage": 11,
+          "printedPage": 10,
+          "sourceQuote": "Keep your knees against the gas tank to help you keep your balance as the motorcycle turns.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Always use both brakes every time you slow or stop.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "III",
+          "chapterTitle": "Ride Within Your Abilities - Basic Vehicle Control",
+          "section": "Braking",
+          "pdfPage": 12,
+          "printedPage": 11,
+          "sourceQuote": "Always use both brakes every time you slow or stop.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "The front brake is more powerful and can provide 70% or more of your total stopping power.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "III",
+          "chapterTitle": "Ride Within Your Abilities - Basic Vehicle Control",
+          "section": "Braking",
+          "pdfPage": 12,
+          "printedPage": 11,
+          "sourceQuote": "The front brake is more powerful and can provide 70% or more of your total stopping power.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Maximum straight-line braking is accomplished by fully applying both front and rear brakes without locking either wheel.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "III",
+          "chapterTitle": "Ride Within Your Abilities - Basic Vehicle Control",
+          "section": "Braking",
+          "pdfPage": 12,
+          "printedPage": 11,
+          "sourceQuote": "Maximum straight-line braking is accomplished by fully applying both front and rear brakes without locking either wheel.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Any time a motorcycle is leaned over, the amount of traction available for braking is reduced.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "III",
+          "chapterTitle": "Ride Within Your Abilities - Basic Vehicle Control",
+          "section": "Braking in a Corner",
+          "pdfPage": 13,
+          "printedPage": 12,
+          "sourceQuote": "Any time a motorcycle is leaned over, the amount of traction available for braking is reduced.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "SLOW - reduce speed before the turn by closing the throttle and, if necessary, applying both brakes.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "III",
+          "chapterTitle": "Ride Within Your Abilities - Basic Vehicle Control",
+          "section": "Turning",
+          "pdfPage": 14,
+          "printedPage": 13,
+          "sourceQuote": "SLOW - Reduce speed before the turn by closing the throttle and, if necessary, applying both brakes.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "LOOK - look through the turn to where you want to go, turning just your head, not your shoulders.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "III",
+          "chapterTitle": "Ride Within Your Abilities - Basic Vehicle Control",
+          "section": "Turning",
+          "pdfPage": 14,
+          "printedPage": 13,
+          "sourceQuote": "LOOK - Look through the turn to where you want to go. Turn just your head, not your shoulders, and keep your eyes level with the horizon.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "To turn, the motorcycle must lean; to lean it, press on the handgrip in the direction of the turn.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "III",
+          "chapterTitle": "Ride Within Your Abilities - Basic Vehicle Control",
+          "section": "Turning",
+          "pdfPage": 14,
+          "printedPage": 13,
+          "sourceQuote": "To turn, the motorcycle must lean. To lean the motorcycle, press on the handgrip in the direction of the turn.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "ROLL - roll on the throttle to maintain or slightly increase speed.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "III",
+          "chapterTitle": "Ride Within Your Abilities - Basic Vehicle Control",
+          "section": "Turning",
+          "pdfPage": 14,
+          "printedPage": 13,
+          "sourceQuote": "ROLL - Roll on the throttle to maintain or slightly increase speed.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "Control starts with how you sit. Arms slightly bent so you can press on the handlebars without reaching, hands even with or below your elbows, right wrist flat so you cannot accidentally roll on too much throttle. Knees against the tank for balance in turns, feet firmly on the footrests with toes up — pointed-down toes can catch between the road and the footrest.\n\nBraking is where riders lose the most. Always use both brakes every time you slow or stop, so the habit is there in an emergency. The front brake is the powerful one: it can provide 70% or more of your total stopping power, and it is safe to use if you use it properly. Squeeze it smoothly, firmly and with progressively more force rather than grabbing, because as weight transfers forward more traction becomes available at the front and you can then brake harder. At the rear, apply light-to-lighter pressure, because weight leaving the rear takes rear traction with it. Maximum straight-line braking is both brakes fully applied without locking either wheel.\n\nLean angle changes all of that. Any time the motorcycle is leaned over, the traction available for braking is reduced, and the greater the lean angle the more likely the tires are to lose grip. To stop quickly in a curve, get the motorcycle as perpendicular to the road as you can and then brake; if conditions do not allow, brake smoothly and gradually, reducing lean as you slow and increasing brake pressure as traction returns.\n\nTurns have four steps that overlap in practice: SLOW, LOOK, PRESS, ROLL. Reduce speed before the turn. Look through the turn to where you want to go, turning just your head, not your shoulders, eyes level with the horizon. Press the handgrip on the side you want to go — press left, lean left, go left. Roll on the throttle to maintain or slightly increase speed, which stabilises the motorcycle. In ordinary turns the rider and motorcycle lean together; in slow, tight turns you counterbalance, leaning the motorcycle only and keeping your body upright.",
+    "whyItMatters": "Improper braking remains a significant contributing factor in many motorcycle crashes, and the single most common pattern is under-using the front brake and over-using the rear. Learning where the stopping power actually is — 70% or more at the front — is what turns an emergency stop from a skid into a stop.\n\nThe turn steps are equally practical. Riders who brake in the middle of a corner rather than before it, or who look at the hazard instead of through the turn to the exit, are the ones who run wide. Both errors are fixed by the same four-word sequence.",
+    "example": "You are approaching a tightening right-hand bend a little faster than you would like. Before the bend you close the throttle and apply both brakes — SLOW, while you are still upright and have full braking traction. You turn just your head and look through the corner to where you want to be — LOOK. You press the right handgrip, the motorcycle leans right and goes right — PRESS. Through the corner you roll on the throttle slightly, which settles the suspension — ROLL. If you had left the braking until you were leaned over, the traction available for braking would already have been reduced, and hard braking there is how riders skid.",
+    "conceptIds": [
+      "m-c-body-position",
+      "m-c-shifting",
+      "m-c-downshift-speed",
+      "m-c-engine-braking",
+      "m-c-both-brakes",
+      "m-c-front-70",
+      "m-c-max-braking",
+      "m-c-lean-traction",
+      "m-c-abs",
+      "m-c-turn-steps",
+      "m-c-press-lean",
+      "m-c-counterbalance"
+    ],
+    "estimatedMinutes": 12
+  },
+  {
+    "id": "m-l-distance",
+    "topicId": "m-distance",
+    "title": "Space Is the Thing You Can Always Buy",
+    "rules": [
+      {
+        "text": "Normally, a minimum of two seconds distance should be maintained when following a vehicle.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IV",
+          "chapterTitle": "Ride Within Your Abilities - Keeping Your Distance",
+          "section": "Following Another Vehicle",
+          "pdfPage": 15,
+          "printedPage": 14,
+          "sourceQuote": "Normally, a minimum of two seconds distance should be maintained when following a vehicle.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If the pavement is slippery, if you cannot see through the vehicle ahead, or if traffic is heavy, open up a three-second or more following distance.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IV",
+          "chapterTitle": "Ride Within Your Abilities - Keeping Your Distance",
+          "section": "Following Another Vehicle",
+          "pdfPage": 16,
+          "printedPage": 15,
+          "sourceQuote": "open up a three-second or more following distance",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If you reach the marker before you reach 'two', you are following too closely.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IV",
+          "chapterTitle": "Ride Within Your Abilities - Keeping Your Distance",
+          "section": "Following Another Vehicle",
+          "pdfPage": 16,
+          "printedPage": 15,
+          "sourceQuote": "If you reach the marker before you reach “two,” you are following too closely.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "A better way to handle tailgaters is to get them in front of you.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IV",
+          "chapterTitle": "Ride Within Your Abilities - Keeping Your Distance",
+          "section": "Being Followed",
+          "pdfPage": 16,
+          "printedPage": 15,
+          "sourceQuote": "A better way to handle tailgaters is to get them in front of you.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "When you are being passed from behind, stay in the centre portion of your lane.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IV",
+          "chapterTitle": "Ride Within Your Abilities - Keeping Your Distance",
+          "section": "Being Passed",
+          "pdfPage": 17,
+          "printedPage": 16,
+          "sourceQuote": "When you are being passed from behind, stay in the center portion of your lane.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Cars and motorcycles need a full lane to operate safely. Lane sharing is usually prohibited.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IV",
+          "chapterTitle": "Ride Within Your Abilities - Keeping Your Distance",
+          "section": "Lane Sharing",
+          "pdfPage": 18,
+          "printedPage": 17,
+          "sourceQuote": "Cars and motorcycles need a full lane to operate safely. Lane sharing is usually prohibited.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "One absolute, however, is to avoid riding in another vehicle's blind spot.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IV",
+          "chapterTitle": "Ride Within Your Abilities - Keeping Your Distance",
+          "section": "Lane Positions",
+          "pdfPage": 15,
+          "printedPage": 14,
+          "sourceQuote": "One absolute, however, is to avoid riding in another vehicle's blind spot.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "A cushion of space is what converts someone else's mistake into a near miss instead of a crash: more time to respond, more space to manoeuvre, and an escape path. Each traffic lane gives a motorcycle three paths of travel, and your lane choice should increase your ability to see and be seen, keep you out of blind spots, avoid surface hazards, communicate intentions, avoid windblast, provide an escape path, and set up for turns. Ride in path 2 or 3 when problems are on your left only, path 1 or 2 when hazards are on your right only, and path 2 — the centre — when vehicles are on both sides. No portion of the lane needs to be avoided as a rule, including the centre; just remember the centre third is where debris and oil drippings collect, and avoid big buildups of oil and grease at busy intersections and tollbooths.\n\nFollowing distance is time, not car lengths. In traffic, motorcycles need as much distance to stop as cars, so the normal minimum is two seconds. Gauge it by picking a marker and counting 'one-thousand-one, one-thousand-two' as the vehicle ahead passes it; reaching the marker before 'two' means you are too close. Open it to three seconds or more if the pavement is slippery, if you cannot see through the vehicle ahead, or if traffic is heavy enough that someone may squeeze in.\n\nBehind you is the other half. Speeding up to lose a tailgater only produces a tailgater at higher speed. The better answer is to get them in front of you: let them pass, or slow down and open up extra space ahead so there is room for both of you to stop. When you are being passed, stay in the centre portion of your lane — away from extended mirrors, objects thrown from windows, and blasts of wind from larger vehicles. Cars and motorcycles need a full lane, and lane sharing is usually prohibited; keep a centre-portion position wherever a driver might be tempted to squeeze past.",
+    "whyItMatters": "Following distance is one of the few things on the road that is entirely inside your control and instantly adjustable. 'Following too closely' is a frequent factor in crashes involving motorcyclists, and the fix costs nothing but a slightly later arrival.\n\nThe exam tests the numbers — two seconds normally, three or more when conditions are poor — and it tests the tailgater answer, where the intuitive response (speed up) is the wrong one.",
+    "example": "A pickup truck sits a metre off your rear wheel on a wet road. Speeding up would just move the problem to a higher speed. Instead you move to a lane position that invites the pass and let them by; when they will not pass, you slow gently and open extra space ahead, so there is room for both of you to stop if the traffic in front brakes. The wet surface has also raised your own following distance from two seconds to three or more, and once the truck has gone past you return to the centre portion of the lane.",
+    "conceptIds": [
+      "m-c-lane-paths",
+      "m-c-center-strip",
+      "m-c-two-second",
+      "m-c-three-second",
+      "m-c-gauge",
+      "m-c-tailgater",
+      "m-c-passing",
+      "m-c-being-passed",
+      "m-c-lane-sharing",
+      "m-c-merging-alongside"
+    ],
+    "estimatedMinutes": 10
+  },
+  {
+    "id": "m-l-see",
+    "topicId": "m-see",
+    "title": "SEE: The Strategy Behind Every Other Rule",
+    "rules": [
+      {
+        "text": "Good, experienced riders reduce their risk by using MSF's three-step SEE strategy.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "V",
+          "chapterTitle": "Ride Within Your Abilities - SEE",
+          "section": "SEE",
+          "pdfPage": 18,
+          "printedPage": 17,
+          "sourceQuote": "They reduce their risk by using MSF's three-step SEE strategy",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "As you search, focus on finding potential escape paths, especially in or around intersections, shopping areas and school and construction zones.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "V",
+          "chapterTitle": "Ride Within Your Abilities - SEE",
+          "section": "Search",
+          "pdfPage": 18,
+          "printedPage": 17,
+          "sourceQuote": "As you search, focus on finding potential escape paths, especially in or around intersections, shopping areas and school and construction zones.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "First, have at least a 2-second following distance.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "V",
+          "chapterTitle": "Ride Within Your Abilities - SEE",
+          "section": "Search",
+          "pdfPage": 19,
+          "printedPage": 18,
+          "sourceQuote": "First, have at least a 2-second following distance.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Anything that is within 4 seconds of your path is considered immediate.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "V",
+          "chapterTitle": "Ride Within Your Abilities - SEE",
+          "section": "Search",
+          "pdfPage": 19,
+          "printedPage": 18,
+          "sourceQuote": "Anything that is within 4 seconds of your path is considered immediate",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Search for hazards that are further out, looking ahead to an area it would take about 12 seconds to reach.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "V",
+          "chapterTitle": "Ride Within Your Abilities - SEE",
+          "section": "Search",
+          "pdfPage": 19,
+          "printedPage": 18,
+          "sourceQuote": "search for hazards that are further out, looking ahead to an area it would take about 12 seconds to reach",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Evaluate means to think about how hazards can interact to create risks for you.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "V",
+          "chapterTitle": "Ride Within Your Abilities - SEE",
+          "section": "Evaluate",
+          "pdfPage": 19,
+          "printedPage": 18,
+          "sourceQuote": "Evaluate means to think about how hazards can interact to create risks for you.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Execute your decision with smoothness and precision.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "V",
+          "chapterTitle": "Ride Within Your Abilities - SEE",
+          "section": "Execute",
+          "pdfPage": 20,
+          "printedPage": 19,
+          "sourceQuote": "Execute your decision with smoothness and precision.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Apply the old adage 'one step at a time' to handle two or more hazards.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "V",
+          "chapterTitle": "Ride Within Your Abilities - SEE",
+          "section": "Execute",
+          "pdfPage": 20,
+          "printedPage": 19,
+          "sourceQuote": "Apply the old adage “one step at a time” to handle two or more hazards.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "SEE is Search, Evaluate, Execute — the framework that turns looking out of the windscreen into a decision. Search is active, not passive: scan the environment ahead, to the sides and behind to catch hazards before they arise, and focus on finding potential escape paths, especially around intersections, shopping areas, and school and construction zones. The manual gives three lead times to structure the search. At least 2 seconds is your following distance. Anything within 4 seconds of your path is immediate, because 4 seconds is roughly enough time and space to swerve or brake for a fixed hazard or for something entering your path. And you look further out still, to an area it would take about 12 seconds to reach, which is what gives you time to prepare before a situation becomes urgent.\n\nEvaluate means thinking about how hazards can interact to create risks for you. Road and surface characteristics — potholes, guardrails, bridges, poles, trees — shape your strategy. Traffic control devices tell you what is about to happen. Vehicles and other traffic may move into your path. Escape paths need to be available, in front or to the sides.\n\nExecute is the action, carried out with smoothness and precision. You have three tools: communicate your presence with lights and/or horn; adjust your speed by accelerating, stopping or slowing; and adjust your position or direction by swerving, changing lanes, or moving within your lane. When two or more hazards appear at once, apply 'one step at a time' — adjust speed to permit the hazards to separate, then deal with them one at a time as single hazards. With three or more, evaluate the consequences of each and give equal distance to the hazards. In high-risk areas, cover the clutch and both brakes to reduce the time you need to react.",
+    "whyItMatters": "Almost every specific rule later in the manual — lane position at intersections, covering the controls, following distance, swerving — is SEE applied to one situation. Learning the framework means you can reason your way to an answer on an exam question about a situation the manual never spells out.\n\nThe three lead times are also pure exam material. They are easy to confuse with each other: 2 seconds is the gap behind the vehicle ahead, 4 seconds is the immediate danger zone, 12 seconds is the long search.",
+    "example": "You are approaching a shopping-centre entrance. Search: a car is waiting to turn out of the entrance, a delivery van is parked blocking part of your view, and a pedestrian is stepping off the kerb further on. Evaluate: the parked van hides the car's view of you and yours of anything beyond it, and the car and the pedestrian could both need your road within the same two seconds. Execute, one step at a time: you ease off to let the two hazards separate, cover the clutch and both brakes, move to the lane position that puts you in the waiting driver's field of view, and deal with the car first and the pedestrian second.",
+    "conceptIds": [
+      "m-c-see-strategy",
+      "m-c-search",
+      "m-c-lead-times",
+      "m-c-evaluate",
+      "m-c-execute",
+      "m-c-one-at-a-time"
+    ],
+    "estimatedMinutes": 9
+  },
+  {
+    "id": "m-l-intersections",
+    "topicId": "m-intersections",
+    "title": "Intersections: Where the Crashes Are",
+    "rules": [
+      {
+        "text": "Over one-half of motorcycle/car crashes are caused by drivers violating a rider's right-of-way.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Intersections",
+          "pdfPage": 20,
+          "printedPage": 19,
+          "sourceQuote": "Over one-half of motorcycle/car crashes are caused by drivers violating a rider's right-of-way.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Cars that turn left in front of you, including cars turning left from the lane on your right, and cars on side streets that pull into your lane, are the biggest dangers.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Intersections",
+          "pdfPage": 20,
+          "printedPage": 19,
+          "sourceQuote": "Cars that turn left in front of you, including cars turning left from the lane on your right, and cars on side streets that pull into your lane, are the biggest dangers.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "There are no guarantees that others see you. Never count on eye contact.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Intersections",
+          "pdfPage": 20,
+          "printedPage": 19,
+          "sourceQuote": "There are no guarantees that others see you. Never count on “eye contact.”",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If a car can enter your path, assume that it will.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Intersections",
+          "pdfPage": 20,
+          "printedPage": 19,
+          "sourceQuote": "If a car can enter your path, assume that it will.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Ride with your headlight on and be in a lane position that provides the best view of oncoming traffic.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Intersections",
+          "pdfPage": 21,
+          "printedPage": 20,
+          "sourceQuote": "Ride with your headlight on and be in a lane position that provides the best view of oncoming traffic.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Cover the clutch lever and both brakes to reduce reaction time.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Intersections",
+          "pdfPage": 21,
+          "printedPage": 20,
+          "sourceQuote": "Cover the clutch lever and both brakes to reduce reaction time.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If you approach a blind intersection, move to the portion of the lane that will bring you into another driver's field of vision at the earliest possible moment.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Blind Intersections",
+          "pdfPage": 21,
+          "printedPage": 20,
+          "sourceQuote": "If you approach a blind intersection, move to the portion of the lane that will bring you into another driver's field of vision at the earliest possible moment.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If you have a stop sign or stop line, stop there first, then edge forward and stop again just short of where the cross-traffic lane meets your lane.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Blind Intersections",
+          "pdfPage": 21,
+          "printedPage": 20,
+          "sourceQuote": "If you have a stop sign or stop line, stop there first. Then edge forward and stop again, just short of where the cross-traffic lane meets your lane.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "The greatest potential for conflict between you and other traffic is at intersections, and an intersection is not only a crossroads — it can be a driveway on a residential street, or anywhere traffic may cross your path of travel. Over one-half of motorcycle/car crashes are caused by drivers violating a rider's right-of-way. The specific dangers the manual names are cars that turn left in front of you, including cars turning left from the lane on your right, and cars on side streets that pull into your lane.\n\nThe manual then removes the comfort most riders reach for: there are no guarantees that others see you, and you should never count on eye contact, because too often a driver looks right at a motorcyclist and still fails to see him or her. The only eyes you can count on are your own. If a car can enter your path, assume that it will.\n\nThe strategy is concrete. Ride with your headlight on and pick a lane position that gives the best view of oncoming traffic. Provide a space cushion that gives you an escape path. When a driver is preparing to cross your path, slow and select a lane position that increases your visibility to that driver, and cover the clutch lever and both brakes to cut your reaction time. As you enter the intersection, move away from the vehicle. Do not change speed or position radically, because drivers may read that as a turn signal of sorts. Be prepared to brake hard and hold your position if an oncoming vehicle turns in front of you — and use this same strategy any time a vehicle in the oncoming lane is signalling a left turn, whether at an intersection or not.\n\nAt a blind intersection, move to the portion of the lane that brings you into the other driver's field of vision at the earliest possible moment. With a stop sign or stop line, stop there first, then edge forward and stop again just short of where the cross-traffic lane meets yours, lean forward and look around whatever is blocking the view — keeping your front wheel out of the cross lane while you look.",
+    "whyItMatters": "This is the highest-value topic in the manual. More than half of motorcycle-car crashes start here, and the single most common one is a driver turning left across a rider's path. Riders who believe eye contact protects them ride into that crash with confidence.\n\nThe exam draws heavily from this section, and the questions tend to test the counter-intuitive parts: eye contact does not mean you were seen, and the response to a threat is to slow and cover the controls rather than to accelerate through.",
+    "example": "You are approaching a green light. A car in the oncoming lane is stopped with its left indicator on, and the driver appears to look straight at you. You do not treat that as permission. You slow, move to the lane position that shows you most clearly to that driver, cover the clutch and both brakes, and keep an escape path open on your right. If the car turns across you, your reaction has already been shortened to a squeeze and a press rather than a search for the levers. The manual asks you to use this same response whenever a vehicle in the oncoming lane signals a left turn — at an intersection or not.",
+    "conceptIds": [
+      "m-c-intersection-risk",
+      "m-c-eye-contact",
+      "m-c-intersection-strategy",
+      "m-c-blind-intersection",
+      "m-c-stop-line",
+      "m-c-parked-cars",
+      "m-c-parking-curb"
+    ],
+    "estimatedMinutes": 10
+  },
+  {
+    "id": "m-l-conspicuity",
+    "topicId": "m-conspicuity",
+    "title": "Being Seen Is Something You Arrange",
+    "rules": [
+      {
+        "text": "In crashes with motorcyclists, drivers often say that they never saw the motorcycle.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Increasing Conspicuity",
+          "pdfPage": 23,
+          "printedPage": 22,
+          "sourceQuote": "In crashes with motorcyclists, drivers often say that they never saw the motorcycle.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Most crashes occur during daylight hours. Wear bright-coloured clothing to increase your chances of being seen.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Clothing",
+          "pdfPage": 23,
+          "printedPage": 22,
+          "sourceQuote": "Most crashes occur during daylight hours. Wear bright-colored clothing to increase your chances of being seen.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "A good way to help others see your motorcycle is to have the headlight on - at all times.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Headlight",
+          "pdfPage": 23,
+          "printedPage": 22,
+          "sourceQuote": "A good way to help others see your motorcycle is to have the headlight on - at all times.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "During the day, a motorcycle with its light on is twice as likely to be noticed.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Headlight",
+          "pdfPage": 24,
+          "printedPage": 23,
+          "sourceQuote": "during the day, a motorcycle with its light on is twice as likely to be noticed",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Use your signals any time you plan to change lanes or turn, even when you think no one else is around.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Signals",
+          "pdfPage": 24,
+          "printedPage": 23,
+          "sourceQuote": "Use them anytime you plan to change lanes or turn. Use them even when you think no one else is around.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Your motorcycle's brake light is usually not as noticeable as the brake lights on a car.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Brake Light",
+          "pdfPage": 24,
+          "printedPage": 23,
+          "sourceQuote": "Your motorcycle's brake light is usually not as noticeable as the brake lights on a car.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Checking your mirrors is not enough. Motorcycles have blind spots like cars.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Head Checks",
+          "pdfPage": 25,
+          "printedPage": 24,
+          "sourceQuote": "Checking your mirrors is not enough. Motorcycles have “blind spots” like cars.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Open up a three-second following distance or more.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VI",
+          "chapterTitle": "Ride Within Your Abilities - Intersections and Conspicuity",
+          "section": "Riding at Night",
+          "pdfPage": 26,
+          "printedPage": 25,
+          "sourceQuote": "Open up a three-second following distance or more.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "From ahead or behind, a motorcycle's outline is much smaller than a car's — and it is difficult to see something you are not looking for, which is what most drivers are doing about motorcycles. Even when a driver does see you, smaller vehicles appear farther away than they actually are, so drivers pull out thinking they have plenty of time. The manual's blunt strategy is to pretend you are invisible, which keeps you in a hyper-aware mindset.\n\nWhat you can change: clothing, lights and position. Most crashes occur during daylight hours, so bright-coloured clothing is a daylight tool, not a night one — bright orange, red, yellow or green jackets and vests are the best bets, and a brightly coloured helmet helps too, since your body is half the visible surface area of the rider and motorcycle together. Reflective material adds night visibility on top of that. Keep the headlight on at all times: during the day a motorcycle with its light on is twice as likely to be noticed, and low beam is used at night and in fog.\n\nCommunication comes from signals and the brake light. Use signals any time you plan to change lanes or turn, even when you think no one else is around, because the blinking light itself makes you easier to spot — then make sure the signal is cancelled after the turn, or a driver may pull into your path expecting you to turn again. Because a motorcycle's brake light is usually not as noticeable as a car's, flash it before slowing more quickly than expected, before slowing where others would not expect it, when stopped at an intersection with traffic approaching from behind, and when you are being followed closely.\n\nBehind you is mirrors plus head checks. Check mirrors when stopped at an intersection, before changing lanes, and before slowing. Most motorcycle mirrors are convex: they give a wider view but make cars seem farther away than they really are. Mirrors alone are not enough, because motorcycles have blind spots — turn your head and look before changing lanes, checking the far lane as well as the one next to you.\n\nAt night, reduce speed, open up a three-second following distance or more, use the headlights of the car ahead to read the road, use your high beam whenever you are not following or meeting a car, wear reflective materials, and never override your headlight — do not let your total stopping distance exceed the distance your light beam illuminates.",
+    "whyItMatters": "The most common thing a driver says after hitting a motorcycle is that they never saw it. Everything in this topic is an attempt to move you out of that sentence. None of it is expensive and none of it requires skill; it is all decisions about gear, switches and position.\n\nThe exam likes the bright-clothing-in-daylight point in particular, because it feels counter-intuitive. Reflective material is the night tool; bright colour is the daylight tool, and most crashes happen in daylight.",
+    "example": "You are riding a two-lane road in the afternoon in a bright yellow jacket with your headlight on. Ahead, a driver waits to pull out of a car park. You do not assume they will see you, so you also move to the lane position that puts you most clearly in their view. Later you plan to turn off at an unmarked farm track halfway down a block — somewhere no driver would expect anyone to slow — so you flash your brake light before you slow, signal early, and check your mirror and then turn your head before moving over. Once through the turn you check the signal has cancelled, because a signal left blinking invites the driver behind to pull into the space you are still using.",
+    "conceptIds": [
+      "m-c-never-saw",
+      "m-c-bright-clothing",
+      "m-c-headlight",
+      "m-c-signals",
+      "m-c-brake-light",
+      "m-c-mirrors",
+      "m-c-head-checks",
+      "m-c-horn",
+      "m-c-night"
+    ],
+    "estimatedMinutes": 10
+  },
+  {
+    "id": "m-l-crash",
+    "topicId": "m-crash",
+    "title": "Stop or Swerve — and Never Both at Once",
+    "rules": [
+      {
+        "text": "Know when and how to stop or swerve, two skills critical in avoiding a crash.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Crash Avoidance",
+          "pdfPage": 27,
+          "printedPage": 26,
+          "sourceQuote": "Know when and how to stop or swerve, two skills critical in avoiding a crash.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Most crash-involved riders underbrake the front tire and overbrake the rear.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Crash Avoidance",
+          "pdfPage": 27,
+          "printedPage": 26,
+          "sourceQuote": "Underbrake the front tire and overbrake the rear.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "To stop quickly, apply both brakes at the same time.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Quick Stops",
+          "pdfPage": 27,
+          "printedPage": 26,
+          "sourceQuote": "To stop quickly, apply both brakes at the same time.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If the front wheel locks, release the front brake lever immediately, and reapply with less pressure.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Front-Wheel Skids",
+          "pdfPage": 28,
+          "printedPage": 27,
+          "sourceQuote": "If the front wheel locks, release the front brake lever immediately, and reapply with less pressure.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "As soon as the rear wheel locks, your ability to change direction is lost.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Rear-Wheel Skids",
+          "pdfPage": 28,
+          "printedPage": 27,
+          "sourceQuote": "As soon as the rear wheel locks, your ability to change direction is lost.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If you must stop quickly while in a curve, first straighten and square the handlebars, then stop.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Stopping Quickly in a Curve",
+          "pdfPage": 27,
+          "printedPage": 26,
+          "sourceQuote": "If you must stop quickly while in a curve, first straighten and square the handlebars, then stop.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "A swerve is a sudden change in direction.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Swerving or Turning Quickly",
+          "pdfPage": 27,
+          "printedPage": 26,
+          "sourceQuote": "A swerve is a sudden change in direction.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Apply a small amount of hand pressure to the handgrip located on the side of your intended direction of escape.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Swerving or Turning Quickly",
+          "pdfPage": 27,
+          "printedPage": 26,
+          "sourceQuote": "Apply a small amount of hand pressure to the handlegrip located on the side of your intended direction of escape.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "A primary cause of single-vehicle crashes is motorcyclists running wide in a curve or turn.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Curves",
+          "pdfPage": 29,
+          "printedPage": 28,
+          "sourceQuote": "A primary cause of single-vehicle crashes is motorcyclists running wide in a curve or turn.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "No matter how careful you are, there will be times when you find yourself in a tight spot, and your chances then depend on two skills: stopping and swerving. Deciding which one the situation needs is part of the skill, because it is not always possible to stop quickly enough to avoid an obstacle.\n\nThe manual names the two mistakes crash-involved riders make. First, they underbrake the front tire and overbrake the rear — exactly backwards, since the front provides 70% or more of the stopping power. Second, they either fail to separate braking from swerving, or fail to choose swerving when swerving was the right answer.\n\nA quick stop is both brakes at the same time, the front squeezed firmly and progressively rather than grabbed. If the front wheel locks, release the front brake lever immediately and reapply firmly with less pressure — front-wheel skids cause immediate loss of steering control and balance, and failing to fully release the lever immediately will result in a crash. The rear behaves differently: if you accidentally lock the rear brake on a good traction surface you can keep it locked until you have completely stopped, because even with a locked rear wheel you can control the motorcycle if it is upright and going in a straight line. What you must not do is release a locked rear wheel that has gone out of alignment with the front — the motorcycle can abruptly snap upright and throw the rider into the air ahead of it, which is a high-side crash.\n\nIn a curve, straighten and square the handlebars first, then stop. If that is impossible — there is a danger of running off the road in a left-hand curve, or oncoming traffic in a right-hand curve — brake smoothly and gradually, reducing lean and increasing brake pressure as traction returns. Always straighten the handlebars in the last few feet of stopping.\n\nA swerve is a sudden change of direction: press the handgrip on the side of your intended escape, keep your body upright, let the motorcycle lean underneath you, and make your escape path the target of your vision. Press the opposite handgrip once clear to come back. And if the situation allows, separate braking from swerving — brake before or after, never while making an aggressive swerve.",
+    "whyItMatters": "This topic is where the exam stops asking what you know and starts asking what you would do. Every question has an intuitive wrong answer: grab the front brake, hold a locked front wheel, brake in the middle of a swerve, brake hard while leaned over. Each of those is the crash.\n\nThe front-versus-rear skid distinction is the single most valuable pair of facts here: release a locked front wheel immediately, but a locked rear on good traction and in a straight line can stay locked until you stop.",
+    "example": "A car pulls out of a side road and stops across your lane. You are close. There is not enough room to stop, so this is a swerve, not a brake. You press the handgrip on the side of the gap you intend to use, keep your body upright and let the motorcycle lean underneath you, eyes on the escape path rather than on the car. Once you are past the car you press the opposite handgrip to straighten up — and only then, on a straight and upright motorcycle, do you brake. Braking in the middle of the swerve would have spent the traction you needed to change direction.",
+    "conceptIds": [
+      "m-c-crash-skills",
+      "m-c-rider-errors",
+      "m-c-quick-stop",
+      "m-c-front-skid",
+      "m-c-rear-skid",
+      "m-c-high-side",
+      "m-c-stop-in-curve",
+      "m-c-swerve",
+      "m-c-separate",
+      "m-c-curves"
+    ],
+    "estimatedMinutes": 11
+  },
+  {
+    "id": "m-l-surfaces",
+    "topicId": "m-surfaces",
+    "title": "When the Road Stops Cooperating",
+    "rules": [
+      {
+        "text": "Your chance of falling or being involved in a crash increases whenever you ride across uneven surfaces, slippery surfaces, railroad tracks, and grooves and gratings.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Handling Dangerous Surfaces",
+          "pdfPage": 29,
+          "printedPage": 28,
+          "sourceQuote": "Your chance of falling or being involved in a crash increases whenever you ride across:",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If you must go over a smaller obstacle, approach it at as close to a 90 degree angle as possible.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Uneven Surfaces and Obstacles",
+          "pdfPage": 30,
+          "printedPage": 29,
+          "sourceQuote": "If you must go over a smaller obstacle, approach it at as close to a 90˚ angle as possible.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Rise slightly off the seat with your weight on the footrests to absorb the shock with your knees and elbows.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Uneven Surfaces and Obstacles",
+          "pdfPage": 30,
+          "printedPage": 29,
+          "sourceQuote": "Rise slightly off the seat with your weight on the footrests to absorb the shock with your knees and elbows.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Slow down before you get to a slippery surface to lessen your chances of skidding.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Slippery Surfaces",
+          "pdfPage": 30,
+          "printedPage": 29,
+          "sourceQuote": "Slow down before you get to a slippery surface to lessen your chances of skidding.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "The front brake is still effective, even on a slippery surface.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Slippery Surfaces",
+          "pdfPage": 30,
+          "printedPage": 29,
+          "sourceQuote": "The front brake is still effective, even on a slippery surface.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "When it starts to rain, ride in the tire tracks left by vehicles.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Slippery Surfaces",
+          "pdfPage": 30,
+          "printedPage": 29,
+          "sourceQuote": "When it starts to rain, ride in the tire tracks left by vehicles.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Usually it is safer to ride straight within your lane to cross tracks.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Railroad Tracks, Trolley Tracks and Pavement Seams",
+          "pdfPage": 31,
+          "printedPage": 30,
+          "sourceQuote": "Usually it is safer to ride straight within your lane to cross tracks.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Relax, maintain a steady speed and ride straight across grooves and gratings.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Grooves and Gratings",
+          "pdfPage": 31,
+          "printedPage": 30,
+          "sourceQuote": "Relax, maintain a steady speed and ride straight across.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "Four kinds of surface raise your chance of falling: uneven surfaces and obstacles, slippery surfaces, railroad tracks, and grooves and gratings. Each has its own answer, and the answers are not interchangeable.\n\nFor obstacles, the first choice is to avoid them by slowing or going around. If you must go over a smaller one, approach it as close to a 90 degree angle as possible, slow down as much as you can before contact, make sure the motorcycle is straight, rise slightly off the seat with your weight on the footrests so your knees and elbows absorb the shock, and just before contact roll on the throttle slightly to lighten the front end, then roll off. Afterwards, pull off the road and check your tires and rims for damage before riding any farther.\n\nSlippery surfaces include wet pavement — particularly just after it starts to rain, before surface oil washes to the side — gravel, sand, mud, leaves, snow and ice, and painted lane markings, steel plates and surface covers, especially when wet. The technique is: reduce speed before you reach the slippery surface, avoid sudden changes of speed or direction, and use both brakes, because the front brake is still effective on a slippery surface — just squeeze it gradually. When rain starts, ride in the tire tracks left by vehicles rather than the centre of the lane, and watch for oil spots when you put a foot down. Ice tends to form in low or shaded areas and on bridges and overpasses, and dirt and gravel collect along the sides of the road, especially on curves and ramps.\n\nTracks are counter-intuitive. It is usually safer to ride straight within your lane to cross railroad or trolley tracks — turning to take them at 90 degrees can put you into another lane of traffic. The 45 degree rule applies to a different thing: tracks, ruts or pavement seams that run parallel to your path, which you move away from and then cross at an angle of at least 45 degrees with a deliberate turn.\n\nRain grooves and bridge gratings make a motorcycle weave, and that uneasy wandering feeling is generally not hazardous. Relax, hold a steady speed and ride straight across. Crossing at an angle forces riders to zigzag to stay in the lane, and the zigzag is far more hazardous than the wandering feeling.",
+    "whyItMatters": "This topic contains two rules that look like each other and mean opposite things: cross railroad tracks by riding straight within your lane, but cross parallel seams at at least 45 degrees. Riders who remember only 'an angle' apply the wrong one and steer into the next lane.\n\nThe grating rule is similar. The weave feels dangerous and is not; the correction people instinctively make — zigzagging to hold the lane — is the dangerous part.",
+    "example": "You are riding into town as the first rain in weeks begins to fall. That is the worst moment for traction, because surface oil has not yet washed to the side of the road. You slow before reaching the wet section rather than on it, move out of the centre of the lane and into the tire tracks left by cars, and keep every input smooth. Approaching a level crossing that runs diagonally across the road, you resist the urge to turn and square it up — turning to take tracks at 90 degrees could put you into oncoming traffic — and instead ride straight within your lane. On the bridge beyond, the grating makes the motorcycle wander; you relax, hold a steady speed and ride straight across.",
+    "conceptIds": [
+      "m-c-obstacles",
+      "m-c-obstacle-technique",
+      "m-c-slippery-list",
+      "m-c-slippery-technique",
+      "m-c-rain-tracks",
+      "m-c-ice",
+      "m-c-tracks",
+      "m-c-parallel45",
+      "m-c-gratings"
+    ],
+    "estimatedMinutes": 10
+  },
+  {
+    "id": "m-l-mechanical",
+    "topicId": "m-mechanical",
+    "title": "When the Motorcycle Is the Emergency",
+    "rules": [
+      {
+        "text": "If the motorcycle starts handling differently, it may be a tire failure.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Tire Failure",
+          "pdfPage": 31,
+          "printedPage": 30,
+          "sourceQuote": "If the motorcycle starts handling differently, it may be a tire failure.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Hold handgrips firmly, ease off the throttle, and keep a straight course.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Tire Failure",
+          "pdfPage": 32,
+          "printedPage": 31,
+          "sourceQuote": "Hold handgrips firmly, ease off the throttle, and keep a straight course.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If the throttle stays stuck, immediately operate the engine cut-off switch and squeeze the clutch lever at the same time.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Stuck Throttle",
+          "pdfPage": 32,
+          "printedPage": 31,
+          "sourceQuote": "If the throttle stays stuck, immediately operate the engine cut-off switch and squeeze the clutch lever at the same time.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Most wobbles can be traced to improper loading, unsuitable accessories or incorrect tire pressure.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Wobble",
+          "pdfPage": 33,
+          "printedPage": 32,
+          "sourceQuote": "Most wobbles can be traced to improper loading, unsuitable accessories or incorrect tire pressure.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Trying to accelerate out of a wobble will only make the motorcycle more unstable.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Wobble",
+          "pdfPage": 33,
+          "printedPage": 32,
+          "sourceQuote": "Trying to “accelerate out of a wobble” will only make the motorcycle more unstable.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Close the throttle gradually to slow down. Do not apply the brakes; braking could make the wobble worse.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Wobble",
+          "pdfPage": 33,
+          "printedPage": 32,
+          "sourceQuote": "Close the throttle gradually to slow down. Do not apply the brakes; braking could make the wobble worse.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "When the engine locks or freezes it is usually low on oil.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Engine Seizure",
+          "pdfPage": 33,
+          "printedPage": 32,
+          "sourceQuote": "When the engine “locks” or “freezes” it is usually low on oil.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "Mechanical failures on a motorcycle become control problems instantly, so each one has a first response worth knowing before you need it.\n\nTire failure is rarely heard — it is felt. If the motorcycle starts handling differently, suspect a tire. A front tire going down makes the steering feel heavy; a rear one makes the back of the motorcycle jerk or sway from side to side. Either way: hold the handgrips firmly, ease off the throttle, and keep a straight course. If braking is required, gradually apply the brake of the tire that is not flat, if you are sure which one it is. When the motorcycle slows, edge to the side of the road, squeeze the clutch and stop.\n\nA stuck throttle is first treated by twisting it back and forth several times, which may free a sticking cable. If it stays stuck, immediately operate the engine cut-off switch and squeeze the clutch lever at the same time. That removes power from the rear wheel even though engine sound may not immediately decline. Move to a safe area and stop, then find the cause before riding again.\n\nA wobble is the front wheel and handlebars suddenly shaking side to side at any speed. Most wobbles trace to improper loading, unsuitable accessories or incorrect tire pressure. The response is counter-intuitive: do not try to accelerate out of it, which only makes the motorcycle more unstable, and do not brake, which could make the wobble worse. Instead grip the handlebars firmly without fighting the wobble, close the throttle gradually, move your weight as far forward and down as possible, and pull off the road as soon as you can.\n\nDrive train failure is rare with routine maintenance, but a chain or belt that slips or breaks could lock the rear wheel and cause a skid. If it breaks you will notice an instant loss of power to the rear wheel: close the throttle and brake to a stop in a safe area. Engine seizure is usually caused by low oil — the first sign is a loss of engine power or a change in the engine's sound. Squeeze the clutch lever to disengage the engine from the rear wheel, pull off the road and stop, and check the oil.",
+    "whyItMatters": "Every one of these has a wrong instinct attached to it. Braking on a flat tire, braking or accelerating in a wobble, hunting for the ignition key instead of the cut-off switch, riding on after an engine note changes. The manual's answers are short and specific enough to memorise, and the exam asks them almost verbatim.\n\nThe common thread is also worth seeing: in nearly every case the first action is to remove power smoothly — close the throttle or squeeze the clutch — rather than to brake.",
+    "example": "You are on a dual carriageway when the steering starts to feel heavy and vague. You did not hear anything, but the handling has changed, so you treat it as a tire failure. You hold the handgrips firmly, ease off the throttle rather than braking, and keep a straight course while the speed falls. You are confident it is the front, so if you need to slow further you use the rear brake gradually. As the motorcycle slows you edge to the side of the road, squeeze the clutch and stop well clear of the traffic lane.",
+    "conceptIds": [
+      "m-c-tire-failure",
+      "m-c-flat-procedure",
+      "m-c-stuck-throttle",
+      "m-c-wobble-cause",
+      "m-c-wobble-response",
+      "m-c-drive-train",
+      "m-c-engine-seizure"
+    ],
+    "estimatedMinutes": 9
+  },
+  {
+    "id": "m-l-hazards",
+    "topicId": "m-hazards",
+    "title": "Animals, Debris and Leaving the Road",
+    "rules": [
+      {
+        "text": "If you are in traffic, however, remain in your lane.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Animals",
+          "pdfPage": 33,
+          "printedPage": 32,
+          "sourceQuote": "If you are in traffic, however, remain in your lane.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Hitting something small is less dangerous to you than hitting something big - like a car.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Animals",
+          "pdfPage": 33,
+          "printedPage": 32,
+          "sourceQuote": "Hitting something small is less dangerous to you than hitting something big - like a car.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "If you are being chased, downshift and approach the animal slowly.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Animals",
+          "pdfPage": 33,
+          "printedPage": 32,
+          "sourceQuote": "If you are being chased, downshift and approach the animal slowly.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "For larger animals (deer, elk, cattle) brake and prepare to stop - they are unpredictable.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Animals",
+          "pdfPage": 34,
+          "printedPage": 33,
+          "sourceQuote": "For larger animals (deer, elk, cattle) brake and prepare to stop - they are unpredictable.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Whatever happens, keep your eyes on the road and your hands on the handlebars.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Flying Objects",
+          "pdfPage": 34,
+          "printedPage": 33,
+          "sourceQuote": "Whatever happens, keep your eyes on the road and your hands on the handlebars.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Make sure the surface of the roadside is firm enough to ride on.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Getting Off the Road",
+          "pdfPage": 34,
+          "printedPage": 33,
+          "sourceQuote": "Make sure the surface of the roadside is firm enough to ride on.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Get as far off the road as you can.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VII",
+          "chapterTitle": "Ride Within Your Abilities - Crash Avoidance and Hazards",
+          "section": "Getting Off the Road",
+          "pdfPage": 34,
+          "printedPage": 33,
+          "sourceQuote": "Get as far off the road as you can.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "You should do everything you safely can to avoid hitting an animal — but the manual attaches a hard limit to that. If you are in traffic, remain in your lane, because hitting something small is less dangerous to you than hitting something big, like a car. A swerve into another lane to miss a squirrel is how riders are hit by vehicles.\n\nDogs get their own treatment, because motorcycles seem to attract them. If you are being chased, downshift and approach the animal slowly; as you approach it, accelerate and leave the animal behind. Do not kick at the animal — keep control of the motorcycle and look where you want to go. Larger animals are handled in the opposite way: for deer, elk or cattle, brake and prepare to stop, because they are unpredictable.\n\nFlying objects — insects, cigarettes thrown from cars, pebbles kicked up by the vehicle ahead — can smear or crack face protection, or strike you in the eye, face or mouth without it. Whatever happens, keep your eyes on the road and your hands on the handlebars, then pull off the road and repair the damage when safe.\n\nLeaving the road, whether to check the motorcycle or just to rest, has four steps. Check the roadside is firm enough to ride on — if it is soft grass, loose sand or you are simply unsure, slow way down before turning onto it. Signal clearly, because drivers behind will not expect you to slow, and check your mirror and make a head check first. Pull off the road, getting as far off as you can, since a motorcycle by the roadside is hard to spot and you do not want someone else pulling off in the same place. And park carefully, because loose and sloped shoulders make setting the side or centre stand difficult.",
+    "whyItMatters": "The animal rules are where good instincts get riders hurt. Swerving to avoid something small, or kicking at a dog, both trade a minor impact for a loss of control or a collision with a vehicle. The manual's ranking is explicit and it is the answer the exam wants.\n\nLeaving the road is also underrated. A rider dealing with a mechanical problem is already distracted, and the shoulder is exactly where the surface is loose and the traffic does not expect them.",
+    "example": "A dog runs out and starts chasing you along a suburban street. You resist the urge to swerve or kick out. You downshift and approach it slowly so it commits to a line, and as you reach it you accelerate away and leave it behind, keeping your eyes on where you want to go. Half a mile later a deer steps out of a hedge — a different animal and a different rule. This one gets braking and preparation to stop, because larger animals are unpredictable and hitting one at speed is not a minor impact.",
+    "conceptIds": [
+      "m-c-animals-traffic",
+      "m-c-dog",
+      "m-c-large-animals",
+      "m-c-flying-objects",
+      "m-c-off-road"
+    ],
+    "estimatedMinutes": 7
+  },
+  {
+    "id": "m-l-passengers",
+    "topicId": "m-passengers",
+    "title": "Two Up and Loaded",
+    "rules": [
+      {
+        "text": "Only experienced riders should attempt to carry passengers or large loads.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Carrying Passengers and Cargo",
+          "pdfPage": 34,
+          "printedPage": 33,
+          "sourceQuote": "only experienced riders should attempt to carry passengers or large loads",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Be sure your motorcycle is equipped with passenger footrests.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Equipment for Carrying a Passenger",
+          "pdfPage": 35,
+          "printedPage": 34,
+          "sourceQuote": "Be sure your motorcycle is equipped with passenger footrests.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Children should be placed immediately behind the rider.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Preparing Your Passenger to Ride",
+          "pdfPage": 35,
+          "printedPage": 34,
+          "sourceQuote": "Children should be placed immediately behind the rider.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Keep both feet firmly on the footrests, even when stopped.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Preparing Your Passenger to Ride",
+          "pdfPage": 35,
+          "printedPage": 34,
+          "sourceQuote": "Keep both feet firmly on the footrests, even when stopped.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Stay directly behind you and lean with you through turns and curves.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Preparing Your Passenger to Ride",
+          "pdfPage": 35,
+          "printedPage": 34,
+          "sourceQuote": "Stay directly behind you and lean with you through turns and curves.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "The heavier your passenger, the longer it may take to speed up, slow down, or turn.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Riding With Passengers",
+          "pdfPage": 36,
+          "printedPage": 35,
+          "sourceQuote": "The heavier your passenger, the longer it may take to speed up, slow down, or turn.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Try to place the load over, or in front of, the rear axle.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Tips for Traveling with Passengers and Cargo",
+          "pdfPage": 36,
+          "printedPage": 35,
+          "sourceQuote": "Try to place the load over, or in front of, the rear axle.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Fasten the load securely with elastic cords (bungee cords or nets).",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Tips for Traveling with Passengers and Cargo",
+          "pdfPage": 37,
+          "printedPage": 36,
+          "sourceQuote": "Fasten the load securely with elastic cords (bungee cords or nets).",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "A passenger or a large load changes how the motorcycle handles, which is why the manual says only experienced riders should attempt it. Before you go, prepare the machine: check tire pressures against the owner's manual for the load, adjust suspension settings if needed, and re-aim the headlight, which the extra weight lifts.\n\nThe equipment list is short and non-negotiable. The passenger needs the same level of personal protective gear as you. The motorcycle needs passenger footrests, a seat large enough to hold both of you without crowding, and a strap or solid handholds. A child goes immediately behind the rider, never in front — a child sitting in front cannot properly balance and may interfere with your control.\n\nThen instruct the passenger, every time, even if they ride themselves. Get on only after you have started the engine and have the transmission in neutral, while you keep both feet down and the front brake applied. Sit as far forward as possible without hindering your control. Hold firmly onto your waist, hips, belt or the handholds. Keep both feet firmly on the footrests, even when stopped, because firm footing prevents a passenger falling off and pulling you off with them. Keep legs away from the muffler, chains and moving parts. Stay directly behind you and lean with you through turns and curves. Avoid unnecessary conversation and sudden moves. Rise slightly off the seat when crossing an obstacle, and tighten their hold when you approach bumps, move off, or turn sharply.\n\nRiding changes too. The heavier your passenger, the longer it may take to speed up, slow down or turn. Ride a little slower, especially through curves, corners and bumps; start slowing earlier as you approach a stop and keep a larger space cushion; and wait for larger gaps to cross, enter or merge in traffic.\n\nCargo has its own physics. Place the load over or in front of the rear axle — loads mounted behind it affect how the motorcycle turns and brakes and can cause a wobble. Keep loads low or in saddlebags, because a high load raises the centre of gravity and upsets balance. Load saddlebags with about the same weight each, since an uneven load pulls the motorcycle to one side and an overloaded bag can catch in the wheel or chain and lock the rear wheel. Fasten loads with elastic cords, ideally with more than one attachment point per side; rope can stretch and knots can come loose. Stop and check the load often.",
+    "whyItMatters": "A passenger is a second life on your machine and a substantial change to its behaviour, and most of the failures are preparation failures rather than riding failures — no footrests, no handhold, no briefing, a load strapped behind the axle with rope.\n\nThe exam favours three points here: passengers lean with you, a child goes behind the rider, and loads go over or in front of the rear axle.",
+    "example": "You are taking a friend across town on the back for the first time. Before setting off you check both tire pressures for the extra weight, confirm the bike has passenger footrests and a grab strap, and see that your friend has the same standard of helmet, jacket, gloves and boots that you do. You brief them: get on only once the engine is running and the bike is in neutral while you hold the front brake with both feet down; hold your waist; keep both feet on the footrests even at traffic lights; lean with you, not against you. On the road you ride a little slower, start braking earlier for every junction, and wait for a bigger gap than usual before pulling out.",
+    "conceptIds": [
+      "m-c-passenger-experience",
+      "m-c-passenger-equipment",
+      "m-c-passenger-instructions",
+      "m-c-child-passenger",
+      "m-c-riding-loaded",
+      "m-c-load-placement",
+      "m-c-load-secure"
+    ],
+    "estimatedMinutes": 9
+  },
+  {
+    "id": "m-l-group",
+    "topicId": "m-group",
+    "title": "Riding as a Group Without Riding on Each Other",
+    "rules": [
+      {
+        "text": "Before starting out, hold a rider's meeting to discuss the route, length of riding segments, rest stops and locations for fuel, meals and lodging.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Group Riding",
+          "pdfPage": 37,
+          "printedPage": 36,
+          "sourceQuote": "Before starting out, hold a rider's meeting to discuss the route, length of riding segments, rest stops and locations for fuel, meals and lodging.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Choose a lead rider and a sweep rider. These should be the most experienced riders of the group.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Group Riding",
+          "pdfPage": 37,
+          "printedPage": 36,
+          "sourceQuote": "Choose a lead rider and a sweep rider. These should be the most experienced riders of the group.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "The sweep rider is the last rider in the group, and sets the pace for the group.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Group Riding",
+          "pdfPage": 38,
+          "printedPage": 37,
+          "sourceQuote": "The sweep rider is the last rider in the group, and sets the pace for the group.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Place inexperienced riders just behind the leader.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Group Riding",
+          "pdfPage": 38,
+          "printedPage": 37,
+          "sourceQuote": "Place inexperienced riders just behind the leader.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "The most important rules for group riding are: no competition, no passing of other riders and no tailgating.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Group Riding",
+          "pdfPage": 38,
+          "printedPage": 37,
+          "sourceQuote": "The most important rules for group riding are: no competition, no passing of other riders and no tailgating.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Never ride directly alongside another rider in the same lane.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Don't Pair Up",
+          "pdfPage": 38,
+          "printedPage": 37,
+          "sourceQuote": "Never ride directly alongside another rider in the same lane.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "The group leader rides in the left side of the lane, and the second rider stays at least one second back and rides in the right side of the lane.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Staggered Formation",
+          "pdfPage": 38,
+          "printedPage": 37,
+          "sourceQuote": "The group leader rides in the left side of the lane, and the second rider stays at least one second back and rides in the right side of the lane.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Intersections present the highest risk for motorcyclists in a group.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "VIII",
+          "chapterTitle": "Ride Within Your Abilities - Passengers, Cargo and Group Riding",
+          "section": "Intersections",
+          "pdfPage": 38,
+          "printedPage": 37,
+          "sourceQuote": "Intersections present the highest risk for motorcyclists in a group.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "A group ride starts before the engines do. Hold a rider's meeting to agree the route, the length of riding segments, rest stops and the locations for fuel, meals and lodging, so that a rider who becomes separated does not have to hurry to catch up. Choose a lead rider and a sweep rider, both of whom should be the most experienced riders in the group; the sweep rider is last and sets the pace. Inexperienced riders go just behind the leader, so they never have to chase the group and the experienced riders behind can watch them.\n\nThree rules matter most: no competition, no passing of other riders and no tailgating. If a rider insists on riding faster than the group, let them go ahead to an agreed meeting point rather than letting the group chase them.\n\nSpacing is a staggered formation: the leader in the left side of the lane, the second rider at least one second back in the right side, the third in the left position at least two seconds behind the first, and so on. That keeps ranks close while giving every rider room to react. Never ride directly alongside another rider in the same lane — there is no place to go if you have to avoid a car or a hazard. Move to single file in curves, when turning, and when entering or leaving freeways.\n\nIntersections present the highest risk for motorcyclists in a group. When making a left turn at a signal with a turn arrow, tighten the formation to get as many riders through as possible, but make the turn single file — not side by side. If not all riders get through the light, those left behind stop at a safe point ahead and wait, so nobody feels pressured to speed up or run a red light.\n\nPassing in formation depends on the road. On a freeway or interstate the group may pass as a unit. On a two-lane highway, riders in a staggered formation pass one at a time: the lead rider pulls out when safe and continues at passing speed to open room for the next, and each following rider judges the oncoming traffic independently — just because the lead rider passed does not mean it is still safe for you.",
+    "whyItMatters": "A group multiplies the consequences of one rider's error, and it introduces pressures that do not exist when you ride alone: the urge to keep up, to close a gap, or to follow the rider in front through a light that has changed.\n\nThe formation details are exam material — leader on the left, second rider one second back on the right, third at least two seconds behind the leader — and so is the two-lane passing rule, because it contradicts the instinct to follow the rider ahead through the gap.",
+    "example": "Six of you set out on a two-lane road. At the meeting you agreed the route and the lunch stop, and put the two most experienced riders at the front and the back, with the newest rider second in line. You run a staggered formation: the leader left, the new rider one second back on the right, you two seconds behind the leader on the left. Approaching a slow lorry, nobody moves as a block. The leader passes when they have a clear view, then holds passing speed on the left to open room. The second rider moves up to the left position and waits for their own clear view — because conditions have changed since the leader went, and their pass has to be judged on its own.",
+    "conceptIds": [
+      "m-c-group-plan",
+      "m-c-group-position",
+      "m-c-group-rules",
+      "m-c-no-pair",
+      "m-c-staggered",
+      "m-c-group-intersections",
+      "m-c-group-passing"
+    ],
+    "estimatedMinutes": 9
+  },
+  {
+    "id": "m-l-alcohol",
+    "topicId": "m-alcohol",
+    "title": "Alcohol, Drugs and Fatigue",
+    "rules": [
+      {
+        "text": "Studies show that nearly a third of all fatally injured motorcycle riders had BAC levels above the legal limit of 0.08%.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IX",
+          "chapterTitle": "Being in Shape to Ride",
+          "section": "Why This Information Is Important",
+          "pdfPage": 41,
+          "printedPage": 40,
+          "sourceQuote": "Studies show that nearly a third of all fatally injured motorcycle riders had BAC levels above the legal limit of 0.08%.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Injuries occur in 90% of motorcycle crashes and 33% of automobile crashes that involve abuse of substances.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IX",
+          "chapterTitle": "Being in Shape to Ride",
+          "section": "Why This Information Is Important",
+          "pdfPage": 41,
+          "printedPage": 40,
+          "sourceQuote": "Injuries occur in 90% of motorcycle crashes and 33% of automobile crashes that involve abuse of substances.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Alcohol enters the bloodstream quickly. Unlike most foods and beverages, it does not need to be digested.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IX",
+          "chapterTitle": "Being in Shape to Ride",
+          "section": "Alcohol in the Body",
+          "pdfPage": 41,
+          "printedPage": 40,
+          "sourceQuote": "Alcohol enters the bloodstream quickly. Unlike most foods and beverages, it does not need to be digested.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Generally, alcohol can be eliminated in the body at the rate of almost one drink per hour.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IX",
+          "chapterTitle": "Being in Shape to Ride",
+          "section": "Blood Alcohol Concentration",
+          "pdfPage": 41,
+          "printedPage": 40,
+          "sourceQuote": "alcohol can be eliminated in the body at the rate of almost one drink per hour",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "A 12-ounce can of beer, a mixed drink with one shot (1.5 ounces) of hard liquor, and a 5-ounce glass of wine all contain the same amount of alcohol.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IX",
+          "chapterTitle": "Being in Shape to Ride",
+          "section": "Blood Alcohol Concentration",
+          "pdfPage": 42,
+          "printedPage": 41,
+          "sourceQuote": "A 12-ounce can of beer, a mixed drink with one shot (1.5 ounces) of hard liquor, and a 5-ounce glass of wine all contain the same amount of alcohol.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "In all but one state, an adult with a BAC of 0.08% or above is considered intoxicated.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IX",
+          "chapterTitle": "Being in Shape to Ride",
+          "section": "Alcohol and the Law",
+          "pdfPage": 42,
+          "printedPage": 41,
+          "sourceQuote": "In all but one state, an adult with a BAC of 0.08% or above is considered intoxicated (in Utah the threshold is 0.05%).",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Impairment of judgment and skills begins well below the legal limit.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IX",
+          "chapterTitle": "Being in Shape to Ride",
+          "section": "Alcohol and the Law",
+          "pdfPage": 43,
+          "printedPage": 42,
+          "sourceQuote": "Impairment of judgment and skills begins well below the legal limit.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Your ability to judge how well you are riding is affected first.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IX",
+          "chapterTitle": "Being in Shape to Ride",
+          "section": "Minimize the Risks",
+          "pdfPage": 43,
+          "printedPage": 42,
+          "sourceQuote": "Your ability to judge how well you are riding is affected first.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Riding a motorcycle is more tiring than driving a car.",
+        "source": {
+          "sourceDocument": "West Virginia Motorcycle Operator Manual, 18th edition (Motorcycle Safety Foundation), retrieved 2026-09-15, SHA-256 3153bb43aa19c5037198e63dab8b764f2c4042118e1e0b3cae4f1c263ba7148c",
+          "chapter": "IX",
+          "chapterTitle": "Being in Shape to Ride",
+          "section": "Fatigue",
+          "pdfPage": 44,
+          "printedPage": 43,
+          "sourceQuote": "Riding a motorcycle is more tiring than driving a car.",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "Alcohol and drugs degrade your ability to think clearly and ride skilfully more than any other factor, and as little as one drink can have a significant effect on performance. Nearly a third of all fatally injured motorcycle riders had BAC levels above the legal limit of 0.08%, and another 8% had lower levels — evidence that a drink or two is enough to impair riding skill. The consequences are worse on a motorcycle: injuries occur in 90% of motorcycle crashes involving substance abuse, against 33% of automobile crashes.\n\nAlcohol works fast because it does not need to be digested. Within minutes of being consumed it reaches the brain, and its major effect is to slow down and impair bodily functions, both mental and physical. BAC — Blood Alcohol Concentration — is the amount of alcohol in relation to blood in the body, and three primary factors determine it: how much you consume, how fast you drink, and your body weight. Other factors, including sex, physical condition and food intake, can push it higher still.\n\nTwo arithmetic facts matter. First, a 12-ounce beer, a mixed drink with a 1.5-ounce shot, and a 5-ounce glass of wine all contain the same amount of alcohol, so 'I only had a beer' is not a defence. Second, alcohol is eliminated at almost one drink per hour, so anything faster accumulates: two drinks in an hour leaves at least one in your bloodstream at the end of it, and seven drinks over three hours leaves at least four, needing four more hours to clear.\n\nThe law sets 0.08% for adults in all but one state, and 0.00 to 0.02% for operators under 21 depending on the state. But whether you are legally intoxicated is not the real issue: impairment of judgment and skills begins well below the legal limit. Worse, your ability to judge how well you are riding is affected first, so you ride more and more poorly while feeling you are doing better and better.\n\nThe choices are simple. Do not drink, since your resistance weakens once you start and setting a limit is a poor alternative at best. Or do not ride: leave the motorcycle so you are not tempted, and wait until your system has eliminated the alcohol and its fatiguing after-effects. For friends who have had too much, step in — arrange a safe ride, slow the pace of drinking, keep them there with food and coffee, take their key if you can, and use peer pressure from a group of friends.\n\nCannabis, legal or not where you are, distorts your perception of time, space and speed — exactly the judgments a rider makes continuously. Smoked, its effects begin within minutes and last 2 to 4 hours; eaten, the onset may be delayed more than an hour and the effects last more than 6. Riders impaired by cannabis can be convicted of riding under the influence and face similar harsh penalties. Fatigue is the last impairment: riding is more tiring than driving, so protect yourself from wind, cold and rain, limit your distance — experienced riders seldom ride more than about six hours a day — stop and get off the motorcycle at least every two hours, and avoid stimulants, which leave extreme fatigue or depression when they wear off.",
+    "whyItMatters": "This topic carries the heaviest consequences of anything in the manual, and it is heavily represented on the exam because the numbers are precise and testable: 0.08%, 0.00 to 0.02% under 21, one drink per hour, three drink equivalents, 2 to 4 hours smoked and over 6 hours eaten.\n\nThe conceptual point matters as much as the numbers. Legal and safe are not the same thing. Impairment begins well below 0.08%, and the first thing impaired is your ability to notice you are impaired.",
+    "example": "You have four drinks over two hours at a friend's house. Elimination runs at almost one drink per hour, so at the end of the two hours at least two drinks are still in your system — and you would need at least two more hours before you could consider riding. Waiting one hour and 'feeling fine' does not help, because your ability to judge how well you are riding was the first thing affected. The honest options are the manual's two: do not drink, or do not ride. You leave the motorcycle where it is and arrange another way home.",
+    "conceptIds": [
+      "m-c-alcohol-crashes",
+      "m-c-alcohol-injuries",
+      "m-c-alcohol-body",
+      "m-c-bac-def",
+      "m-c-bac-factors",
+      "m-c-drink-equivalence",
+      "m-c-elimination",
+      "m-c-legal-limit",
+      "m-c-below-limit",
+      "m-c-judgment-first",
+      "m-c-choices",
+      "m-c-intervene",
+      "m-c-cannabis",
+      "m-c-fatigue"
+    ],
+    "estimatedMinutes": 13
   }
 ]

@@ -74,6 +74,18 @@ export interface Question {
   source: SourceRef;
   /** Optional sign key for visual questions, resolved against the sign registry. */
   signKey?: string;
+  /**
+   * Optional figure from the handbook itself, e.g. "p046_13".
+   *
+   * Some rules cannot be carried by words. A yellow diamond's meaning lives entirely in
+   * its pictogram, so nine legend-less diamonds drawn as SVG would be indistinguishable
+   * and "what does this sign mean" would be unanswerable. These are cropped straight
+   * from the official handbook page cited by the question, so what the learner sees is
+   * exactly what the book shows. Resolved to /figures/<key>.png.
+   */
+  imageKey?: string;
+  /** Alt text for `imageKey`. Required whenever imageKey is set. */
+  imageAlt?: string;
 }
 
 export interface Lesson {

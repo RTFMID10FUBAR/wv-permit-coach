@@ -454,5 +454,149 @@
     "order": 92,
     "blurb": "What you must do, what you must report, and what you must exchange.",
     "examWeight": 1.2
+  },
+  {
+    "id": "m-license",
+    "title": "Getting Licensed in West Virginia",
+    "course": "motorcycle",
+    "chapter": "I",
+    "order": 100,
+    "blurb": "Permit privileges, the 25-question exam, the 7-day wait, and the two routes to an F endorsement.",
+    "examWeight": 2.2
+  },
+  {
+    "id": "m-gear",
+    "title": "Wear the Right Gear",
+    "course": "motorcycle",
+    "chapter": "II",
+    "order": 101,
+    "blurb": "Helmet, face and eye protection, clothing — the gear that decides what a crash costs you.",
+    "examWeight": 1.5
+  },
+  {
+    "id": "m-motorcycle",
+    "title": "Know Your Motorcycle",
+    "course": "motorcycle",
+    "chapter": "II",
+    "order": 102,
+    "blurb": "The right bike, the legal minimum equipment, and the T-CLOCS check before every ride.",
+    "examWeight": 1.3
+  },
+  {
+    "id": "m-responsibilities",
+    "title": "Know Your Responsibilities",
+    "course": "motorcycle",
+    "chapter": "II",
+    "order": 103,
+    "blurb": "Nothing about a crash is accidental. Be visible, communicate, keep space, search 12 seconds ahead.",
+    "examWeight": 1.4
+  },
+  {
+    "id": "m-control",
+    "title": "Basic Vehicle Control",
+    "course": "motorcycle",
+    "chapter": "III",
+    "order": 104,
+    "blurb": "Body position, shifting, braking with both brakes, and the four steps of every turn.",
+    "examWeight": 2.0
+  },
+  {
+    "id": "m-distance",
+    "title": "Keeping Your Distance",
+    "course": "motorcycle",
+    "chapter": "IV",
+    "order": 105,
+    "blurb": "Lane position, the two-second rule, tailgaters, passing and being passed, and why lane sharing is prohibited.",
+    "examWeight": 1.9
+  },
+  {
+    "id": "m-see",
+    "title": "SEE: Search, Evaluate, Execute",
+    "course": "motorcycle",
+    "chapter": "V",
+    "order": 106,
+    "blurb": "The three-step strategy that turns looking into deciding — plus the 2, 4 and 12 second lead times.",
+    "examWeight": 2.5
+  },
+  {
+    "id": "m-intersections",
+    "title": "Intersections",
+    "course": "motorcycle",
+    "chapter": "VI",
+    "order": 107,
+    "blurb": "Where most motorcycle-car crashes happen, why eye contact proves nothing, and the strategy that buys you time.",
+    "examWeight": 3.0
+  },
+  {
+    "id": "m-conspicuity",
+    "title": "Increasing Conspicuity",
+    "course": "motorcycle",
+    "chapter": "VI",
+    "order": 108,
+    "blurb": "Clothing, headlight, signals, brake light, mirrors, head checks, horn — being seen is something you arrange.",
+    "examWeight": 2.2
+  },
+  {
+    "id": "m-crash",
+    "title": "Crash Avoidance",
+    "course": "motorcycle",
+    "chapter": "VII",
+    "order": 109,
+    "blurb": "Quick stops, skids, swerving, and why braking and swerving must never happen at the same time.",
+    "examWeight": 2.5
+  },
+  {
+    "id": "m-surfaces",
+    "title": "Handling Dangerous Surfaces",
+    "course": "motorcycle",
+    "chapter": "VII",
+    "order": 110,
+    "blurb": "Obstacles, slippery surfaces, rain, ice, railroad tracks, grooves and gratings.",
+    "examWeight": 1.7
+  },
+  {
+    "id": "m-mechanical",
+    "title": "Mechanical Problems",
+    "course": "motorcycle",
+    "chapter": "VII",
+    "order": 111,
+    "blurb": "Tire failure, a stuck throttle, wobble, drive train failure and engine seizure — what to do in the first two seconds.",
+    "examWeight": 1.5
+  },
+  {
+    "id": "m-hazards",
+    "title": "Animals, Objects and Leaving the Road",
+    "course": "motorcycle",
+    "chapter": "VII",
+    "order": 112,
+    "blurb": "Dogs, deer, flying debris, and how to get off the road safely when something is wrong.",
+    "examWeight": 1.2
+  },
+  {
+    "id": "m-passengers",
+    "title": "Carrying Passengers and Cargo",
+    "course": "motorcycle",
+    "chapter": "VIII",
+    "order": 113,
+    "blurb": "What a passenger changes, what to tell them before you move, and how to load a motorcycle safely.",
+    "examWeight": 1.6
+  },
+  {
+    "id": "m-group",
+    "title": "Group Riding",
+    "course": "motorcycle",
+    "chapter": "VIII",
+    "order": 114,
+    "blurb": "Lead and sweep riders, staggered formation, intersections and passing in a group.",
+    "examWeight": 1.6
+  },
+  {
+    "id": "m-alcohol",
+    "title": "Being in Shape to Ride",
+    "course": "motorcycle",
+    "chapter": "IX",
+    "order": 115,
+    "blurb": "Alcohol, BAC, the law, cannabis and fatigue — the impairments that reach you before the legal limit does.",
+    "examWeight": 2.5
   }
 ]

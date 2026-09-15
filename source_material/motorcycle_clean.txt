@@ -27,7 +27,7 @@ Motorcycle Safety Foundation
 *The original Motorcycle Operator Manual was developed by the National Public Services Research
 Institute under contract to the National Highway Traffic Safety Administration as part of a cooperative
 agreement between NHTSA and the MSF. Continuing to help state agencies with their licensing programs,
-the MSF offers the source fles of this booklet to them at no charge. Write to MSF@MSF-USA.org for more
+the MSF offers the source files of this booklet to them at no charge. Write to MSF@MSF-USA.org for more
 information.
 <<<PAGE 3>>>
 2CONTENTS
@@ -201,7 +201,7 @@ cracks, loose padding or frayed straps.
 Whatever helmet you decide on, keep
 it securely fastened on your head when
 you ride. Otherwise, if you are involved
-in a crash, it might fy off your head
+in a crash, it might fly off your head
 • Most riders are riding slower than
 before it gets a chance to protect you.
 <<<PAGE 6>>>
@@ -256,7 +256,7 @@ moving parts of the motorcycle. It can
 also make you more visible to others.
 • Jacket and pants should cover arms
 and legs completely. They should fit
-snugly enough to keep from fapping
+snugly enough to keep from flapping
 in the wind, yet loosely enough to
 allow you to move freely. Leather
 offers the most protection. Sturdy
@@ -323,7 +323,7 @@ for you. It should fit you well.
 every ride.
 • Keep it in safe riding condition
 between rides.
-• Avoid add-ons and modifcations
+• Avoid add-ons and modifications
 that make it more difficult to handle.
 The Right Motorcycle For You
 First, make sure your motorcycle is
@@ -434,7 +434,7 @@ manual for you to keep. A T-CLOCS
 inspection should be conducted before
 every ride, and includes checks of:
 T — Tires and Wheels
- Check tire infation pressure,
+ Check tire inflation pressure,
 treadwear and general condition of
 sidewalls and tread surface.
  Try the front and rear brake levers one
@@ -469,8 +469,8 @@ behind you and to the side that are
 important.
 O — Oil and Other Fluids
  Check engine oil and transmission
-fuid levels.
- Check the brake hydraulic fuid and
+fluid levels.
+ Check the brake hydraulic fluid and
 coolant level, if equipped, weekly.
  Be sure your fuel valve is open, if
 equipped, before starting out. With
@@ -488,7 +488,7 @@ there is no binding. The rear shocks
 and springs should move smoothly.
  If there is a chain or belt, adjust
 according to the manufacturer’s
-specifcations, and check the
+specifications, and check the
 sprockets for wear or damage.
 S — Stands
  Ensure the side stand operates
@@ -593,7 +593,7 @@ too far.
 • Hands — Hold the handgrips
 firmly to keep your grip over rough
 surfaces. Start with your right wrist
-fat. This will help you keep from
+flat. This will help you keep from
 accidentally using too much throttle.
 Also, adjust the handlebars so your
 hands are even with or below your
@@ -1158,7 +1158,7 @@ have a plan to reduce risks:
 • Road and surface characteristics
 such as potholes, guardrails, bridges,
 telephone poles and trees may
-infuence your riding strategy.
+influence your riding strategy.
 • Traffic control devices including
 traffic signals, warning signs, and
 pavement markings, which will
@@ -1214,7 +1214,7 @@ the time you need to
 react.
 INTERSECTIONS
 The greatest potential
-for confict between
+for conflict between
 you and other traffic
 is at intersections. An
 intersection can be
@@ -1380,12 +1380,12 @@ seen. Your helmet can do more than
 protect you in a crash. Brightly colored
 helmets can also help others see you.
 Any bright color is better than drab
-or dark colors. Refective, bright-colored
+or dark colors. Reflective, bright-colored
 clothing (helmet and jacket/vest) is best.
-Refective material on a vest and on
+Reflective material on a vest and on
 the sides of the helmet will help drivers
 coming from the side to spot you.
-Refective material can also be a big
+Reflective material can also be a big
 help for drivers both ahead and behind.
 Headlight
 A good way to help others see your
@@ -1427,9 +1427,9 @@ Brake Light
 Your motorcycle’s brake light is usually
 not as noticeable as the brake lights
 on a car. If the situation will permit,
-help others notice you by fashing your
+help others notice you by flashing your
 brake light before you slow down. It is
-especially important to fash your brake
+especially important to flash your brake
 light before:
 • You slow more quickly than others
 might expect (turning off a high-
@@ -1440,7 +1440,7 @@ at an alley).
 • You are stopped at an intersection
 with traffic approaching from behind.
 If you are being followed closely, it’s
-a good idea to fash your brake light
+a good idea to flash your brake light
 before you slow. The tailgater may be
 watching you and not see something
 ahead that will make you slow down.
@@ -1489,7 +1489,7 @@ than at a nearer driveway.
 Most motorcycles have rounded
 (convex) mirrors. These provide a
 wider view of the road behind than do
-fat mirrors. They also make cars seem
+flat mirrors. They also make cars seem
 farther away than they actually are.
 If you are not used to convex mirrors,
 get familiar with them. (While you
@@ -1566,7 +1566,7 @@ pass and be passed.
 headlights of the car ahead can give
 TEST YOURSELF
 7
-Refective clothing should:
+Reflective clothing should:
 A. Be worn at night.
 B. Be worn during the day.
 C. Not be worn.
@@ -1581,7 +1581,7 @@ to bumps or rough pavement.
 light you can. Use your high beam
 whenever you are not following or
 meeting a car.
-• Be visible — Wear refective
+• Be visible — Wear reflective
 materials when riding at night.
 • Do Not Override Your
 Headlight — Do not let your total
@@ -1907,11 +1907,11 @@ account the road and traffic conditions.
 Here are some guidelines that can help
 you handle mechanical problems safely.
 Tire Failure
-You will seldom hear a tire go fat.
+You will seldom hear a tire go flat.
 If the motorcycle starts handling
 differently, it may be a tire failure.
-If the front tire goes fat, the steering
-will feel “heavy.” A front-wheel fat is
+If the front tire goes flat, the steering
+will feel “heavy.” A front-wheel flat is
 particularly hazardous because it affects
 TEST YOURSELF
 8
@@ -1937,16 +1937,16 @@ PARALLEL TRACKS CORRECT
 PARALLEL TRACKS INCORRECT
 your steering. You have to steer well to
 keep your balance.
-If the rear tire goes fat, the back of
+If the rear tire goes flat, the back of
 the motorcycle may jerk or sway from
 side to side.
-If either tire goes fat while riding:
+If either tire goes flat while riding:
 • Hold handgrips firmly, ease off the
 throttle, and keep a straight course.
 GRATE CROSSINGS INCORRECT
 • If braking is required, gradually
 apply the brake of the tire that isn’t
-fat, if you are sure which one it is.
+flat, if you are sure which one it is.
 • When the motorcycle slows, edge
 to the side of the road, squeeze the
 clutch and stop.
@@ -2118,11 +2118,11 @@ Tire Pressure – Check the air
 pressure of both tires. Refer to the
 owner’s manual or the label affxed
 to the motorcycle for the correct
-infation specifcations. Though most
+inflation specifications. Though most
 of the added weight will typically be
 on the rear wheel, don’t forget to also
 check the pressure on the front tire.
-Correct infation pressures will maintain
+Correct inflation pressures will maintain
 maximum stability, steering precision
 and braking capability.
 Suspension – With a heavy load,
@@ -2146,7 +2146,7 @@ Answer - page 45
 34
  RIDE WITHIN YOUR ABILITIES
 manual for adjustment procedures and
-specifcations.
+specifications.
 Headlight – Prior to loading, position
 the motorcycle about 10 feet from a
 wall in an unlighted garage and mark
@@ -2209,7 +2209,7 @@ and security.
 even when stopped. Firm footing will
 prevent your passenger from falling
 off and pulling you off.
-• Keep legs away from the muffer(s),
+• Keep legs away from the muffler(s),
 chains or moving parts.
 • Stay directly behind you and lean with
 you through turns and curves. It is
@@ -2372,7 +2372,7 @@ is as important as making sure your
 motorcycle is ready. Riding with a group
 requires an alert mind that is free from
 worries, distractions and stress. It also
-means riding free from the infuence of
+means riding free from the influence of
 alcohol or drugs. For some, even too
 much caffeine or prescription drugs can
 adversely affect concentration.
@@ -2625,7 +2625,7 @@ impair riding skills. Drug involvement
 is harder to distinguish and may have
 been separated from drinking violations
 for the traffic records. But riding “under
-the infuence” of either alcohol or
+the influence” of either alcohol or
 drugs poses physical hazards and legal
 consequences for every rider.
 Drinking and drug use is as big a
@@ -2682,7 +2682,7 @@ is the amount of alcohol in relation to
 blood in the body. Generally, alcohol can
 be eliminated in the body at the rate of
 almost one drink per hour. But a variety
-of factors may also infuence the level
+of factors may also influence the level
 <<<PAGE 42>>>
 41
 41
@@ -2763,7 +2763,7 @@ stiff penalties on drinking operators. And
 those penalties are mandatory, meaning
 that judges must impose them.
 If you are convicted of riding under the
-infuence of alcohol or drugs, you may
+influence of alcohol or drugs, you may
 receive any of the following penalties:
 • License Suspension — Mandatory
 suspension for conviction, arrest or
@@ -2883,10 +2883,10 @@ Be safe. Do not operate your
 motorcycle or any motor vehicle if you are
 impaired by cannabis, and find alternate
 transportation if you are planning to be
-under the infuence of cannabis at your
+under the influence of cannabis at your
 destination. Just as with alcohol, riders
 impaired by cannabis can be convicted
-of riding under the infuence, and be
+of riding under the influence, and be
 subjected to similar harsh penalties.
 FATIGUE
 Riding a motorcycle is more tiring than
@@ -2940,7 +2940,7 @@ rules and safe riding practices. An on-cycle skill test will either be conducted
 an actual traffic environment or in a controlled, off-street area.
 Knowledge Test
 (Sample Questions)
-1. It is MOST important to fash
+1. It is MOST important to flash
 your brake light when:
 A. Someone is following too closely.
 B. You will be slowing suddenly.
@@ -2960,7 +2960,7 @@ C. Press the handgrip in the direction
 of the turn.
 D. Press the handgrip in the opposite
 direction of the turn.
-4. If a tire goes fat while riding and
+4. If a tire goes flat while riding and
 you must stop, it is usually best
 to:
 A. Relax on the handgrips.
@@ -3552,13 +3552,13 @@ finger extended.
 forearm extended,
 Stop –
 fist clenched with
-fngers closed,
+fingers closed,
 short up and down
 thumb to mouth.
 motion.
 13  Turn Signal On
 open and close
-hand with fngers and
+hand with fingers and
 thumb extended.
 14 Pull Off –
 arm positioned as for
@@ -3594,7 +3594,7 @@ Out of round/true = 5mm. Spin wheel, index against stationary pointer.
 Front
 Rear
 Bearings
-Grab top and bottom of tire and fex: No freeplay (click) between hub and axle, no growl when spinning.
+Grab top and bottom of tire and flex: No freeplay (click) between hub and axle, no growl when spinning.
 Front
 Rear
 Seals
@@ -3620,7 +3620,7 @@ Routing
 No interference or pulling at steering head, suspension, no sharp angles, wire supports in place.
 Hoses
 Condition
-Cuts,  cracks, leaks, bulges, chafng, deterioration.
+Cuts,  cracks, leaks, bulges, chafing, deterioration.
 Routing
 No interference or pulling at steering head, suspension, no sharp angles, hose supports in place.
 Throttle
@@ -3634,7 +3634,7 @@ Vent Tube
 Not kinked, routed properly, not plugged.
 Headlamp
 Condition
-Cracks, refector, mounting and adjustment system.
+Cracks, reflector, mounting and adjustment system.
 Aim
 Height and right/left.
 Operation
@@ -3663,7 +3663,7 @@ Condition
 Cracked, broken, securely mounted, excessive condensation.
 Wiring
 Condition
-Fraying, chafng, insulation.
+Fraying, chafing, insulation.
 Routing
 Pinched, no interference or pulling at steering head or suspension, wire looms and ties in place,
        connectors tight, clean.
@@ -3689,7 +3689,7 @@ Gaskets, seals, breathers.
 Hydraulic Fluid
 Hoses, master cylinders, calipers.
 Coolant
-Radiator, hoses, tanks, fttings, pipes.
+Radiator, hoses, tanks, fittings, pipes.
 Fuel
 Lines, fuel valve, carbs.
 You can tear this page out and keep it with you when you ride.

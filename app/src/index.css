@@ -942,3 +942,17 @@ input:focus-visible {
   border: 1px solid #c8ccd4; border-radius: 8px; }
 .small { font-size: 0.85rem; }
 mark { background: #ffe9a8; }
+
+/* Read a page, then answer the questions drawn from that page. */
+.page-quiz { margin: 1rem 0; padding-top: 0.75rem; border-top: 2px solid #e0e3e8; }
+.page-quiz h3 { margin: 0 0 0.35rem; }
+.page-quiz-none { margin: 1rem 0; font-style: italic; }
+.page-quiz-done { padding: 0.75rem; background: #eef4fb; border-radius: 8px; }
+
+/* A figure cropped from the handbook page this question cites. */
+.question-figure { display: flex; justify-content: center; margin: 0 0 0.85rem; }
+.question-figure img {
+  max-width: min(220px, 62vw);
+  height: auto;
+  image-rendering: -webkit-optimize-contrast;
+}

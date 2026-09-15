@@ -71,6 +71,15 @@ export function QuestionCard({
           <SignSVG sign={sign} size={150} title="Road sign for this question" />
         </div>
       ) : null}
+      {question.imageKey ? (
+        <div className="question-figure">
+          <img
+            src={`figures/${question.imageKey}.png`}
+            alt={question.imageAlt ?? 'Figure from the handbook for this question'}
+            loading="lazy"
+          />
+        </div>
+      ) : null}
       <h2 className="question-text">{question.question}</h2>
       {canSpeak ? (
         <button

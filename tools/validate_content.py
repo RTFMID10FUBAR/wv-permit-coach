@@ -21,15 +21,17 @@ ROOT = Path(__file__).resolve().parents[1]
 HANDBOOK = ROOT / "source_material" / "handbook_clean.txt"
 MOTORCYCLE = ROOT / "source_material" / "motorcycle_clean.txt"
 CONTENT = ROOT / "app" / "src" / "content" / "data"
+FIGURES = ROOT / "app" / "public" / "figures"
 
 # Two source documents, two page conventions.
 #   car handbook — the printed page number is the PDF page minus 10 (front matter).
-#   motorcycle manual — printed and PDF page numbers are the same.
+#   motorcycle manual — the printed page is the PDF page minus 1 (one cover leaf),
+#     verified by reading PDF pages 5, 20 and 31, which print 4, 19 and 30.
 # A quote is checked against the document its sourceDocument names, so a motorcycle
 # quote is never looked for in the car handbook and vice versa.
 SOURCES = {
     "car": {"path": HANDBOOK, "offset": 10},
-    "motorcycle": {"path": MOTORCYCLE, "offset": 0},
+    "motorcycle": {"path": MOTORCYCLE, "offset": 1},
 }
 
 
@@ -235,6 +237,23 @@ def main() -> int:
                         continue
                     if note is not None and len(str(note).strip()) < 25:
                         err(f"{w}: choiceExplanations[{i}] is too short to explain anything")
+        ik = q.get("imageKey")
+        if ik:
+            if not (FIGURES / f"{ik}.png").exists():
+                err(f"{w}: imageKey {ik!r} has no figure at "
+                    f"app/public/figures/{ik}.png — run tools/extract_figures.py")
+            if not str(q.get("imageAlt", "")).strip():
+                err(f"{w}: imageKey is set but imageAlt is missing — a figure the "
+                    f"learner cannot see must still be described")
+            # A figure must come from the page the question cites, or it is illustrating
+            # something other than the rule being tested.
+            try:
+                fig_page = int(str(ik).split("_")[0].lstrip("p"))
+                if fig_page != q.get("source", {}).get("pdfPage"):
+                    err(f"{w}: imageKey {ik!r} is from pdf page {fig_page} but the "
+                        f"question cites page {q.get('source', {}).get('pdfPage')}")
+            except (ValueError, IndexError):
+                err(f"{w}: imageKey {ik!r} is not in the expected p<page>_<n> form")
         if q.get("questionType") not in VALID_QTYPES:
             err(f"{w}: bad questionType {q.get('questionType')!r}")
         if q.get("difficulty") not in VALID_DIFF:

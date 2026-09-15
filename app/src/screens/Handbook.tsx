@@ -1,6 +1,10 @@
-import { useMemo, useState } from 'react';
+import { useCallback, useMemo, useState } from 'react';
 import pagesRaw from '../content/data/handbook_pages.json';
 import { Screen } from '../components/Shell';
+import { questionsForPage } from '../content';
+import type { Question } from '../content/types';
+import { QuestionCard } from '../components/QuestionCard';
+import { useAppState } from '../state/useAppState';
 
 interface HandbookPage {
   pdfPage: number;
@@ -142,6 +146,9 @@ export function Handbook() {
             Printed page {shown.printedPage} (PDF page {shown.pdfPage})
           </p>
           <pre className="handbook-text">{highlight(shown.text, query)}</pre>
+
+          <PageQuiz pdfPage={shown.pdfPage} />
+
           <div className="handbook-nav">
             <button
               type="button"
@@ -163,5 +170,99 @@ export function Handbook() {
         </div>
       ) : null}
     </Screen>
+  );
+}
+
+/**
+ * Quiz the page the learner just read.
+ *
+ * For someone who will not sit down with the book, this is the whole point: read a
+ * short page, answer the questions drawn from that exact page, see the miss panel if
+ * you get one wrong. The handbook stops being something to get through and becomes
+ * the thing you are doing.
+ *
+ * Progress recorded here feeds the same mastery records as everywhere else, so reading
+ * the book counts toward readiness rather than sitting outside it.
+ */
+function PageQuiz({ pdfPage }: { pdfPage: number }) {
+  const { sessionId, answerQuestion } = useAppState();
+  const [started, setStarted] = useState(false);
+  const [index, setIndex] = useState(0);
+  const [correct, setCorrect] = useState(0);
+
+  const pool: Question[] = useMemo(() => questionsForPage(pdfPage), [pdfPage]);
+
+  const onAnswered = useCallback(
+    (q: Question, wasCorrect: boolean) => {
+      answerQuestion(q, wasCorrect);
+      if (wasCorrect) setCorrect((n) => n + 1);
+    },
+    [answerQuestion],
+  );
+
+  if (pool.length === 0) {
+    return (
+      <p className="muted page-quiz-none">
+        No questions are drawn from this page — it is reference or contact information
+        rather than a rule.
+      </p>
+    );
+  }
+
+  if (!started) {
+    return (
+      <div className="page-quiz">
+        <button type="button" className="btn btn-primary" onClick={() => setStarted(true)}>
+          Test yourself on this page ({pool.length} question{pool.length === 1 ? '' : 's'})
+        </button>
+      </div>
+    );
+  }
+
+  const current = pool[index];
+
+  return (
+    <div className="page-quiz">
+      <h3>From this page</h3>
+      {current ? (
+        <>
+          <p className="muted">
+            Question {index + 1} of {pool.length} · {correct} correct so far
+          </p>
+          <QuestionCard
+            question={current}
+            seed={`${sessionId}:page:${pdfPage}`}
+            mode="immediate"
+            onAnswered={(wasCorrect) => onAnswered(current, wasCorrect)}
+            onNext={() => setIndex((i) => i + 1)}
+            nextLabel={index + 1 < pool.length ? 'Next question' : 'Finish this page'}
+          />
+        </>
+      ) : (
+        <div className="page-quiz-done">
+          <p>
+            <strong>
+              {correct} of {pool.length} correct on this page.
+            </strong>
+          </p>
+          <p className="muted">
+            {correct === pool.length
+              ? 'That page is solid. Move on to the next one.'
+              : 'Read the page again — the rules you missed are in the text above.'}
+          </p>
+          <button
+            type="button"
+            className="btn btn-quiet"
+            onClick={() => {
+              setStarted(false);
+              setIndex(0);
+              setCorrect(0);
+            }}
+          >
+            Try this page again
+          </button>
+        </div>
+      )}
+    </div>
   );
 }

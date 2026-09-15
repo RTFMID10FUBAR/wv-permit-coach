@@ -35,23 +35,32 @@ describe('app shell', () => {
     expect(screen.getByText(/Learn the rule\. Don.t memorize the button\./)).toBeDefined();
     expect(screen.getByText(/Goal: consistently score 22\+\/25 before DMV/)).toBeDefined();
     expect(screen.getByText(DISCLAIMER)).toBeDefined();
+    // Assert the durable invariant -- every destination is reachable from home and the
+    // one-tap entry point exists -- rather than a snapshot of the labels, which have
+    // changed once already (the reading-first wording was putting the learner off).
     for (const label of [
-      'Study Handbook',
-      'Quick Lesson',
+      'Start',
       'Road Signs',
+      'Numbers and Limits',
       'Weak Areas',
       'Missed Questions',
       '25-Question Mock Exam',
       'Progress',
+      'By Topic',
+      'Quick Lesson',
+      'Look Something Up',
     ]) {
       expect(screen.getByText(label)).toBeDefined();
     }
+    // Start must be the primary action, not one menu row among many.
+    expect(document.querySelector('.start-button')).not.toBeNull();
   });
 
   it('routes to every main screen without crashing', async () => {
     renderApp();
     await screen.findByText('WV Permit Coach');
     const screens: [string, string][] = [
+      ['/start', 'Start'],
       ['/topics', 'Study Handbook'],
       ['/signs', 'Road Signs'],
       ['/numbers', 'Numbers and Limits'],

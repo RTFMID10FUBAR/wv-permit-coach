@@ -65,7 +65,7 @@ export function Practice({ topicId }: { topicId: string }) {
 
       {lessons.length > 0 ? (
         <p className="practice-lessons">
-          Read first:{' '}
+          Want the rule first?{' '}
           {lessons.map((lesson, index) => (
             <span key={lesson.id}>
               {index > 0 ? ' · ' : ''}

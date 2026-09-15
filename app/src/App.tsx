@@ -11,6 +11,7 @@ import { ProgressScreen } from './screens/Progress';
 import { QuickLesson } from './screens/QuickLesson';
 import { ReadinessScreen } from './screens/Readiness';
 import { SettingsScreen } from './screens/Settings';
+import { JustStart } from './screens/JustStart';
 import { NumberDrill } from './screens/NumberDrill';
 import { Handbook } from './screens/Handbook';
 import { Signs } from './screens/Signs';
@@ -34,6 +35,8 @@ function renderRoute(segments: string[], path: string) {
   switch (first) {
     case undefined:
       return <Home />;
+    case 'start':
+      return <JustStart />;
     case 'topics':
       return <Topics />;
     case 'quick':

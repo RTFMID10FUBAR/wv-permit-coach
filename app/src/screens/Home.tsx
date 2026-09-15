@@ -7,15 +7,15 @@ import { Link } from '../router';
 import { useAppState } from '../state/useAppState';
 
 const MENU: { to: string; label: string; hint: string }[] = [
-  { to: '/topics', label: 'Study Handbook', hint: 'Work the chapters in order' },
-  { to: '/quick', label: 'Quick Lesson', hint: 'One short lesson, picked for you' },
   { to: '/signs', label: 'Road Signs', hint: 'Shape, colour and meaning drills' },
   { to: '/numbers', label: 'Numbers and Limits', hint: 'Distances, speeds, ages, limits' },
   { to: '/weak', label: 'Weak Areas', hint: 'Your lowest-mastery topics first' },
   { to: '/missed', label: 'Missed Questions', hint: 'Everything you got wrong' },
   { to: '/exam', label: '25-Question Mock Exam', hint: 'Timed, no feedback until you submit' },
   { to: '/progress', label: 'Progress', hint: 'Mastery, mock history, export' },
-  { to: '/handbook', label: 'The Handbook', hint: 'Read and search the official book' },
+  { to: '/topics', label: 'By Topic', hint: 'Pick a subject to drill' },
+  { to: '/quick', label: 'Quick Lesson', hint: 'One short rule, then questions on it' },
+  { to: '/handbook', label: 'Look Something Up', hint: 'Search the official handbook' },
 ];
 
 export function Home() {
@@ -58,6 +58,13 @@ export function Home() {
           </p>
         </div>
       ) : null}
+
+      {/* One tap, straight into questions. A learner avoiding the handbook will read a
+          topic list as homework, so the front door asks her to choose nothing. */}
+      <Link to="/start" className="start-button">
+        <span className="start-button-label">Start</span>
+        <span className="start-button-hint">Questions now — the rule comes to you if you miss one</span>
+      </Link>
 
       <nav className="menu">
         {MENU.map((item) => (

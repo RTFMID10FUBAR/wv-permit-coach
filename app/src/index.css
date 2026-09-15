@@ -956,3 +956,20 @@ mark { background: #ffe9a8; }
   height: auto;
   image-rendering: -webkit-optimize-contrast;
 }
+
+/* The front door. Deliberately the largest target on the home screen. */
+.start-button {
+  display: grid;
+  gap: 0.2rem;
+  margin: 0 0 1rem;
+  padding: 1.05rem 1rem;
+  border-radius: 12px;
+  background: #10457e;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  min-height: 64px;
+}
+.start-button-label { font-size: 1.5rem; font-weight: 700; letter-spacing: 0.01em; }
+.start-button-hint { font-size: 0.9rem; opacity: 0.92; }
+.start-score { margin-bottom: 0.6rem; }

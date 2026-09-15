@@ -32,7 +32,23 @@ export default defineConfig({
       },
       workbox: {
         // App shell and all study content are precached, so the app works fully offline.
+        // The 16 MB handbook PDF is deliberately NOT precached -- it would treble install
+        // size on a phone. The searchable handbook TEXT is bundled and always offline; the
+        // PDF is cached at runtime the first time it is opened.
         globPatterns: ['**/*.{js,css,html,svg,png,json,woff2}'],
+        globIgnores: ['**/handbook/*.pdf'],
+        maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
+        runtimeCaching: [
+          {
+            urlPattern: /handbook\/.*\.pdf$/,
+            handler: 'CacheFirst',
+            options: {
+              cacheName: 'handbook-pdf',
+              expiration: { maxEntries: 2 },
+              cacheableResponse: { statuses: [0, 200] },
+            },
+          },
+        ],
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,
       },

@@ -152,13 +152,25 @@ export function MockExam() {
                 return (
                   <li key={question.id} className="missed-group">
                     <p className="missed-question-text">{question.question}</p>
-                    <p className="missed-answer">
-                      Correct answer: {question.choices[question.correctAnswer]}
-                    </p>
+                    {/* Their answer and why it failed come BEFORE the correct answer —
+                        same reasoning as MissPanel: revealing the answer first ends the
+                        thinking before the learner works out their own error. */}
                     <p className="missed-your-answer">
                       {answerRow.chosenIndex === null
                         ? 'You left this unanswered — unanswered counts as incorrect.'
                         : `You chose: ${question.choices[answerRow.chosenIndex]}`}
+                    </p>
+                    {answerRow.chosenIndex !== null ? (
+                      <p className="missed-whywrong">
+                        <span className="miss-key">Why that is wrong:</span>{' '}
+                        {question.choiceExplanations?.[answerRow.chosenIndex] ??
+                          (concept
+                            ? `That is not what the handbook says. The rule is: ${concept.statement}`
+                            : 'That is not what the handbook says. Compare it with the rule below.')}
+                      </p>
+                    ) : null}
+                    <p className="missed-answer">
+                      Correct answer: {question.choices[question.correctAnswer]}
                     </p>
                     {concept ? (
                       <p className="missed-rule">

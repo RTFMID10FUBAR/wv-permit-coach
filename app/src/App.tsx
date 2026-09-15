@@ -11,6 +11,8 @@ import { ProgressScreen } from './screens/Progress';
 import { QuickLesson } from './screens/QuickLesson';
 import { ReadinessScreen } from './screens/Readiness';
 import { SettingsScreen } from './screens/Settings';
+import { NumberDrill } from './screens/NumberDrill';
+import { Handbook } from './screens/Handbook';
 import { Signs } from './screens/Signs';
 import { Topics } from './screens/Topics';
 import { WeakAreas } from './screens/WeakAreas';
@@ -38,6 +40,10 @@ function renderRoute(segments: string[], path: string) {
       return <QuickLesson />;
     case 'signs':
       return <Signs />;
+    case 'numbers':
+      return <NumberDrill />;
+    case 'handbook':
+      return <Handbook />;
     case 'weak':
       return <WeakAreas />;
     case 'missed':

@@ -10,10 +10,12 @@ const MENU: { to: string; label: string; hint: string }[] = [
   { to: '/topics', label: 'Study Handbook', hint: 'Work the chapters in order' },
   { to: '/quick', label: 'Quick Lesson', hint: 'One short lesson, picked for you' },
   { to: '/signs', label: 'Road Signs', hint: 'Shape, colour and meaning drills' },
+  { to: '/numbers', label: 'Numbers and Limits', hint: 'Distances, speeds, ages, limits' },
   { to: '/weak', label: 'Weak Areas', hint: 'Your lowest-mastery topics first' },
   { to: '/missed', label: 'Missed Questions', hint: 'Everything you got wrong' },
   { to: '/exam', label: '25-Question Mock Exam', hint: 'Timed, no feedback until you submit' },
   { to: '/progress', label: 'Progress', hint: 'Mastery, mock history, export' },
+  { to: '/handbook', label: 'The Handbook', hint: 'Read and search the official book' },
 ];
 
 export function Home() {

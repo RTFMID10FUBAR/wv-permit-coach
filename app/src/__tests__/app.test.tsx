@@ -54,6 +54,8 @@ describe('app shell', () => {
     const screens: [string, string][] = [
       ['/topics', 'Study Handbook'],
       ['/signs', 'Road Signs'],
+      ['/numbers', 'Numbers and Limits'],
+      ['/handbook', 'The Handbook'],
       ['/weak', 'Weak Areas'],
       ['/missed', 'Missed Questions'],
       ['/progress', 'Progress'],

@@ -75,7 +75,7 @@ def main():
         # PyMuPDF line objects: kerning splits a single visual line into several line
         # objects, which chopped words in half ("traffi" + "c") in an earlier pass.
         items = []
-        for b in doc[pno].get_text("dict")["blocks"]:
+        for bi, b in enumerate(doc[pno].get_text("dict")["blocks"]):
             if b.get("type") != 0:
                 continue
             for line in b["lines"]:
@@ -91,12 +91,16 @@ def main():
                             n_left += 1
                     if t.strip():
                         x0, y0, x1, y1 = sp["bbox"]
-                        items.append((round(y0, 1), x0, x1, t))
+                        # Key by BLOCK as well as baseline. Grouping by baseline across the
+                        # whole page merged two-column layouts line-by-line, so the point
+                        # scale read "Reckless Driving 6 Careless / Hazardous Driving 3" and
+                        # no verbatim quote existed for either column.
+                        items.append((bi, round(y0, 1), x0, x1, t))
 
         # Bucket by baseline within a small tolerance, then order left to right.
         rows = {}
-        for y, x0, x1, t in items:
-            key = next((k for k in rows if abs(k - y) <= 2.0), y)
+        for bi, y, x0, x1, t in items:
+            key = next((k for k in rows if k[0] == bi and abs(k[1] - y) <= 2.0), (bi, y))
             rows.setdefault(key, []).append((x0, x1, t))
 
         out = []

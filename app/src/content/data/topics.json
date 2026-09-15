@@ -1,5 +1,13 @@
 [
   {
+    "id": "x-conditions",
+    "title": "Read the Conditions (Trap Questions)",
+    "chapter": "VI",
+    "order": 5,
+    "blurb": "Most rules only apply when a condition is met. Miss the condition, miss the mark.",
+    "examWeight": 2.5
+  },
+  {
     "id": "i-who-must-be-licensed",
     "title": "Who Must Be Licensed",
     "chapter": "I",

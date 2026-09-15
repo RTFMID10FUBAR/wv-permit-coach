@@ -120,7 +120,7 @@ export function QuestionCard({
             <SourceLine source={question.source} />
           </div>
         ) : (
-          <MissPanel question={question} />
+          <MissPanel question={question} chosenIndex={revealed ?? undefined} />
         )
       ) : null}
 

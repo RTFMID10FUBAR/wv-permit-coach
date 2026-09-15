@@ -194,6 +194,19 @@ def main() -> int:
             err(f"{w}: empty explanation")
         elif len(q["explanation"]) < 40:
             warn(f"{w}: explanation is very short — it should teach, not just assert")
+        ce = q.get("choiceExplanations")
+        if ce is not None:
+            if not isinstance(ce, list) or len(ce) != len(choices):
+                err(f"{w}: choiceExplanations must have one entry per choice "
+                    f"({len(choices)}), got {len(ce) if isinstance(ce, list) else type(ce).__name__}")
+            else:
+                if isinstance(ca, int) and 0 <= ca < len(ce) and ce[ca]:
+                    err(f"{w}: choiceExplanations[{ca}] is the CORRECT answer and must be null")
+                for i, note in enumerate(ce):
+                    if i == ca:
+                        continue
+                    if note is not None and len(str(note).strip()) < 25:
+                        err(f"{w}: choiceExplanations[{i}] is too short to explain anything")
         if q.get("questionType") not in VALID_QTYPES:
             err(f"{w}: bad questionType {q.get('questionType')!r}")
         if q.get("difficulty") not in VALID_DIFF:

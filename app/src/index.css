@@ -869,3 +869,76 @@ input:focus-visible {
     background: #fff;
   }
 }
+
+/* Miss panel: the learner's own answer and why it failed, shown before the reveal. */
+.miss-chosen,
+.missed-your-answer {
+  margin: 0 0 0.5rem;
+  color: var(--miss-fg, #8a1c1c);
+}
+.miss-whywrong,
+.missed-whywrong {
+  margin: 0 0 0.75rem;
+  padding: 0.5rem 0.65rem;
+  border-left: 3px solid currentColor;
+  background: rgba(0, 0, 0, 0.03);
+}
+
+/* Correct answer leads the miss panel; the learner's error is secondary. */
+.miss-answer-lead {
+  font-size: 1.12rem;
+  line-height: 1.45;
+  margin: 0 0 0.75rem;
+  padding: 0.6rem 0.7rem;
+  border-radius: 8px;
+  background: #e8f5ec;
+  border: 2px solid #1d7a43;
+}
+.miss-answer-lead strong { display: block; margin-top: 0.15rem; }
+.miss-whywrong {
+  margin: 0.75rem 0;
+  font-size: 0.93rem;
+  opacity: 0.85;
+}
+.lock-in { margin: 0.9rem 0; }
+.lock-in-prompt { font-weight: 600; margin: 0 0 0.45rem; }
+.lock-in-choices { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.4rem; }
+.lock-choice {
+  width: 100%;
+  min-height: 44px;
+  text-align: left;
+  padding: 0.6rem 0.7rem;
+  border-radius: 8px;
+  border: 1px solid #c8ccd4;
+  background: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+.lock-choice:disabled { cursor: default; }
+.lock-correct { background: #d8f0e1; border-color: #1d7a43; font-weight: 600; }
+.lock-wrong { background: #fdeaea; border-color: #b33; }
+.lock-in-nudge { margin: 0.4rem 0 0; font-size: 0.9rem; }
+
+/* Handbook reader */
+.handbook-results { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
+.handbook-hit {
+  width: 100%; text-align: left; padding: 0.6rem 0.7rem; border-radius: 8px;
+  border: 1px solid #c8ccd4; background: #fff; font: inherit; cursor: pointer;
+  display: grid; gap: 0.25rem; min-height: 44px;
+}
+.handbook-hit-page { font-size: 0.82rem; font-weight: 600; opacity: 0.75; }
+.handbook-hit-snippet { font-size: 0.92rem; line-height: 1.4; }
+.handbook-chapters { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.5rem; }
+.handbook-chapters .menu-item { display: grid; gap: 0.15rem; text-align: left; width: 100%;
+  border: 1px solid #c8ccd4; background: #fff; font: inherit; cursor: pointer; }
+.handbook-page { margin-top: 1rem; }
+.handbook-text {
+  white-space: pre-wrap; word-wrap: break-word; font: inherit; line-height: 1.5;
+  background: #fff; border: 1px solid #e0e3e8; border-radius: 8px; padding: 0.75rem;
+}
+.handbook-nav { display: flex; gap: 0.5rem; margin-top: 0.75rem; flex-wrap: wrap; }
+.field { display: grid; gap: 0.3rem; margin: 0.75rem 0; }
+.field input { min-height: 44px; padding: 0.5rem 0.6rem; font: inherit;
+  border: 1px solid #c8ccd4; border-radius: 8px; }
+.small { font-size: 0.85rem; }
+mark { background: #ffe9a8; }

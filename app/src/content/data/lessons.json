@@ -6049,5 +6049,48 @@
       "c-public-bus-children"
     ],
     "estimatedMinutes": 8
+  },
+  {
+    "id": "x-l-conditions",
+    "topicId": "x-conditions",
+    "title": "Read the Conditions Before You Answer",
+    "rules": [
+      {
+        "text": "You must yield to an emergency vehicle that is sounding a siren and flashing warning lights.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VI",
+          "chapterTitle": "Traffic Laws and Rules of the Road",
+          "section": "Right-of-Way",
+          "pdfPage": 59,
+          "printedPage": 49,
+          "sourceQuote": "that is sounding a siren and flashing warning lights.",
+          "verifiedDate": "2026-09-15"
+        }
+      },
+      {
+        "text": "Authorized emergency vehicles may exceed posted speed limits when on emergency duty with their warning devices in use.",
+        "source": {
+          "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+          "chapter": "VI",
+          "chapterTitle": "Traffic Laws and Rules of the Road",
+          "section": "Speed Limits",
+          "pdfPage": 52,
+          "printedPage": 42,
+          "sourceQuote": "Authorized emergency vehicles may exceed the posted speed limits when on emergency duty with",
+          "verifiedDate": "2026-09-15"
+        }
+      }
+    ],
+    "plainEnglish": "Almost every rule in the handbook has a condition attached, and the condition is the part that gets tested. The duty to pull over is not triggered by the sight of an ambulance — it is triggered by an emergency vehicle sounding a siren and flashing warning lights. A fire truck driving along in normal traffic with nothing switched on is just a large vehicle, and stopping dead for it can cause the crash the rule exists to prevent.\n\nThe same pattern runs through the book. The school zone limit applies when children are present or when specified. The child seat requirement stops applying at 4 feet 9 inches even below age 8. The back-seat belt exception needs the person to be 18 or older AND in the back. Oncoming traffic gets to ignore a stopped school bus only on Interstate highways with a median.",
+    "whyItMatters": "A question can describe a situation that looks like a familiar rule while quietly leaving out the condition that makes the rule apply. If you have memorised \"emergency vehicle means pull over\" you will answer from the pattern instead of the rule. If you have learned the rule with its condition attached, the missing siren jumps out at you.\n\nWhen you read a question, find the condition first: is it present, absent, or not mentioned? That one habit is worth several marks.",
+    "example": "A question says an ambulance is travelling behind you with no lights and no siren. Nothing has been signalled, so no emergency has been established and the special duty is not triggered — you keep driving normally and safely rather than braking or pulling over. Change the question to add flashing lights and a siren and the answer flips: pull over to the right edge, clear of the intersection, and stop with your foot on the brake.",
+    "conceptIds": [
+      "x-emergency-conditions",
+      "x-emergency-how",
+      "x-emergency-speed",
+      "x-emergency-lights-who"
+    ],
+    "estimatedMinutes": 6
   }
 ]

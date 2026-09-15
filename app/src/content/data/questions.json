@@ -15778,5 +15778,599 @@
       "sourceQuote": "As a driver, be extra careful in residential areas, school zones and at times and places where children are likely to be around.",
       "verifiedDate": "2026-09-14"
     }
+  },
+  {
+    "id": "x-q-001",
+    "topicId": "x-conditions",
+    "subtopic": "Emergency vehicles",
+    "conceptId": "x-emergency-conditions",
+    "question": "An ambulance is travelling behind you in normal traffic. It has no flashing lights and no siren. What does the handbook's rule require?",
+    "choices": [
+      "Nothing special — the duty to pull over applies to a vehicle sounding a siren and flashing warning lights",
+      "Pull over to the right and stop immediately",
+      "Slow down well below the speed limit and wave it past",
+      "Stop where you are, even in an intersection"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The rule's conditions are a siren AND flashing warning lights. With neither present, an ambulance in normal traffic is simply another vehicle.",
+      "Slowing sharply for a vehicle that has signalled no emergency can cause the rear-end collision the rule is meant to prevent.",
+      "Stopping in an intersection is the opposite of the instruction: the handbook says to stop clear of the intersection when the duty does apply."
+    ],
+    "explanation": "The handbook attaches conditions to this duty: you must yield to an emergency vehicle that is sounding a siren and flashing warning lights. Those signals are how an emergency is communicated to other drivers. With no lights and no siren, nothing has been signalled, and you drive on normally and safely. Add the lights and siren and the duty applies at once.",
+    "questionType": "scenario",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "that is sounding a siren and flashing warning lights.",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-002",
+    "topicId": "x-conditions",
+    "subtopic": "Emergency vehicles",
+    "conceptId": "x-emergency-conditions",
+    "question": "Which conditions trigger the duty to yield to an emergency vehicle?",
+    "choices": [
+      "It is sounding a siren and flashing warning lights",
+      "It is an ambulance, fire or police vehicle, whatever it is doing",
+      "It is travelling above the speed limit",
+      "It is approaching from behind in any circumstances"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The vehicle type alone is not the trigger — the handbook names the siren and flashing warning lights as the conditions.",
+      "Speed is not the test, and you have no reliable way to judge another vehicle's speed against the limit.",
+      "Direction of approach is not in the rule; the signals are."
+    ],
+    "explanation": "The handbook's wording is conditional: you must yield to any emergency vehicle that is sounding a siren and flashing warning lights. Both signals are the way an emergency is established to other drivers, which is why the rule names them rather than naming the type of vehicle.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "You must yield to any emergency vehicle (ambulance, fire, or police vehicle)",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-003",
+    "topicId": "x-conditions",
+    "subtopic": "Emergency vehicles",
+    "conceptId": "x-emergency-how",
+    "question": "A police car approaches with siren and flashing lights while you are stopped at a red light in an intersection queue. What does the handbook tell you to do?",
+    "choices": [
+      "Pull over to the right edge of the road, clear of the intersection, and stop",
+      "Stop exactly where you are, including inside the intersection",
+      "Accelerate through the intersection to clear the way",
+      "Reverse to create space behind you"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The handbook specifically says to stop clear of the intersection — a vehicle stopped inside one blocks the route the emergency vehicle needs.",
+      "Accelerating through a red light creates a collision risk with cross traffic that may also be reacting to the siren.",
+      "Reversing is never given as a response and puts you into traffic you cannot see."
+    ],
+    "explanation": "The instruction is precise: pull over to the right edge of the road, clear of the intersection, and stop until the emergency vehicle has passed. Keeping your foot on the brake lets the emergency driver see that you are stopped, and you should watch for other emergency vehicles before moving off.",
+    "questionType": "application",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "Pull over to the right edge of the road, clear of",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-004",
+    "topicId": "x-conditions",
+    "subtopic": "Emergency vehicles",
+    "conceptId": "x-emergency-how",
+    "question": "Why does the handbook say to keep your foot on the brake after pulling over for an emergency vehicle?",
+    "choices": [
+      "So the emergency driver knows you are stopped",
+      "To stop the engine from stalling",
+      "Because the law requires brake lights at all stops",
+      "To keep the vehicle from rolling on a crown in the road"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "Stalling is not mentioned anywhere in this instruction and has nothing to do with it.",
+      "The handbook gives no such general requirement; the reason it gives here is communication with the emergency driver.",
+      "Rolling is not the stated reason — the brake lights are there to be seen."
+    ],
+    "explanation": "The handbook gives the reason directly: keep your foot on the brake so the emergency driver knows you are stopped. Lit brake lights tell an approaching driver at speed that your vehicle is stationary and will not pull out. It also reminds you to check for a second emergency vehicle before moving off.",
+    "questionType": "reversed",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "emergency driver knows you are stopped.",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-005",
+    "topicId": "x-conditions",
+    "subtopic": "Emergency vehicles",
+    "conceptId": "x-emergency-how",
+    "question": "The emergency vehicle has passed you. What does the handbook say to do before pulling back out?",
+    "choices": [
+      "Watch for other emergency vehicles before proceeding",
+      "Pull out immediately to restore traffic flow",
+      "Wait a full two minutes regardless of traffic",
+      "Follow behind it to take advantage of the cleared road"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "Pulling straight out is exactly what the warning about further emergency vehicles is meant to prevent.",
+      "No fixed waiting time appears in the handbook; the instruction is to look, not to count.",
+      "Following an emergency vehicle is not permitted or suggested anywhere in the handbook."
+    ],
+    "explanation": "The handbook closes this instruction with watch for other emergency vehicles before proceeding. Emergencies frequently send more than one unit, and the second one is often travelling faster into a road that drivers have already started to reclaim.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "Watch for other emergency vehicles before proceeding.",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-006",
+    "topicId": "x-conditions",
+    "subtopic": "Emergency vehicles",
+    "conceptId": "x-emergency-speed",
+    "question": "When may an authorized emergency vehicle exceed the posted speed limit?",
+    "choices": [
+      "When on emergency duty with its warning devices in use",
+      "At any time, without restriction",
+      "Only on interstate highways",
+      "Only between midnight and 6 a.m."
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The handbook attaches a condition — emergency duty — rather than granting a blanket exemption.",
+      "No road-type restriction appears in this rule.",
+      "No time-of-day restriction appears in this rule."
+    ],
+    "explanation": "The permission is conditional: authorized emergency vehicles may exceed the posted speed limits when on emergency duty with their warning devices in use. This is the same pattern as the yielding rule — the signals are what establish that an emergency is in progress.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Speed Limits",
+      "pdfPage": 52,
+      "printedPage": 42,
+      "sourceQuote": "Authorized emergency vehicles may exceed the posted speed limits when on emergency duty with",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-007",
+    "topicId": "x-conditions",
+    "subtopic": "Emergency vehicles",
+    "conceptId": "x-emergency-speed",
+    "question": "Which statement about emergency vehicles and speed limits is NOT correct?",
+    "choices": [
+      "They are exempt from speed limits at all times",
+      "They may exceed posted limits when on emergency duty",
+      "Their exemption depends on warning devices being in use",
+      "Only authorized emergency vehicles may show red or blue flashing warning lights"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "This is what the handbook states, with the emergency-duty condition attached.",
+      "Correct as stated — the condition is part of the rule, not an add-on.",
+      "The handbook says plainly that only authorized emergency vehicles may have these warning lights."
+    ],
+    "explanation": "There is no blanket exemption. The handbook permits exceeding posted limits when on emergency duty with warning devices in use — an emergency vehicle driving normally is bound by the same limits as anyone else.",
+    "questionType": "negative",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Speed Limits",
+      "pdfPage": 52,
+      "printedPage": 42,
+      "sourceQuote": "Authorized emergency vehicles may exceed the posted speed limits when on emergency duty with",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-008",
+    "topicId": "x-conditions",
+    "subtopic": "Warning lights",
+    "conceptId": "x-emergency-lights-who",
+    "question": "Which vehicles may display red and/or blue flashing warning lights?",
+    "choices": [
+      "Only authorized emergency vehicles",
+      "Any vehicle assisting at a crash scene",
+      "Tow trucks and construction vehicles",
+      "Any vehicle, provided the lights are not used in traffic"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "Helping at a crash does not authorize a vehicle to display emergency warning lights.",
+      "The handbook reserves red and blue flashing lights to authorized emergency vehicles.",
+      "There is no such general permission in the handbook."
+    ],
+    "explanation": "The handbook states that only authorized emergency vehicles may have red and/or blue flashing warning lights. That exclusivity is what makes the lights meaningful as a signal — when you see them, you know what they mean.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Emergency Vehicle Equipment",
+      "pdfPage": 35,
+      "printedPage": 25,
+      "sourceQuote": "Red and/or blue flashing lights (Only authorized emergency vehicles may have these warning lights)",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-009",
+    "topicId": "x-conditions",
+    "subtopic": "Warning lights",
+    "conceptId": "x-emergency-lights-who",
+    "question": "You see red and blue flashing lights behind you. What does that tell you, and what makes it reliable?",
+    "choices": [
+      "It is an authorized emergency vehicle — only they may show those lights",
+      "It could be any vehicle, since the colours are unrestricted",
+      "It is always a police vehicle specifically",
+      "It indicates a hazard ahead rather than an emergency vehicle"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The colours are restricted: the handbook limits them to authorized emergency vehicles.",
+      "Fire, rescue squad and ambulance vehicles are authorized emergency vehicles too, not only police.",
+      "These are vehicle warning lights, not a hazard warning device placed on the road."
+    ],
+    "explanation": "Only authorized emergency vehicles may display red and/or blue flashing lights, so the signal is reliable. Authorized emergency vehicles include fire, police, chartered rescue squad and ambulance. If those lights are accompanied by a siren, the duty to pull over and stop applies.",
+    "questionType": "application",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Emergency Vehicle Equipment",
+      "pdfPage": 35,
+      "printedPage": 25,
+      "sourceQuote": "Red and/or blue flashing lights (Only authorized emergency vehicles may have these warning lights)",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-010",
+    "topicId": "x-conditions",
+    "subtopic": "Blind pedestrians",
+    "conceptId": "x-blind-rightofway",
+    "question": "A blind pedestrian with a white cane starts to cross the road away from any crosswalk. Who has the right-of-way?",
+    "choices": [
+      "The pedestrian — they have right-of-way whether or not they are in a crosswalk",
+      "You do, because they are not in a crosswalk",
+      "The pedestrian, but only at an intersection",
+      "Whoever entered the roadway first"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The handbook removes the crosswalk condition for this case: the right-of-way applies regardless of whether they are in a crosswalk.",
+      "No intersection condition appears in the rule — it covers a highway, street or road.",
+      "Order of entry is not the test anywhere in this rule."
+    ],
+    "explanation": "This is the exception most drivers get wrong. Ordinary pedestrian right-of-way depends on being in a crosswalk, but the handbook states that a blind person on foot with a guide dog, service animal, white cane or walking stick has the right-of-way on a highway, street or road regardless of whether they are in a crosswalk or not.",
+    "questionType": "scenario",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pedestrians and Crosswalks",
+      "pdfPage": 50,
+      "printedPage": 40,
+      "sourceQuote": "has the right-of-way on a highway, street, or road regardless of whether they",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-011",
+    "topicId": "x-conditions",
+    "subtopic": "Blind pedestrians",
+    "conceptId": "x-blind-rightofway",
+    "question": "Which statement about a blind pedestrian's right-of-way is NOT correct?",
+    "choices": [
+      "It applies only when they are using a marked crosswalk",
+      "It applies on a highway, street or road",
+      "It applies whether or not they are in a crosswalk",
+      "It covers a person using a guide dog or other service animal"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "This is the rule as stated — the right-of-way is not limited to any one road type.",
+      "Correct as stated; the handbook says regardless of whether they are in a crosswalk or not.",
+      "The handbook names a guide dog or other service animal explicitly."
+    ],
+    "explanation": "The crosswalk limitation is exactly what this rule removes. The handbook grants the right-of-way regardless of whether the person is in a crosswalk, on a highway, street or road, when they are using a guide dog or other service animal or carrying a white cane or walking stick.",
+    "questionType": "negative",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pedestrians and Crosswalks",
+      "pdfPage": 50,
+      "printedPage": 40,
+      "sourceQuote": "using a guide dog or other service animal, or is carrying a white cane or walking",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-012",
+    "topicId": "x-conditions",
+    "subtopic": "Blind pedestrians",
+    "conceptId": "x-blind-cane",
+    "question": "Which of these identifies a pedestrian the handbook says has the right of way?",
+    "choices": [
+      "A white or metal cane, with or without a red tip, or a guide dog",
+      "A white cane only if it has a red tip",
+      "A guide dog only; a cane is not covered",
+      "Any pedestrian carrying a walking stick of any colour"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The handbook covers a cane with or without a red tip — the red tip is not required.",
+      "Both a cane and a guide dog are named in the handbook.",
+      "The colour matters: the handbook specifies a white or metal cane."
+    ],
+    "explanation": "The handbook lists being blind and crossing with a white or metal cane, with or without a red tip, or led by a guide dog, among the situations where pedestrians have the right of way. The phrase with or without a red tip is there precisely so drivers do not treat the red tip as a requirement.",
+    "questionType": "direct",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Pedestrians",
+      "pdfPage": 60,
+      "printedPage": 50,
+      "sourceQuote": "They are blind and are crossing the street with a white or metal cane, with or without a red tip, or led by a",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-013",
+    "topicId": "x-conditions",
+    "subtopic": "Blind pedestrians",
+    "conceptId": "x-blind-cane",
+    "question": "Besides a blind pedestrian, when else does the handbook say pedestrians have the right of way?",
+    "choices": [
+      "When they are in a crosswalk, or crossing a sidewalk that crosses an alley entrance or driveway",
+      "Only when a crossing guard is present",
+      "Only at signalised intersections",
+      "Whenever they are within 100 feet of a corner"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "Crossing guards are not the condition given in this list.",
+      "The list is not limited to signalised intersections.",
+      "No such distance rule appears in the handbook."
+    ],
+    "explanation": "The handbook gives three situations together: pedestrians in a crosswalk, pedestrians crossing a sidewalk that crosses an alley entrance or driveway, and blind pedestrians with a cane or guide dog. The driveway case catches people out because it happens on private accesses rather than at junctions.",
+    "questionType": "reversed",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Pedestrians",
+      "pdfPage": 60,
+      "printedPage": 50,
+      "sourceQuote": "They are crossing a sidewalk that crosses an alley entrance or driveway.",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-014",
+    "topicId": "x-conditions",
+    "subtopic": "Impeding traffic",
+    "conceptId": "x-min-speed",
+    "question": "What is the minimum speed rule on a West Virginia interstate?",
+    "choices": [
+      "Do not drive slower than 55 mph unless conditions are bad or a lower speed is posted",
+      "There is no minimum speed on an interstate",
+      "Do not drive slower than 45 mph under any circumstances",
+      "Do not drive slower than 65 mph unless towing"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The handbook sets a minimum with conditions attached; it is not unrestricted.",
+      "45 mph is not the figure given, and the rule does have exceptions.",
+      "65 mph is not the figure, and towing is not the stated exception."
+    ],
+    "explanation": "The handbook says do not drive slower than 55 mph on an interstate unless the weather or road conditions are bad or a lower speed has been posted. Driving far below the flow is treated as creating a hazard, because other drivers may be forced to change lanes abruptly.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Speeds on Interstates",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "Do not drive slower than 55 mph on an",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-015",
+    "topicId": "x-conditions",
+    "subtopic": "Impeding traffic",
+    "conceptId": "x-min-speed",
+    "question": "Heavy fog has reduced visibility badly on an interstate posted at 70 mph. You slow to 40 mph. Is that consistent with the handbook?",
+    "choices": [
+      "Yes — the minimum does not apply when weather or road conditions are bad",
+      "No — you must maintain at least 55 mph at all times on an interstate",
+      "No — you must leave the interstate at the next exit",
+      "Yes, but only if your hazard lights are on"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The 55 mph minimum carries an explicit exception for bad weather or road conditions.",
+      "The handbook does not require leaving the interstate in these conditions.",
+      "Hazard lights are not the condition that makes the lower speed acceptable."
+    ],
+    "explanation": "The minimum speed rule is conditional: it does not apply when the weather or road conditions are bad, or where a lower speed has been posted. This is the same read-the-condition pattern as the emergency vehicle rule — the figure alone is not the whole rule.",
+    "questionType": "application",
+    "difficulty": "tricky",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Speeds on Interstates",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "interstate unless the weather or road conditions are bad or a lower speed has been posted.",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-016",
+    "topicId": "x-conditions",
+    "subtopic": "Impeding traffic",
+    "conceptId": "x-min-speed",
+    "question": "Why does the handbook treat driving much slower than surrounding traffic as dangerous?",
+    "choices": [
+      "Other drivers may be forced to change lanes abruptly",
+      "It uses significantly more fuel",
+      "It is always a criminal offence",
+      "Slow vehicles cannot be seen at night"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "Fuel use is not the safety reason the handbook gives here.",
+      "The handbook frames this as a hazard, not as a criminal offence.",
+      "Visibility is not the reason given for this rule."
+    ],
+    "explanation": "The handbook says that driving on interstates at a speed much slower than other drivers creates a hazard, because crashes may happen when other drivers are forced to change lanes abruptly. That is why it also tells you to keep to the right-hand lane unless passing.",
+    "questionType": "reversed",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Speeds on Interstates",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "may happen because other drivers may be forced to change lanes abruptly.",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-017",
+    "topicId": "x-conditions",
+    "subtopic": "Impeding traffic",
+    "conceptId": "x-slow-turnout",
+    "question": "You must drive slower than the designated speed on a two-lane road and traffic is building behind you. What does the handbook say to do?",
+    "choices": [
+      "Pull off at the first safe turnout to let faster traffic pass",
+      "Maintain your speed and let them overtake when they can",
+      "Speed up to the designated speed regardless of conditions",
+      "Move onto the shoulder and continue driving there"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The handbook puts the duty on you to let them past, not on them to find a gap.",
+      "The rule assumes there is a reason you cannot safely drive faster.",
+      "Driving along the shoulder is not what the handbook asks for — it says pull off at a turnout."
+    ],
+    "explanation": "The handbook says that if you must drive slower than the designated speed, pull off at the first safe turnout to let faster moving traffic pass. It applies where the road has one lane in each direction and overtaking traffic has no clear lane for passing.",
+    "questionType": "scenario",
+    "difficulty": "moderate",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Driving Slowly",
+      "pdfPage": 53,
+      "printedPage": 43,
+      "sourceQuote": "pull off  at the fi rst safe turnout to let faster",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-q-018",
+    "topicId": "x-conditions",
+    "subtopic": "Impeding traffic",
+    "conceptId": "x-slow-turnout",
+    "question": "When driving slower than the normal speed of traffic, where should you position your vehicle?",
+    "choices": [
+      "As close as possible to the right edge of the road",
+      "In the centre of your lane at all times",
+      "Toward the centre line so you can be seen",
+      "In whichever lane has least traffic"
+    ],
+    "correctAnswer": 0,
+    "choiceExplanations": [
+      null,
+      "The handbook is more specific than staying centred — it asks you to keep right.",
+      "Moving toward the centre line makes overtaking harder, which is the opposite of the intent.",
+      "Lane choice by traffic volume is not the rule given here."
+    ],
+    "explanation": "The handbook says that when you drive at less than the normal speed of traffic you should drive as close as possible to the right edge of the road. Keeping right gives faster traffic room and reduces the pressure that leads to risky overtaking.",
+    "questionType": "direct",
+    "difficulty": "core",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Driving Slowly",
+      "pdfPage": 53,
+      "printedPage": 43,
+      "sourceQuote": "you should drive as close as possible to the",
+      "verifiedDate": "2026-09-15"
+    }
   }
 ]

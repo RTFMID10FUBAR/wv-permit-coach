@@ -1,6 +1,15 @@
 <<<PAGE 1>>>
 Revised 07/2026
 <<<PAGE 2>>>
+Driver’s License ................................................................................................. 926-3801
+Point System .................................................................................................... 926-2505
+Student Attendance ......................................................................................... 926-2505
+Unpaid Tickets .................................................................................................. 926-2505
+Driving Records ................................................................................................ 926-3952
+Compulsory Insurance ...................................................................................... 926-3802
+Driving Under the Infl uence .............................................................................. 926-2506
+Driving Under the Infl uence “Interlock” ............................................................ 926-2507
+Visit us on the web at dmv.wv.gov.
 DEPARTMENT OF TRANSPORTATION
 DIVISION OF MOTOR VEHICLES
 PO Box 17010
@@ -11,15 +20,6 @@ and/or your file number ready so that we can assist you as quickly as possible.
 For Vehicle Title, License Plate, Driver's License issues, or for General Information
 (304)?352-5899 / (800) 642-9066    |    Hearing-Impaired - (800) 742-6991
 Other Important Telephone Numbers (Area Code 304)
-Driver’s License ................................................................................................. 926-3801
-Point System .................................................................................................... 926-2505
-Student Attendance ......................................................................................... 926-2505
-Unpaid Tickets .................................................................................................. 926-2505
-Driving Records ................................................................................................ 926-3952
-Compulsory Insurance ...................................................................................... 926-3802
-Driving Under the Infl uence .............................................................................. 926-2506
-Driving Under the Infl uence “Interlock” ............................................................ 926-2507
-Visit us on the web at dmv.wv.gov.
 <<<PAGE 3>>>
 WHERE TO TEST OR APPLY FOR A DRIVER’S LICENSE
 A WV resident can apply for a WV instruction permit, driver’s license, or identification card at any DMV regional
@@ -28,70 +28,86 @@ City, which is open Monday - Friday 8:00 am - 6:00 pm and Saturday from 8:00 am 
 Martinsburg regional office is also open on Saturday from 8:00 am - 12:00 pm.
 Please check the DMV website at dmv.wv.gov or call 1-800-642-9066 for testing times or further information.
 DMV REGIONAL OFFICE LOCATIONS
-Beckley Kanawha City 1BSLFSTCVSH
-107 Pinecrest Drive 5707 MacCorkle Avenue SE 601 Lubeck Avenue
-Beckley, WV  25801 Suite 400
-Parkersburg, WV  26101
-Charleston, WV  25317
-Berkeley Springs Point Pleasant
-,FZTFS
-101 Cavendish Drive 1408 Kanawha Street
-196 N Tornado Way, Suite 8 Point Pleasant, WV  25550
+Beckley
+107 Pinecrest Drive
+Beckley, WV  25801
+Berkeley Springs
+101 Cavendish Drive
 Berkeley Springs, WV 25411
-Keyser, WV 26726
-1SJODFUPO
 Charles Town
--FXJTCVSH
-198 Davis Street
 24 Ruland Road
-148 Maplewood Avenue Princeton, WV  24740
 Kearneysville, WV 25430
-Lewisburg, WV  24901
-Spencer
 Clarksburg
-Logan
-115 Church Street
 153 West Main St.
-428 Main Street  Spencer, WV  25276
 Clarksburg, WV  26301
-Logan, WV  25601
-4VNNFSTWJMMF
 &MLJOT
-.BSUJOTCVSH
-2 Armory Way
 1029 N Randolph Avenue
-38 Severna Parkway Summersville, WV  26651
 Elkins, WV 26241
-Martinsburg, WV  25404
-8FJSUPO
-'BJSNPOU Moorefield
-Municipal Plaza, Suite 100
-2600 Middletown Commons 410 South Main Street Weirton, WV  26062
+'BJSNPOU
+2600 Middletown Commons
 Suite 174
-Moorefield, WV  26836
 White Hall, WV 26554
-8FMDI
-.PSHBOUPXO
-681 Riverside Drive
 Flatwoods
-1525 Deckers Creek Blvd. Welch, WV  24801
 295 Skidmore Lane
-Morgantown, WV  26505
 Sutton, WV  26601
-8JMMJBNTPO
-Moundsville
-225 E 3rd Avenue
 Franklin
-400 Teletech Drive, Suite 100 Williamson, WV  25661
 100 Thorn Creek Road, Suite 300
-Moundsville, WV  26041
 Franklin, WV  26807
-8JOGJFME
-116 Liberty Square
 Huntington
-Hurricane, WV  25526
 801 Madison Avenue
 Huntington, WV  25701
+Kanawha City
+5707 MacCorkle Avenue SE
+Suite 400
+Charleston, WV  25317
+,FZTFS
+196 N Tornado Way, Suite 8
+Keyser, WV 26726
+-FXJTCVSH
+148 Maplewood Avenue
+Lewisburg, WV  24901
+Logan
+428 Main Street
+Logan, WV  25601
+.BSUJOTCVSH
+38 Severna Parkway
+Martinsburg, WV  25404
+Moorefield
+410 South Main Street
+Moorefield, WV  26836
+.PSHBOUPXO
+1525 Deckers Creek Blvd.
+Morgantown, WV  26505
+Moundsville
+400 Teletech Drive, Suite 100
+Moundsville, WV  26041
+1BSLFSTCVSH
+601 Lubeck Avenue
+Parkersburg, WV  26101
+Point Pleasant
+1408 Kanawha Street
+Point Pleasant, WV  25550
+1SJODFUPO
+198 Davis Street
+Princeton, WV  24740
+Spencer
+115 Church Street
+Spencer, WV  25276
+4VNNFSTWJMMF
+2 Armory Way
+Summersville, WV  26651
+8FJSUPO
+Municipal Plaza, Suite 100
+Weirton, WV  26062
+8FMDI
+681 Riverside Drive
+Welch, WV  24801
+8JMMJBNTPO
+225 E 3rd Avenue
+Williamson, WV  25661
+8JOGJFME
+116 Liberty Square
+Hurricane, WV  25526
 <<<PAGE 4>>>
 FOREWORD
 Driving a motor vehicle in West Virginia is a privilege that carries
@@ -148,7 +164,6 @@ Applicants that are Immigrants, Non-Immigrants, and Refugees ...................
 Immigrants ................................................................................................................................................... 8
 Non-Immigrants ......................................................................................................................................... 8
 Refugees ........................................................................................................................................................8
-  Know to Drive Online Testing.....................................................................................................................................9
 Regular Instruction Permit -Ages 18 and Over ......................................................................................................9
 Graduated Driver's License (GDL) - Ages 15-17 ..................................................................................................... 9
 Level 1 GDL (Instruction Permit) .............................................................................................................. 9
@@ -179,6 +194,7 @@ Crashes ........................................................................
 Compulsory Insurance ..............................................................................................................................................16
 The Use of Wireless Communication Devices While Operating a Motor Vehicle ........................................17
 Point System ................................................................................................................................................................18
+  Know to Drive Online Testing.....................................................................................................................................9
 <<<PAGE 6>>>
 Driving in Other States .............................................................................................................................................18
 Failure to Comply with In-State Citations ............................................................................................................18
@@ -418,6 +434,7 @@ temporarily withdrawn.
 Wireless Communications Device: A handheld device used to access a wireless telephone service or a text
 messaging device
 <<<PAGE 11>>>
+1
 CHAPTER I
 DRIVER'S LICENSE INFORMATION
 Who Must Be Licensed to Drive?
@@ -452,11 +469,11 @@ option to choose a license or ID card that is certified as REAL ID compliant for
 usew.  These cards contain a gold star on the face of the card, indicating that the card meets full federal
 requirements for use at airports and other designated federal facilities across the country.
       Please take note that all licenses applied for at all DMV locations will arrive at the applicant's address
-CHAPTER I
 via USPS in approximately 15-20 business days. A temporary license is issued at the time
 the application is accepted at DMV for use during the production and shipping of this card.
-1
+CHAPTER I
 <<<PAGE 12>>>
+2
 There Are TWO types Driver’s Licenses & ID Cards
 You have the choice between a Not For Federal Use driver’s license or ID card, or a REAL ID/For Federal
 Use card that contains a gold star, indicating that the card meets full federal requirements for future use
@@ -505,12 +522,8 @@ days.
 This card costs an additional $10.00 and is sent to the applicant’s address via USPS in 15-20
 business days.  A temporary Driver’s License is issued at the time the application is accepted at
 DMV for use during the production and shipping of this card.
-2
 <<<PAGE 13>>>
-Proof Documents Required to Obtain a Driver’s License
-1.) You must have ONE (1) proof of identity.
-The chart below shows acceptable proof identity documents that you can present to prove your legal
-identity.
+3
 ACCEPTABLE PROOF OF IDENTITY DOCUMENTS
 An original or certified copy of a U.S. issued birth certificate
 U.S. Department of State and U.S. Military birth certificates ARE acceptable, hospital birth certificates and Bureau of Census
@@ -525,15 +538,11 @@ document(s) or acceptable alternatives as outlined below:
 • Consular Report of Birth Abroad (CRBA) issued by the U.S. Department of State, Form FS-240, or DS-1350 or FS-545
 • Foreign passport with a valid, unexpired U.S. visa affixed accompanied by the approved I-94 form documenting the
 applicant's most recent admittance into the United States
+Proof Documents Required to Obtain a Driver’s License
+1.) You must have ONE (1) proof of identity.
+The chart below shows acceptable proof identity documents that you can present to prove your legal
+identity.
 2.) You must provide your Social Security number.
-ACCEPTABLE PROOF OF SOCIAL SECURITY NUMBER
-Original Social Security card in your current legal name
-Original Wage and Tax Statement (W-2)
-Or payroll stub with the applicant's employer name and employer ID number, as well as the applicant's name, address, and
-Social Security number (a photocopy of a W-2 is not acceptable) (You may use the same W-2 as one (1) proof of WV resi-
-dency, provided it is not more than 18 months old)
-1099 form
-With applicant's full Social Security number and name
 DMV must be able to establish a name connection between documents, therefore your
 full legal name must match your name on file with the Social Security Administration (SSA).  If an
 applicant is not eligible for a social security number, then the applicant must submit a denial letter
@@ -545,19 +554,27 @@ DMV  with  a  historical record, and provide you with additional protection, per
 Act of 2005. Please visit the SSA website for information about obtaining a Social Security number.
 If an applicant is not eligible for a Social Security card, the applicant must provide a letter
 from the Social Security Administration stating they are not eligible.
-3
+ACCEPTABLE PROOF OF SOCIAL SECURITY NUMBER
+Original Social Security card in your current legal name
+Original Wage and Tax Statement (W-2)
+Or payroll stub with the applicant's employer name and employer ID number, as well as the applicant's name, address, and
+Social Security number (a photocopy of a W-2 is not acceptable) (You may use the same W-2 as one (1) proof of WV resi-
+dency, provided it is not more than 18 months old)
+1099 form
+With applicant's full Social Security number and name
 <<<PAGE 14>>>
+4
 3.) You Must have proof of legal name change if your name has EVER changed.
 DMV must be able to establish a link between any legal name changes - Call 1-800-642-9066 to clarify
 which proof of name change document(s) you will need to bring in to obtain your driver’s license or ID
 card.  You may be required to provide all or some of the following proof in the chart below.
+4.) You must have TWO (2) proofs of West Virginia residency.
 ACCEPTABLE PROOF OF LEGAL NAME CHANGE DOCUMENTS
 Marriage certificate
 For each marriage if married more than once, also souvenir documents and Minister's copies are not acceptable
 Original or certified copy of a birth certificate with amended legal name
 Court Order with legal name/name change
 Divorce decree(s) with legal name/name change
-4.) You must have TWO (2) proofs of West Virginia residency.
 ACCEPTABLE PROOF OF WEST VIRGINIA RESIDENCY
 You may use two (2) documents from the list below.  Documents with a PO Box are not acceptable.  Any
 recurring document cannot be more than 90 days old (i.e. utility bill).  Married applicants may provide
@@ -566,30 +583,36 @@ WV utility bills (not more than 90 days old and cannot College admissions letter
 be a termination notice) an in-state resident
 Tax records with a WV street address 911 letter that includes name and full address
 WV mortgage documents, WV homeowner insurance
-Pay check stub from any WV employer that shows a
 documents for a WV residence, or proof of WV home
-current physical address (cannot be hand written)
 ownership
+Pay check stub from any WV employer that shows a
+current physical address (cannot be hand written)
 WV Homestead Tax exemption Social Security benefits letter
 WV Weapons Permit WV Professional License
 A valid WV vehicle registration card United States Selective Service card
 WV Voter’s Registration card WV Dealer temporary registration card
-WV W-2 form Letter from the applicant’s employer stating that all
-(That is not more than 18 months old) (you may use utility and house arrangements are provided by the
-the same W-2 as your proof of Social Security number) employer
+WV W-2 form
+(That is not more than 18 months old) (you may use
+the same W-2 as your proof of Social Security number)
+Letter from the applicant’s employer stating that all
+utility and house arrangements are provided by the
+employer
 Proof of WV public assistance WV hunting license
 Residential rental or lease agreement WV bank statement
 WV DMV Affidavit of WV Residency WV auto insurance card
-Letter from a WV homeless shelter, hotel, senior Letter from the US Post Office that shows a new,
-citizens home, rehabilitation center, nursing home, physical, WV address assigned by the Post Office for
-children’s home, orphanage, shelter, battered the applicant
-women’s shelter, or Job Corps, including the facility’s
+Letter from the US Post Office that shows a new,
+physical, WV address assigned by the Post Office for
+the applicant
 License plate or Driver’s License Renewal form
+Letter from a WV homeless shelter, hotel, senior
+citizens home, rehabilitation center, nursing home,
+children’s home, orphanage, shelter, battered
+women’s shelter, or Job Corps, including the facility’s
 physical address, that explains that the applicant is
 a resident at their facility (letterhead is preferred, but
 not required)
-4
 <<<PAGE 15>>>
+5
 An applicant for any driver's license or identification card shall be a resident of the State of West
 Virginia. The DMV shall not license or issue an identification card to an applicant who does not give
 a WV physical address.
@@ -620,8 +643,8 @@ DMV when you resolve an unpaid citation.  If the DMV has notified you of an unpa
 suspect that the court  has  notified  the  DMV,  you  must  provide  the  DMV  with  proof  that  you  have
 paid the citation, or have satisfied the court's order to avoid suspension, before the DMV can reinstate
 your driver's license.
-5
 <<<PAGE 16>>>
+6
 First-Time Applicant
 Any first-time applicant for an instruction permit, driver’s license, or identification card must
 provide their Social Security number, one (1) proof of identity document, two (2) proofs of WV
@@ -653,8 +676,8 @@ change. Failure to do this subjects you to a possible fine or imprisonment.  Sim
 Office will NOT update your record with the DMV or allow important DMV mail to be forwarded to you.
 By failing to change your address with the DMV, you could miss the renewal date of your
 driver’s license, or even have your driving privileges suspended or revoked unnecessarily.
-6
 <<<PAGE 17>>>
+7
 Duplicate Driver’s License
 To obtain a duplicate driver’s license, you must present two (2) documentT from the proof of WV
 residency from the table on page four (4) of the handbook, if there has been an address change,
@@ -688,8 +711,8 @@ Identifi cation Usew
 This sample shown is
 iNot for Federal
 Identifi cation / REAL ID Usew
-7
 <<<PAGE 18>>>
+8
 Applicants that are Immigrants, Non-Immigrants, and Refugees
 Immigrants
 Immigrants applying for an instruction permit, driver’s license, or identification card are required
@@ -732,8 +755,17 @@ t Social Security number or a letter from the SSA denying the issuance of a Soci
 card
 t A form I-94, stamped Refugee/Asylee (person seeking asylum)
 t A form I-688 B and  I-766 Employment Authorization Document
-8
 <<<PAGE 19>>>
+9
+No cell phones, smart glasses, PDA, Bluetooth devices, electronic devices, etc. will be permitted in
+the exam room. Only the applicant taking the test is allowed in the exam room.
+The vision and knowledge tests are administered by driver examiners at DMV designated locations.
+After you pass the required tests, the driver examiner will approve your application for processing.  To
+qualify for a driver’s license in WV you must have at least 20/40 vision in one (1) eye.
+Level 1 GDL Instruction Permit Requirements:
+t You must be at least 15 years of age.
+t You must have written consent from a Parent or Legal Guardian on form DMV-DS-23P.
+t You may only drive with a licensed driver who is at least 21 years old in the right front passenger seat.
 Know to Drive Online Testing
 Applicants may take the written test Online. Online testing is considered part of the Driverhs
 License Application process.
@@ -764,17 +796,8 @@ Instruction  permit, you  must show a certified birth certificate issued
 by  a  state  or governmental agency of the U.S. that is responsible for
 the collection of vital records. You must also provide
 a Social Security Administration issued Social  Security Number.
-No cell phones, smart glasses, PDA, Bluetooth devices, electronic devices, etc. will be permitted in
-the exam room. Only the applicant taking the test is allowed in the exam room.
-The vision and knowledge tests are administered by driver examiners at DMV designated locations.
-After you pass the required tests, the driver examiner will approve your application for processing.  To
-qualify for a driver’s license in WV you must have at least 20/40 vision in one (1) eye.
-Level 1 GDL Instruction Permit Requirements:
-t You must be at least 15 years of age.
-t You must have written consent from a Parent or Legal Guardian on form DMV-DS-23P.
-t You may only drive with a licensed driver who is at least 21 years old in the right front passenger seat.
-9
 <<<PAGE 20>>>
+10
 t You may only drive between the hours of 5:00 am and 10:00 pm.
 t You may only have two (2) additional non family passengers in addition to the supervising, licensed adult driver.
 t Two (2) convictions will result in revocation of your instruction permit (for 90 days).
@@ -813,8 +836,8 @@ must drive with a supervising, licensed adult driver who is age 21 or older betw
 and 5:00 am.  The exceptions to this rule are when the licensee is participating in, going to, or returning from:
 (1) lawful employment; (2) a school-sanctioned activity; (3) a religious activity; or (4) an emergency situation
 that requires the licensee to prevent bodily injury or the death of another.
-10
 <<<PAGE 21>>>
+11
 A Level 2 GDL intermediate
 driver’s license holder may not
 operate a motor vehicle during
@@ -864,8 +887,22 @@ vehicle, unless the cell phone is used for contacting a 9-1-1 system as stated i
 instruction permit or Level 2 GDL intermediate driver’s license, you must begin the conviction-free time
 period over (Level 1 GDL instruction permit - 6 months; Level 2 GDL intermediate driver’s license - 12
 months).
-11
 <<<PAGE 22>>>
+12
+1  Artificial Limbs *  Interlock
+2  Corrective Lenses 4  Spinner Knob
+3  Automatic Transmission ,  CDL/ Intrastate Only/Under 21
+4  Mechanical Signals -  Vehicle Without Air Brakes (CDL Only)
+5  Hand Controls .  Class B or C Bus Only (CDL Only)
+6  Outside Mirrors /  Class C Bus Only
+7  Corrective Lenses & Outside Mirrors 1  No Passengers (CDL Instruction Permit P & S Only)
+8  Motor Driven Cycle 6  Sexual  Deviant
+9  Other (DMV may impose others not listed above) 9  No Cargo (CDL N Instruction Permit Only)
+%  Daylight Driving Only 0  No Tractor Trailer (CDL Only)
+&  No Manual Transmission (CDL Only) 7  Medical Variance
+(  Trike with “F” Endorsement ;  No Full Air Brakes (CDL Only)
+DRIVER’S LICENSE RESTRICTIONS
+CODE DESCRIPTION OF RESTRICTIONS CODE DESCRIPTION OF RESTRICTIONS
 Level 3 License GDL
 Once the applicant has met the requirements to obtain a Level 3 GDL, it is the driver’s option to apply
 for this driver’s license or to keep the Level 2 GDL and follow its restrictions until they are 18 years of age.
@@ -888,20 +925,6 @@ The restriction will be indicated on the front of the driver’s license by a nu
 “restrictions” field.  The explanation of the restriction will appear on the back of the driver’s license.
 Operating a motor vehicle in violation of the restriction or restrictions is a serious offense and could
 result in the suspension or revocation of your driving privilege.
-DRIVER’S LICENSE RESTRICTIONS
-CODE DESCRIPTION OF RESTRICTIONS CODE DESCRIPTION OF RESTRICTIONS
-1  Artificial Limbs *  Interlock
-2  Corrective Lenses 4  Spinner Knob
-3  Automatic Transmission ,  CDL/ Intrastate Only/Under 21
-4  Mechanical Signals -  Vehicle Without Air Brakes (CDL Only)
-5  Hand Controls .  Class B or C Bus Only (CDL Only)
-6  Outside Mirrors /  Class C Bus Only
-7  Corrective Lenses & Outside Mirrors 1  No Passengers (CDL Instruction Permit P & S Only)
-8  Motor Driven Cycle 6  Sexual  Deviant
-9  Other (DMV may impose others not listed above) 9  No Cargo (CDL N Instruction Permit Only)
-%  Daylight Driving Only 0  No Tractor Trailer (CDL Only)
-&  No Manual Transmission (CDL Only) 7  Medical Variance
-(  Trike with “F” Endorsement ;  No Full Air Brakes (CDL Only)
 Drive for Five
 The DMV now makes it easier for you to remember the expiration date of your driver’s license or
 identification card.  Under the “Drive for Five” program, all driver’s  licenses will expire in a year in which
@@ -911,8 +934,8 @@ cycle, the DMV may need to phase you into the program.  In order to do this, you
 will be issued for a period ranging from three (3) years to seven (7) years, depending on your age at the
 time of renewal.  For instance, if you are or will be 34 in the year that your driver’s license expires, you will
 be issued a six-year driver’s license that will expire when you are 40.
-12
 <<<PAGE 23>>>
+13
 New driver’s licenses issued after January 1, 2001, expire on the applicant’s birthday instead of at the
 end of the month.  Driver’s licenses expiring on a licensee’s 18th or 21st birthday will have a 30-day grace
 period to allow the bearer to obtain the appropriate color license.
@@ -924,24 +947,19 @@ until your age is divisible by five (25, 30, 35, 40, etc.), at a rate of $5.00 p
 21 years old when you renew your driver’s license, it will next expire on your 25th birthday and the fee
 would be $20.00 ($5.00 x 4).
 U.S. Selective Service
-DRIVER’S LICENSE
 The DMV offers young men ages 15-26 the opportunity
-AND ID CARD
 to register with the U.S. Selective Service when applying
-for a driver’s license, instruction permit, or photo ID card by DESIGNATIONS AVAILABLE
+for a driver’s license, instruction permit, or photo ID card by
 checking a box on the back of the Application for a Driver’s
 License or Photo ID card (DMV-DS-23P).
-Deaf or Hearing Impaired
 Driver’s License and ID Card Designations
 When completing the application for a driver’s license,
-you have the option to select among additional designations Diabetic
+you have the option to select among additional designations
 for diabetic, deaf, or hard of hearing.
 Diabetic, Deaf, or Hard of Hearing Designations
-Organ Donor
 For applicants that are diabetic, deaf, or hard of hearing,
 that wish to have these designated on their driver’s
 license or ID card, will need to indicate on the backside of
-U.S. Veteran
 the DMV-DS-23P, which will be turned in at the time of
 application.
 Organ Donor Designation
@@ -963,8 +981,15 @@ driver’s license or instruction permit upon demand to any law enforcement offi
 official of the DMV. Violation of this requirement is a misdemeanor.  However, you will not be convicted
 if your driver’s license or instructional permit is valid at the time of arrest and you can produce it in court
 or in the office of the arresting officer.
-13
+DRIVER’S LICENSE
+AND ID CARD
+DESIGNATIONS AVAILABLE
+Deaf or Hearing Impaired
+Diabetic
+Organ Donor
+U.S. Veteran
 <<<PAGE 24>>>
+14
 Motorcycle Permits, Licenses, and Endorsements
  Motorcycle Instruction Permit
 The motorcycle instruction permit allows you to ride a
@@ -1012,19 +1037,11 @@ improve their safe riding skills.  The Basic Rider Course (BRC) and Experienced 
 offered through the Motorcycle Safety Foundation, which are the only approved Rider Training courses
 available in this state.
 If an applicant who has held an instruction permit for at least 7 days successfully passes the BRC they
-14
 will be eligible to have the on-cycle skills test for the DMV waived.
 <<<PAGE 25>>>
-The BRC classes are offered to persons who are at least 16 years old, have met all of the requirements
-for a Level 2 GDL intermediate driver’s license, except for passing the road skills test, and have a motorcycle
-instruction permit.  The classes are also available to anyone who is at least 18 years old and has a motorcycle
-instruction permit.  The BRC is approximately 17 hours long and consists of both classroom and on-cycle
-instruction.
-Training classes are normally conducted from late April through early November. You may enroll in
-classes during this time at www.wv-msp.org. If you have any questions about either of these training
-courses call 1-866-355-9399.
+15
 DRIVER’S LICENSE FEES
-GRADUATED DRIVER’S LICENSE LEVELS 1 - 3
+*Must have met the minimum qualifications of  Level Two (2)
 Minimum Age Type of License Expiration Permit/Licensing Fee Test Fee
 15 Level One (1) 18th Birthday $5.00 $7.50
 (+30 day grace Period) permit fee per attempt
@@ -1034,14 +1051,14 @@ per attempt
  per year
 18 Level Three (3) Until age 21 $5.00
  per year
-INSTRUCTION PERMIT
 Minimum Age Type of License Expiration Fee Test Fee
-PU Motorcycle* 6 Months from $5.00 $7.50
+PU Motorcycle*
+Instruction Permit
+6 Months from $5.00 $7.50
 Issuance
-Instruction Permit per attempt
+per attempt
 18 Instruction Permit 6 Months from $7.50 $7.50
 Issuance per attempt
-STANDARD CLASSES “E” & “F” DRIVER’S LICENSES
 Minimum Age Type of License Fee Expired Fee Test Fee
 18 Driver’s License $5.00 $5.00 $7.50
  per year
@@ -1053,15 +1070,25 @@ Duplicate License $7.50
 FOR FEDERAL USE DRIVER’S LICENSES AND IDENTIFICATION CARDS
 An additional $10.00 is required to obtain, renew, or obtain a duplicate
 “FOR FEDERAL IDENITIFATION” driver’s license or identification card.
-*Must have met the minimum qualifications of  Level Two (2)
-DOCUMENTS TO KEEP IN YOUR VEHICLE
+GRADUATED DRIVER’S LICENSE LEVELS 1 - 3
+INSTRUCTION PERMIT
+STANDARD CLASSES “E” & “F” DRIVER’S LICENSES
 Just as you need to carry  your driver’s license with you while operating a motor vehicle, you will need
 to keep your valid proof of West Virginia liability insurance (certificate of insurance) as well as current
 registration card with you.  If you are stopped by a law enforcement officer for a moving violation, you are
 required to show this proof in addition to your driver’s license.  More detail on insurance and registration
 is provided on page 16.
-15
+DOCUMENTS TO KEEP IN YOUR VEHICLE
+The BRC classes are offered to persons who are at least 16 years old, have met all of the requirements
+for a Level 2 GDL intermediate driver’s license, except for passing the road skills test, and have a motorcycle
+instruction permit.  The classes are also available to anyone who is at least 18 years old and has a motorcycle
+instruction permit.  The BRC is approximately 17 hours long and consists of both classroom and on-cycle
+instruction.
+Training classes are normally conducted from late April through early November. You may enroll in
+classes during this time at www.wv-msp.org. If you have any questions about either of these training
+courses call 1-866-355-9399.
 <<<PAGE 26>>>
+16
 CHAPTER II
 DRIVER RESPONSIBILITIES
 The privilege to drive carries with it many responsibilities.  You, and only you, are responsible for your
@@ -1095,7 +1122,7 @@ After you have taken the examination, your driver’s license may be suspended o
 be issued a restricted driver’s license. Refusal to submit to this test is grounds for suspension or revocation
 of your driver’s license.
 Crashes
- CHAPTER II Crashes resulting in injury to, or death of, any person or property damage in excess of $1,000 must be
+Crashes resulting in injury to, or death of, any person or property damage in excess of $1,000 must be
 reported by the quickest means possible (oral or written) within five (5) days to the local police department
 if it occurs within a municipality; otherwise, it must be reported to the county sheriff or the nearest WV State
 Police office (see WV Code §17C-4-6). If your vehicle was not covered by the required West Virginia liability
@@ -1104,8 +1131,9 @@ Compulsory Insurance
 West Virginia law mandates that all motorists driving on the state’s public roads must carry West
 Virginia motor vehicle liability insurance.  The minimum amount of coverage, as provided by law is:
 ]  $25,000 for one (1) death or injury | $50,000 for two (2) deaths or injuries | $25,000 for property damage  |
-16
+ CHAPTER II
 <<<PAGE 27>>>
+17
 When you obtain or renew your vehicle registration, you must provide proof that you have West
 Virginia liability insurance on your vehicle and are required to maintain insurance for the full registration
 year. If your insurance is DBODFMFE for any reason, you must surrender the vehicle registration plate to
@@ -1152,8 +1180,8 @@ Fines and points assessed against a drivers record based on number of offenses a
 • First offense = $100 fine and zero (0) points
 • Second offense = $200 fine and zero (0) points
 • Third and subsequent offenses = $300 and three (3) points
-17
 <<<PAGE 28>>>
+18
 Use of an electronic communications device to report a fire, traffic crash, serious road hazard, or
 emergency to the appropriate authorities, or use by a law-enforcement officer, firefighter, emergency
 medical technician, paramedic, or the operator of an authorized emergency vehicle in the performance
@@ -1199,8 +1227,8 @@ license must be true and accurate.  It is against the law to provide false infor
 any type of driver’s license.  It is also illegal to use someone else’s license as your own, to permit someone
 else to use your driver’s license, to permit someone to use your identity documents to obtain a license,
 or to use or display a fictitious license.  The penalty for these offenses is a 90-day suspension.
-18
 <<<PAGE 29>>>
+19
 Mandatory Driver’s License Revocation
 Convictions for certain violations of motor vehicle laws are serious and require the immediate
 revocation of your driver’s license.  The DMV must revoke a driver’s license when it receives a notice of
@@ -1230,35 +1258,52 @@ check your CDL Medical Certification date, you now have the ability to obtain th
 the DMV Online Services page at go.wv.gov/selfservice.
 Applicants also have the ability to view and purchase a driving record online for a fee of $12.50 and
 pay their driver’s license reinstatement fees as well.
-19
 <<<PAGE 30>>>
-POINT SCALE
-OFFENSES POINT OFFENSES POINT
-VALUES VALUES
-Fleeing from an Officer 8 Driving Too Fast for Conditions 3
-Speeding in a School Zone 6 Failure to Maintain Control  of Vehicle 3
-Reckless Driving 6 Careless / Hazardous Driving 3
-Hit & Run (Leaving the Scene or Failure to Reveal ID) 6 Driving the Wrong Way on a One Way Street 3
-Speeding 20mph or More Over the Speed Limit 6 Littering 3
-Speeding 15mph to 19mph Over the Speed Limit 5 Improper Lane Violation 3
-Speeding 11mph to 14mph Over the Speed Limit 3 Failure to Observe a Safety Zone 3
-Failure to Follow a Police Officer’s Instructions 3
-3 or More Wireless Communication Device
-Violations (Any Combination of Talking and/or  Texting) 3 Driving on the Wrong Side of the Road 3
-Passing Violation 3 Following Too Closely 2
-Failure to Yield Violation 3 More than 3 Passengers in the Front Seat 2
-Failure to Obey Traffic Light 3 Improper Turning 2
-Failure to Obey Stop Sign 3 Improper Backing 2
-Hazardous Driving 3 Improper Signal or No Signal 2
-Driving Left of Center 3 All Other Moving Violations Not Listed Above 2
 20
+OFFENSES POINT
+VALUES
+Fleeing from an Officer 8
+Speeding in a School Zone 6
+Reckless Driving 6
+Hit & Run (Leaving the Scene or Failure to Reveal ID) 6
+Speeding 20mph or More Over the Speed Limit 6
+Speeding 15mph to 19mph Over the Speed Limit 5
+Speeding 11mph to 14mph Over the Speed Limit 3
+3 or More Wireless Communication Device
+Violations (Any Combination of Talking and/or  Texting) 3
+Passing Violation 3
+Failure to Yield Violation 3
+Failure to Obey Traffic Light 3
+Failure to Obey Stop Sign 3
+Hazardous Driving 3
+Driving Left of Center 3
+OFFENSES POINT
+VALUES
+Driving Too Fast for Conditions 3
+Failure to Maintain Control  of Vehicle 3
+Careless / Hazardous Driving 3
+Driving the Wrong Way on a One Way Street 3
+Littering 3
+Improper Lane Violation 3
+Failure to Observe a Safety Zone 3
+Failure to Follow a Police Officer’s Instructions 3
+Driving on the Wrong Side of the Road 3
+Following Too Closely 2
+More than 3 Passengers in the Front Seat 2
+Improper Turning 2
+Improper Backing 2
+Improper Signal or No Signal 2
+All Other Moving Violations Not Listed Above 2
+POINT SCALE
 <<<PAGE 31>>>
+21
 CHAPTER III
 DRIVING IMPAIRED OR UNDER THE INFLUENCE
 Alcohol mixed with driving is one of the greatest factors in highway crashes.  Studies show that in
 recent years about 28% of the fatal crashes in West Virginia involved drivers who had been driving under
 the influence of alcohol.  Adults are not the only drivers responsible for this terrible toll; drivers under 21
 years of age are involved in alcohol related fatal crashes as well.  Here are some points to remember:
+DO NOT DRINK AND DRIVE!
 t Alcohol reduces alertness, interferes with judgment, and impairs
 vision.
 t Alcohol affects a person differently at different times.  Physical and
@@ -1271,7 +1316,6 @@ t The amount of alcohol in a one-ounce shot of 100-proof whiskey,
 six-ounce glass of wine, or a 12-ounce can of beer is the same.
 t Our judgment is affected when we drink; thus  decisions made under
 the influence of alcohol reflect impeded judgment.
-DO NOT DRINK AND DRIVE!
 Under Age Drinking and Driving
 The legal drinking age in West Virginia is 21 years old.  West Virginia has a zero tolerance law for drivers
 under the age of 21 who unwisely and illegally choose to drive with any measurable alcohol in their system.
@@ -1284,7 +1328,6 @@ The designated driver is a selected or volunteer companion who will not drink al
 time they have the responsibility for driving their friend(s) home after a drinking situation.  A designated
 driver should always be appointed before the start of any activity involving alcohol.
 Knowing Your Limits
- CHAPTER III
 In West Virginia, a BAC of more than 0.05 percent and less than 0.08 percent is relevant evidence to
 presume that a person is driving while his or her ability to drive is impaired.  If a driver’s BAC is 0.08 percent
 or more, they are presumed to be driving under the influence.  Under West Virginia law, your driver’s license
@@ -1293,8 +1336,9 @@ When a person has more than one (1) drink per hour, the BAC level builds up in h
 example, the BAC level actually continues to increase after the last drink at 11:30 p.m. and several hours
 later, at 4 a.m., the BAC of that person is still above 0.06 percent.  Persons with this level of alcohol in their
 bodies can be arrested for driving under the influence of alcohol (DUI).
-21
+ CHAPTER III
 <<<PAGE 32>>>
+22
 Other Drugs
 Driving while using drugs is very dangerous and has effects like those of drinking.  Using drugs,
 even if prescribed by a physician or bought over the counter, can cause drowsiness, loss of coordination,
@@ -1343,8 +1387,8 @@ $10000 30 Yrs.
 2nd Offense $3000 12 Mo.
 %6* $3000 - 1 Yr. - 1 Year
 3rd or Subsequent Offense $5000* 3 Yrs.
-22
 <<<PAGE 33>>>
+23
 How Does a DUI Affect Your Driving Privileges?
 When a driver has a DUI or DUI-related event, the law requires that a revocation be placed on that
 person’s driving record.  If the event involved alcohol, the driver may be able to participate in the Interlock
@@ -1370,27 +1414,33 @@ If you drive while drowsy, you may become slower to respond to road and traffic
 conditions. You may also struggle to process complex information coming from
 different places at once or become careless when making driving decisions. When
 drowsy, you may have trouble paying attention or actually fall asleep while driving.
-Signs That You are Drowsy While Driving Signs That Another Driver May Be Drowsy
-• Falling asleep at stop lights; • Head nodding or dropping, if driver is visible;
-• Yawning; rubbing eyes; watery eyes; heavy • Drifting out of the travel lane, crossing edge
-eyelids; lines or center lines, hitting the rumble strips;
-• Difficulty remembering the last few miles driven; • Near miss crashes, especially rear end;
-• Missing road signs or exits; • Erratic driving behavior - speeding up/slowing
-down, weaving or drifting in lane;
-• Unplanned lane changes;
-• Rear-ending another vehicle or hitting another
-• Head nodding or dropping;
-vehicle head-on;
-• Driving off the road or hitting the rumble strips.
-• Hitting a stationary object.
 How to Prevent Drowsy Driving
 The best way to reduce drowsiness is to get more sleep. If you are drowsy, don’t drive. Pull over to
 a safe area as soon as you can and take a short nap. As little as 10-20 minutes of sleep can make a big
 difference. If possible, avoid driving during times you feel sleepy. For many people, this is in the early
 morning, during the late afternoon or at night. Let a well-rested person drive. Consider carpooling, using
 public transportation, calling a taxi or asking a family member or friend to drive you.
-23
+Signs That Another Driver May Be Drowsy
+• Head nodding or dropping, if driver is visible;
+• Drifting out of the travel lane, crossing edge
+lines or center lines, hitting the rumble strips;
+• Near miss crashes, especially rear end;
+• Erratic driving behavior - speeding up/slowing
+down, weaving or drifting in lane;
+• Rear-ending another vehicle or hitting another
+vehicle head-on;
+• Hitting a stationary object.
+Signs That You are Drowsy While Driving
+• Falling asleep at stop lights;
+• Yawning; rubbing eyes; watery eyes; heavy
+eyelids;
+• Difficulty remembering the last few miles driven;
+• Missing road signs or exits;
+• Unplanned lane changes;
+• Head nodding or dropping;
+• Driving off the road or hitting the rumble strips.
 <<<PAGE 34>>>
+24
 CHAPTER IV
 EXAMINATION PROCEDURES AND REQUIREMENTS
 A Message From Your Examiners
@@ -1426,7 +1476,6 @@ of vision specialists may be subject to review by the Driver’s License Advisor
 Knowledge Examination
 The knowledge examination has at least 25 questions based on the basic knowledge, traffic rules,
 regulations, signs, and markings found in the  handbook.
- CHAPTER IV
 Automated testing is given at all locations. You must answer 19 out of the 25 questions correctly to
 pass the test.  There is a time limit on the test and any questions not answered in the prescribed time will
 be considered incorrect.
@@ -1436,8 +1485,9 @@ in the audio version, therefore, the same rules apply.  Employees of the DMV are
 you, re-word the information, or provide additional help explaining questions that would not be supplied
 to applicants taking the printed knowledge exam.  Headsets are limited and you may have to wait if you
 are requesting to take the audio test.
-24
+ CHAPTER IV
 <<<PAGE 35>>>
+25
 DUI Awareness Cards
 The DMV requires that all first-time applicants for a driver’s license or motorcycle-only West Virginia
 driver’s license complete a short DUI awareness course given upon passing the road skills test.  The course
@@ -1470,25 +1520,40 @@ t A broken/cracked windshield
 t Holes in the body of the vehicle
 t Broken lenses on the vehicle
 t Any doors and windows that are not operational
-25
 <<<PAGE 36>>>
-TEST COMPONENT CHECK LIST
-x YOU MUST DEMONSTRATE PROPER USE OF x THESE FEATURES MUST BE FULLY FUNCTIONAL
-Headlights High/Low Beams Back-Up Lights
-Windshield Wipers Brake Lights
-Hazard Lights Turn/Directional Signals
-Defroster/Heater Foot Brake
-Parking/ Emergency Brake Parking/Emergency Brake
-Horn Exhaust System
-Turn/Directional Signals Hazard Lights
-Tilt (Steering) Headlights
-Seat Belt Horn
-x ADDITIONAL TEST VEHICLE REQUIREMENTS Safety Glass/Windshield/Windows
+26
+x YOU MUST DEMONSTRATE PROPER USE OF
+Headlights High/Low Beams
+Windshield Wipers
+Hazard Lights
+Defroster/Heater
+Parking/ Emergency Brake
+Horn
+Turn/Directional Signals
+Tilt (Steering)
+Seat Belt
+x ADDITIONAL TEST VEHICLE REQUIREMENTS
+Valid License Plate & Registration Card
+Proof of  Valid Insurance
+Valid Vehicle State Inspection Sticker
+Vehicle MUST be Legally Equipped
+x THESE FEATURES MUST BE FULLY FUNCTIONAL
+Back-Up Lights
+Brake Lights
+Turn/Directional Signals
+Foot Brake
+Parking/Emergency Brake
+Exhaust System
+Hazard Lights
+Headlights
+Horn
+Safety Glass/Windshield/Windows
 (Driver Side Window MUST Be Operational)
-Valid License Plate & Registration Card Tires
-Proof of  Valid Insurance Tail Lights
-Valid Vehicle State Inspection Sticker Registration/License Plate Light
-Vehicle MUST be Legally Equipped Windshield Wipers
+Tires
+Tail Lights
+Registration/License Plate Light
+Windshield Wipers
+TEST COMPONENT CHECK LIST
 Your Driving Examination
 The road test, or driving examination, will not be given until you have passed all other parts of the
 knowledge examination.  The driver applicant must arrive at the testing center in a lawful manner.
@@ -1507,8 +1572,8 @@ should practice and when to return for another examination.
 Retest Information
 Applicants who fail either the knowledge or road skills test may not be tested twice within a period
 of one (1) week, in accordance with §17B-2-6, West Virginia State Code.
-26
 <<<PAGE 37>>>
+27
 How To Prepare For Your Driver’s Test
 Basic Vehicle Control Skills Test
 During the test, you may be tested on a subset of the following Basic Control Skills exercises:
@@ -1538,36 +1603,39 @@ This exercise demonstrates your ability to parallel park a vehicle. This is an e
 is one of the best indicators that you have the basic skills necessary to safely operate a motor vehicle. Basic skills
 needed for this exercise consist of visual skills, judgment of space, use of mirrors, turn signals, steering, braking, and
 acceleration control.
-27
 <<<PAGE 38>>>
+28
 Left Side Parallel Parking Right Side Parallel Parking
-STEP 1 STEP 1
+STEP 1
 STEP 2
+STEP 1
 STEP 2
 Forward Two-Point and Reverse Two-Point Turnabout
 These exercises demonstrate your ability to execute turnabouts.  Basic skills needed for these exercises consist of backing
 skills, visual skills, judgment of space, steering skills, use of mirrors, turn signals, braking, and acceleration control.
 Forward Two-Point Turnabout Reverse Two-Point Turnabout
+STEP 1
+STEP 2
 STEP 3
 STEP 1
-STEP 1
+STEP 2
 STEP 3
-STEP 2
-STEP 2
-Three-point Turnabout Three-Point Turnabout
+Three-point Turnabout
 During your road test you may be asked to drive forward
 to the right side of the three-point turnabout area and stop
 your vehicle.  You may be asked to execute a three-point
 turnabout and then drive forward into the roadway area
 where you started the exercise.  Basic skills needed for this
-STEP 4
 exercise consist of visual skills, judgment of space, use of
-mirrors, turn signals, steering, braking and acceleration STEP 3
+mirrors, turn signals, steering, braking and acceleration
 control.
+Three-Point Turnabout
 STEP 2
+STEP 3
+STEP 4
 STEP 1
-28
 <<<PAGE 39>>>
+29
 Automatic Failures
 t Accumulating excessive points
 t Hitting, tapping, or moving a cone, barrel, or flag
@@ -1608,8 +1676,8 @@ t Once through the intersection - Continue checking mirrors and traffic behind y
 smoothly.  If there are multiple lanes of traffic, accelerate to the speed of  traffic, use your turn
 signal, check your blind spots by looking over your shoulder (head check), check your mirrors and
 move into the right-most lane when it is safe to do so (if not already there)
-29
 <<<PAGE 40>>>
+30
 Urban Area Driving
 During this part of the test, you are expected to make regular traffic checks, check cross traffic, and
 maintain a safe following distance.  Your vehicle should be centered in the proper lane ( right-most
@@ -1645,8 +1713,8 @@ t Regular traffic checks/head checks - Check traffic and mirrors regularly.  Che
 before, during, and after an intersection, turn or  lane change.  Also watch for hazards by searching
 left and right at intersections, driveways, store entrances, railroad tracks, or any other areas where traffic
 intersects.
-30
 <<<PAGE 41>>>
+31
 Scan and check traffic in high-volume areas where pedestrians are expected to be present.  Check
 traffic by looking over your shoulder (head check) when necessary (i.e. lane change, merging).
 Use turn signals when required.  Activate turn signals at appropriate times.  Do not signal too early
@@ -1672,8 +1740,8 @@ t  If you fail to wear your glasses if required
 t  If you refuse to perform any maneuver which is part of the road test
 t  If, after proceeding a short distance on the driving course, it becomes apparent you are dangerously inexperienced
 t  If you fail to follow any traffic control device or lawful direction by driver examiner
-31
 <<<PAGE 42>>>
+32
 DMV-DT-1
 REV 7/2014
 Driver Information                                                                                                   Driver Skills Test (Class E)
@@ -1698,29 +1766,51 @@ seats & safety belts……………………………… heater/defroster……�
 parking brake (location & application only)………… " "
   "
                                                Equipment Failure   Applicant Failure "
-" " "
+"
 NOTES:
+" "
 " " "
 BASIC CONTROL SKILLS TEST
 *If equipped, hands-free parking device must be deactivated
 Parallel Parking 1st Attempt 2nd Attempt 3rd Attempt SCORE
-turn signals                                               1    2            1    2            1    2
+turn signals
+head/traffic check(s)
+taps curb
+climbs curb
+hits standard
+solely relies on camera
+other (see notes)
+          1    2
+          1    2
+          1    2
+          2    4
+          Fail
+          Fail
+          Fail
+          1    2
+          1    2
+          1    2
+          2    4
+          Fail
+          Fail
+          Fail
+          1    2
+          1    2
+          1    2
+          2    4
+          Fail
+          Fail
+          Fail
 1st Att.
-head/traffic check(s)           1    2               1    2               1    2
-taps curb           1    2           1    2             1    2
 2nd Att.
-climbs curb           2    4            2    4             2    4
-hits standard           Fail              Fail              Fail
-solely relies on camera           Fail            Fail            Fail
 3rd Att.
-other (see notes)           Fail             Fail             Fail
 outside 18” curb line (after 3 att.)         Fail                 TOTAL
 PASS = 4 pts. or less
 *Assess the highest points circled in each row for each attempt
 (all attempts combined)
 NOTES:
-32
 <<<PAGE 43>>>
+33
 ROAD TEST SCORE FORM
 GENERAL DRIVING TURNS INTERSECTIONS
 (Urban & Rural Roadways) (Non-Turning)
@@ -1769,8 +1859,8 @@ SCORE:
 TOTAL DRIVING SKILLS
  SCORE:
 *Wait until safely back at test center before discussing test results
-33
 <<<PAGE 44>>>
+34
 CHAPTER V
 TRAFFIC CONTROL DEVICES
 The shape and color of signs have meaning.  If fading light, fog, rain, snow, or darkness make it
@@ -1795,80 +1885,134 @@ This sign warns of a school zone (school grounds and any street/highway abutting
 school  grounds  and  extending  125  feet  along  the  street  or  highway  from  the  school
 grounds) ahead or marks a school zone crossing.  The maximum speed limit in a school
 zone is 15 m.p.h. when children are present or when specifi ed.
- CHAPTER V
 Triangle
 (right side up)
 A right side up triangular sign with a refl ective red border and fl uorescent orange center
 identifi es a slow moving vehicle or a vehicle which has made an emergency stop.
-34
+ CHAPTER V
 <<<PAGE 45>>>
+35
 Square & Rectangular Signs
 These signs show traffi  c regulations and guide your speed and direction. These signs tell you about
 speed limits and other traffi  c laws. Most signs are white with black letters. When the message is very
 important, the sign is red with white letters. A red outline with a diagonal bar through it always means
 “NO.”
-School Zones Business & Residential Open County Highway Interstate
-Speed Limit - These signs show the fastest speed you may drive under Lane Directions - These signs are
-optimal weather and road conditions. Sometimes the minimum speed posted between highway lanes that are
-is also shown.  Advisory speed signs can be found at interstate entrances divided and placed at openings in the
-and exit ramps which show the maximum recommended safe speed for dividers where streets intersect with the
-driving on the ramp.  These advisory signs are black on yellow. highway.  They are to remind you which
+No U-Turn Sign -
+This sign means do
+not  turn  around  in
+the middle of a street
+or an intersection.
+No Right Turn?& No Left Turn - This
+sign indicates which direction you cannot
+turn at an intersection.  These signs are
+used when meeting a one way street or
+in situations where it is unsafe to turn.
+Wrong Way or Do Not Enter - These signs
+warn  you  that  traffic  in  that  direction  is
+prohibited.  If you choose a traffi  c lane marked
+with either of these signs you will likely run
+into another vehicle.
+Dual  Turn Lane - This  sign  is
+posted over a highway lane that
+is used only for making left turns
+from either direction.  Traffi  c from
+either direction will be using this
+lane. Never use a turning lane to
+overtake and pass other vehicles.
+Lane Directions - These signs are
+posted between highway lanes that are
+divided and placed at openings in the
+dividers where streets intersect with the
+highway.  They are to remind you which
 side of the divider you belong on.
-No Right Turn?& No Left Turn - This No U-Turn Sign - Wrong Way or Do Not Enter - These signs
-sign indicates which direction you cannot This sign means do warn  you  that  traffic  in  that  direction  is
-turn at an intersection.  These signs are not  turn  around  in prohibited.  If you choose a traffi  c lane marked
-used when meeting a one way street or the middle of a street with either of these signs you will likely run
-in situations where it is unsafe to turn. or an intersection. into another vehicle.
-Dual  Turn Lane - This  sign  is One  Way  Street -  This  sign  is
-posted over a highway lane that used to tell you when a cross
-is used only for making left turns street  has  traffi  c  running  in  one
-from either direction.  Traffi  c from direction only. Usually every
-either direction will be using this consecutive block runs in the
-lane. Never use a turning lane to opposite direction when there are
-overtake and pass other vehicles. one-way streets.
-35
+One  Way  Street -  This  sign  is
+used to tell you when a cross
+street  has  traffi  c  running  in  one
+direction only. Usually every
+consecutive block runs in the
+opposite direction when there are
+one-way streets.
+Speed Limit - These signs show the fastest speed you may drive under
+optimal weather and road conditions. Sometimes the minimum speed
+is also shown.  Advisory speed signs can be found at interstate entrances
+and exit ramps which show the maximum recommended safe speed for
+driving on the ramp.  These advisory signs are black on yellow.
+School Zones Business & Residential Open County Highway Interstate
 <<<PAGE 46>>>
+36
 Diamond & Warning Signs
 These  diamond-shaped signs will usually appear without  explanatory words beneath them.  These
 signs are yellow with black letters.  They warn of possible danger ahead and may have symbols or written
 warnings.  Pedestrian and school warning signs may be yellow-green with black letters.
 Curve or sharp turn in the road ahead  - The curve is too
-Crossroads or side roads ahead -
 sharp to take at the regular highway speed.  An advisory speed
-Watch for other vehicles entering or
 sign may be attached.
+Crossroads or side roads ahead -
+Watch for other vehicles entering or
 leaving the highway.
-Traffi  c  may  be  moving  into Used  to  indicate  that  you  are
-your lane. Be ready to change on a two-way road.
-your  speed  or  your  lane  to
-avoid a crash.
 To  warn  you  that  a  lane  will
-The road ahead has two-way
 be  ending; in this case, the
-traffi  c.
 right lane.  The symbol would
 be  reversed  if  the  left  lane  is
 ending.
-Warns you of hills where special
 This sign is to advise you of an
-care must be taken.  Slow down
 added lane.
+Traffi  c  may  be  moving  into
+your lane. Be ready to change
+your  speed  or  your  lane  to
+avoid a crash.
+Used  to  indicate  that  you  are
+on a two-way road.
+The road ahead has two-way
+traffi  c.
+Warns you of hills where special
+care must be taken.  Slow down
 before you start downhill.
-Ahead a bridge or underpass This section of highway is more
-has low clearance. The  height slippery than other roads when
-is shown on the sign. wet. Reduce your speed.
-This sign warns you that there This sign warns you that there
-is  a  crosswalk  or  pedestrian is a Traffi  c signal ahead.
+Ahead a bridge or underpass
+has low clearance. The  height
+is shown on the sign.
+This section of highway is more
+slippery than other roads when
+wet. Reduce your speed.
+This sign warns you that there
+is  a  crosswalk  or  pedestrian
 path crossing the road. Watch
 out  for,  and  yield  to  people
 walking across the road.
-36
+This sign warns you that there
+is a Traffi  c signal ahead.
 <<<PAGE 47>>>
+37
 Construction and Maintenance Signs
 Construction and maintenance signs are used to notify
 drivers of unusual or potentially dangerous conditions in
 or near work areas. Most signs in work areas are diamond-
 shaped.  A few signs are rectangular.
+Channeling Devices
+Barricades, vertical panels, drums, cones, and tubes are
+the most commonly used devices to alert drivers of unusual or
+potentially dangerous conditions in highway and street work
+areas and to guide drivers safely through the work zone.  At
+night they are often equipped with fl ashing or steady-burn
+lights.
+Flashing Arrow Panels
+Large fl ashing or sequencing arrow panels may be used
+in work zones both day and night to guide drivers into certain
+traffi  c lanes and to inform them that part of the road or street
+ahead of them is closed.
+*The diagonal stripes on the barricade or vertical panel
+guide the driver towards the direction to which traffi  c
+is to pass. Stripes sloping downward to the right
+mean the driver should bear to the right. Conversely,
+stripes sloping downward to the left mean bear to
+the left.
+Flaggers
+Flaggers are often provided in highway and street work zones to stop, slow, or guide traffi  c safely through
+the area.  Flaggers wear orange vests, shirts, or jackets and use red-orange fl ags or stop/slow paddles to direct
+traffi  c through work zones.
+SLOWLY
+STOP
+Proceed
 Construction and Maintenance Signs and Devices
 Various traffi  c control devices are used in construction and
 maintenance work areas to direct drivers or pedestrians safely
@@ -1877,43 +2021,26 @@ highway workers.
 The most commonly used traffi  c control devices are signs,
 barricades, drums, cones, tubes, fl ashing arrow panels, and
 fl aggers.  Orange is the basic color for these devices.
-Channeling Devices
-Barricades, vertical panels, drums, cones, and tubes are
-*The diagonal stripes on the barricade or vertical panel
-the most commonly used devices to alert drivers of unusual or
-guide the driver towards the direction to which traffi  c
-potentially dangerous conditions in highway and street work
-is to pass. Stripes sloping downward to the right
-areas and to guide drivers safely through the work zone.  At
-mean the driver should bear to the right. Conversely,
-night they are often equipped with fl ashing or steady-burn
-lights. stripes sloping downward to the left mean bear to
-the left.
-Flashing Arrow Panels
-Large fl ashing or sequencing arrow panels may be used
-in work zones both day and night to guide drivers into certain
-traffi  c lanes and to inform them that part of the road or street
-ahead of them is closed.
-SLOWLY
-STOP
-Proceed
-Flaggers
-Flaggers are often provided in highway and street work zones to stop, slow, or guide traffi  c safely through
-the area.  Flaggers wear orange vests, shirts, or jackets and use red-orange fl ags or stop/slow paddles to direct
-traffi  c through work zones.
-37
 <<<PAGE 48>>>
+38
+Not all the signs you will see are in this handbook; however, most signs are self-explanatory.  The
+warning signs on page 36 are amongst the signs you typically see without identifying text; instead they
+often have pictures.
+The shapes and colors of signs are a very helpful indicator as to what they are trying to tell you.  Take
+notice the next time you are a passenger in a vehicle to all of the signs you see and what they are for.  Being
+an observant passenger can help you to become a better driver.
 Guide Signs
 These signs tell you WHERE you are, WHAT road you are on, and HOW to get where you want to go. There
 are many diff erent types of guide signs, such as service signs, location signs, route marker information, and
 distance signs. Most guide signs are white on green. Motorist services signs are white on blue.   Signs for
 parks and public recreation areas are white on brown.
-Used on main highways, these signs show distance to places and routes. Found in front of intersections, These signs are found on
-these signs show the direction interstates and show you
-to cities. where the exit is, as well
+Found in front of intersections,
+these signs show the direction
+to cities.
+These signs are found on
+interstates and show you
+where the exit is, as well
 as the exit number.
-WV & U.S. Route Markers - Are generally black on white.
-Interstate markers -  Are red, white, and blue..
 Pictured on the right is an
 example of an interstate
 sign that you may fi nd
@@ -1923,22 +2050,23 @@ the exit number they may
 show the road, location,
 attraction, or upcoming
 routes and the distance
-Interstate Marker U.S. Route Marker WV Route Marker from the exit.
-These signs let you know what  These signs are for
-amenities are available off designated places Some guide signs have symbols on top
-This large park and recreation sign is an
- interstate exits . for travelers to take with a description and/or arrow below.
-sample of one you may see.
+from the exit.
+Used on main highways, these signs show distance to places and routes.
+These signs let you know what
+amenities are available off
+ interstate exits .
+ These signs are for
+designated places
+for travelers to take
 a break from driving.
+Some guide signs have symbols on top This large park and recreation sign is an
+with a description and/or arrow below. sample of one you may see.
+WV & U.S. Route Markers - Are generally black on white.
+Interstate markers -  Are red, white, and blue..
+Interstate Marker U.S. Route Marker WV Route Marker
 BE PREPARED: KNOW YOUR SIGNS
-Not all the signs you will see are in this handbook; however, most signs are self-explanatory.  The
-warning signs on page 36 are amongst the signs you typically see without identifying text; instead they
-often have pictures.
-The shapes and colors of signs are a very helpful indicator as to what they are trying to tell you.  Take
-notice the next time you are a passenger in a vehicle to all of the signs you see and what they are for.  Being
-an observant passenger can help you to become a better driver.
-38
 <<<PAGE 49>>>
+39
 Railroad Crossing Signs and Signals
 Railroad crossing signs can be round or diamond shaped, yellow with black
 symbols, or  black letters on white bars in the shape of an X called a crossbuck.
@@ -1973,34 +2101,42 @@ signs are posted to prohibit them.
 Steady Red Arrow/ LEFT TURN -?Come to a complete stop before reaching the intersection,
 stop line or cross walk for the direction indicated by the arrow.  Remain stopped as long as the
 signal is red.
-39
 <<<PAGE 50>>>
+40
 Intersection Flashers
 At certain intersections, fl ashers are installed to supplement or replace STOP signs.
 These fl ashers may have circular fl ashing red indications in all directions or may have circular
 fl ashing yellow indications for through traffi  c.
-Come to a complete
-stop and yield to
 Drivers facing a circular fl ashing yellow light may proceed through the intersection
-all other traffi  c and
 with caution. A circular fl ashing red is the same as a stop sign; that is, drivers must come to
-QFEFTUSJBOT
 a complete stop and yield to all other traffi  c and pedestrians.
 When traffi  c control signals are not needed or are out of order, they may be placed in
 fl ashing operations. When this happens, they are the same as intersection fl ashers.
 Lane Use Control Signals
+Crosswalk Signals
+Yellow X: The  lane is
+about to  be closed or
+its  direction is  about
+to reverse.  Move  out
+of it as  soon as  you
+can.
+Green Downward
+Arrow: Traffi  c may
+use the lane under
+the arrow.
+Red X: The lane is
+closed or being used
+by opposing traffic.
+Do not use this lane.
  Proceed through the
 intersection with
 caution
+Come to a complete
+stop and yield to
+all other traffi  c and
+QFEFTUSJBOT
 Special signals are used to control traffi  c when the direction of a street or certain lane changes during
 the day.  These signals indicate how the specifi c lanes may be used.
-Green Downward Yellow X: The  lane is Red X: The lane is
-Arrow: Traffi  c may about to  be closed or closed or being used
-use the lane under its  direction is  about by opposing traffic.
-the arrow. to reverse.  Move  out Do not use this lane.
-of it as  soon as  you
-can.
-Crosswalk Signals
 Crosswalk signals are traffi  c signals for pedestrians.  If these signals are in place,
 pedestrians are to obey them.  These lighted signs are often shown two (2) ways:
 Hand Symbol or DON'T WALK- when these appear pedestrians are not to cross the
@@ -2013,15 +2149,13 @@ in these places will reduce the risk of crashes.  A blind person who is on foot 
 using a guide dog or other service animal, or is carrying a white cane or walking
 stick, has the right-of-way on a highway, street, or road regardless of whether they
 are in a crosswalk or not.
-40
 <<<PAGE 51>>>
+41
 Pavement Markings
-A
 Pavement markings are used like highway signs to warn, regulate,
 and inform traffic.
 WHITE lines separate traffic lanes moving in the SAME direction.
 YELLOW lines separate traffic lanes moving in the OPPOSITE direction.
-B
 Broken Yellow - Broken yellow lines separate traffic moving in opposite
 directions.  If this marking is on your side of the road, you may pass when
 it is safe. See Figure A.
@@ -2029,7 +2163,6 @@ Solid Yellow - Solid yellow lines also separate traffic moving in opposite
 directions.  If a solid yellow line is on your side of the road, you MUST NOT
 PASS. On interstates, one-way streets, or divided four-lane roads, a solid
 yellow line will mark the left edge of the pavement. ree?figure?aM
-C
 Broken White - On roadways which have more than one (1) lane moving in
 one direction, traffic lanes are separated by broken white lines.  Broken black
 lines are sometimes added to make the white easier to see.  Drive within
@@ -2038,7 +2171,6 @@ Solid White - Solid white lines mark the edge of the pavement.  At night
 or in bad weather, they help you stay on the road.  When solid white lines
 separate lanes of traffic moving in the same direction, DO NOT CHANGE
 LANES. See figure E.
-D
 Special Purpose or iDiamondw Lanes -  White diamond shapes painted
 in the roadway to inform drivers the lane is designated for car pools, bicycles,
 or buses.
@@ -2046,7 +2178,6 @@ Center Left-Turn Lanes - These lanes are reserved for left turns from
 either direction and are not to be used as through or passing lanes. You can
 recognize these lanes by the solid yellow lines nearest the through lanes
 and broken lines to the left of them. See figure D.
-E
 Reversible Lanes - Where traffic volumes are heavy at certain times of the
 day, it may be necessary to reverse the traffic flow direction.  Lanes which
 reverse are marked on both sides by a double yellow broken line.  This is the
@@ -2056,14 +2187,19 @@ lines. Some crosswalks, especially in residential areas, are not marked.  When
 these lines are used, they will run all the way across the pavement.  You will
 notice them at intersections and sometimes between intersections.  DO NOT
 block a crosswalk with your car. ree?figure?eM
-F
 Stop Lines - Wide white lines, painted across traffic lanes, mark where you
 must stop your vehicle at intersections.  This keeps you out of the way of
 pedestrians and cross traffic.  If there are no stop lines or crosswalks, you
 must stop your vehicle before you enter the intersections.  You should be
 able to see traffic coming from all directions. ree?figure?eM
-41
+A
+B
+C
+D
+E
+F
 <<<PAGE 52>>>
+42
 CHAPTER VI
 TRAFFIC LAWS AND RULES OF THE ROAD
 Basic Speed Law
@@ -2071,6 +2207,7 @@ When you exceed the speed limit, you endanger the lives of others as well as you
 limits and adjust your speed to the driving conditions.
 To ensure your safety, and the safety of others, you should slow down when you are faced with these
 driving situations:
+ CHAPTER VI
 t Approaching and crossing an intersection
 t Approaching and going around a curve
 t Approaching the top of a hill
@@ -2092,14 +2229,14 @@ prudent for the conditions, are:
 • Business or Residential Areas - 25mph
 • School Zone (while children are present along the roadway) - 15mph
 A school zone is all school property, including school grounds, and/or any street or highway abutting
-the school grounds and extending 125 feet along the street or highway from the school grounds. CHAPTER VI
+the school grounds and extending 125 feet along the street or highway from the school grounds.
 Authorized emergency vehicles may exceed the posted speed limits when on emergency duty with
 emergency signal equipment operating, as long as other road users are not endangered.
 SIMPLE SAFETY RULE:
 Observe and follow speed limits and always drive at speeds that are
 reasonable and prudent for the existing conditions.
-42
 <<<PAGE 53>>>
+43
 Driving Slowly
 When you drive at less than the normal speed of traffi  c, you should drive as close as possible to the
 right edge of the road.
@@ -2112,11 +2249,9 @@ let them know that you intend to turn or change lanes.  Give other drivers time 
 Use your turn signal before you:
 t Change lanes.
 t Turn at an intersection.
-SLOW or STOP RIGHT TURN LEFT TURN
 t Enter or leave an interstate.
 t Pull away from the curb.
 t Pull over to the side of the road.
-ARM POINTING DOWN ARM POINTING UP ARM STRAIGHT OUT
 Get into the habit of signaling every time you make a change.  Signal at least 100 feet before you plan to turn.
 Switch off  your turn signals after completing the turn.  Driving with turn signals on without intending
 to turn can create confusion.
@@ -2124,7 +2259,7 @@ If you plan to turn beyond an intersection, do not confuse other drivers by sign
 may think you are turning at the intersection and pull into your path.  But if you signal too late, the drivers
 behind you may not have enough time to react safely.  In these situations, know traffi  c conditions and
 use your best judgement.
-SIMPLE SAFETY RULE
+SLOW or STOP RIGHT TURN LEFT TURN
 It is best to have both hands on the steering wheel.
 Consider the steering wheel as the face of a clock.  The
 left hand should be placed approximately at 8 o’clock
@@ -2132,8 +2267,10 @@ and the right hand at 4 o’clock.  This placement will
 aff ord the driver maximum control of the vehicle at all
 times and reduce the chance that a deploying air bag
 will knock your hands off  the steering wheel.
-43
+SIMPLE SAFETY RULE
+ARM POINTING DOWN ARM POINTING UP ARM STRAIGHT OUT
 <<<PAGE 54>>>
+44
 Turning Maneuvers
 Improper turns cause many traffi  c crashes.  Pedestrians and bicyclists are often victims of improper
 turns by vehicle operators. It is important that you learn and abide by correct turning procedures.
@@ -2148,9 +2285,7 @@ vehicle and watch for pedestrians.
 t Always fi nish turning in the proper lane.
 t When turning left, watch for approaching traffi  c in the opposite lane.
 If traffi  c is about to reach the intersection at approximately the same
-ONE WAY TO
 time, stop until it is safe for you to turn.
-ONE WAY
 t When waiting to turn left, do not turn the wheels to the left.  Otherwise,
 a bump from behind could push your vehicle into oncoming traffi  c.
 t If an intersection has no signs prohibiting a turn on red, traffi  c facing
@@ -2159,8 +2294,10 @@ The same  rule applies to left turns from a one-way street to a one-way street.
 ONE WAY TO TWO WAY TO
 LEFT TURN RIGHT TURN
 TWO WAY ONE WAY
-44
+ONE WAY TO
+ONE WAY
 <<<PAGE 55>>>
+45
 Changing Direction
 Sometimes it is necessary to turn your vehicle around to proceed in the opposite direction.  However,
 it is against the law to turn your vehicle around near a curve, near the crest of a hill where you cannot
@@ -2194,8 +2331,8 @@ t Within 20 feet of a crosswalk at an intersection
 t Within 30 feet of any stop sign or traffi  c control signal
 t In front of a wheelchair ramp or curb cut
 t Within 50 feet of the nearest rail of a railroad crossing
-45
 <<<PAGE 56>>>
+46
 t  Beside or opposite any street excavation or obstruction where stopping, standing or parking would obstruct traffic
 t On the traffic side of any vehicle stopped or parked at the edge or curb of the street (double parking)
 t Upon any bridge or other elevated structure or in a highway tunnel
@@ -2230,8 +2367,8 @@ for safety.  If you need to remain in your vehicle for any reason
 while you are parked in a busy area be sure to keep your doors
 locked until you are ready to exit your vehicle and always be
 alert to your surroundings.
-46
 <<<PAGE 57>>>
+47
 Parallel Parking (§17C-13-4, W. Va. State Code)
 When you parallel park on a two-way street, park so the right-
 hand wheels are parallel to and within 18 inches of the right curb.
@@ -2267,8 +2404,8 @@ thousand three,” you are driving too closely.
 Defensive Driving:  Snow and Sleet for more information concerning appropriate following distances.
  You should also refer to Chapter VI – Defensive Driving: Light Conditions and Rain concerning headlight
 usage and the term “over driving your headlights.”
-47
 <<<PAGE 58>>>
+48
 Changing Lanes
 Proper lane changing rules are:
 t  Check in your rear view and side mirrors.
@@ -2296,8 +2433,8 @@ t  Your vehicle is capable of the speed necessary to pass.
 Passing is PROHIBITED in the following places:
 t  On a curve or hill or at any place where you cannot see oncoming traffic.
 t  Within 100 feet of an intersection.
-48
 <<<PAGE 59>>>
+49
 t  Within 100 feet of a bridge, viaduct, tunnel, or underpass.
 t  Within 100 feet of any railroad crossing.
 t  When an approaching vehicle is within your passing area.
@@ -2330,8 +2467,8 @@ t  Parallel Parking -Provide ample space to the driver in front of you who is pa
 SIMPLE SAFETY RULE:
 DON’T RUSH. Stop and give time to those who
 have the right-of-way.
-49
 <<<PAGE 60>>>
+50
 Sharing the Road with Pedestrians
 Vehicle-pedestrian collisions account for nearly 20% of traffic  fatalities. Drivers must use extreme care
 to avoid colliding with a pedestrian, especially in areas where special hazards exist, such as school zones,
@@ -2367,8 +2504,8 @@ and a minimum fine of $500 or confinement in jail for not more than six (6) mont
 Subsequent offenses have increased penalties. If the identity of the driver of a vehicle that passes a
 stopped school bus cannot be ascertained, the owner or lessee of the vehicle in violation is guilty of a
 misdemeanor and, upon conviction, subject to fines.
-50
 <<<PAGE 61>>>
+51
 Tailgating
 If a check of your rear view mirror shows another vehicle following too closely, you should take the
 following steps to deal with the tailgater:
@@ -2404,8 +2541,8 @@ will need the entire lane to maneuver around possible hazards and traffic situat
 safe minimum three -to-four second following distance.  Increase the distance time at night and under
 adverse weather conditions.  Remember that motorcyclists will almost certainly be badly hurt or killed
 if they are in a crash.  The following hints may help you save a life.
-51
 <<<PAGE 62>>>
+52
 Intersections - When you are waiting at a corner, it can be very hard to see a motorcycle coming.   Motorcycles can
 be hidden by many things such as parked vehicles and trees. In addition, you are normally looking for vehicles
 and trucks, not something small like a motorcycle.  For these reasons, check carefully as you leave the corner and keep
@@ -2446,9 +2583,25 @@ The easiest way to avoid lingering in the “No-Zone” is to look for the truck
 driver’s reflection in the side mirror. If you cannot see the driver’s reflection, you
 are in the truck driver’s blind spot. The “No-Zone” includes the following denoted
 areas shown in the diagram on the right.
-52
 <<<PAGE 63>>>
-TRUCK SAFETY
+53
+Sharing the Road with Animal Riders
+Animal riders may use most public highways, but they may not use interstate highways.  Persons
+riding animals have the same rights as  motor vehicle users and are subject to the same rules.  Drivers
+approaching any horse shall take every precaution to prevent frightening the horse to ensure the safety
+of the rider.  Never sound your horn when approaching or near a horse, as this may frighten the horse and
+cause a crash.
+Sharing the Road with Bicycles
+Because of the great increase in the number of bicycles on the road,  drivers must be extra alert for
+bicycles at all times.
+When passing a bicyclist, slow down, make sure they are aware of you, and leave plenty of room
+between him or her and your vehicle.  If there is no room to pass and traffic is approaching, wait until
+traffic has gone by before passing.
+When meeting an oncoming bicyclist at night, always dim your lights.  Extra care is needed during the
+morning and afternoon when bicyclists are traveling between home, work, school, or play.
+Bicyclists are expected to know and obey all traffic laws and regulations.  However, whether the bicyclist
+is operating lawfully or not, always give him or her the benefit of the doubt.
+Bicycles are small and lightweight and almost any type of collision will result in injury or death of the rider.
 Safety DOT
 Recognize and respect the differences between trucks and vehicles.
 Share the road safely.
@@ -2468,25 +2621,9 @@ Never slam on your brakes in front of a truck.
 Never cut off a truck in traffic or on the highway to reach your exit or turn.
 Never tailgate a truck.
 Never pass a truck on the right during a turn.
-Sharing the Road with Animal Riders
-Animal riders may use most public highways, but they may not use interstate highways.  Persons
-riding animals have the same rights as  motor vehicle users and are subject to the same rules.  Drivers
-approaching any horse shall take every precaution to prevent frightening the horse to ensure the safety
-of the rider.  Never sound your horn when approaching or near a horse, as this may frighten the horse and
-cause a crash.
-Sharing the Road with Bicycles
-Because of the great increase in the number of bicycles on the road,  drivers must be extra alert for
-bicycles at all times.
-When passing a bicyclist, slow down, make sure they are aware of you, and leave plenty of room
-between him or her and your vehicle.  If there is no room to pass and traffic is approaching, wait until
-traffic has gone by before passing.
-When meeting an oncoming bicyclist at night, always dim your lights.  Extra care is needed during the
-morning and afternoon when bicyclists are traveling between home, work, school, or play.
-Bicyclists are expected to know and obey all traffic laws and regulations.  However, whether the bicyclist
-is operating lawfully or not, always give him or her the benefit of the doubt.
-Bicycles are small and lightweight and almost any type of collision will result in injury or death of the rider.
-53
+TRUCK SAFETY
 <<<PAGE 64>>>
+54
 Bicyclists must:
 t Signal turns and stops unless both hands are required on the handlebars for balance.
 t If riding side by side, keep within a single lane and not hold up traffic.
@@ -2515,8 +2652,8 @@ Sharing the Road with Public Buses
 While traffic does not have to stop for a public bus, please watch for passengers crossing the street as
 they are getting on and off the bus.  Always be on the lookout for children who may not remember this
 rule.  Use caution when passing a bus loading or unloading passengers.
-54
 <<<PAGE 65>>>
+55
 Parking for the Mobility Impaired
 West Virginia law provides for designated parking spaces for mobility impaired citizens.  These areas
 are reserved for those having a condition which limits their ability to walk reasonable distances.
@@ -2559,8 +2696,8 @@ would fundamentally alter the nature of its programs or services, or impose an u
 administrative burden.
 The West Virginia Division of Motor Vehicles will not place a surcharge on a particular
 individual with a disability or any group of individuals with disabilities to cover the cost
-55
 <<<PAGE 66>>>
+56
 of  providing auxiliary aids/services or reasonable modifications of policy, such as retrieving
 items from locations that are open to the public but are not accessible to persons who use
 wheelchairs.  If you have any questions or concerns, contact the WV DMV ADA coordinator at:
@@ -2568,8 +2705,8 @@ WV DMV ADA Coordinator
 PO Box 17300
 Charleston, WV 25317
 Visit transportation.wv.gov/DMV/Pages/ADA-Info.aspx
-56
 <<<PAGE 67>>>
+57
 CHAPTER VII
 DRIVING ON INTERSTATES
 Interstate and divided highways have largely removed the chance of head-on collisions, but driving
@@ -2598,13 +2735,14 @@ It is sometimes necessary to change the number of through lanes on an interstate
 clear where a lane is added.  Where the lane is removed, the change usually occurs at a fork or an exit.
 This is usually indicated by a black and yellow panel below the green and white overhead guide sign.
 Entering an Interstate
-CHAPTER VII Traffic enters or exits an interstate at interchanges.  An interchange is the intersection of two (2)
+Traffic enters or exits an interstate at interchanges.  An interchange is the intersection of two (2)
 highways at different levels (over and under) with separate connecting roads for transferring traffic from
 one highway to the other.
 This design feature enables vehicles to cross, enter, or leave either road without interfering with other
 vehicles.  Three (3) of the most common types of interchanges are cloverleaf, diamond, and trumpet.
-57
+CHAPTER VII
 <<<PAGE 68>>>
+58
 You enter an interstate by using an entrance ramp.  Make sure you pay careful attention to
 the signs.  Often, an exit ramp will be next to the entrance ramp, marked with “Do Not Enter”
 and “Wrong Way” signs.  Look for any advisory speed limit signs on the ramp.  These are used
@@ -2625,8 +2763,8 @@ of the acceleration lane and stop.  Because entering the traffi  c stream from a
 use this maneuver as a last resort.
 t Remember that traffi  c on the interstate has the right-of-way.  You cannot always count on other
 drivers seeing you or moving over to give you room to enter.
-58
 <<<PAGE 69>>>
+59
 Exiting an Interstate
 Watch for signs telling you where to fi nd the exit you want and the lane you must use.  Signal and
 move into the lane well before you have to exit.  Changing lanes at the last moment risks missing your
@@ -2653,8 +2791,8 @@ Adverse Conditions
 In accordance with §17C-15-2 of the West Virginia State Code, headlights must be turned on during
 adverse conditions.  Adjust your driving when you encounter adverse conditions.  It is especially important
 to maintain an  adequate following distance and adjust your speed to ensure the possibility of a safe stop.
-59
 <<<PAGE 70>>>
+60
 You should be particularly alert for stopped vehicles.  If your vehicle  becomes disabled, move as far off
 the road as possible, turn on your four-way flashers to indicate your vehicle is stopped, and get everyone
 out of the vehicle and well away from the road.
@@ -2689,8 +2827,8 @@ hard at work maintaining roads or building new
 structures and are counting on you to help keep
 them safe by being a cautious and courteous
 driver.
-60
 <<<PAGE 71>>>
+61
 CHAPTER VIII
 DEFENSIVE DRIVING
 Defensive driving means being prepared through the practice of good driving habits.  It is just as
@@ -2725,13 +2863,13 @@ of causing a crash.
 Inattention
 As a good driver, you should sit up straight, have a firm grip on the steering wheel, be aware of
 where you are, and pay attention to developing traffic problems.
-CHAPTER VIII
 If you relax, lean back, release your grip on the wheel, and allow your attention to wander, your
 vehicle may also wander.
 You can easily be identified as an inattentive driver if you drive with one (1) arm out the window,
 talk to a passenger, gesture with one (1) hand, or pay little attention to traffic flow.
-61
+CHAPTER VIII
 <<<PAGE 72>>>
+62
 Arrogance and Aggressiveness
 While the impatient driver is simply in a hurry, the arrogant or aggressive driver is purposely in a
 hurry.
@@ -2766,8 +2904,8 @@ at night, slow down, keep to the right of your traffi  c lane, and look well in 
 right edge of the road.  When meeting another vehicle at night, dim your headlight beams within 500
 feet of the other vehicle.  When following  another vehicle, dim your headlights within 200 feet of the
 other vehicle.
-62
 <<<PAGE 73>>>
+63
 Rain
 IT IS THE LAW!  Turn on your headlights to increase your visibility.  Turning on your headlights during
 periods of rain or reduced visibility is the SAFE thing to do.
@@ -2807,8 +2945,8 @@ alert for danger spots.  There may be ice or snow on bridges or overpasses when 
 clear.
 Keep all windows clear of ice and snow.  Keep your windshield wipers and defroster in good working
 condition.  Never start driving until all  windows are clear and completely defrosted.
-63
 <<<PAGE 74>>>
+64
 When you stop or slow down on ice or packed snow, always apply the brakes gently and smoothly.
 In a vehicle equipped with anti-lock brakes, you maintain the ability to steer while braking.  However, in
 a vehicle without anti-lock brakes you cannot steer unless you pump the brakes, applying and releasing
@@ -2842,8 +2980,8 @@ inspection of all vehicles every two years to ensure they are in safe driving co
 Your vehicle must be checked at an inspection station displaying an  official state inspection station
 sign.  When your vehicle passes the state inspection, a sticker showing the month and year for  your
 next inspection is placed on your  windshield.  It is against the law for you to remove this sticker.
-64
 <<<PAGE 75>>>
+65
 It is up to you to keep your vehicle in proper driving condition.  Common vehicle defects that cause
 crashes are faulty tires, brakes, lights, windshield wipers, defrosters, mufflers and exhaust system, horn,
 mirrors, and  unusable seat belts.
@@ -2878,8 +3016,8 @@ game animals, and motorists driving at higher rates of speed.  When driving in u
 intersections, and stop-and-go traffic.
 t Types of Vehicles - A defensive driver is always aware of the number of heavy trucks and buses present in traffic. These vehicles can
 cause problems in passing, and slow traffic on hills and grades.
-65
 <<<PAGE 76>>>
+66
 Traffi  c Situations
 The following traffi  c situations involve positions another vehicle can take in relation to your vehicle
 prior to a crash.
@@ -2905,8 +3043,8 @@ it easier for the other vehicle to pass.
 consideration.  However, passing puts wear and tear on your vehicle, increases fuel consumption, and can
 involve you in a head-on, sideswipe, or run-off -the-road crash.  Exceeding the speed limit when passing is
 illegal.  If you have to speed to pass, you probably do not need to pass.
-66
 <<<PAGE 77>>>
+67
 There are 10 steps to passing another vehicle safely:
 1. Keep a safe following distance.
 2. Check oncoming traffic.
@@ -2943,8 +3081,8 @@ a child is under the age of 8 years and at least 4'-9w tall, a safety belt shall
 requirements of this section.w
 For  more  information  about  child  safety  seats  and  safety  belts,  please  call  the  Governor's
 Highway Safety Program at (304) 926-2509.
-67
 <<<PAGE 78>>>
+68
 Head  Restraints  - ?Head  restraints  are  designed  to  reduce  the  chance  of  whiplash  injury  in
 rear-end collisions.  If adjustable, they should be positioned to fit against the back of your head,
 not your neck.
@@ -2987,8 +3125,8 @@ Next, the child must be properly secured in the safety seat.  Finally, the passe
 pushed all the way back, to maximize the distance between the child and the air bag.
 Again, it is recommended that all children 12 and under should be buckled and placed in the rear
 seat.  Younger children should also be correctly seated in a child safety seat.
-68
 <<<PAGE 79>>>
+69
 8 SIMPLE STEPS TO SAFE AND HAPPY DRIVING
 1. Roll `em up! - Keep your vehicle doors locked and the windows up when driving or when parked.
 2. No free rides! - No matter how innocent or needy they may appear, hitchhikers can mean bad
@@ -3008,8 +3146,8 @@ your vehicle.
 8. Make the call! - In the rare event you feel you are being followed, proceed to a well-lit
 populated area and call the police.  In most areas throughout the United States, the police may
 be called by dialing 9-1-1.
-69
 <<<PAGE 80>>>
+70
 CHAPTER IX
 EMERGENCY SITUATIONS
 What to Check Before Driving
@@ -3046,8 +3184,8 @@ until the vehicle is under control.  Then pull all the way off the road into a s
 If it is impossible to get off the road immediately, you should continue driving slowly with your
 emergency flashers on.  Under-inflated tires are one of the most common causes of blowouts, so be
 sure to check your tires for air often.
-70
 <<<PAGE 81>>>
+71
 Brake Failure
 If your brakes fail:
 t Pump the brake pedal quickly.
@@ -3082,8 +3220,8 @@ t After speed has been reduced, check behind you, as well as ahead for traffic.
 t Turn your wheels sharply onto the pavement.
 t As soon as your wheels hit the edge of the pavement, turn them the other way to keep your vehicle from heading
 across the highway.
-71
 <<<PAGE 82>>>
+72
 Steering Fails
 If you suddenly lose steering control, ease up on the accelerator.  If your vehicle continues to stay
 in your lane on the roadway, wait until it slows down, and then gently apply brakes to avoid changing
@@ -3120,14 +3258,13 @@ Make sure the two (2) vehicles are not touching, then start the vehicle giving t
 it run for a few minutes, start the other vehicle.  Take off the jumper cables in the opposite order and
 replace the vent caps.  If battery acid should get on your skin, eyes, or vehicles, wash off immediately
 with water.
-72
 <<<PAGE 83>>>
+73
 Automobile Emergency Kit & First Aid Kit
 It is always important to be prepared in case of an emergency.  Weather, crashes, and breakdowns
 can all affect whether or not you can continue to drive your vehicle. In a case where you find yourself
 stranded, being prepared can make a world of difference.  Below you will find some suggested items for
 your automobile emergency and first aid kits.
-EMERGENCY PREPAREDNESS
 The Basic Emergency Kit The Basic First Aid Kit
 Battery Powered Radio with Extra Batteries Assorted Safety Pins
 Flashlight with Extra Batteries Triangular Bandages
@@ -3144,6 +3281,7 @@ Maps of the Area Petroleum Jelly or Lubricant
 Compass Mild Soap
 Swiss Army Knife / Multi-tool Peroxide
 Bottled Water Moistened Towellettes
+EMERGENCY PREPAREDNESS
 First Aid
 About two million persons are injured in traffic crashes each year.  Many of these injuries eventually
 result in death because proper first aid was not given.  The following are general rules for giving first aid:
@@ -3155,8 +3293,8 @@ t Try to determine how seriously the victim is injured.  Give first aid in the f
 4. Protect broken bones
 *Keep the victim lying down and comfortable.  Administer first aid if you think a delay in emergency care  could
 result in death or further injury.
-73
 <<<PAGE 84>>>
+74
 Good Samaritan Law
 No one, including those licensed to practice medicine or dentistry, who in good faith gives emergency
 care at the scene of a crash, without pay, is liable for any civil damages as the result of any act or omission
@@ -3185,10 +3323,8 @@ the owner.  If that is not possible, leave a written
 notice containing your name, address, license
 plate number, motor vehicle insurance
 information, and circumstances of the crash.
-74
 <<<PAGE 85>>>
-WEST VIRGINIA COURTESY PATROL
-PROJECT OVERVIEW
+75
 The West Virginia Courtesy Patrol (WVCP), operated by IncidentClear, LLC via the West
 Virginia Division of Highways (WVDOH), provides two (2) equally important benefi ts to the state.
 First, it reduces the number of individuals on welfare in the state of West Virginia. This is done
@@ -3211,10 +3347,10 @@ Patrol logos and a fl ashing orange bar light on top of the vehicle.
 t The drivers have identifi cation badges and wear a refl ective orange or green vest with their blue and gold
 trimmed uniform.
 t The driver will approach you on the passenger side of the vehicle if at all possible.
-75
+WEST VIRGINIA COURTESY PATROL
+PROJECT OVERVIEW
 <<<PAGE 86>>>
 <<<PAGE 87>>>
-UNLAWFUL DISPOSAL OF WASTE
 It is a violation of West Virginia law to litter public or private roadways
 or public/private property.
 Upon conviction, an individual can be fi ned not less than $50 nor
@@ -3222,7 +3358,6 @@ more than $1,000,  imprisoned in the county jail for not more than
 60 days, or sentenced to remove litter from any public or private
 roadway?for?a?total?of?not?less?than?RO?hoursM??`?driver?may?also?have?
 “points” assessed against their driving record.
-RECYCLE
 YOUR VEHICLE WASTE!
 How does operating a vehicle or truck
 endanger the environment?
@@ -3252,6 +3387,8 @@ old batteries upon request. To learn
 more about vehicle and truck waste, call the
 West Virginia Office of Environmental
 Remediation at 1-(800)-322-5530.
+UNLAWFUL DISPOSAL OF WASTE
+RECYCLE
 <<<PAGE 88>>>
 <<<PAGE 89>>>
 <<<PAGE 90>>>

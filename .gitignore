@@ -12,3 +12,6 @@ android/.gradle/
 android/local.properties
 android/.idea/
 android/app/src/main/assets/public/
+
+# Generated from source_material/ by tools/gen_handbook_text.py -- do not commit a second 16MB copy
+app/public/handbook/

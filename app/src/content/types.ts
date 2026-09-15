@@ -58,6 +58,17 @@ export interface Question {
   correctAnswer: number;
   /** Why the answer is right — the part that does the teaching. */
   explanation: string;
+  /**
+   * Optional, parallel to `choices`: why THAT specific wrong choice is wrong.
+   *
+   * Explaining only why the correct answer is correct leaves a learner who picked a
+   * distractor to work out their own error. Where these exist the miss panel names the
+   * chosen answer and addresses it directly, BEFORE revealing the correct one.
+   *
+   * The entry for `correctAnswer` is null. Absent entries fall back to restating the
+   * governing rule against the chosen answer — honest, and never invented.
+   */
+  choiceExplanations?: (string | null)[];
   questionType: QuestionType;
   difficulty: Difficulty;
   source: SourceRef;

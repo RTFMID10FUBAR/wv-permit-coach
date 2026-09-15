@@ -4270,5 +4270,133 @@
       "sourceQuote": "While traffic does not have to stop for a public bus, please watch for passengers crossing the street as they are getting on and off the bus.",
       "verifiedDate": "2026-09-14"
     }
+  },
+  {
+    "id": "x-emergency-conditions",
+    "topicId": "x-conditions",
+    "label": "Yielding to an emergency vehicle has conditions",
+    "statement": "The duty to pull over applies to an emergency vehicle that is sounding a siren AND flashing warning lights — both conditions are in the rule.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "that is sounding a siren and flashing warning lights.",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-emergency-how",
+    "topicId": "x-conditions",
+    "label": "Exactly how to yield",
+    "statement": "Pull over to the right edge of the road, clear of the intersection, and stop until it has passed — keeping your foot on the brake so the emergency driver sees you are stopped.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Right-of-Way",
+      "pdfPage": 59,
+      "printedPage": 49,
+      "sourceQuote": "Pull over to the right edge of the road, clear of",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-emergency-speed",
+    "topicId": "x-conditions",
+    "label": "When emergency vehicles may speed",
+    "statement": "Authorized emergency vehicles may exceed posted speed limits only when on emergency duty with their warning devices in use.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Speed Limits",
+      "pdfPage": 52,
+      "printedPage": 42,
+      "sourceQuote": "Authorized emergency vehicles may exceed the posted speed limits when on emergency duty with",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-emergency-lights-who",
+    "topicId": "x-conditions",
+    "label": "Who may show red and blue lights",
+    "statement": "Only authorized emergency vehicles may have red and/or blue flashing warning lights.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Emergency Vehicle Equipment",
+      "pdfPage": 35,
+      "printedPage": 25,
+      "sourceQuote": "Red and/or blue flashing lights (Only authorized emergency vehicles may have these warning lights)",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-blind-rightofway",
+    "topicId": "x-conditions",
+    "label": "Blind pedestrian right-of-way",
+    "statement": "A blind person on foot using a guide dog or service animal, or carrying a white cane or walking stick, has the right-of-way regardless of whether they are in a crosswalk.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "V",
+      "chapterTitle": "Traffic Control Devices",
+      "section": "Pedestrians and Crosswalks",
+      "pdfPage": 50,
+      "printedPage": 40,
+      "sourceQuote": "has the right-of-way on a highway, street, or road regardless of whether they",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-blind-cane",
+    "topicId": "x-conditions",
+    "label": "What identifies a blind pedestrian",
+    "statement": "A white or metal cane, with or without a red tip, or a guide dog, identifies a blind pedestrian who has the right of way.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Pedestrians",
+      "pdfPage": 60,
+      "printedPage": 50,
+      "sourceQuote": "They are blind and are crossing the street with a white or metal cane, with or without a red tip, or led by a",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-min-speed",
+    "topicId": "x-conditions",
+    "label": "Minimum speed on an interstate",
+    "statement": "Do not drive slower than 55 mph on an interstate unless weather or road conditions are bad or a lower speed has been posted.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VII",
+      "chapterTitle": "Driving on Interstates",
+      "section": "Speeds on Interstates",
+      "pdfPage": 69,
+      "printedPage": 59,
+      "sourceQuote": "Do not drive slower than 55 mph on an",
+      "verifiedDate": "2026-09-15"
+    }
+  },
+  {
+    "id": "x-slow-turnout",
+    "topicId": "x-conditions",
+    "label": "Driving slower than the designated speed",
+    "statement": "If you must drive slower than the designated speed, pull off at the first safe turnout to let faster traffic pass.",
+    "source": {
+      "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+      "chapter": "VI",
+      "chapterTitle": "Traffic Laws and Rules of the Road",
+      "section": "Driving Slowly",
+      "pdfPage": 53,
+      "printedPage": 43,
+      "sourceQuote": "pull off  at the fi rst safe turnout to let faster",
+      "verifiedDate": "2026-09-15"
+    }
   }
 ]

@@ -1,0 +1,761 @@
+{
+  "topics": [
+    {
+      "id": "g-accessibility",
+      "title": "Disability Parking and Drivers with Disabilities",
+      "chapter": "VI",
+      "order": 63.5,
+      "blurb": "Who may use a designated space, how a placard is obtained, and what the DMV owes a driver with a disability.",
+      "examWeight": 1.0
+    }
+  ],
+  "concepts": [
+    {
+      "id": "g-c-mi-spaces",
+      "topicId": "g-accessibility",
+      "label": "Who designated spaces are reserved for",
+      "statement": "Designated mobility impaired parking spaces are reserved for people whose condition limits their ability to walk reasonable distances.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "These areas are reserved for those having a condition which limits their ability to walk reasonable distances.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-c-mi-transport",
+      "topicId": "g-accessibility",
+      "label": "People who transport the mobility impaired may use a space",
+      "statement": "Citizens who routinely transport mobility impaired persons may also use a designated parking space.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "citizens or those who routinely transport mobility impaired persons may also use a designated parking space.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-c-mi-doctor",
+      "topicId": "g-accessibility",
+      "label": "A doctor must certify the condition",
+      "statement": "To get a mobility impaired placard or plate you must have a doctor certify your condition on a form provided by the DMV.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "You must have a doctor certify your condition on a form provided by the DMV.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-c-mi-fee",
+      "topicId": "g-accessibility",
+      "label": "The $10.50 plate transfer fee",
+      "statement": "There is a $10.50 transfer fee for the mobility impaired license plate.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "There is a $10.50 transfer fee for the mobility impaired license plate.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-c-mi-illegal",
+      "topicId": "g-accessibility",
+      "label": "Parking in a designated space without a placard is illegal",
+      "statement": "It is illegal to park a vehicle that does not display a mobility impaired parking placard or license plate in a designated area.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "It is illegal to park a vehicle that does not display a mobility impaired parking placard or license plate in a designated area.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-c-disability-letter",
+      "topicId": "g-accessibility",
+      "label": "A letter should accompany the application",
+      "statement": "An applicant whose physical disability or medical problem may interfere with driving should prepare a letter explaining the situation to accompany the application.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Drivers with Disabilities",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "If you have a physical disability or medical problem that may interfere with your driving ability, you should prepare a letter explaining the situation to accompany your application.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-c-disability-aids",
+      "topicId": "g-accessibility",
+      "label": "Where to get a list of adaptive driving aids",
+      "statement": "A list of manufacturers that provide adaptive driving aids can be obtained from your driver's license examiner.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Drivers with Disabilities",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "you can get a list of manufacturers that provide driving aids from your driver’s license examiner",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-c-ada-48",
+      "topicId": "g-accessibility",
+      "label": "Ask for an accommodation 48 hours ahead",
+      "statement": "Anyone needing an auxiliary aid, service or a change of procedure should contact the DMV no later than 48 hours before their scheduled arrival.",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Notice on ADA Compliance and Grievances",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "should contact the DMV no later than 48 hours before the scheduled arrival to DMV.",
+        "verifiedDate": "2026-09-15"
+      }
+    }
+  ],
+  "lessons": [
+    {
+      "id": "g-l-accessibility",
+      "topicId": "g-accessibility",
+      "title": "Disability Parking and Drivers with Disabilities",
+      "rules": [
+        {
+          "text": "Designated spaces are reserved for those having a condition which limits their ability to walk reasonable distances.",
+          "source": {
+            "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+            "chapter": "VI",
+            "chapterTitle": "Traffic Laws and Rules of the Road",
+            "section": "Parking for the Mobility Impaired",
+            "pdfPage": 65,
+            "printedPage": 55,
+            "sourceQuote": "These areas are reserved for those having a condition which limits their ability to walk reasonable distances.",
+            "verifiedDate": "2026-09-15"
+          }
+        },
+        {
+          "text": "Citizens who routinely transport mobility impaired persons may also use a designated parking space.",
+          "source": {
+            "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+            "chapter": "VI",
+            "chapterTitle": "Traffic Laws and Rules of the Road",
+            "section": "Parking for the Mobility Impaired",
+            "pdfPage": 65,
+            "printedPage": 55,
+            "sourceQuote": "citizens or those who routinely transport mobility impaired persons may also use a designated parking space.",
+            "verifiedDate": "2026-09-15"
+          }
+        },
+        {
+          "text": "A doctor must certify your condition on a DMV form before a placard or plate is issued.",
+          "source": {
+            "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+            "chapter": "VI",
+            "chapterTitle": "Traffic Laws and Rules of the Road",
+            "section": "Parking for the Mobility Impaired",
+            "pdfPage": 65,
+            "printedPage": 55,
+            "sourceQuote": "You must have a doctor certify your condition on a form provided by the DMV.",
+            "verifiedDate": "2026-09-15"
+          }
+        },
+        {
+          "text": "It is illegal to park in a designated area without displaying a placard or mobility impaired plate.",
+          "source": {
+            "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+            "chapter": "VI",
+            "chapterTitle": "Traffic Laws and Rules of the Road",
+            "section": "Parking for the Mobility Impaired",
+            "pdfPage": 65,
+            "printedPage": 55,
+            "sourceQuote": "It is illegal to park a vehicle that does not display a mobility impaired parking placard or license plate in a designated area.",
+            "verifiedDate": "2026-09-15"
+          }
+        },
+        {
+          "text": "Anyone needing an accommodation should contact the DMV no later than 48 hours before their scheduled arrival.",
+          "source": {
+            "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+            "chapter": "VI",
+            "chapterTitle": "Traffic Laws and Rules of the Road",
+            "section": "Notice on ADA Compliance and Grievances",
+            "pdfPage": 65,
+            "printedPage": 55,
+            "sourceQuote": "should contact the DMV no later than 48 hours before the scheduled arrival to DMV.",
+            "verifiedDate": "2026-09-15"
+          }
+        }
+      ],
+      "plainEnglish": "West Virginia sets aside marked parking spaces for mobility impaired citizens. The test is not a diagnosis or a wheelchair: it is a condition that limits the person's ability to walk reasonable distances. The permission travels with the person, not only with the driver, so someone who routinely transports a mobility impaired person may use a designated space too.\n\nGetting the permission is a medical step, not a paperwork step. A doctor certifies your condition on a form the DMV provides, and the DMV issues the placard and/or the plate after approving your application. The plate carries a $10.50 transfer fee. Once spaces are designated, parking there in a vehicle that shows neither a placard nor a mobility impaired plate is illegal.\n\nThe handbook also speaks to drivers with disabilities generally. If a physical disability or medical problem may interfere with your driving, prepare a letter explaining the situation to go with your application, and if you need hand controls or similar equipment your driver's license examiner can give you a list of manufacturers. If you need an auxiliary aid, a service, or a change to normal DMV procedure, ask at least 48 hours before you are due at the office.",
+      "whyItMatters": "Disability parking is one of the few parking rules with a criminal penalty attached to a space that often looks empty and convenient. Knowing that the space is reserved by a condition rather than by a label stops the two common errors: assuming a placard is only for wheelchair users, and assuming it is fine to use the space 'just for a minute'.\n\nThe 48-hour notice matters for a different reason. A learner who needs an audio exam, an interpreter or a modified procedure and turns up expecting it on the day may be sent home; the handbook tells you to ask ahead.",
+      "example": "You drive your grandmother, who cannot walk far, to her appointments most weeks. She has a mobility impaired placard. Because you routinely transport a mobility impaired person and her placard is displayed, you may use a designated space when she is with you. Park in the same space on a day you are collecting your own shopping alone and, with no placard or plate displayed, you are parked illegally.",
+      "conceptIds": [
+        "g-c-mi-spaces",
+        "g-c-mi-transport",
+        "g-c-mi-doctor",
+        "g-c-mi-fee",
+        "g-c-mi-illegal",
+        "g-c-disability-letter",
+        "g-c-disability-aids",
+        "g-c-ada-48"
+      ],
+      "estimatedMinutes": 6
+    }
+  ],
+  "questions": [
+    {
+      "id": "g-q-065-01",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-spaces",
+      "question": "West Virginia's designated mobility impaired parking spaces are reserved for people who:",
+      "choices": [
+        "Have a condition which limits their ability to walk reasonable distances",
+        "Have any medical diagnosis at all",
+        "Are over the age of 65",
+        "Use a wheelchair, and no one else"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook says these areas are reserved for those having a condition which limits their ability to walk reasonable distances. The qualifying test is a functional one about walking, not a particular diagnosis, a particular age or a particular mobility device. That is why the placard, not the appearance of the driver, is what establishes the right to the space.",
+      "choiceExplanations": [
+        null,
+        "The handbook ties the reservation to a walking limitation, not to having a diagnosis of any kind.",
+        "Age is nowhere in the rule; a condition limiting the ability to walk reasonable distances is the test.",
+        "The rule is written around limited walking ability, which covers far more people than wheelchair users."
+      ],
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "These areas are reserved for those having a condition which limits their ability to walk reasonable distances.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-02",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-spaces",
+      "question": "A driver with severe arthritis that makes walking any distance painful asks whether she can qualify for a designated space, since she does not use a wheelchair. What does the handbook indicate?",
+      "choices": [
+        "She may qualify, because the spaces are reserved for a condition that limits the ability to walk reasonable distances",
+        "She cannot qualify unless she uses a wheelchair or a walker",
+        "She cannot qualify because arthritis is not a disability",
+        "She may park there without any placard because her condition is visible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The reservation is written around function: a condition which limits the ability to walk reasonable distances. A painful walking limitation fits that description whether or not a device is used. She would still need a doctor to certify the condition on a DMV form and would still have to display the placard or plate.",
+      "choiceExplanations": [
+        null,
+        "The handbook names no device requirement; the reservation rests on limited walking ability.",
+        "The handbook does not list qualifying diagnoses at all, so no condition is excluded by name.",
+        "Even a qualifying person must display a placard or plate, because it is illegal to park there without one."
+      ],
+      "questionType": "scenario",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "These areas are reserved for those having a condition which limits their ability to walk reasonable distances.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-03",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-transport",
+      "question": "Besides the mobility impaired person, who else does the handbook say may use a designated parking space?",
+      "choices": [
+        "Citizens who routinely transport mobility impaired persons",
+        "Any relative of a mobility impaired person",
+        "Anyone making a delivery to the building",
+        "Any driver, if all other spaces are full"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook says citizens or those who routinely transport mobility impaired persons may also use a designated parking space. The permission follows the person being transported, which is why the placard is displayed in the vehicle rather than issued to one driver alone.",
+      "choiceExplanations": [
+        null,
+        "The handbook names the act of routinely transporting the person, not the family relationship.",
+        "Deliveries are not mentioned anywhere in the rule and do not create a right to the space.",
+        "A full car park does not lift the reservation; parking there without a placard or plate stays illegal."
+      ],
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "citizens or those who routinely transport mobility impaired persons may also use a designated parking space.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-04",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-transport",
+      "question": "Which situation matches the handbook's extension of designated parking beyond the mobility impaired person themselves?",
+      "choices": [
+        "A care worker who routinely drives a mobility impaired client to appointments, with the placard displayed",
+        "A neighbour borrowing the placard to run his own errands",
+        "A taxi waiting outside a hospital for any fare",
+        "A driver who once gave a mobility impaired friend a lift last year"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook extends the use of a designated space to citizens or those who routinely transport mobility impaired persons. The word that does the work is 'routinely': the extension covers a regular transporting role, and it still depends on the placard or plate being displayed.",
+      "choiceExplanations": [
+        null,
+        "Using the placard for errands of your own is not transporting a mobility impaired person, and the space is only reserved for that purpose.",
+        "Waiting for an unspecified fare is not routinely transporting a mobility impaired person.",
+        "The handbook describes those who routinely transport mobility impaired persons, not a one-off lift."
+      ],
+      "questionType": "reversed",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "citizens or those who routinely transport mobility impaired persons may also use a designated parking space.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-05",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-doctor",
+      "question": "What does the handbook require before the DMV will issue a mobility impaired parking placard?",
+      "choices": [
+        "A doctor must certify your condition on a form provided by the DMV",
+        "A police officer must witness your difficulty walking",
+        "Two letters from family members describing your condition",
+        "A statement from your employer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook says you must have a doctor certify your condition on a form provided by the DMV, and the DMV issues the placard and/or plate after approving your application. The certification is medical, and it has to be recorded on the DMV's own form rather than any note a doctor happens to write.",
+      "choiceExplanations": [
+        null,
+        "No officer has any role in the placard process described in the handbook.",
+        "Family statements are not part of the process; the certification is medical and on a DMV form.",
+        "Employment is irrelevant to the placard, which turns on a certified medical condition."
+      ],
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "You must have a doctor certify your condition on a form provided by the DMV.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-06",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-doctor",
+      "question": "A driver brings a handwritten note from his physician to a DMV office and asks for a placard on the spot. What does the handbook describe?",
+      "choices": [
+        "The condition must be certified by a doctor on a form provided by the DMV, and the DMV issues the placard after approving the application",
+        "Any written note from a doctor is enough, and the placard is issued immediately",
+        "A doctor's note is not needed at all if the disability is visible",
+        "The placard is issued first and the medical evidence supplied within 30 days"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook sets out two steps: a doctor certifies the condition on a DMV-provided form, and the DMV then issues the placard and/or plate after approving the application. Approval comes before the placard, so a note in the wrong format does not shorten the process.",
+      "choiceExplanations": [
+        null,
+        "The handbook specifies a form provided by the DMV, and issue follows approval of the application.",
+        "The handbook requires the doctor's certification regardless of how apparent the condition is.",
+        "Nothing in the handbook allows a placard to be issued in advance of the approved application."
+      ],
+      "questionType": "scenario",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "You must have a doctor certify your condition on a form provided by the DMV.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-07",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-fee",
+      "question": "What fee does the handbook attach to the mobility impaired license plate?",
+      "choices": [
+        "A $10.50 transfer fee",
+        "A $5.00 application fee",
+        "A $25.00 annual fee",
+        "No fee of any kind"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook states there is a $10.50 transfer fee for the mobility impaired license plate. It is worth separating the two products the DMV can issue: the placard hangs in whatever vehicle is carrying the person, while the plate is fitted to a vehicle and carries this transfer fee.",
+      "choiceExplanations": [
+        null,
+        "The handbook names $10.50 as a transfer fee for the plate, not a $5.00 application fee.",
+        "No annual charge appears in the handbook; the figure given is a one-off transfer fee.",
+        "The handbook does state a charge: a $10.50 transfer fee for the mobility impaired license plate."
+      ],
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "There is a $10.50 transfer fee for the mobility impaired license plate.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-08",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-fee",
+      "question": "Which statement about mobility impaired parking credentials is NOT correct?",
+      "choices": [
+        "The mobility impaired license plate is issued free of any transfer charge",
+        "The DMV may issue a placard, a license plate, or both",
+        "A doctor must certify the condition on a DMV form",
+        "The plate carries a $10.50 transfer fee"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Three of these restate the handbook directly. The false one is the claim that the plate is free: the handbook says there is a $10.50 transfer fee for the mobility impaired license plate. The DMV issues the placard and/or the plate after a doctor certifies the condition on a DMV form and the application is approved.",
+      "choiceExplanations": [
+        null,
+        "This is correct: the handbook says the DMV will issue a placard and/or license plate after approving the application.",
+        "This is correct and is the medical step the handbook requires before issue.",
+        "This is correct; the handbook names $10.50 as the transfer fee for the plate."
+      ],
+      "questionType": "negative",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "There is a $10.50 transfer fee for the mobility impaired license plate.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-09",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-illegal",
+      "question": "You pull into a marked mobility impaired space to wait two minutes for a passenger, with no placard or plate on the vehicle. How does the handbook treat this?",
+      "choices": [
+        "It is illegal, because the vehicle does not display a placard or mobility impaired plate",
+        "It is permitted for short stops of under five minutes",
+        "It is permitted as long as the engine is running and you stay in the vehicle",
+        "It is permitted if the passenger you are collecting is mobility impaired, whether or not anything is displayed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook states plainly that it is illegal to park a vehicle that does not display a mobility impaired parking placard or license plate in a designated area. There is no short-stop exception, no running-engine exception, and the extension for people who transport mobility impaired passengers still depends on the credential being displayed.",
+      "choiceExplanations": [
+        null,
+        "The handbook attaches no time allowance to the rule; the test is what the vehicle displays.",
+        "Staying with the vehicle changes nothing, because the rule turns on the placard or plate being displayed.",
+        "Those who transport a mobility impaired person may use the space, but the placard or plate must still be displayed."
+      ],
+      "questionType": "scenario",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "It is illegal to park a vehicle that does not display a mobility impaired parking placard or license plate in a designated area.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-10",
+      "topicId": "g-accessibility",
+      "subtopic": "Disability parking",
+      "conceptId": "g-c-mi-illegal",
+      "question": "What makes parking in a designated mobility impaired area lawful?",
+      "choices": [
+        "The vehicle displays a mobility impaired parking placard or license plate",
+        "The driver has a doctor's letter in the glove box",
+        "The driver has a disability, whether or not anything is displayed",
+        "The space has been empty for more than an hour"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The rule is written around display: it is illegal to park a vehicle that does not display a mobility impaired parking placard or license plate in a designated area. An enforcement officer can see a placard hanging or a plate fitted; nothing else in the vehicle communicates the entitlement.",
+      "choiceExplanations": [
+        null,
+        "A letter in the vehicle is not what the rule looks for; it looks for a displayed placard or plate.",
+        "The handbook makes display the operative requirement, so an undisplayed entitlement does not protect you.",
+        "How long the space has stood empty has no effect on the reservation."
+      ],
+      "questionType": "application",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Parking for the Mobility Impaired",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "It is illegal to park a vehicle that does not display a mobility impaired parking placard or license plate in a designated area.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-11",
+      "topicId": "g-accessibility",
+      "subtopic": "Drivers with disabilities",
+      "conceptId": "g-c-disability-letter",
+      "question": "You have a medical problem that may interfere with your driving ability. What does the handbook suggest you do when you apply?",
+      "choices": [
+        "Prepare a letter explaining the situation to accompany your application",
+        "Say nothing, because it is the examiner's job to spot problems",
+        "Apply in another state first",
+        "Wait until after the road test and mention it then"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook says that if you have a physical disability or medical problem that may interfere with your driving ability, you should prepare a letter explaining the situation to accompany your application. Explaining the condition up front lets the DMV decide what procedures or restrictions fit rather than discovering the issue mid-process.",
+      "choiceExplanations": [
+        null,
+        "The handbook puts the step on the applicant, who is told to prepare the explanatory letter.",
+        "Nothing in the handbook suggests applying elsewhere, and out-of-state records follow you anyway.",
+        "The letter is described as accompanying the application, which comes before testing."
+      ],
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Drivers with Disabilities",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "If you have a physical disability or medical problem that may interfere with your driving ability, you should prepare a letter explaining the situation to accompany your application.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-12",
+      "topicId": "g-accessibility",
+      "subtopic": "Drivers with disabilities",
+      "conceptId": "g-c-disability-letter",
+      "question": "Why does the handbook say certain procedures should be followed before a person with a disability applies for a driver's license?",
+      "choices": [
+        "Because disabilities vary so much that no single set of rules can decide everyone's ability to drive safely",
+        "Because the DMV refuses applications from people with disabilities",
+        "Because a disability always requires a restricted license",
+        "Because the road test is waived for applicants with disabilities"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook explains that because of the variety of disabilities, no group of rules can apply in determining every person's ability to operate a vehicle safely. That is the reason it asks for a letter explaining your situation with the application: the assessment has to be individual.",
+      "choiceExplanations": [
+        null,
+        "The handbook describes procedures for licensing people with disabilities, not a refusal to license them.",
+        "The handbook does not treat a restriction as automatic; that is why the individual explanation matters.",
+        "No waiver of the road test appears anywhere in the handbook."
+      ],
+      "questionType": "application",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Drivers with Disabilities",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "If you have a physical disability or medical problem that may interfere with your driving ability, you should prepare a letter explaining the situation to accompany your application.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-13",
+      "topicId": "g-accessibility",
+      "subtopic": "Drivers with disabilities",
+      "conceptId": "g-c-disability-aids",
+      "question": "Where does the handbook say you can get a list of manufacturers that provide adaptive driving aids such as hand controls?",
+      "choices": [
+        "From your driver's license examiner",
+        "From the vehicle's owner manual",
+        "From any insurance agent",
+        "From the county sheriff's office"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook says you can get a list of manufacturers that provide driving aids from your driver's license examiner, and it also gives the West Virginia Division of Rehabilitation Services as a contact. The examiner is the nearest point of contact, since you will be dealing with one anyway.",
+      "choiceExplanations": [
+        null,
+        "The owner manual describes the vehicle as built, not suppliers of adaptive equipment.",
+        "Insurance agents have no role in the handbook's description of adaptive driving aids.",
+        "The sheriff's office is not named in connection with driving aids anywhere in the handbook."
+      ],
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Drivers with Disabilities",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "you can get a list of manufacturers that provide driving aids from your driver’s license examiner",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-14",
+      "topicId": "g-accessibility",
+      "subtopic": "Drivers with disabilities",
+      "conceptId": "g-c-disability-aids",
+      "question": "An applicant needs hand controls fitted before he can take a road test and does not know where to start. Which first step matches the handbook?",
+      "choices": [
+        "Ask his driver's license examiner for the list of manufacturers that provide driving aids",
+        "Fit any equipment he can find and hope it passes the vehicle check",
+        "Apply for a license without the controls and add them later",
+        "Ask the DMV to supply and install the equipment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook tells an applicant who needs adaptive equipment that a list of manufacturers providing driving aids is available from the driver's license examiner. Getting the right equipment from a proper supplier comes before the test, because the test vehicle must be safe and legally equipped.",
+      "choiceExplanations": [
+        null,
+        "Improvised equipment risks failing the vehicle check, and the handbook points to a proper supplier list instead.",
+        "The vehicle used for the road test must be one he can operate safely, so the controls come first.",
+        "The handbook describes a list of manufacturers, not DMV-supplied or DMV-installed equipment."
+      ],
+      "questionType": "scenario",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Drivers with Disabilities",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "you can get a list of manufacturers that provide driving aids from your driver’s license examiner",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-15",
+      "topicId": "g-accessibility",
+      "subtopic": "DMV accommodations",
+      "conceptId": "g-c-ada-48",
+      "question": "How much notice does the handbook ask for when you need an auxiliary aid, a service, or a change of procedure at the DMV?",
+      "choices": [
+        "No later than 48 hours before your scheduled arrival",
+        "No later than 24 hours before your scheduled arrival",
+        "At least 30 days in advance",
+        "None; you can ask on arrival"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook says anyone who requires an auxiliary aid or service for effective communication, or a change of policies or procedures, should contact the DMV no later than 48 hours before the scheduled arrival. Asking ahead is what gives the office time to arrange the aid rather than turning you away on the day.",
+      "choiceExplanations": [
+        null,
+        "The handbook gives 48 hours, not 24, as the deadline for the request.",
+        "No 30-day period appears in the handbook's accommodation notice.",
+        "The handbook asks you to contact the DMV before you arrive, so that the arrangement can be made."
+      ],
+      "questionType": "direct",
+      "difficulty": "core",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Notice on ADA Compliance and Grievances",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "should contact the DMV no later than 48 hours before the scheduled arrival to DMV.",
+        "verifiedDate": "2026-09-15"
+      }
+    },
+    {
+      "id": "g-q-065-16",
+      "topicId": "g-accessibility",
+      "subtopic": "DMV accommodations",
+      "conceptId": "g-c-ada-48",
+      "question": "A deaf applicant plans to visit a DMV office on Friday morning and will need an interpreter. When does the handbook say to contact the DMV?",
+      "choices": [
+        "By Wednesday morning, since the request must be made no later than 48 hours before the scheduled arrival",
+        "On arrival at the office on Friday",
+        "Within 48 hours after the visit",
+        "Only if the office refuses to help on the day"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The handbook asks that anyone needing an auxiliary aid or service, or a modification of procedures, contact the DMV no later than 48 hours before the scheduled arrival. Counting back 48 hours from Friday morning puts the request on Wednesday morning at the latest.",
+      "choiceExplanations": [
+        null,
+        "A request made on arrival gives the office no time to arrange the aid, which is what the notice period is for.",
+        "The notice runs before the visit, not after it.",
+        "The handbook asks for the request in advance rather than as a response to a refusal."
+      ],
+      "questionType": "application",
+      "difficulty": "moderate",
+      "source": {
+        "sourceDocument": "West Virginia Driver's Licensing Handbook (Rev. 07/2026, retrieved 2026-09-14, SHA-256 45082246ab6df6c75d0968a680b6a7ad26d334aeb2e547871dea3fd7c7828a7a)",
+        "chapter": "VI",
+        "chapterTitle": "Traffic Laws and Rules of the Road",
+        "section": "Notice on ADA Compliance and Grievances",
+        "pdfPage": 65,
+        "printedPage": 55,
+        "sourceQuote": "should contact the DMV no later than 48 hours before the scheduled arrival to DMV.",
+        "verifiedDate": "2026-09-15"
+      }
+    }
+  ],
+  "signs": []
+}

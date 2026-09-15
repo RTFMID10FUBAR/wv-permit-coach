@@ -16,3 +16,5 @@ android/app/src/main/assets/public/
 # Generated from source_material/ by tools/gen_handbook_text.py -- do not commit a second 16MB copy
 app/public/handbook/
 app/public/figures/
+source_material/Motorcycle_Operator_Manual.pdf
+source_material/figure_contact_sheet/

@@ -7,8 +7,8 @@ Student Attendance .............................................................
 Unpaid Tickets .................................................................................................. 926-2505
 Driving Records ................................................................................................ 926-3952
 Compulsory Insurance ...................................................................................... 926-3802
-Driving Under the Infl uence .............................................................................. 926-2506
-Driving Under the Infl uence “Interlock” ............................................................ 926-2507
+Driving Under the Influence .............................................................................. 926-2506
+Driving Under the Influence “Interlock” ............................................................ 926-2507
 Visit us on the web at dmv.wv.gov.
 DEPARTMENT OF TRANSPORTATION
 DIVISION OF MOTOR VEHICLES
@@ -132,7 +132,7 @@ Class E driver’s license.  This handbook guides you in following the laws and 
 of the road, explains the best practices necessary to avoid crashes, and encourages
 consideration for the rights of all users of the highways.  Other manuals and
 handbooks are available for commercial drivers and motorcycle operators.
-The driver examination program provides fundamental education in traffi  c
+The driver examination program provides fundamental education in traffic
 safety and allows you to match your driving ability with accepted standards for
 safe driving.
 dmv.wv.gov
@@ -704,13 +704,13 @@ Ages 21 and Over
 for Ages 15-20
 This sample shown is
 Level 2 iIntermediatew GDL
-iNot for Federal Identifi cation Use / REAL ID Usew
+iNot for Federal Identification Use / REAL ID Usew
 This sample shown is for
 i'FEFSBM
-Identifi cation Usew
+Identification Usew
 This sample shown is
 iNot for Federal
-Identifi cation / REAL ID Usew
+Identification / REAL ID Usew
 <<<PAGE 18>>>
 8
 Applicants that are Immigrants, Non-Immigrants, and Refugees
@@ -1864,18 +1864,18 @@ TOTAL DRIVING SKILLS
 CHAPTER V
 TRAFFIC CONTROL DEVICES
 The shape and color of signs have meaning.  If fading light, fog, rain, snow, or darkness make it
-diffi  cult to see the letters, applicants should still know how to recognize a sign and respond accordingly.
+difficult to see the letters, applicants should still know how to recognize a sign and respond accordingly.
 Single Message Shaped Signs
 Octagon
 These eight-sided signs are reserved for stop signs.  These signs mean you must stop
-completely. Give the right-of-way to pedestrians and to all cross traffi  c before moving
+completely. Give the right-of-way to pedestrians and to all cross traffic before moving
 again.  At a stop sign, you must stop behind any marked or unmarked crosswalk (joining
 sidewalks on opposite sides of the street).  If there are no pavement markings or cross
 walks, you must stop before entering an intersection.  Stop at a place where you can see
-traffi  c coming from all directions.
+traffic coming from all directions.
 Triangle
 (upside down)
-This shape requires that you yield the right-of-way to cross traffi  c or to merging traffi  c.
+This shape requires that you yield the right-of-way to cross traffic or to merging traffic.
 Pennant
 This sign marks the beginning of a no-passing zone.
 Circle
@@ -1884,17 +1884,17 @@ Pentagon
 This sign warns of a school zone (school grounds and any street/highway abutting the
 school  grounds  and  extending  125  feet  along  the  street  or  highway  from  the  school
 grounds) ahead or marks a school zone crossing.  The maximum speed limit in a school
-zone is 15 m.p.h. when children are present or when specifi ed.
+zone is 15 m.p.h. when children are present or when specified.
 Triangle
 (right side up)
-A right side up triangular sign with a refl ective red border and fl uorescent orange center
-identifi es a slow moving vehicle or a vehicle which has made an emergency stop.
+A right side up triangular sign with a reflective red border and fluorescent orange center
+identifies a slow moving vehicle or a vehicle which has made an emergency stop.
  CHAPTER V
 <<<PAGE 45>>>
 35
 Square & Rectangular Signs
-These signs show traffi  c regulations and guide your speed and direction. These signs tell you about
-speed limits and other traffi  c laws. Most signs are white with black letters. When the message is very
+These signs show traffic regulations and guide your speed and direction. These signs tell you about
+speed limits and other traffic laws. Most signs are white with black letters. When the message is very
 important, the sign is red with white letters. A red outline with a diagonal bar through it always means
 “NO.”
 No U-Turn Sign -
@@ -1909,13 +1909,13 @@ used when meeting a one way street or
 in situations where it is unsafe to turn.
 Wrong Way or Do Not Enter - These signs
 warn  you  that  traffic  in  that  direction  is
-prohibited.  If you choose a traffi  c lane marked
+prohibited.  If you choose a traffic lane marked
 with either of these signs you will likely run
 into another vehicle.
 Dual  Turn Lane - This  sign  is
 posted over a highway lane that
 is used only for making left turns
-from either direction.  Traffi  c from
+from either direction.  Traffic from
 either direction will be using this
 lane. Never use a turning lane to
 overtake and pass other vehicles.
@@ -1927,7 +1927,7 @@ highway.  They are to remind you which
 side of the divider you belong on.
 One  Way  Street -  This  sign  is
 used to tell you when a cross
-street  has  traffi  c  running  in  one
+street  has  traffic  running  in  one
 direction only. Usually every
 consecutive block runs in the
 opposite direction when there are
@@ -1957,14 +1957,14 @@ be  reversed  if  the  left  lane  is
 ending.
 This sign is to advise you of an
 added lane.
-Traffi  c  may  be  moving  into
+Traffic  may  be  moving  into
 your lane. Be ready to change
 your  speed  or  your  lane  to
 avoid a crash.
 Used  to  indicate  that  you  are
 on a two-way road.
 The road ahead has two-way
-traffi  c.
+traffic.
 Warns you of hills where special
 care must be taken.  Slow down
 before you start downhill.
@@ -1980,7 +1980,7 @@ path crossing the road. Watch
 out  for,  and  yield  to  people
 walking across the road.
 This sign warns you that there
-is a Traffi  c signal ahead.
+is a Traffic signal ahead.
 <<<PAGE 47>>>
 37
 Construction and Maintenance Signs
@@ -1993,34 +1993,34 @@ Barricades, vertical panels, drums, cones, and tubes are
 the most commonly used devices to alert drivers of unusual or
 potentially dangerous conditions in highway and street work
 areas and to guide drivers safely through the work zone.  At
-night they are often equipped with fl ashing or steady-burn
+night they are often equipped with flashing or steady-burn
 lights.
 Flashing Arrow Panels
-Large fl ashing or sequencing arrow panels may be used
+Large flashing or sequencing arrow panels may be used
 in work zones both day and night to guide drivers into certain
-traffi  c lanes and to inform them that part of the road or street
+traffic lanes and to inform them that part of the road or street
 ahead of them is closed.
 *The diagonal stripes on the barricade or vertical panel
-guide the driver towards the direction to which traffi  c
+guide the driver towards the direction to which traffic
 is to pass. Stripes sloping downward to the right
 mean the driver should bear to the right. Conversely,
 stripes sloping downward to the left mean bear to
 the left.
 Flaggers
-Flaggers are often provided in highway and street work zones to stop, slow, or guide traffi  c safely through
-the area.  Flaggers wear orange vests, shirts, or jackets and use red-orange fl ags or stop/slow paddles to direct
-traffi  c through work zones.
+Flaggers are often provided in highway and street work zones to stop, slow, or guide traffic safely through
+the area.  Flaggers wear orange vests, shirts, or jackets and use red-orange flags or stop/slow paddles to direct
+traffic through work zones.
 SLOWLY
 STOP
 Proceed
 Construction and Maintenance Signs and Devices
-Various traffi  c control devices are used in construction and
+Various traffic control devices are used in construction and
 maintenance work areas to direct drivers or pedestrians safely
 through the work zone, and to provide for the safety of the
 highway workers.
-The most commonly used traffi  c control devices are signs,
-barricades, drums, cones, tubes, fl ashing arrow panels, and
-fl aggers.  Orange is the basic color for these devices.
+The most commonly used traffic control devices are signs,
+barricades, drums, cones, tubes, flashing arrow panels, and
+flaggers.  Orange is the basic color for these devices.
 <<<PAGE 48>>>
 38
 Not all the signs you will see are in this handbook; however, most signs are self-explanatory.  The
@@ -2043,7 +2043,7 @@ where the exit is, as well
 as the exit number.
 Pictured on the right is an
 example of an interstate
-sign that you may fi nd
+sign that you may find
 when approaching an exit
 further ahead.  Aside from
 the exit number they may
@@ -2073,30 +2073,30 @@ symbols, or  black letters on white bars in the shape of an X called a crossbuck
 A sign below the crossbuck indicates the number of tracks when there are two
 (2)?or more.  Some railroad crossings are equipped with electrical devices to
 signal the approach of a train.  These devices consist of various types of signals
-such as bells, fl ashers, and automatic gates.  You must yield to all trains.  Failure
-to stop when lights are fl ashing, or a barrier is down, will result in a citation.
+such as bells, flashers, and automatic gates.  You must yield to all trains.  Failure
+to stop when lights are flashing, or a barrier is down, will result in a citation.
 When there are two (2) or more tracks, you must be alert for a second train
 on the other set of tracks.  It is important to note that you should not enter a
 railroad crossing until the vehicle ahead has moved far enough ahead that
 you can clear the tracks.  Otherwise, you may be trapped on the tracks and
 hit by another vehicle or by a train.
-Traffi  c Lights
+Traffic Lights
 Circular Green / GO - Drivers facing this signal may enter the intersection and go straight
-through, turn right, or left, unless, other traffi  c control devices (signs or pavement markings)
+through, turn right, or left, unless, other traffic control devices (signs or pavement markings)
 prohibit certain movements.  All turns must be made in accordance with accepted right-of-way
 rules.  A driver who is facing a circular green indication and wishes to turn left must yield to
 oncoming vehicles.
 Green Arrow / LEFT TURN -?A green arrow may be shown alone or with other indications.  Drivers
 facing the signal may enter the intersection to make the movement shown by the arrow.  When
-the green arrow is shown in a left-turn signal, it usually means that opposing traffi  c is stopped.
+the green arrow is shown in a left-turn signal, it usually means that opposing traffic is stopped.
 Steady Circular Yellow -?This means that the green light is ending and will change to red.  You
 should only drive through a yellow light if the vehicle clearance is within the intersection.
 Yellow Arrow / LEFT TURN - This means that the green arrow is ending and will change to red.
-Steady Circular Red / STOP -  Traffi  c facing a steady circular red signal must stop unless making
+Steady Circular Red / STOP -  Traffic facing a steady circular red signal must stop unless making
 a movement permitted by a green arrow.  The driver must remain stopped until allowed to proceed
 by another indication.  The only exception is to make a permitted turn on red.  A driver may turn right
 on red at the intersection of two-way streets, or may turn left on red from a one-way street to another
-one-way street.  These turns may be made after yielding to all other traffi  c and pedestrians, and if no
+one-way street.  These turns may be made after yielding to all other traffic and pedestrians, and if no
 signs are posted to prohibit them.
 Steady Red Arrow/ LEFT TURN -?Come to a complete stop before reaching the intersection,
 stop line or cross walk for the direction indicated by the arrow.  Remain stopped as long as the
@@ -2104,14 +2104,14 @@ signal is red.
 <<<PAGE 50>>>
 40
 Intersection Flashers
-At certain intersections, fl ashers are installed to supplement or replace STOP signs.
-These fl ashers may have circular fl ashing red indications in all directions or may have circular
-fl ashing yellow indications for through traffi  c.
-Drivers facing a circular fl ashing yellow light may proceed through the intersection
-with caution. A circular fl ashing red is the same as a stop sign; that is, drivers must come to
-a complete stop and yield to all other traffi  c and pedestrians.
-When traffi  c control signals are not needed or are out of order, they may be placed in
-fl ashing operations. When this happens, they are the same as intersection fl ashers.
+At certain intersections, flashers are installed to supplement or replace STOP signs.
+These flashers may have circular flashing red indications in all directions or may have circular
+flashing yellow indications for through traffic.
+Drivers facing a circular flashing yellow light may proceed through the intersection
+with caution. A circular flashing red is the same as a stop sign; that is, drivers must come to
+a complete stop and yield to all other traffic and pedestrians.
+When traffic control signals are not needed or are out of order, they may be placed in
+flashing operations. When this happens, they are the same as intersection flashers.
 Lane Use Control Signals
 Crosswalk Signals
 Yellow X: The  lane is
@@ -2121,7 +2121,7 @@ to reverse.  Move  out
 of it as  soon as  you
 can.
 Green Downward
-Arrow: Traffi  c may
+Arrow: Traffic may
 use the lane under
 the arrow.
 Red X: The lane is
@@ -2133,18 +2133,18 @@ intersection with
 caution
 Come to a complete
 stop and yield to
-all other traffi  c and
+all other traffic and
 QFEFTUSJBOT
-Special signals are used to control traffi  c when the direction of a street or certain lane changes during
-the day.  These signals indicate how the specifi c lanes may be used.
-Crosswalk signals are traffi  c signals for pedestrians.  If these signals are in place,
+Special signals are used to control traffic when the direction of a street or certain lane changes during
+the day.  These signals indicate how the specific lanes may be used.
+Crosswalk signals are traffic signals for pedestrians.  If these signals are in place,
 pedestrians are to obey them.  These lighted signs are often shown two (2) ways:
 Hand Symbol or DON'T WALK- when these appear pedestrians are not to cross the
 crosswalk.
 Walking Man or WALK - when these appear  pedestrians are safe to cross the street
 inside the crosswalk lines.
 Be aware of crosswalks at intersections and in school zones. These are indicators
-that you are in a high pedestrian traffi  c zone.  Being especially alert for pedestrians
+that you are in a high pedestrian traffic zone.  Being especially alert for pedestrians
 in these places will reduce the risk of crashes.  A blind person who is on foot and
 using a guide dog or other service animal, or is carrying a white cane or walking
 stick, has the right-of-way on a highway, street, or road regardless of whether they
@@ -2238,11 +2238,11 @@ reasonable and prudent for the existing conditions.
 <<<PAGE 53>>>
 43
 Driving Slowly
-When you drive at less than the normal speed of traffi  c, you should drive as close as possible to the
+When you drive at less than the normal speed of traffic, you should drive as close as possible to the
 right edge of the road.
-If you must drive slower than the designated speed, pull off  at the fi rst safe turnout to let faster
-moving traffi  c pass.  This rule applies when you are on a road with one (1) lane in each direction and
-overtaking traffi  c does not have a clear lane for passing.
+If you must drive slower than the designated speed, pull off  at the first safe turnout to let faster
+moving traffic pass.  This rule applies when you are on a road with one (1) lane in each direction and
+overtaking traffic does not have a clear lane for passing.
 Driving Signals
 Other drivers expect you to continue traveling in the same direction.  By using your turn signals, you
 let them know that you intend to turn or change lanes.  Give other drivers time to react to your moves.
@@ -2257,7 +2257,7 @@ Switch off  your turn signals after completing the turn.  Driving with turn sign
 to turn can create confusion.
 If you plan to turn beyond an intersection, do not confuse other drivers by signaling too soon.  They
 may think you are turning at the intersection and pull into your path.  But if you signal too late, the drivers
-behind you may not have enough time to react safely.  In these situations, know traffi  c conditions and
+behind you may not have enough time to react safely.  In these situations, know traffic conditions and
 use your best judgement.
 SLOW or STOP RIGHT TURN LEFT TURN
 It is best to have both hands on the steering wheel.
@@ -2272,7 +2272,7 @@ ARM POINTING DOWN ARM POINTING UP ARM STRAIGHT OUT
 <<<PAGE 54>>>
 44
 Turning Maneuvers
-Improper turns cause many traffi  c crashes.  Pedestrians and bicyclists are often victims of improper
+Improper turns cause many traffic crashes.  Pedestrians and bicyclists are often victims of improper
 turns by vehicle operators. It is important that you learn and abide by correct turning procedures.
 Rules for turns:
 t Prepare for the turn.  Do not make decisions to turn at the last  moment.
@@ -2280,16 +2280,16 @@ t Before entering the turning lane, signal, look in the mirrors, and check the b
 proper shoulder.
 t Signal at least 100 feet before turning.
 t Slow down before making turns.  Do not brake while turning.
-t Make sure it is safe to turn.  Check traffi  c to the front and rear of your
+t Make sure it is safe to turn.  Check traffic to the front and rear of your
 vehicle and watch for pedestrians.
-t Always fi nish turning in the proper lane.
-t When turning left, watch for approaching traffi  c in the opposite lane.
-If traffi  c is about to reach the intersection at approximately the same
+t Always finish turning in the proper lane.
+t When turning left, watch for approaching traffic in the opposite lane.
+If traffic is about to reach the intersection at approximately the same
 time, stop until it is safe for you to turn.
 t When waiting to turn left, do not turn the wheels to the left.  Otherwise,
-a bump from behind could push your vehicle into oncoming traffi  c.
-t If an intersection has no signs prohibiting a turn on red, traffi  c facing
-a red signal may, after coming to a complete stop and yielding to pedestrians and traffi  c, make a right turn.
+a bump from behind could push your vehicle into oncoming traffic.
+t If an intersection has no signs prohibiting a turn on red, traffic facing
+a red signal may, after coming to a complete stop and yielding to pedestrians and traffic, make a right turn.
 The same  rule applies to left turns from a one-way street to a one-way street.
 ONE WAY TO TWO WAY TO
 LEFT TURN RIGHT TURN
@@ -2306,13 +2306,13 @@ turning.
 Backing Up
 Before backing, check completely around your vehicle for people and/or other obstacles.  You should
 look to the front, sides and rear and continue to look to the rear while backing. Do not depend on your
-mirror. Back slowly into the proper traffi  c lane.
-It is not advisable to back up while in a traffi  c lane, except for backing into a parallel parking space.
-Never back across other traffi  c lanes or through an intersection.
+mirror. Back slowly into the proper traffic lane.
+It is not advisable to back up while in a traffic lane, except for backing into a parallel parking space.
+Never back across other traffic lanes or through an intersection.
 Parking Maneuvers
 Many crashes happen because vehicles have not been properly or carefully parked. By following
 these few simple rules, you can reduce the chances of your vehicle being hit by another vehicle:
-t?Vehicles must always be parked in the same direction as the movement of traffi  c on that side of the street.
+t?Vehicles must always be parked in the same direction as the movement of traffic on that side of the street.
 t?Avoid double parking. It is illegal and discourteous. Make certain your vehicle is completely off  the traveled
 portion of the road.
 t?Whenever you park and leave your vehicle, you must turn off  the engine and set the parking (emergency) brake.
@@ -2320,15 +2320,15 @@ Lock your vehicle and take your keys. Getting out of your vehicle on the street 
 carefully  for bicycles, motorcycles, or larger vehicles that might be passing. The drivers may not see you in time
 to keep from hitting your open door, or you.
 Prohibited Parking (§17C-13-3, W. Va. State Code)
-Stopping, standing or parking is not allowed (except to avoid a confl ict with other traffi  c or to obey
-a law, police offi  cer or a traffi  c signal) in the following locations:
+Stopping, standing or parking is not allowed (except to avoid a conflict with other traffic or to obey
+a law, police officer or a traffic signal) in the following locations:
 t On a sidewalk
 t In front of a public or private driveway
 t Within an intersection
-t Within 15 feet of a fi re hydrant
+t Within 15 feet of a fire hydrant
 t On a crosswalk
 t Within 20 feet of a crosswalk at an intersection
-t Within 30 feet of any stop sign or traffi  c control signal
+t Within 30 feet of any stop sign or traffic control signal
 t In front of a wheelchair ramp or curb cut
 t Within 50 feet of the nearest rail of a railroad crossing
 <<<PAGE 56>>>
@@ -2748,25 +2748,25 @@ the signs.  Often, an exit ramp will be next to the entrance ramp, marked with �
 and “Wrong Way” signs.  Look for any advisory speed limit signs on the ramp.  These are used
 if the ramp curves sharply.
 About halfway on the entrance ramp, start taking these steps:
-t Check interstate traffi  c.  Take quick glances over your shoulder and to the side.  Watch the vehicles
+t Check interstate traffic.  Take quick glances over your shoulder and to the side.  Watch the vehicles
 in front of you entering the acceleration lane.
 t Use your turn signal.
-t Look for a gap in the approaching traffi  c.  Adjust your speed to meet that gap.
-t As you merge, make sure you are traveling the same speed as other traffi  c.
-t Do not cut sharply to the left to enter the traffi  c stream.  Follow the lane, merge with traffi  c, and
+t Look for a gap in the approaching traffic.  Adjust your speed to meet that gap.
+t As you merge, make sure you are traveling the same speed as other traffic.
+t Do not cut sharply to the left to enter the traffic stream.  Follow the lane, merge with traffic, and
 then change lanes.
 t If another vehicle is ahead of you in the acceleration lane, be prepared to adjust your driving
 should the other vehicle slow or stop without warning.  Do not stop on the ramp or acceleration
 lane.
-t If a gap in traffi  c is not available, it may be necessary to drive onto the shoulder beyond the end
-of the acceleration lane and stop.  Because entering the traffi  c stream from a stop is hazardous,
+t If a gap in traffic is not available, it may be necessary to drive onto the shoulder beyond the end
+of the acceleration lane and stop.  Because entering the traffic stream from a stop is hazardous,
 use this maneuver as a last resort.
-t Remember that traffi  c on the interstate has the right-of-way.  You cannot always count on other
+t Remember that traffic on the interstate has the right-of-way.  You cannot always count on other
 drivers seeing you or moving over to give you room to enter.
 <<<PAGE 69>>>
 59
 Exiting an Interstate
-Watch for signs telling you where to fi nd the exit you want and the lane you must use.  Signal and
+Watch for signs telling you where to find the exit you want and the lane you must use.  Signal and
 move into the lane well before you have to exit.  Changing lanes at the last moment risks missing your
 exit or causing a crash.
 Exit Lanes
@@ -2874,7 +2874,7 @@ Arrogance and Aggressiveness
 While the impatient driver is simply in a hurry, the arrogant or aggressive driver is purposely in a
 hurry.
 As an arrogant or aggressive driver, you compete with your vehicle because it is an extension of
-your ego.  You have little or no respect for traffi  c laws or the rights of other drivers or pedestrians.  Don’t
+your ego.  You have little or no respect for traffic laws or the rights of other drivers or pedestrians.  Don’t
 allow yourself to become an arrogant driver or involve yourself in competition with an arrogant driver.
 Concentration
 Concentration is one of the most important elements of safe driving.  The driver’s seat is no place
@@ -2882,7 +2882,7 @@ for daydreaming,  mental napping, window shopping, scenic viewing, or distractin
 of concentration can result in a driver’s failure to be observant enough to avoid a crash.  Driving an
 automobile is a full-time job.
 Light Conditions
-The amount of natural or artifi cial light available at a given time aff ects your ability to see or be seen.
+The amount of natural or artificial light available at a given time aff ects your ability to see or be seen.
 You can have too much or too little light, which requires an adjustment in your driving to avoid a crash
 situation.
 For example, driving east during sunrise or west during sunset could result in a condition of too
@@ -2900,7 +2900,7 @@ Over driving your headlights means driving too fast to stop safely within the di
 headlights.
 You may also be aff ected by too much light at night when meeting an oncoming vehicle.  Looking
 directly into oncoming headlights causes momentary blindness.  When meeting an oncoming vehicle
-at night, slow down, keep to the right of your traffi  c lane, and look well in front of your vehicle at the
+at night, slow down, keep to the right of your traffic lane, and look well in front of your vehicle at the
 right edge of the road.  When meeting another vehicle at night, dim your headlight beams within 500
 feet of the other vehicle.  When following  another vehicle, dim your headlights within 200 feet of the
 other vehicle.
@@ -3018,8 +3018,8 @@ t Types of Vehicles - A defensive driver is always aware of the number of heavy 
 cause problems in passing, and slow traffic on hills and grades.
 <<<PAGE 76>>>
 66
-Traffi  c Situations
-The following traffi  c situations involve positions another vehicle can take in relation to your vehicle
+Traffic Situations
+The following traffic situations involve positions another vehicle can take in relation to your vehicle
 prior to a crash.
 1.?Vehicle Ahead: You must always be aware that the vehicle ahead of you may stop suddenly and without
 warning.  If you have not allowed enough following distance, the result may be a crash.  To avoid this
@@ -3033,7 +3033,7 @@ driver may be asleep, drunk, distracted, recovering from a drop off  the pavemen
 pass  another vehicle or avoiding a pedestrian or other obstacle.  There is also the possibility the driver may
 come into your lane while rounding a curve.
 4.?Vehicle at an Angle: This situation exists at intersections, driveways, and entrances and exits to parking
-lots.  Learn the traffi  c laws and obey signs and signals that control traffi  c in these locations.
+lots.  Learn the traffic laws and obey signs and signals that control traffic in these locations.
 5.?Vehicle Passing You: Other drivers will pass you for various reasons, but you should not view being
 passed as a challenge.  Many sideswipe and run-off -the-road crashes result from being passed.
 To avoid the possibility of a crash with a vehicle passing you, check your rear view mirror frequently, know
@@ -3326,13 +3326,13 @@ information, and circumstances of the crash.
 <<<PAGE 85>>>
 75
 The West Virginia Courtesy Patrol (WVCP), operated by IncidentClear, LLC via the West
-Virginia Division of Highways (WVDOH), provides two (2) equally important benefi ts to the state.
+Virginia Division of Highways (WVDOH), provides two (2) equally important benefits to the state.
 First, it reduces the number of individuals on welfare in the state of West Virginia. This is done
 through the employment and continuing education of former welfare recipients as Courtesy
-Patrol Operators and Dispatchers.  Second, this program benefi ts the traveling public, both using our
+Patrol Operators and Dispatchers.  Second, this program benefits the traveling public, both using our
 interstate highways and corridors for tourism and local commerce.
 The WVCP assists stranded motorists, removes hazards from the roadway thereby reducing the
-chance of secondary crashes, provides gas or directions, changes a fl at tire, and in general, works to
+chance of secondary crashes, provides gas or directions, changes a flat tire, and in general, works to
 enhance the safety of our state’s highways.  The Courtesy Patrol works alongside the State Police, 911
 Centers, and other emergency and highway personnel to ensure and enhance safety on West Virginia’s
 highways.
@@ -3342,9 +3342,9 @@ t Keep your doors locked and be aware of who pulls up
 behind you.
 t The Courtesy Patrol can be reached by dialing 1-800-964-1449.  Store this number on your cell phone in
 case of emergency.
-t The Courtesy Patrol drivers are in white pickup trucks with easily identifi able blue and gold refl ective Courtesy
-Patrol logos and a fl ashing orange bar light on top of the vehicle.
-t The drivers have identifi cation badges and wear a refl ective orange or green vest with their blue and gold
+t The Courtesy Patrol drivers are in white pickup trucks with easily identifiable blue and gold reflective Courtesy
+Patrol logos and a flashing orange bar light on top of the vehicle.
+t The drivers have identification badges and wear a reflective orange or green vest with their blue and gold
 trimmed uniform.
 t The driver will approach you on the passenger side of the vehicle if at all possible.
 WEST VIRGINIA COURTESY PATROL
@@ -3353,7 +3353,7 @@ PROJECT OVERVIEW
 <<<PAGE 87>>>
 It is a violation of West Virginia law to litter public or private roadways
 or public/private property.
-Upon conviction, an individual can be fi ned not less than $50 nor
+Upon conviction, an individual can be fined not less than $50 nor
 more than $1,000,  imprisoned in the county jail for not more than
 60 days, or sentenced to remove litter from any public or private
 roadway?for?a?total?of?not?less?than?RO?hoursM??`?driver?may?also?have?

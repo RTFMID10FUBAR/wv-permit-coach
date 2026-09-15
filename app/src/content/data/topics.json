@@ -280,6 +280,14 @@
     "examWeight": 1.5
   },
   {
+    "id": "g-accessibility",
+    "title": "Disability Parking and Drivers with Disabilities",
+    "chapter": "VI",
+    "order": 63.5,
+    "blurb": "Who may use a designated space, how a placard is obtained, and what the DMV owes a driver with a disability.",
+    "examWeight": 1.0
+  },
+  {
     "id": "vi-following-distance",
     "title": "Following Distance",
     "chapter": "VI",
@@ -432,6 +440,22 @@
     "examWeight": 2.0
   },
   {
+    "id": "g-vehicle-safety-features",
+    "title": "Head Restraints, ABS and Air Bags",
+    "chapter": "VIII",
+    "order": 85.5,
+    "blurb": "Three built-in safety systems, and the three ways drivers get them wrong.",
+    "examWeight": 1.8
+  },
+  {
+    "id": "g-personal-safety",
+    "title": "Personal Safety Around Your Vehicle",
+    "chapter": "VIII",
+    "order": 86.5,
+    "blurb": "The handbook's eight steps: locked doors, hidden valuables, well-lit places, and what to do if you are followed.",
+    "examWeight": 0.9
+  },
+  {
     "id": "vehicle-checks",
     "title": "Checking Your Vehicle",
     "chapter": "IX",
@@ -454,6 +478,22 @@
     "order": 92,
     "blurb": "What you must do, what you must report, and what you must exchange.",
     "examWeight": 1.2
+  },
+  {
+    "id": "g-courtesy-patrol",
+    "title": "The West Virginia Courtesy Patrol",
+    "chapter": "IX",
+    "order": 93,
+    "blurb": "Who comes if you break down on a West Virginia highway, what they do, and how to wait safely.",
+    "examWeight": 0.7
+  },
+  {
+    "id": "g-litter-and-waste",
+    "title": "Littering and Vehicle Waste",
+    "chapter": "IX",
+    "order": 94,
+    "blurb": "The litter law and what it costs, plus what to do with used oil, tires, antifreeze and batteries.",
+    "examWeight": 0.7
   },
   {
     "id": "m-license",

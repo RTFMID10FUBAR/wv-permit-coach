@@ -67,6 +67,44 @@ def english_score(s: str) -> int:
                if t.lower().strip("'") in WORDS)
 
 
+LIG_GAP = re.compile(r"\b([A-Za-z]*(?:ffi|fi|fl))[ ]{1,2}([a-z]+)\b")
+
+
+def close_ligature_gaps(line: str) -> str:
+    """Rejoin a word split after a ligature glyph.
+
+    The ligature glyphs report an odd advance width, so the baseline span-joining puts a
+    space inside the word: "traffi  c", "fl ashing", "refl ective". 95 occurrences. The
+    join is applied ONLY when the rejoined form is a real word, so a genuine space is
+    never swallowed, and the left side must already end in ffi/fi/fl, so ordinary words
+    ending in f ("if a", "of a") can never match.
+
+    This matters beyond tidiness: sourceQuote is shown to the learner, and a study app
+    that renders "traffi c" reads as broken.
+    """
+    def joinable(w: str) -> bool:
+        """Real word, allowing regular inflections the 1934 word list omits.
+
+        Only ever applied to a candidate whose left half already ends in ffi/fi/fl, so
+        this relaxation cannot reach ordinary text: it decides "flashers", "benefits",
+        "identifies" and nothing else."""
+        w = w.lower()
+        if w in WORDS:
+            return True
+        for cut, add in (("s", ""), ("es", ""), ("ed", ""), ("ers", ""), ("er", ""),
+                         ("ies", "y"), ("ied", "y"), ("ing", "")):
+            if w.endswith(cut) and len(w) - len(cut) >= 3:
+                if (w[: -len(cut)] + add) in WORDS:
+                    return True
+        return False
+
+    def repl(m):
+        joined = m.group(1) + m.group(2)
+        return joined if joinable(joined) else m.group(0)
+
+    return LIG_GAP.sub(repl, line)
+
+
 def main():
     doc = fitz.open(SRC)
     pages, n_ctrl, n_dict, n_left = {}, 0, 0, 0
@@ -118,7 +156,7 @@ def main():
                 buf += t
                 prev_x1 = x1
             if buf.strip():
-                out.append(buf.rstrip())
+                out.append(close_ligature_gaps(buf.rstrip()))
         pages[pno] = out
 
     body = []

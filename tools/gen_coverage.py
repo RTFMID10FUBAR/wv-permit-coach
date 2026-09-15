@@ -43,16 +43,22 @@ def main() -> int:
     questions = load("questions")
     signs = load("signs")
 
+    # Course matters here: motorcycle-manual page numbers overlap the car handbook's
+    # (both are PDF pages), so counting them together reported "11 of 5 pages cited".
+    course_of = {t["id"]: t.get("course", "car") for t in topics}
+    car_questions = [q for q in questions if course_of.get(q["topicId"], "car") == "car"]
+    moto_questions = [q for q in questions if course_of.get(q["topicId"], "car") == "motorcycle"]
+
     by_topic = {t["id"]: t for t in topics}
     q_by_topic = Counter(q["topicId"] for q in questions)
     c_by_topic = Counter(c["topicId"] for c in concepts)
     l_by_topic = Counter(l["topicId"] for l in lessons)
     q_by_chapter: Counter = Counter()
     pages_by_chapter = defaultdict(set)
-    for q in questions:
+    for q in car_questions:
         src = q.get("source", {})
         q_by_chapter[src.get("chapter")] += 1
-        pages_by_chapter[src.get("chapter")].add(src.get("printedPage"))
+        pages_by_chapter[src.get("chapter")].add(src.get("pdfPage"))
     for s in signs:
         src = s.get("source", {})
         pages_by_chapter[src.get("chapter")].add(src.get("printedPage"))
@@ -67,13 +73,21 @@ def main() -> int:
              "do not edit by hand.\n")
     L.append(f"**{len(questions)} questions** · {len(concepts)} concepts · "
              f"{len(lessons)} lessons · {len(topics)} topics · {len(signs)} signs\n")
+    L.append(f"By course: **{len(car_questions)} car** (Class E) · "
+             f"**{len(moto_questions)} motorcycle** (F endorsement). "
+             f"{sum(1 for q in questions if q.get('imageKey'))} questions show a figure "
+             f"from the handbook.\n")
+    L.append("\nThe chapter table below covers the **car** handbook only; the motorcycle "
+             "manual has its own page numbering and is summarised separately.\n")
 
     L.append("\n## By handbook chapter\n")
     L.append("| Chapter | Title | Printed pages | Questions | Pages cited | Status |")
     L.append("|---|---|---|---|---|---|")
     for num, title, a, b in CHAPTERS:
         n = q_by_chapter.get(num, 0)
-        cited = sorted(p for p in pages_by_chapter.get(num, set()) if p is not None)
+        # Count only pages that actually fall inside this chapter's PDF range.
+        cited = sorted(p for p in pages_by_chapter.get(num, set())
+                       if p is not None and a <= p <= b)
         span = f"{a-10}–{b-10}"
         if n == 0:
             status = "**NOT COVERED**"
